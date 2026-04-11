@@ -22,4 +22,6 @@ nav:
   - Cronograma Planejado: cronograma.md
   - Ferramentas: ferramentas.md
   - Processo de Design: processoDesign.md
-  - Atas de reunião: atas.md
+  - Atas de reunião: 
+      - Reunião 1: reuniao1.md
+      - Reunião 2: reuniao2.md

@@ -56,6 +56,6 @@ Nesta documentação, estão reunidos os artefatos desenvolvidos ao longo da dis
   
 | Data | Versão | Descrição | Autores | Data Revisão | Revisores | 
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|11/04/2026| 1.0 | Criação da Git Page | Hugo | - | - |
+|11/04/2026| 1.0 | Criação da Git Page | Hugo | 11/02/2026 | Philipe |
 
 </div>
