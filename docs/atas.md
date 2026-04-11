@@ -11,11 +11,15 @@
 | Data | 07/04/2026 |
 | Local | Plataforma Teams |
 | Redator |Maria Laura Regis |
+
 ### Horários
+
 - **Início (Previsto):** 19:00
 - **Início (Realizado):** 19:20
 - **Término (Realizado):** 19:50
+
 ---
+
 ## 2. Participantes
 | Nº | Convocados | Presença (Presente/Ausente) | Área / Empresa |
 |----|------------|-----------------------------|----------------|
@@ -25,22 +29,30 @@
 | 4 | Hugo | Presente | UNB - Engenharia de Software |
 | 5 | Ingrid | Presente | UNB - Engenharia de Software |
 | 6 | Thaiza | Ausente | UNB - Engenharia de Software |
+
 ---
+
 ## 3. Pauta
 | Nº | Descrição |
 |----|------------|
 | 1 | Organização da apresentação |
 | 2 | Delegação de tarefas |
+
 ---
+
 ## 4. Pendências Anteriores
 Nenhuma pendência registrada.
+
 ---
+
 ## 5. Assuntos Tratados
 | Nº | Descrição | Tipo¹ |
 |----|------------|--------|
 | 1 | Definição da estrutura da apresentação do projeto | Definição |
 | 2 | Distribuição inicial das tarefas entre os membros | Definição |
+
 ### Detalhamento da Distribuição de Tarefas
+
 **Planejamento do Projeto**
 - Apresentação da equipe → **Philipe**
 - Heatmap de disponibilidade → **Vitor**
@@ -56,17 +68,23 @@ Nenhuma pendência registrada.
 - Referências
 - Vídeo de apresentação
 - Publicação das atas → **Maria**
+
 ---
+
 ## 6. Compromissos
 | Nº | Compromisso | Responsável | Data |
 |----|--------------|-------------|------|
 | 1 | Desenvolver as tarefas atribuídas individualmente | Equipe | Até sábado |
 | 2 | Revisar coletivamente o material produzido | Equipe | Sábado |
 | 3 | Gravar a apresentação do projeto | Equipe | Sábado |
+
 ---
+
 ## 7. Próxima Reunião
 - **Data/Previsão:** 09/04/2026
+
 ---
+
 # Reunião 02
 ## 1. Identificação
 | Campo | Informação |
@@ -75,10 +93,14 @@ Nenhuma pendência registrada.
 | Data | 09/04/2026 |
 | Local | Sala de aula |
 | Redator | |
+
 ### Horários
+
 - **Início (Realizado):** 09:00
 - **Término (Realizado):** 10:00
+
 ---
+
 ## 2. Participantes
 | Nº | Convocados | Presença (Presente/Ausente) | Área / Empresa |
 |----|------------|-----------------------------|----------------|
@@ -88,7 +110,9 @@ Nenhuma pendência registrada.
 | 4 | Hugo | Presente | UNB - Engenharia de Software |
 | 5 | Ingrid | Presente | UNB - Engenharia de Software |
 | 6 | Thaiza | Presente | UNB - Engenharia de Software |
+
 ---
+
 ## 3. Pauta
 | Nº | Descrição |
 |----|------------|
@@ -96,12 +120,16 @@ Nenhuma pendência registrada.
 | 2 | Esclarecimento de dúvidas com o professor |
 | 3 | Discussão dos sites analisados |
 | 4 | Alinhamento com o plano de ensino |
+
 ---
+
 ## 4. Pendências Anteriores
 | Nº | Pendência | Responsável | Data |
 |----|-----------|-------------|------|
 | 1 | Execução das tarefas distribuídas | Equipe | Em andamento |
+
 ---
+
 ## 5. Assuntos Tratados
 | Nº | Descrição | Tipo¹ |
 |----|------------|--------|
@@ -110,14 +138,18 @@ Nenhuma pendência registrada.
 | 3 | Dúvidas esclarecidas com o professor | Apresentação |
 | 4 | Discussão sobre os sites selecionados e critérios de escolha | Solicitação |
 | 5 | Aprofundamento das atividades com base no plano de ensino | Definição |
+
 ### Detalhamento
+
 - As tarefas previamente distribuídas foram **mantidas**, sem troca de responsáveis.
 - Houve **maior detalhamento do que cada integrante deve entregar**, alinhado ao plano de
 ensino.
 - Foram discutidas **possibilidades de sites**, considerando critérios de escolha para a
 apresentação.
 - As dúvidas do grupo foram esclarecidas diretamente com o professor.
+
 ---
+
 ## 6. Compromissos
 | Nº | Compromisso | Responsável | Data |
 |----|--------------|-------------|------|
@@ -125,10 +157,14 @@ apresentação.
 | 2 | Revisar o conteúdo completo em grupo | Equipe | 11/04 |
 | 3 | Realizar a gravação da apresentação | Equipe | 11/04 |
 | 4 | Garantir alinhamento com o plano de ensino | Equipe | 14/05/2026 |
+
 ---
+
 ## 7. Próxima Reunião
 - **Data/Previsão:** 12/04/2026
+
 ---
+
 # Planejamento - Primeira Apresentação (14/05/2026)
 ## Planejamento do Projeto
 - **Apresentação da Equipe:** Hugo
@@ -136,11 +172,15 @@ apresentação.
 - **Lista de sites avaliados:** Vitor, Thaiza
 - **Site selecionado com explicação:** A definir
 - **Ferramentas:** Philipe
+
 ---
+
 ## Processo de Design
 - **Processo de design selecionado:** Maria
 - **Cronograma detalhado:** Hugo
+
 ---
+
 ## GitPages (Responsável: Ingrid)
 - Publicação de todo o conteúdo no Git Pages
 - Controle de versões
