@@ -52,6 +52,10 @@ Nesta documentação, estão reunidos os artefatos desenvolvidos ao longo da dis
 
 ## Histórioco de versões
 
+<div align="center">
+  
 | Data | Versão | Descrição | Autores | Data Revisão | Revisores | 
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |11/04/2026| 1.0 | Criação da Git Page | Hugo | - | - |
+
+</div>
