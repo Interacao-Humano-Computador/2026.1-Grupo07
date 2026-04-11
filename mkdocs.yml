@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: CIEE
+theme:
+  name: material
+  palette:
+    primary: black
+    accent: blue
