@@ -1,9 +1,10 @@
 # Sobre o projeto
 
 ## Introdução
-O Centro de Integração Empresa-Escola (CIEE) é uma instituição de grande relevância nacional, responsável por promover a integração entre estudantes e o mercado de trabalho por meio de programas de estágio, aprendizagem e capacitação profissional. Seu portal e aplicativo disponibilizam informações, serviços e oportunidades voltadas a jovens que buscam inserção e desenvolvimento no ambiente profissional, além de oferecer suporte a empresas na formação de novos talentos.
+Escolhemos o portal do DETRAN-PA por ser um sistema de alta relevância social que lida com processos críticos e um público extremamente heterogêneo. A complexidade de sua arquitetura de informação e a coexistência de múltiplos sub-sistemas (ChatBot, Agendamentos, Infrações, Estatísticas, Ouvidoria e etc… ) oferecem o cenário ideal para aplicar análises detalhadas e propor melhorias que garantam que a tecnologia seja uma facilitadora, e não uma barreira, para o cidadão.
+Contudo o grupo selecionou esse site para avaliar a necessidade de ajustes e a implementação de novas funcionalidades, visando uma análise detalhada de melhorias estruturais. O objetivo é aplicar os métodos ministrados em sala, evidenciando sua importância para que o usuário final disponha de um sistema que assegure qualidade, acessibilidade, usabilidade e segurança.
 
-Nesta documentação, estão reunidos os artefatos desenvolvidos ao longo da disciplina de Interação Humano-Computador da Universidade de Brasília (UnB). O objetivo principal deste projeto é investigar a experiência dos usuários com a plataforma do CIEE, identificando dificuldades, necessidades e oportunidades de melhoria. A partir dessas análises, busca-se propor soluções que aprimorem a usabilidade, acessibilidade e eficiência do sistema, contribuindo para uma interação mais intuitiva e satisfatória para seus usuários.
+Nesta documentação, estão reunidos os artefatos desenvolvidos ao longo da disciplina de Interação Humano-Computador da Universidade de Brasília (UnB). O objetivo principal deste projeto é investigar a experiência dos usuários no Detran PA identificando dificuldades, necessidades e oportunidades de melhoria. A partir dessas análises, busca-se propor soluções que aprimorem a usabilidade, acessibilidade e eficiência do sistema, contribuindo para uma interação mais intuitiva e satisfatória para seus usuários.
 
 ## Nossa Equipe
 
@@ -56,6 +57,6 @@ Nesta documentação, estão reunidos os artefatos desenvolvidos ao longo da dis
   
 | Data | Versão | Descrição | Autores | Data Revisão | Revisores | 
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|11/04/2026| 1.0 | Criação da Git Page | Hugo | 11/02/2026 | Philipe |
+|12/04/2026| 1.0 | Criação da Git Page | Hugo | 11/02/2026 | Philipe |
 
 </div>
