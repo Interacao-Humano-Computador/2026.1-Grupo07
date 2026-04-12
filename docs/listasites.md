@@ -1,19 +1,5 @@
 # Relatório de Avaliação de Sites  
 
-## Garantia de Qualidade
-
----
-
-## Grupo 7
-
-- Thaiza Romualdo da Silva  
-- Vitor Evangelista da Silva Alves  
-- Maria Laura Regis Cabral  
-- Philipe Amâncio Reis Caetano  
-- Ingrid Alves Rocha  
-- Hugo Freitas Silva  
-
----
 
 ## Lista de Sites Avaliados
 
@@ -102,7 +88,4 @@ A funcionalidade Licitação, quando clicada, apresenta frequentemente erro info
 
 ## Referências Usadas e IA Generativas
 
-- Planejamento da Avaliação de IHC (Cap. 11)  
-- Google Gemini  
-- As 10 Heurísticas de Usabilidade  
-- Ciclo de Vida de Mayhew  
+BARBOSA, S. D. J. et al. **Interação Humano-Computador e Experiência do Usuário**. 1. ed. Rio de Janeiro: Autopublicação, 2021.Cap 12. p. 282.

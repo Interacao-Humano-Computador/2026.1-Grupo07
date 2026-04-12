@@ -49,4 +49,3 @@ Os seguintes recursos foram escolhidos para auxiliar na realização e padroniza
 | Imagem | Nome | Finalidade |
 | :---: | :---: | --- |
 | ![alt text](image-10.png) | Youtube | Plataforma de vídeo em que ficará disponível a apresentação dos artefatos produzidos em cada fase.|
-

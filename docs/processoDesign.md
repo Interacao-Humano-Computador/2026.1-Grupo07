@@ -1,10 +1,13 @@
 # Processo de Design
 
-De acordo com o livro Interação Humano-Computador e Experiência de Usuário, de Simone D. J. Barbosa, o design de Interação Humano-Computador (IHC) não é uma tarefa linear e única, mas sim um processo iterativo composto por três atividades fundamentais:
+De acordo com o livro Interação Humano-Computador e Experiência de Usuário, de Simone D. J. Barbosa, o design de Interação Humano-Computador (IHC) não é uma tarefa linear e única, mas sim um processo iterativo composto por três atividades fundamentais, como mostra a Figura 1:
 
 - *Análise:* Identificação do problema e compreensão da situação atual.  
 - *Síntese:* Criação de uma intervenção (solução/design).  
 - *Avaliação:* Teste da intervenção projetada para verificar se ela resolve o problema.
+
+
+<div align="center">Figura 1 - Processos de design</div>
 
 ![alt text](image-15.jpg)
 > *Fonte:* Barbosa et al. (2021, p. 107)
@@ -18,6 +21,8 @@ O processo deve permitir "refinamentos sucessivos". Isso significa que, ao avali
 ---
 
 # O Processo de Design de Mayhew
+
+<div align="center">Figura 2 - Processo de design de Mayhew</div>
 
 ![alt text](image-14.jpg)
 

@@ -19,7 +19,3 @@
 
 
 ## Apresentação da entrega 1: 12/04/2026
-
-| Atividade | Descrição | Período para o desenvolvimento da atividade | Responsáveis | Período da Revisão | Revisores |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| Replanejamento | Replanejar o projeto, com base nos feedbacks recebidos do professor, monitores e colegas de turma | 13/04/2026 - | Todos | - | Hugo, Maria Laura e Philipe |

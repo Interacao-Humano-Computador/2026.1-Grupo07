@@ -58,4 +58,5 @@ Portanto o grupo selecionou esse site para avaliar a necessidade de ajustes e a 
 
 | Data | Versão | Descrição | Autores | Data Revisão | Revisores | 
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|11/04/2026| 1.0 | Criação da Git Page | Hugo | - | - |
+|11/04/2026| 1.0 | Criação da Git Page | Hugo | 12/04/2026 | Todos |
+|12/04/2026| 1.1 | Atualização de informações | Todos | 12/04/2026 | Todos |

@@ -2,68 +2,46 @@
 
 ## Planejamento Geral do Projeto
 
-- [ ] Página apresentando os integrantes (com foto, nome e sem matrícula)
-- [ ] Cronograma com todas as atividades de todas as etapas, incluindo:
-  - [ ] Datas de início e fim
-  - [ ] Período de revisão
-- [ ] Cronograma com período de gravação da apresentação em cada etapa
-- [ ] Previsão de período de revisão/ajustes conforme feedback de monitores/professor
-- [ ] Motivação e critérios para escolha do site
-- [ ] Planejamento e avaliação dos sites selecionados
-- [ ] Opção de contraste de cores no site
-- [ ] Artefatos completos:
-  - [ ] Planejamento do Projeto
-  - [ ] Equipe
-  - [ ] Lista de sites avaliados
-  - [ ] Site selecionado
-  - [ ] Ferramentas do projeto
-  - [ ] Processo de Design
-  - [ ] Cronograma das atividades
-- [ ] Página com atas de reunião + acesso à gravação (quando houver)
+- [sim] Página apresentando os integrantes (com foto, nome e sem matrícula)
+- [sim] Cronograma com todas as atividades de todas as etapas, incluindo:
+- [sim] Datas de início e fim
+- [sim] Período de revisão
+- [sim] Cronograma com período de gravação da apresentação em cada etapa
+- [sim] Previsão de período de revisão/ajustes conforme feedback de monitores/professor
+- [sim] Motivação e critérios para escolha do site
+- [sim] Planejamento e avaliação dos sites selecionados
+- [sim] Opção de contraste de cores no site
+- [sim] Planejamento do Projeto
+- [sim] Equipe
+- [sim] Lista de sites avaliados
+- [sim] Site selecionado
+- [sim] Ferramentas do projeto
+- [sim] Processo de Design
+- [sim] Cronograma das atividades
+- [sim] Página com atas de reunião + acesso à gravação (quando houver)
 
 ---
 
 ## Desenvolvimento do Projeto
 
-- [ ] Histórico de versão padronizado
-- [ ] Identificação de autores e revisores em cada artefato
-- [ ] Referências bibliográficas em todos os artefatos
-- [ ] Tabelas e imagens com:
-  - [ ] Legenda
-  - [ ] Fonte
-  - [ ] Citação no texto
-- [ ] Texto introdutório dos artefatos
-- [ ] Cronograma executado contendo:
-  - [ ] Responsável por cada atividade
-  - [ ] Datas de início e fim
-- [ ] Atas das reuniões contendo:
-  - [ ] Data
-  - [ ] Horário de início e fim
-  - [ ] Participantes
-  - [ ] Objetivo
-  - [ ] Atividades definidas
-
----
-
-## Entregas Complementares
-
-- [ ] Gravação das reuniões do grupo
-- [ ] Vídeo de apresentação como "não listado" no YouTube
-- [ ] Tabela de contribuição no início do artefato contendo:
-  - [ ] Nome de todos os integrantes
-  - [ ] Hiperlink para atividades realizadas
-  - [ ] Hiperlink para gravação (se houver)
-- [ ] Seção de agradecimentos mencionando uso de IA Generativa (se aplicável)
+- [sim] Histórico de versão padronizado
+- [sim] Identificação de autores e revisores em cada artefato
+- [sim] Referências bibliográficas em todos os artefatos
+- [sim] Tabelas e imagens com:
+  - [sim] Legenda
+  - [sim] Fonte
+  - [sim] Citação no texto
+- [incompleto] Texto introdutório dos artefatos
 
 ---
 
 ## Conteúdo da Disciplina
 
-- [ ] Justificativa da escolha do Processo de Design
-  - [ ] Referência bibliográfica
-  - [ ] Foto do trecho da referência
-  - [ ] Autores identificados
-- [ ] Itens de conteúdo elaborados por todos os integrantes:
-  - [ ] Referência bibliográfica
-  - [ ] Foto do texto da referência
-  - [ ] Nome do(s) autor(es) do item
+- [sim] Justificativa da escolha do Processo de Design
+  - [sim] Referência bibliográfica
+  - [sim] Foto do trecho da referência
+  - [sim] Autores identificados
+- [sim] Itens de conteúdo elaborados por todos os integrantes:
+  - [sim] Referência bibliográfica
+  - [sim] Foto do texto da referência
+  - [sim] Nome do(s) autor(es) do item
