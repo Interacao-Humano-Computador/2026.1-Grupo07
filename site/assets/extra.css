@@ -1,0 +1,12 @@
+.banner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 4rem 1rem 3rem;
+  background: linear-gradient(135deg, #3949ab 0%, #5c35a0 100%);
+  border-radius: 8px;
+  margin-bottom: 2.5rem;
+  color: #fff;
+}

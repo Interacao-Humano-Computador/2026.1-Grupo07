@@ -1,14 +1,20 @@
-site_name: IHC Grupo 7 - CIEE
+site_name: IHC Grupo 7 - Detran-PA
 theme:
   name: material
+  language: pt-BR
+  font:
+    text: Inter
+    code: JetBrains Mono
   palette:
     - scheme: default
-      primary: black
+      primary: indigo
+      accent: deep purple
       toggle:
         icon: material/weather-night
         name: Modo escuro
     - scheme: slate
-      primary: black
+      primary: indigo
+      accent: deep purple
       toggle:
         icon: material/weather-sunny
         name: Modo claro
@@ -17,11 +23,68 @@ theme:
     - navigation.top
     - search.highlight
     - content.code.copy
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - toc.follow
+    - search.suggest
+    - search.share
+    - content.code.annotate
+    - header.autohide
 nav:
   - Home: index.md
-  - Cronograma Planejado: cronograma.md
+  - Cronograma:
+      - Heatmap: heatmap.md
+      - Cronograma Planejado: cronograma.md
+      - Cronograma Executado: cronogramaexec.md
+  - Sites avaliados: listasites.md
   - Ferramentas: ferramentas.md
   - Processo de Design: processoDesign.md
   - Atas de reunião: 
       - Reunião 1: reuniao1.md
       - Reunião 2: reuniao2.md
+      - Reunião 3: reuniao3.md
+  - Verificações: verificacoes.md
+  - Referências: referencias.md
+
+plugins:
+  - search:
+      lang: pt
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - toc:
+      permalink: true
+      title: Nesta página
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/
+  generator: false
+  status:
+    new: Novo
+    deprecated: Obsoleto
+extra_css:
+  - assets/extra.css

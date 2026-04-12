@@ -1,89 +1,72 @@
 # Processo de Design
 
-O desenvolvimento do projeto está fundamentado nas três fases essenciais do design: Análise, Síntese e Avaliação. Para estruturar essas atividades de forma iterativa, adotou-se o Ciclo de Vida de Engenharia de Usabilidade de Mayhew, que organiza o processo em três etapas principais: Análise de Requisitos, Design/Avaliação/Desenvolvimento e Instalação [1].
+De acordo com o livro Interação Humano-Computador e Experiência de Usuário, de Simone D. J. Barbosa, o design de Interação Humano-Computador (IHC) não é uma tarefa linear e única, mas sim um processo iterativo composto por três atividades fundamentais:
 
-> <u>Análise de requisitos</u>: são definidas as metas de usabilidade com base no perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma em que o sistema será executado e princípios gerais de design de IHC. Nesse processo, as metas de usabilidade costumam ser representadas em “guias de estilos” para auxiliar sua verificação durante as demais atividades do processo (Barbosa; et al., 2021, p. 105).
+- *Análise:* Identificação do problema e compreensão da situação atual.  
+- *Síntese:* Criação de uma intervenção (solução/design).  
+- *Avaliação:* Teste da intervenção projetada para verificar se ela resolve o problema.
 
----
-
-Abaixo, a equipe documentará os requisitos levantados para o sistema, definindo o perfil de uso e as metas que guiarão o reprojeto, conforme as exigências da literatura citada acima:
-
-## Planejamento da Análise de Requisitos
-#### 1. Perfil dos Usuários
-*Quem é o público-alvo que vai utilizar o sistema? (Idade, nível de experiência com tecnologia, escolaridade, contexto de uso)*
-> **Definição da Equipe:** [Escreva aqui o perfil detalhado dos usuários...]
-
-#### 2. Análise de Tarefas
-*Quais são as principais ações que o usuário precisa realizar na interface? (Ex: Fazer login, agendar uma doação, cancelar um serviço)*
-> **Tarefas Principais:**
-> - [ ] Tarefa 1: [Descreva a tarefa]
-> - [ ] Tarefa 2: [Descreva a tarefa]
-> - [ ] Tarefa 3: [Descreva a tarefa]
-
-#### 3. Possibilidades e Limitações da Plataforma
-*Onde o sistema vai rodar? É um site responsivo? Um app? Quais as limitações técnicas? (Ex: Precisa rodar em computadores antigos do governo? O usuário acessará pelo 3G/4G?)*
-> **Plataforma:** [Defina se é Web, Desktop ou Mobile]
-> **Limitações:** [Escreva os gargalos de hardware, internet ou acessibilidade...]
-
-#### 4. Metas de Usabilidade
-*O que queremos alcançar com o reprojeto? (Ex: Reduzir o tempo de agendamento pela metade; Diminuir a taxa de erro ao preencher o formulário)*
-> **Metas Definidas:**
-> - [Meta 1]
-> - [Meta 2]
+![alt text](image-15.jpg)
+> *Fonte:* Barbosa et al. (2021, p. 107)
 
 ---
 
-> A fase de design, avaliação e desenvolvimento tem por objetivo conceber uma solução de IHC que atenda às metas de usabilidade estabelecidas na fase anterior. Esse processo propõe projetar a solução de IHC em três níveis de detalhes:
-> 
-> - No primeiro nível, o designer precisa realizar a reengenharia do trabalho, repensando a execução das tarefas para alcançar os objetivos dos usuários, elaborar alternativas de solução do modelo conceitual, elaborar protótipos de baixa fidelidade e avaliar tais protótipos. 
-> - No segundo nível, o designer deve estabelecer padrões de design de IHC para a solução sendo concebida, construir protótipos de média fidelidade de acordo com esses padrões e avaliá-los. 
-> - No terceiro nível, o designer realiza o projeto detalhado da interface, com alta fidelidade, para ser implementado. Durante o desenvolvimento do sistema, a interface deve ser avaliada com a participação dos usuários (Barbosa; et al., 2021, p. 105-107).
+## Por que a Iteração é Importante?
+
+O processo deve permitir "refinamentos sucessivos". Isso significa que, ao avaliar uma solução e encontrar falhas, o designer retorna à fase de análise ou síntese. Esse ciclo permite que a equipe aprenda mais sobre o problema à medida que desenvolve a solução.
 
 ---
 
+# O Processo de Design de Mayhew
 
-Abaixo, a equipe deve documentar os artefatos gerados em cada um dos três níveis de detalhamento do reprojeto, conforme proposto pelo Ciclo de Mayhew:
+![alt text](image-14.jpg)
 
+> *Fonte:* Barbosa et al. (2021, p. 120)
 
-## Planejamento do Design, Avaliação e Desenvolvimento
+O Ciclo de Vida de Mayhew (Figura 6.7) é uma escolha robusta para projetos que exigem alto rigor técnico e foco na experiência do usuário. Ele se divide em três fases principais:
 
-Abaixo, a equipe deve documentar os artefatos gerados em cada um dos três níveis de detalhamento do reprojeto, conforme proposto pelo Ciclo de Mayhew:
+## 1. Análise de Requisitos
 
-Abaixo, a equipe documentará os artefatos gerados no reprojeto, estruturados em três níveis de detalhamento, conforme proposto por Mayhew.
+Diferente de processos simplistas, Mayhew começa com uma base sólida. Ela exige:
 
-#### Nível 1: Modelo Conceitual e Baixa Fidelidade
-Nesta etapa inicial, o foco é repensar a lógica das tarefas, propor alternativas conceituais e validar essas ideias através de esboços simples.
+- Definir o perfil do usuário  
+- Realizar análise de tarefas  
+- Estabelecer metas de usabilidade quantificáveis  
 
-- [ ] **Reengenharia do Trabalho:** [Descreva brevemente como o fluxo atual do usuário foi repensado para ser mais eficiente]
-- [ ] **Alternativas de Solução:** [Descreva qual lógica/modelo conceitual a equipe escolheu seguir e por quê]
-- [ ] **Protótipos de Baixa Fidelidade:** [Insira os links para os rabiscos no papel ou wireframes simples]
-- [ ] **Resultados da Avaliação:** [Anote os feedbacks rápidos e os ajustes feitos na lógica antes de ir para o computador]
+Tudo isso antes de desenhar qualquer tela.
 
-#### Nível 2: Padrões de Design e Média Fidelidade
-Nesta etapa intermediária, o foco é definir as regras visuais e de interação do sistema, aplicando-as na construção das primeiras telas estruturadas (protótipos) para uma nova rodada de testes e ajustes.
+## 2. Design, Avaliação e Desenvolvimento
 
-- [ ] **Padrões de Design (Guia de Estilos):** [Descreva ou insira o link documentando os padrões escolhidos para botões, tipografia, paleta de cores e comportamento de navegação]
-- [ ] **Protótipos de Média Fidelidade:** [Insira os links para as telas desenhadas (ex: no Figma, Penpot ou similar), já aplicando os padrões definidos no item anterior]
-- [ ] **Resultados da Avaliação:** [Anote os problemas de usabilidade detectados nesta versão estrutural pela equipe e as correções realizadas antes de avançar para a alta fidelidade]
+A grande força deste modelo é a organização em níveis de complexidade crescente:
 
-#### Nível 3: Alta Fidelidade e Avaliação com Usuários
-Nesta etapa final de design, o objetivo é criar a versão detalhada e interativa da interface (exatamente como será implementada) e validá-la diretamente com o público-alvo real.
+- *Nível 1 (Conceitual):* Foca no modelo mental e na estrutura, não na estética.  
+- *Nível 2 (Padrões de Tela):* Estabelece a consistência visual através de guias de estilo.  
+- *Nível 3 (Design Detalhado):* A interface final é produzida e testada exaustivamente.  
 
-- [ ] **Protótipo de Alta Fidelidade:** [Insira o link do protótipo final navegável, com todos os padrões visuais, imagens e interações reais aplicados]
-- [ ] **Testes de Usabilidade:** [Descreva como foram os testes com os usuários reais ou insira o link para as gravações/anotações de como eles interagiram com o sistema]
-- [ ] **Parecer Final da Avaliação:** [Anote se os usuários conseguiram cumprir as tarefas com sucesso e confirme se o design está aprovado para ser enviado à equipe de desenvolvimento]
+## 3. Instalação e Feedback
+
+O processo não termina na entrega. Existe uma etapa de opinião do usuário após a instalação para garantir melhorias contínuas.
 
 ---
 
-> Na fase de instalação, o designer deve coletar opiniões dos usuários depois de algum tempo de uso. Essas opiniões serão úteis para melhorar o sistema em versões futuras ou até mesmo para apontar a necessidade de desenvolver novos sistemas interativos ainda não previstos (Barbosa; et al., 2021, p. 107).
+## Por que escolhemos o Ciclo de Vida de Mayhew?
 
-Abaixo, a equipe deve estruturar o plano de acompanhamento pós-lançamento, detalhando como as opiniões dos usuários serão coletadas e transformadas em melhorias futuras:
-### Fase de Instalação
+- *Redução de Riscos:*  
+  Por ser dividido em três níveis, o erro é detectado cedo. Se o modelo conceitual (Nível 1) falhar na avaliação, você corrige antes de gastar tempo com o design detalhado (Nível 3).
 
-Nesta última fase, após o sistema ser implementado e disponibilizado, o foco muda para o monitoramento contínuo. O objetivo é coletar o feedback do uso real no dia a dia para orientar manutenções, futuras atualizações ou até mesmo novos projetos.
+- *Foco em Metas:*  
+  O modelo de Mayhew é orientado por resultados. Em cada etapa, há uma pergunta decisiva. Se a resposta for "não", o fluxo obriga o retorno para o refinamento.
 
-- [ ] **Plano de Coleta de Opiniões:** [Descreva como e quando a equipe coletará o feedback dos usuários após o lançamento (ex: formulário de satisfação enviado por e-mail, entrevistas após 30 dias de uso, ou análise de chamados no suporte)]
-- [ ] **Relatório de Melhorias (Versões Futuras):** [Documente as principais sugestões ou reclamações apontadas pelos usuários reais que deverão ser corrigidas na próxima atualização do sistema]
-- [ ] **Novas Oportunidades:** [Registre se os usuários relataram necessidades extras que o sistema atual não cobre, gerando ideias para o desenvolvimento de novos módulos ou sistemas interativos no futuro]
+- *Rastreabilidade:*  
+  Ele oferece um guia claro de quais artefatos são produzidos em cada fase (como o guia de estilo e os protótipos), garantindo que a equipe de desenvolvimento saiba exatamente o que implementar.
+
+- *Alinhamento com a Teoria de IHC:*  
+  Ele executa perfeitamente a natureza iterativa mencionada anteriormente, permitindo que o designer aprenda com cada ciclo de avaliação.
 
 ---
+
+# Referência
+
+Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021).  
+Interação Humano-Computador e Experiência do Usuário.  
+Autopublicação. ISBN: 978-65-00-19677-1.

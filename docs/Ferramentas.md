@@ -9,12 +9,20 @@ Os seguintes recursos foram escolhidos para auxiliar na realização e padroniza
 | ![alt text](image-3.png) | Discord | Plataforma principal para chamadas de voz e vídeo para alinhamento da equipe. |
 | ![alt text](image-9.png) | Teams   | Plataforma secundária para chamadas de voz e vídeo para alinhamento da equipe.|
 | ![alt text](image-5.png) | OBS Studio | Utilizado para a gravação de tela durante as reuniões de inspeção e alinhamento. |
+| ![alt text](image-12.png) | When2Meet | Utilizado para mapear os horários de disponibilidade dos integrantes do grupo |
 
 ### Comunicação
 
 | Logo | Nome | Finalidade |
 | :---: | :---: | --- |
 | ![alt text](image-2.png) | WhatsApp | Aplicativo utilizado para troca de mensagens rápidas e avisos urgentes. |
+
+### Inteligência Artificial Generativa
+| Logo | Nome | Finalidade |
+| :---: | :---: | --- |
+| ![alt text](image-16.webp) | ChatGPT | Aplicativo usado para resumos e melhoria de texto. |
+| ![alt text](image-17.png) | Gemini |  Aplicativo usado para resumos e melhoria de texto. |
+
 
 ### Documentação
 
@@ -34,7 +42,7 @@ Os seguintes recursos foram escolhidos para auxiliar na realização e padroniza
 
 | Imagem | Nome | Finalidade |
 | :---: | :---: | --- |
-| ![alt text](image-8.png) | Manual ABNT (PUC Minas) | Consulta técnica para a padronização estética do documento, estruturação dos tópicos e formatação correta das referências bibliográficas. |
+| ![alt text](image-13.webp) | Manual ABNT (PUC Minas) | Consulta técnica para a padronização estética do documento, estruturação dos tópicos e formatação correta das referências bibliográficas. |
 
 ### Publicação da apresentação
 
@@ -42,14 +50,3 @@ Os seguintes recursos foram escolhidos para auxiliar na realização e padroniza
 | :---: | :---: | --- |
 | ![alt text](image-10.png) | Youtube | Plataforma de vídeo em que ficará disponível a apresentação dos artefatos produzidos em cada fase.|
 
----
-
-## Referências
-
-[1] BARBOSA, S. D. J. et al. **Interação Humano-Computador e Experiência do Usuário**. 1. ed. Rio de Janeiro: Autopublicação, 2021.
-
-[2] BRASIL. Ministério da Ciência, Tecnologia e Inovações. Modelo de Ata de Reunião. Brasília: MCTI, [202-?]. 1 arquivo PDF. Disponível em: <URL>. Acesso em: 10 abr. 2026
-
-[3] MACIEL, C. et al. **Avaliação heurística de sítios na web**. Niterói: Instituto de Computação - Universidade Federal Fluminense (UFF), [2004?].
-
-[4] PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS. Sistema Integrado de Bibliotecas. **Orientações para elaboração de projetos de pesquisa, trabalhos acadêmicos, relatórios técnicos e/ou científicos e artigos científicos**: conforme a Associação Brasileira de Normas Técnicas (ABNT). Belo Horizonte: PUC Minas, 2025.
