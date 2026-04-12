@@ -27,7 +27,8 @@ Identificação das necessidades, limitações e expectativas do público hetero
 
 ### Características da Plataforma
 - Para que serve?  
-- Princípio geral  
+
+### Princípio geral  
 - Entrega o que é proposto à entregar?  
 
 ### Usabilidade
@@ -35,10 +36,8 @@ Identificação das necessidades, limitações e expectativas do público hetero
 ### Acessibilidade
 
 ### Guia de Estilo
-
-### Design Minimalista
-
-### Padronização
+- Design Minimalista
+- Padronização
 
 ---
 
