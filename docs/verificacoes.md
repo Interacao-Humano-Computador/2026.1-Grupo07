@@ -1,4 +1,6 @@
-# ✅ Checklist - Entrega 1
+# Checklist 
+
+### Entrega 1
 
 ## Planejamento Geral do Projeto
 

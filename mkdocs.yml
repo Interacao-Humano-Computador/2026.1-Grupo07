@@ -1,20 +1,23 @@
 site_name: IHC Grupo 7 - Detran-PA
 theme:
   name: material
+  favicon: assets/steering.svg
+  icon:
+    logo: material/steering
   language: pt-BR
   font:
     text: Inter
     code: JetBrains Mono
   palette:
     - scheme: default
-      primary: indigo
-      accent: deep purple
+      primary: pink
+      accent: pink
       toggle:
         icon: material/weather-night
         name: Modo escuro
     - scheme: slate
-      primary: indigo
-      accent: deep purple
+      primary: pink
+      accent: pink
       toggle:
         icon: material/weather-sunny
         name: Modo claro
