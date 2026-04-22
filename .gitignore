@@ -1,0 +1,16 @@
+# Ambiente Virtual
+venv/
+ENV/
+env/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos temporários do MkDocs
+site/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
