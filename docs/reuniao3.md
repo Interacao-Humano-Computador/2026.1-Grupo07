@@ -69,3 +69,9 @@ Nenhuma pendência registrada.
 ## 7. Próxima Reunião
 - *Data/Previsão:* 12/04/2026  
 - *Objetivo:* Gravação da apresentação do projeto
+
+## Histórico de Versão
+| Versão | Data | Descrição | Autor | Revisor |
+| :--- | :--- | :--- | :--- | :--- |
+| 1.0 | 11/04/2026 | Criação do documento  |[Ingrid Alves](https://github.com/alvesingrid) | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) |
+| 1.1 | 22/04/2026 | Adição do historico de versão| [Ingrid Alves](https://github.com/alvesingrid) |[Hugo Freitas Silva](https://github.com/HugoFreitass) |

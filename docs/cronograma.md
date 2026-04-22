@@ -23,3 +23,9 @@
 | Atividade | Descrição | Período para o desenvolvimento da atividade | Responsáveis | Período da Revisão | Revisores |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Replanejamento | Replanejar o projeto, com base nos feedbacks recebidos do professor, monitores e colegas de turma | 13/04/2026 - | Todos | - | Hugo, Maria Laura e Philipe |
+
+## Histórico de Versão
+| Versão | Data | Descrição | Autor | Revisor |
+| :--- | :--- | :--- | :--- | :--- |
+| 1.0 | 11/04/2026 | Criação do documento  |[Hugo Freitas Silva](https://github.com/HugoFreitass) | [Thaiza Weert ](https://github.com/ThaizaWeert) |
+| 1.1 | 22/04/2026 | Adição do historico de versão| [Ingrid Alves](https://github.com/alvesingrid) |[Hugo Freitas Silva](https://github.com/HugoFreitass) |

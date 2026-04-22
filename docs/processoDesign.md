@@ -72,6 +72,12 @@ O processo não termina na entrega. Existe uma etapa de opinião do usuário ap�
 
 # Referência
 
-Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021).  
-Interação Humano-Computador e Experiência do Usuário.  
-Autopublicação. ISBN: 978-65-00-19677-1.
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021).  
+> Interação Humano-Computador e Experiência do Usuário.  
+> Autopublicação. ISBN: 978-65-00-19677-1.
+
+## Histórico de Versão
+| Versão | Data | Descrição | Autor | Revisor |
+| :--- | :--- | :--- | :--- | :--- |
+| 1.0 | 11/04/2026 | Criação do documento  |[Maria Laura Regis ](https://github.com/Maria-Laura-Regis) | [Ingrid Alves](https://github.com/alvesingrid) |
+| 1.1 | 22/04/2026 | Adição do historico de versão| [Ingrid Alves](https://github.com/alvesingrid) |[Hugo Freitas Silva](https://github.com/HugoFreitass) |

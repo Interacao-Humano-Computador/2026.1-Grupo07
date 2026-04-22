@@ -85,6 +85,12 @@ Nenhuma pendência registrada.
 
 ## Referências
 
-[2] BRASIL. Ministério da Ciência, Tecnologia e Inovações. **Modelo de Ata de Reunião**. Brasília: MCTI, [202-?]. 1 arquivo PDF. Disponível em: . Acesso em: 11 abr. 2026.
+> [2] BRASIL. Ministério da Ciência, Tecnologia e Inovações. **Modelo de Ata de Reunião**. Brasília: MCTI, [202-?]. 1 arquivo PDF. Disponível em: . Acesso em: 11 abr. 2026.
 
 **Nota Metodológica:** A estrutura e os campos deste documento de ata foram adaptados a partir do modelo oficial estabelecido pelo Ministério da Ciência, Tecnologia e Inovações [4].
+
+## Histórico de Versão
+| Versão | Data | Descrição | Autor | Revisor |
+| :--- | :--- | :--- | :--- | :--- |
+| 1.0 | 11/04/2026 | Criação do documento  |[Thaiza](https://github.com/ThaizaWeert) | [Ingrid Alves](https://github.com/alvesingrid) |
+| 1.1 | 22/04/2026 | Adição do historico de versão| [Ingrid Alves](https://github.com/alvesingrid) |[Hugo Freitas Silva](https://github.com/HugoFreitass) |

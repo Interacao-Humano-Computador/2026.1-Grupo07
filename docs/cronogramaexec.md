@@ -19,3 +19,9 @@
 
 
 ## Apresentação da entrega 1: 12/04/2026
+
+## Histórico de Versão
+| Versão | Data | Descrição | Autor | Revisor |
+| :--- | :--- | :--- | :--- | :--- |
+| 1.0 | 11/04/2026 | Criação do documento  |[Philipe Amancio](https://github.com/Phill-Chill) | [Vitor Evangelista](https://github.com/SemC0ndicao) |
+| 1.1 | 22/04/2026 | Adição do historico de versão| [Ingrid Alves](https://github.com/alvesingrid) |[Hugo Freitas Silva](https://github.com/HugoFreitass) |

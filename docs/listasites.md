@@ -3,15 +3,15 @@
 
 ## Lista de Sites Avaliados
 
-- https://www.detran.pa.gov.br/index_.php  
-- https://www.tre-df.jus.br  
-- https://www.tse.jus.br  
-- https://sistec.mec.gov.br/login/login  
-- https://lattes.cnpq.br  
-- https://portal.ciee.org.br  
-- https://www.olx.com.br  
-- https://brasilia.craigslist.org  
-- https://www.arngren.net  
+- [Detran-PA](https://www.detran.pa.gov.br/index_.php)  
+- [TRE-DF](https://www.tre-df.jus.br)  
+- [TSE](https://www.tse.jus.br)  
+- [Sistec/MEC](https://sistec.mec.gov.br/login/login)  
+- [Plataforma Lattes](https://lattes.cnpq.br)  
+- [CIEE](https://portal.ciee.org.br)  
+- [OLX](https://www.olx.com.br)  
+- [Craigslist Brasília](https://brasilia.craigslist.org)  
+- [Arngren](https://www.arngren.net)  
 
 ---
 
@@ -87,4 +87,10 @@ A funcionalidade Licitação, quando clicada, apresenta frequentemente erro info
 
 ## Referências Usadas e IA Generativas
 
-BARBOSA, S. D. J. et al. **Interação Humano-Computador e Experiência do Usuário**. 1. ed. Rio de Janeiro: Autopublicação, 2021.Cap 12. p. 282.
+> BARBOSA, S. D. J. et al. **Interação Humano-Computador e Experiência do Usuário**. 1. ed. Rio de Janeiro: Autopublicação, 2021.Cap 12. p. 282.
+
+## Histórico de Versão
+| Versão | Data | Descrição | Autor | Revisor |
+| :--- | :--- | :--- | :--- | :--- |
+| 1.0 | 11/04/2026 | Criação do documento  |[Vitor Evangelista  ](https://github.com/SemC0ndicao) | [Ingrid Alves](https://github.com/alvesingrid) |
+| 1.1 | 22/04/2026 | Adição do historico de versão| [Ingrid Alves](https://github.com/alvesingrid) |[Hugo Freitas Silva](https://github.com/HugoFreitass) |

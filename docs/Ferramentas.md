@@ -49,3 +49,10 @@ Os seguintes recursos foram escolhidos para auxiliar na realização e padroniza
 | Imagem | Nome | Finalidade |
 | :---: | :---: | --- |
 | ![alt text](image-10.png) | Youtube | Plataforma de vídeo em que ficará disponível a apresentação dos artefatos produzidos em cada fase.|
+
+
+## Histórico de Versão
+| Versão | Data | Descrição | Autor | Revisor |
+| :--- | :--- | :--- | :--- | :--- |
+| 1.0 | 11/04/2026 | Criação do documento  |[Philipe Amancio](https://github.com/Phill-Chill) | [Ingrid Alves](https://github.com/alvesingrid) |
+| 1.1 | 22/04/2026 | Adição do historico de versão| [Ingrid Alves](https://github.com/alvesingrid) |[Hugo Freitas Silva](https://github.com/HugoFreitass) |

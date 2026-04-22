@@ -108,6 +108,6 @@ apresentação.
 
 ## Referências
 
-[2] BRASIL. Ministério da Ciência, Tecnologia e Inovações. **Modelo de Ata de Reunião**. Brasília: MCTI, [202-?]. 1 arquivo PDF. Disponível em: . Acesso em: 11 abr. 2026.
+> [2] BRASIL. Ministério da Ciência, Tecnologia e Inovações. **Modelo de Ata de Reunião**. Brasília: MCTI, [202-?]. 1 arquivo PDF. Disponível em: . Acesso em: 11 abr. 2026.
 
 **Nota Metodológica:** A estrutura e os campos deste documento de ata foram adaptados a partir do modelo oficial estabelecido pelo Ministério da Ciência, Tecnologia e Inovações [4].
