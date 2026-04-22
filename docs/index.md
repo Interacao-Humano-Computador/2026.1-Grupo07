@@ -55,4 +55,3 @@ Portanto o grupo selecionou esse site para avaliar a necessidade de ajustes e a 
 | 1.1 | 12/04/2026 | Atualização de informações | [Ingrid Alves](https://github.com/alvesingrid) |[Hugo Freitas Silva](https://github.com/HugoFreitass) |
 | 1.2 | 22/04/2026 | Ajuste no design do pages | [Ingrid Alves](https://github.com/alvesingrid) |[Hugo Freitas Silva](https://github.com/HugoFreitass) |
 
-# testegit
