@@ -45,9 +45,15 @@ Portanto o grupo selecionou esse site para avaliar a necessidade de ajustes e a 
       <br><sub><b>Maria Laura</b></sub>
     </a>
   </div>
+    <div class="contributor-item">
+    <a href="https://github.com/nathanpromao">
+      <img src="https://avatars.githubusercontent.com/u/57817030?v=4" alt="Nathan Pontes"/>
+      <br><sub><b>Nathan Pontes</b></sub>
+    </a>
+  </div>
 </div>
 
-## Histórioco de versões
+## Histórico de versões
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |

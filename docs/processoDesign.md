@@ -1,5 +1,70 @@
 # Processo de Design
 
+## Introdução
+
+Ao buscarmos maneiras de resolver problemas, diminuir características desagradáveis ou melhorar algo estamos exercendo atividades de design. Com isso pode-se entender que design é um processo que busca valorizar aspecto positivos em detrimento da redução dos negativos. Compreendido o que seria design, é possível separar em três atividades fundamentais (BARBOSA et al., 2021):
+
+
+- <u>**Análise** da situação atual</u>: Identificação do problema e compreensão da situação atual.  
+- <u>**Síntese** de uma intervenção</u>: Criação de uma intervenção (solução/design).  
+- <u>**Avaliação** de uma nova situação</u>: Teste da intervenção projetada para verificar se ela resolve o problema.
+
+> *Fonte:* Barbosa et al. (2021, p. 107)
+
+---
+
+## Modelos de processo de design
+   Cada processo de design particulariza a execução, a ordem, as iterações e os artefatos consumidos e produzidos em cada etapa (BARBOSA et al., 2021). A seguir apresentaremos os modelos de processo de design abordados na obra de Barbosa et al.
+
+
+
+### Modelo simples
+Nessa especificação de processo de design basicamente é centrado no usuário, sendo que a atividade de síntese é separada em desing(ou redisign) conceitual e na construção de uma versão interativa que simula o conportamente da solução para avaliçã e posteriormente o produto ser entregue ou retornar ao inicio do processo que está ilustrado na **Figura I** (BARBOSA et al., 2021).
+
+
+<center> Figura I - Modelo simples de processo de design de IHC</center>
+
+
+![alt text](image-6.png)
+
+
+
+> *Fonte:* BARBOSA et al. (2021)
+
+
+
+### Ciclo de vida em estrela
+Aqui o processo é dividido em seis atividades, conforme representado na **Figura II**.
+
+<center> Figura II - Ciclo de vida em estrela.</center>
+
+
+
+![alt text](image-18.png)
+
+
+> *Fonte:* BARBOSA et al. (2021)
+
+Sobre cada atividade:
+
+-  **Análise de tarefas, de usuário e funções** - aprendizado da situação atual e levantamento das necessidades e oportunidades de melhoria;
+- **Especificação de requisitos** - interpretação da análise, definindo os problemas a serem resolvidos pela solução de IHC desenvolvida;
+
+<fieldset><legend> Atividade geral de síntese </legend>
+
+- **Projeto conceitual e especificação do design** - etapa que a solução IHC é definida;
+- **Prototipação** - versões interativas da solução são elaborasa para avaliação;
+- **Implementação** - momento que o sistema é desenvolvido;
+
+</fieldset>
+
+- **Avaliação** - deve detectar problemas de usabilidade em representações de design, protótipos e no sistema final. Além da sua utilização desde o inicio do projeto ser de suma importânica.
+> *Fonte:* BARBOSA et al. (2021)
+
+Nesta proposta, cabe ao designer definir o ponto de partida do ciclo, baseando-se nos artefatos disponíveis. Entretanto, sendo necessário após finalizado a atividade ela passe pela avaliação antes de dar inicio na subsequente.
+
+
+
 De acordo com o livro Interação Humano-Computador e Experiência de Usuário, de Simone D. J. Barbosa, o design de Interação Humano-Computador (IHC) não é uma tarefa linear e única, mas sim um processo iterativo composto por três atividades fundamentais, como mostra a Figura 1:
 
 - *Análise:* Identificação do problema e compreensão da situação atual.  
@@ -81,3 +146,4 @@ O processo não termina na entrega. Existe uma etapa de opinião do usuário ap�
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 11/04/2026 | Criação do documento  |[Maria Laura Regis ](https://github.com/Maria-Laura-Regis) | [Ingrid Alves](https://github.com/alvesingrid) |
 | 1.1 | 22/04/2026 | Adição do historico de versão| [Ingrid Alves](https://github.com/alvesingrid) |[Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.2 | 11/04/2026 | Adequação ao feedback do professor  |[Maria Laura Regis ](https://github.com/Maria-Laura-Regis) / [Philipe Amancio](https://github.com/Phill-Chill)|  |

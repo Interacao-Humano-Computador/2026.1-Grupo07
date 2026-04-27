@@ -1,5 +1,8 @@
 # Reunião 02
 
+## Introdução
+
+Este documento tem como objetivo registrar as deliberações, decisões e o acompanhamento das atividades realizadas durante as reuniões do grupo de projeto de Interação Humano-Computador (IHC). O registro sistemático destas atas visa garantir a transparência do processo de design e a rastreabilidade das decisões técnicas e gerenciais tomadas ao longo do semestre[^1].
 
 ## 1. Identificação
 | Campo | Informação |
@@ -46,7 +49,7 @@
 ---
 
 ## 5. Assuntos Tratados
-| Nº | Descrição | Tipo¹ |
+| Nº | Descrição | Tipo[^2] |
 |----|------------|--------|
 | 1 | Detalhamento e refinamento das tarefas individuais | Definição |
 | 2 | Não houve alteração nos responsáveis pelas tarefas | Definição |
@@ -106,8 +109,32 @@ apresentação.
 ---
 
 
-## Referências
 
-> [2] BRASIL. Ministério da Ciência, Tecnologia e Inovações. **Modelo de Ata de Reunião**. Brasília: MCTI, [202-?]. 1 arquivo PDF. Disponível em: . Acesso em: 11 abr. 2026.
+### Bibliografia Consultada
 
-**Nota Metodológica:** A estrutura e os campos deste documento de ata foram adaptados a partir do modelo oficial estabelecido pelo Ministério da Ciência, Tecnologia e Inovações [4].
+* BRASIL. Ministério da Ciência, Tecnologia e Inovações. **Modelo de Ata de Reunião**. Brasília: MCTI, [202-?]. Disponível em: [Modelo Ata](https://ps.mctic.gov.br/MCTI-PS/guidances/examples/Ata_Reuniao_35E290FE.html?nodeId=e8d6222d). Acesso em: 11 abr. 2026. [Acesso direto ao pdf](ModeloAta.pdf).
+
+
+
+
+## Histórico de Versão
+| Versão | Data | Descrição | Autor | Revisor |
+| :--- | :--- | :--- | :--- | :--- |
+| 1.0 |  | Criação do documento  ||  |
+| 1.x | 26/04/2026 | Adequação ao feedback do professor | [Philipe Amancio](https://github.com/Phill-Chill) |  |
+
+
+
+[^1]: Estrutura adaptada do padrão de Atas do MCTI.
+[^2]: **Definições dos Tipos de Itens de Pauta:**
+
+    - **Apresentação:** Exposição de assunto que não depende de avaliação ou aprovação (Ex: Leitura de atas anteriores).
+
+    - **Decisão:** Execução aprovada que não impacta custo ou prazo (Ex: Ajuste em requisito de baixa complexidade).
+
+    - **Definição:** Mudança aprovada pelo solicitante que **causa impacto** em prazo e custo (Ex: Imposição de nova funcionalidade pelo gestor).
+
+    - **Solicitação:** Item que depende de análise de viabilidade e estudo prévio para ser aprovado ou descartado.
+
+    - **Pendência:** Dúvida não resolvida que depende de terceiros ou discussões futuras.
+
