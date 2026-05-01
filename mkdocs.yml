@@ -1,4 +1,4 @@
-site_name: IHC Grupo 7 - Detran-PA
+site_name: IHC Grupo 7 - Sabin
 theme:
   name: material
   favicon: assets/steering.svg
@@ -10,14 +10,14 @@ theme:
     code: JetBrains Mono
   palette:
     - scheme: default
-      primary: pink
-      accent: pink
+      primary: red
+      accent: red
       toggle:
         icon: material/weather-night
         name: Modo escuro
     - scheme: slate
-      primary: pink
-      accent: pink
+      primary: red
+      accent: red
       toggle:
         icon: material/weather-sunny
         name: Modo claro
@@ -37,17 +37,23 @@ theme:
     - header.autohide
 nav:
   - Home: index.md
-  - Cronograma:
-      - Heatmap: heatmap.md
-      - Cronograma Planejado: cronograma.md
-      - Cronograma Executado: cronogramaexec.md
-  - Sites avaliados: listasites.md
-  - Ferramentas: Ferramentas.md
-  - Processo de Design: processoDesign.md
-  - Atas de reunião: 
-      - Reunião 1: reuniao1.md
-      - Reunião 2: reuniao2.md
-      - Reunião 3: reuniao3.md
+  - Planejamento:
+      - Cronograma: 
+          - Heatmap: heatmap.md
+          - Planejado: cronograma.md
+          - Executado: cronogramaexec.md
+      - Processo de Design: processoDesign.md
+      - Ferramentas: Ferramentas.md
+      - Sites avaliados: listasites.md
+      - Atas de reunião: 
+          - Reunião 1: reuniao1.md
+          - Reunião 2: reuniao2.md
+          - Reunião 3: reuniao3.md
+  - Perfil de usuário: 
+      - Perfil de usuário: perfilDeUsuario.md
+      - Metodologia: metodologiaParaPerfil.md
+      - Personas: persona.md
+      - Cenário: cenario.md
   - Verificações: verificacoes.md
   - Referências: referencias.md
 

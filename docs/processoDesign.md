@@ -9,17 +9,16 @@ Ao buscarmos maneiras de resolver problemas, diminuir características desagrad�
 - <u>**Síntese** de uma intervenção</u>: Criação de uma intervenção (solução/design).  
 - <u>**Avaliação** de uma nova situação</u>: Teste da intervenção projetada para verificar se ela resolve o problema.
 
-> *Fonte:* Barbosa et al. (2021, p. 107)
+> *Fonte:* <span class="hover-image"> BARBOSA et al. (2021, p. 108) <sup class="Print">[PRINT]</sup><img class= "img" src="../image-16.png" alt="Print"> </span>
 
----
+___
 
 ## Modelos de processo de design
-   Cada processo de design particulariza a execução, a ordem, as iterações e os artefatos consumidos e produzidos em cada etapa (BARBOSA et al., 2021). A seguir apresentaremos os modelos de processo de design abordados na obra de Barbosa et al.
-
-
+   Cada processo de design particulariza a execução, a ordem, as iterações e os artefatos consumidos e produzidos em cada etapa <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../image-20.png" alt="Print"> </span>. A seguir apresentaremos os modelos de processo de design abordados na obra de Barbosa et al.
 
 ### Modelo simples
 Nessa especificação de processo de design basicamente é centrado no usuário, sendo que a atividade de síntese é separada em desing(ou redisign) conceitual e na construção de uma versão interativa que simula o conportamente da solução para avaliçã e posteriormente o produto ser entregue ou retornar ao inicio do processo que está ilustrado na **Figura I** (BARBOSA et al., 2021).
+
 
 
 <center> Figura I - Modelo simples de processo de design de IHC</center>
@@ -29,7 +28,7 @@ Nessa especificação de processo de design basicamente é centrado no usuário,
 
 
 
-> *Fonte:* BARBOSA et al. (2021)
+> *Fonte:* BARBOSA et al. (2021, p. 114)
 
 
 
@@ -43,14 +42,14 @@ Aqui o processo é dividido em seis atividades, conforme representado na **Figur
 ![alt text](image-18.png)
 
 
-> *Fonte:* BARBOSA et al. (2021)
+> *Fonte:* BARBOSA et al. (2021, p. 115)
 
 Sobre cada atividade:
 
 -  **Análise de tarefas, de usuário e funções** - aprendizado da situação atual e levantamento das necessidades e oportunidades de melhoria;
 - **Especificação de requisitos** - interpretação da análise, definindo os problemas a serem resolvidos pela solução de IHC desenvolvida;
 
-<fieldset><legend> Atividade geral de síntese </legend>
+<fieldset markdown = "1"><legend> Atividade geral de síntese </legend>
 
 - **Projeto conceitual e especificação do design** - etapa que a solução IHC é definida;
 - **Prototipação** - versões interativas da solução são elaborasa para avaliação;
@@ -59,7 +58,9 @@ Sobre cada atividade:
 </fieldset>
 
 - **Avaliação** - deve detectar problemas de usabilidade em representações de design, protótipos e no sistema final. Além da sua utilização desde o inicio do projeto ser de suma importânica.
-> *Fonte:* BARBOSA et al. (2021)
+
+> *Fonte:* <span class="hover-image"> BARBOSA et al. (2021, p. 115) <sup class="Print">[PRINT]</sup> <img class= "img" src="../image-19.png" alt="Print"> </span>
+
 
 Nesta proposta, cabe ao designer definir o ponto de partida do ciclo, baseando-se nos artefatos disponíveis. Entretanto, sendo necessário após finalizado a atividade ela passe pela avaliação antes de dar inicio na subsequente.
 
@@ -72,52 +73,52 @@ De acordo com o livro Interação Humano-Computador e Experiência de Usuário, 
 - *Avaliação:* Teste da intervenção projetada para verificar se ela resolve o problema.
 
 
-<div align="center">Figura 1 - Processos de design</div>
-
-![alt text](image-15.jpg)
-> *Fonte:* Barbosa et al. (2021, p. 107)
+> *Fonte:* <span class="hover-image"> BARBOSA et al. (2021, p. 112) <sup class="Print">[PRINT]</sup> <img class= "img" src="../image-15.png" alt="Print"> </span>
 
 ---
 
-## Por que a Iteração é Importante?
+### Ciclo de vida para a engenharia de usuabilidade de Mayhew
 
-O processo deve permitir "refinamentos sucessivos". Isso significa que, ao avaliar uma solução e encontrar falhas, o designer retorna à fase de análise ou síntese. Esse ciclo permite que a equipe aprenda mais sobre o problema à medida que desenvolve a solução.
+O ciclo de vida proposto por Mayhew oferece uma visão holística para a engenharia de usabilidade, reunindo e organizando diversas atividades da área de IHC para orientar o designer na criação de soluções interativas eficazes. Este processo é essencial para garantir que o desenvolvimento de um sistema siga uma direção clara e tecnicamente estruturada em direção a uma boa solução de design <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../image-32.png" alt="Print"> </span>.
 
----
+A seguir serão abordades cada fase e suas respectivas atividade. E as relações entre as fases está representada na **Figura III**.
 
-# O Processo de Design de Mayhew
+<div align="center"> Figura III - Processo de design de Mayhew</div>
 
-<div align="center">Figura 2 - Processo de design de Mayhew</div>
-
-![alt text](image-14.jpg)
+![alt text](image-14.png)
 
 > *Fonte:* Barbosa et al. (2021, p. 120)
 
-O Ciclo de Vida de Mayhew (Figura 6.7) é uma escolha robusta para projetos que exigem alto rigor técnico e foco na experiência do usuário. Ele se divide em três fases principais:
 
-## 1. Análise de Requisitos
 
-Diferente de processos simplistas, Mayhew começa com uma base sólida. Ela exige:
+#### 1. Análise de Requisitos
 
-- Definir o perfil do usuário  
-- Realizar análise de tarefas  
-- Estabelecer metas de usabilidade quantificáveis  
+Nessa fase são definidas as metas de usabilidade com base em:
 
-Tudo isso antes de desenhar qualquer tela.
 
-## 2. Design, Avaliação e Desenvolvimento
 
-A grande força deste modelo é a organização em níveis de complexidade crescente:
+- O perfil do usuário
+- Análise de tarefas  
+- Possibilidades e limitações da plataforma em que o sistema será executado 
+- Princípios gerais de  design de IHC
+
+que geralmente geram como saída os "guias de estilos" para auxiliar sua verficação durante as demais atividades do processo <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../image-33.png" alt="Print"> </span>.
+
+
+#### 2. Design, Avaliação e Desenvolvimento
+
+Sendo a continuação da fase anterior, nessa é o processo de concepção da solução para atingir as metas de usubilidades. Pode-se separa essa etapa em três níveis:
 
 - *Nível 1 (Conceitual):* Foca no modelo mental e na estrutura, não na estética.  
-- *Nível 2 (Padrões de Tela):* Estabelece a consistência visual através de guias de estilo.  
+- *Nível 2 (Padrões de Tela):* Estabelece a consistência visual a partir disso construir protótipos de média fiedelidade, além de avalia-los.  
 - *Nível 3 (Design Detalhado):* A interface final é produzida e testada exaustivamente.  
 
-## 3. Instalação e Feedback
+#### 3. Instalação e Feedback
 
-O processo não termina na entrega. Existe uma etapa de opinião do usuário após a instalação para garantir melhorias contínuas.
+O processo não termina na entrega. Existe uma etapa de coleta de opinião do usuário após um certo perído de uso, para melhorias contínuas ou, até mesmo, como indicativo de obsolecência do sistema.
 
 ---
+
 
 ## Por que escolhemos o Ciclo de Vida de Mayhew?
 
@@ -137,9 +138,8 @@ O processo não termina na entrega. Existe uma etapa de opinião do usuário ap�
 
 # Referência
 
-> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021).  
-> Interação Humano-Computador e Experiência do Usuário.  
-> Autopublicação. ISBN: 978-65-00-19677-1.
+ BARBOSA, S. D. J. et al. **Interação Humano-Computador e Experiência do Usuário**. 1. ed. Rio de Janeiro: Autopublicação, 2021.
+
 
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor | Revisor |

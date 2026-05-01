@@ -1,0 +1,16 @@
+## Introdução
+
+Um **cenário** é, essencialmente, uma narrativa sobre pessoas realizando uma atividade. Seja construído em formato textual ou pictórico, trata-se de uma descrição concreta e rica em detalhes contextuais sobre uma situação de uso do sistema, envolvendo os usuários, os processos e os dados reais ou potenciais <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../image-29.png" alt="Print"> </span> 
+
+No processo de design de Interação Humano-Computador (IHC), os cenários são ferramentas estratégicas e versáteis. Por exigirem menos tempo e custo quando comparados à construção de modelos e protótipos complexos, eles podem ser aplicados em diversas etapas do projeto. Seus objetivos variam desde a captura de requisitos e o entendimento do domínio da atividade, até o levantamento de questões sobre a introdução de novas tecnologias, a exploração de diferentes soluções de design e a avaliação final de satisfação das necessidades do usuário <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../image-30.png" alt="Print"> </span>.
+
+A estrutura de um cenário é focada no comportamento e na experiência. Ele sempre apresenta um ator principal movido por um objetivo claro. A partir dessa motivação, constrói-se um enredo detalhando a sequência de ações e eventos: o que o usuário faz, o que acontece no ambiente e como o sistema responde — fatores que podem ajudar, atrapalhar ou ser irrelevantes para a conclusão da tarefa. Quando a carga cognitiva for relevante para a situação, a narrativa também deve expor a atividade mental do ator, ilustrando como ele planeja e avalia as ações realizadas durante a jornada <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../image-31.png" alt="Print"> </span> 
+
+## Cenários criados:
+
+# Cenário 01: Acesso ao resultado com visualizadores de imagem (DICOM)
+
+Roberto, de 36 anos e médico clínico geral, está atendendo um paciente que já havia consultado anteriormente e pedido uma ressonância magnética do ombro direito, visto que o paciente tinha relatado um incômodo nessa região. O paciente relata que realizou o exame no Sabin e que foi informado de que os resultados estariam disponíveis no site no mesmo dia da consulta atual.
+
+Roberto pede os dados de login do paciente para acessar o portal diretamente do seu computador, evitando perder tempo esperando o paciente tentar abrir o arquivo na tela pequena do celular. 
+Quando conseguem entrar no portal, Roberto clica no exame de ressonância. O laudo em PDF abre rapidamente, mas Roberto precisa visualizar a imagem da lesão para definir se encaminha o paciente para cirurgia ou fisioterapia. Ao clicar na opção do visualizador de imagens (DICOM), o sistema exige a instalação de um plugin desatualizado ou o download de um arquivo ".zip" muito pesado. Como a internet da clínica está oscilando e ele não tem tempo de acionar o suporte de TI, Roberto desiste de ver a imagem em alta resolução. Frustrado e com o próximo paciente já aguardando na recepção, ele baseia sua conduta apenas no laudo escrito, prescreve um anti-inflamatório paliativo e pede que a secretária ligue no laboratório para tentar obter o acesso médico adequado para o retorno do paciente.
