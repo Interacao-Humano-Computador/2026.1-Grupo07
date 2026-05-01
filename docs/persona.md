@@ -29,6 +29,30 @@ A criação de personas serve para combater o problema do "usuário elástico", 
 
 > Autor(es): Philipe Amâncio
 
+# Persona: 
+
+> ### Márcia (Mãe e Gestora da Saúde Familiar)
+
+| Categoria | Detalhes do Perfil |
+| :--- | :--- |
+|**Foto**| ![alt text](image-marcia.png){width="600"}|
+| **Identidade** | **Nome:** Márcia <br> **Idade:** 55 anos <br> **Sexo:** Feminino <br> **Localização:** Brasília, DF <br> **Status Socioeconômico:** Classe Média Alta <br> **Status na Pesquisa:** Persona Primária |
+| **Perfil Geral** | Servidora pública e mãe. É a principal organizadora da rotina médica da casa. Acessa a plataforma do Sabin para agendar exames para si, para o marido e para os pais idosos, conferir coberturas de plano de saúde e baixar resultados para as consultas. |
+| **Educação e Aprendizado** | **Formação:** Ensino Superior Completo <br> **Nível de Leitura / Digital:** Alto / Médio <br> **Preferência de Aprendizado:** Visual e prático. <br> **Observação:** Prefere ser guiada pelo sistema passo a passo, sem precisar deduzir o funcionamento da interface. |
+| **Experiência Profissional** | **Cargo:** Servidora Pública (20+ anos de carreira). <br> **Responsabilidades:** Rotinas burocráticas e gestão administrativa. <br> **Plano de Carreira:** Manter a estabilidade até a aposentadoria e focar no bem-estar familiar. |
+| **Relação com Tecnologia** | **Nível:** Intermediário (sabe usar o essencial muito bem). <br> **Dispositivos:** Smartphone (uso contínuo) e Notebook (uso focado). <br> **Sistemas:** WhatsApp, aplicativos bancários, redes sociais e portais de serviços públicos. <br> **Conexão:** Wi-Fi residencial e 4G/5G. |
+| **Experiência com Sistemas** | **Uso Atual:** Acessa o Sabin periodicamente, em épocas de check-up da família. <br> **Pontos Positivos:** Confiança na marca e centralização do histórico. <br> **Frustrações:** Ter que fazer múltiplos logins para acessar laudos de dependentes diferentes e falta de clareza imediata sobre o tempo de jejum. <br> **Preferência:** Uma área "Família" unificada e agendamento prático via envio de foto da guia médica. |
+| **Objetivos** | **Finais:** Marcar exames ou coletas domiciliares de forma ágil e sem erros no preparo. <br> **De Experiência:** Sentir-se no controle, resolvendo a saúde da família rapidamente pelo celular. <br> **De Vida:** Garantir a saúde preventiva de todos os seus entes queridos sem sacrificar seu pouco tempo livre. |
+| **Habilidades e Tarefas** | **Competências:** Excelente capacidade de organização de agendas complexas. <br> **Tarefas Críticas:** Pré-agendamento de exames, verificação de preparo (jejum) e download de laudos em PDF. <br> **Tarefas Secundárias:** Pesquisar unidades do Sabin próximas e consultar vacinas disponíveis. |
+| **Relacionamentos** | **Interações:** Familiares (marido, filhos, pais), médicos e atendentes. <br> **Influência:** É a principal tomadora de decisão (Stakeholder direto). Ela escolhe o laboratório com base na praticidade do agendamento e repassa as instruções para o restante da família. |
+| **Requisitos e Expectativas** | **Necessidades:** Clareza nas informações de plano de saúde, instruções exatas de preparo em destaque e fácil transição entre perfis de dependentes. <br> **Modelo Mental:** O sistema deve seguir o fluxo: *"Envio a guia > Confirmo a unidade e horário > Recebo o preparo exato e o lembrete no WhatsApp"*. |
+| **Atitudes e Tolerância** | **Perfil:** Prática, focada em conveniência e resolução de problemas. <br> **Tolerância a falhas:** Baixa (Não tem tempo a perder com travamentos). <br> **Comportamento no Erro:** Abandona o site imediatamente e procura o ícone do WhatsApp para resolver o agendamento com um atendente humano. |
+| **Domínio e Vocabulário** | **Domínio do Tema:** Intermediário (entende a rotina de check-ups, mas não é da área da saúde). <br> **Idiomas:** Português nativo. <br> **Jargões:** Entende termos comuns, mas trava em siglas médicas complexas se não houver uma explicação breve. |
+| **Citação Representativa** | *"Eu preciso marcar os exames de sangue da família toda para sábado de manhã. Se o aplicativo me deixar enviar a foto do pedido médico e me disser o jejum de cada um, já resolve a minha vida."* |
+
+> Autor(es): Maria Laura Regis Cabral Dias
+
 | Versão | Data | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 1/05/2026 | Criação do documento e adição da persona "Roberto" |[Philipe Amancio](https://github.com/Phill-Chill)|  |
+| 1.0 | 1/05/2026 | Criação do documento e adição da persona "Roberto" |[Philipe Amancio](https://github.com/Phill-Chill)| Maria Laura |
+| 1.1 | 1/05/2026 | Adição da persona "Marcia" |[Maria Laura Regis](https://github.com/Maria-Laura-Regis)|  |
