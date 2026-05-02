@@ -52,7 +52,31 @@ A criação de personas serve para combater o problema do "usuário elástico", 
 
 > Autor(es): Maria Laura Regis Cabral Dias
 
+## Persona: 
+
+> ### Ayla (Estudante de direito e estágiaria)
+
+| Categoria | Detalhes do Perfil |
+| :--- | :--- |
+|**Foto**| ![alt text](image-62.png){width="600"}|
+| **Identidade** | **Nome:** Ayla <br> **Idade:** 28 anos <br> **Sexo:** Feminino <br> **Localização:** Brasília, DF <br> **Status Socioeconômico:** Classe Média <br> **Status na Pesquisa:** Persona Primária |
+| **Perfil Geral** | Estudante de direito com um estágio na área, utiliza a plataforma do Sabin para agendar exames para si mesma e baixar os resultados, utilizando somente conforme a própria nescessidade. |
+| **Educação e Aprendizado** | **Formação:** Ensino médio completo e cursando direito <br> **Nível de Leitura / Digital:** Alto <br> **Preferência de Aprendizado:** Visual e intuitivo. <br> **Observação:** Prefere sistemas intuitivos e faceis de navegar, com exploração de interface simplificada. |
+| **Experiência Profissional** | **Cargo:** Estudante(penultimo semestre de direito) e estagiária. <br> **Responsabilidades:** Rotinas de estudo e estágio . <br> **Plano de Carreira:** Finalizar sua graduação e conseguir um emprego na área. |
+| **Relação com Tecnologia** | **Nível:** Médio a alto (usa com frequência tanto no cotidiano quanto para estudo). <br> **Dispositivos:** Smartphone e notebook. <br> **Sistemas:** Whatsapp, redes sociais, plataformas de estudo, aplicativos bancários. <br> **Conexão:** Wi-Fi residencial e 4G/5G. |
+| **Experiência com Sistemas** | **Uso Atual:** Acessa o portal do Sabin para marcar exames para si quando necessário. <br> **Pontos Positivos:** Variedade de exames e resultados no proprio site. <br> **Frustrações:** Tempo de resposta do site, Jornada exaustiva para marcar os exames (muitos cliques). <br> **Preferência:** Agendamento mais prático e mais clareza sobre a disponibilidade de exames. |
+| **Objetivos** | **Finais:** Agendar exames e acessar fácilmente os resultados. <br> **De Experiência:** Sentir-se no controle sobre os horarios de seus exames e evitar frustrações por remarcações ou perda de horários . <br> **De Vida:** Garantir sua saúde preventiva evitando perdas de tempo extensas ou estresse desnecessário |
+| **Habilidades e Tarefas** | **Competências:** Organização de horários e aprendizado de sistemas simples. <br> **Tarefas Críticas:** Agendamento de exames, baixar laudos, preparos para o exame, buscar unidades. <br> **Tarefas Secundárias:** Consultar convênios |
+| **Relacionamentos** | **Interações:** Médicos e atendentes. <br> **Influência:** É a principal organizadora dos prórpios exames (stakeholder direto). Escolhe unidades e agendamento com base em sua própria disponibilidade. |
+| **Requisitos e Expectativas** | **Necessidades:** Clareza no preparo para os exames e facilidade no acesso e download de resultados. <br> **Modelo Mental:** O sistema deve seguir o fluxo: *Escolha do exame > Marcação e confirmação da unidade > Lembrete do exame por email ou Whatsapp. |
+| **Atitudes e Tolerância** | **Perfil:** Prefere simplicidade e praticidade, mas aceita novas soluções se forem intuitivas. <br> **Tolerância a falhas:** Mediana (A pesar de ter algum tempo, prefere não gastar muito dele com informações incompletas ou travamentos). <br> **Comportamento no Erro:** Frustração, se demorar muito com algum agendamento ou preparação específico, prefere recorrer ao atendimento humano. |
+| **Domínio e Vocabulário** | **Domínio do Tema:** Mediano (Sabe o básico sobre saúde preventiva e exames). <br> **Idiomas:** Português nativo. <br> **Jargões:** Termos básicos de saúde. |
+| **Citação Representativa** | *"Preciso marcar meu hemograma pra esse fim de semana, espero que o site tenha as informações sobre o jejum."* |
+
+> Autor(es): Nathan Pontes Romão
+
 | Versão | Data | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 1/05/2026 | Criação do documento e adição da persona "Roberto" |[Philipe Amancio](https://github.com/Phill-Chill)| Maria Laura |
 | 1.1 | 1/05/2026 | Adição da persona "Marcia" |[Maria Laura Regis](https://github.com/Maria-Laura-Regis)|  |
+| 1.2 | 2/05/2026 | Adição da persona "Ayla |[Nathan Pontes Romão](https://github.com/nathanpromao)|  |
