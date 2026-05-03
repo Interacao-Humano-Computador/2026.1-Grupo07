@@ -1,9 +1,10 @@
 site_name: IHC Grupo 7 - Sabin
 theme:
   name: material
-  favicon: assets/steering.svg
+  favicon: assets/logo-sabin.png
+  logo: assets/logo-sabin.png
   icon:
-    logo: material/steering
+    logo: /assets/logo-sabin.png
   language: pt-BR
   font:
     text: Inter
@@ -39,23 +40,22 @@ nav:
   - Home: index.md
   - Planejamento:
       - Cronograma: 
-          - Heatmap: heatmap.md
-          - Planejado: cronograma.md
-          - Executado: cronogramaexec.md
-      - Processo de Design: processoDesign.md
-      - Ferramentas: Ferramentas.md
-      - Sites avaliados: listasites.md
-      - Atas de reunião: 
-          - Reunião 1: reuniao1.md
-          - Reunião 2: reuniao2.md
-          - Reunião 3: reuniao3.md
-  - Perfil de usuário: 
-      - Perfil de usuário: perfilDeUsuario.md
-      - Metodologia: metodologiaParaPerfil.md
-      - Personas: persona.md
-      - Cenário: cenario.md
+          - Heatmap: planejamento/heatmap.md
+          - Planejado: planejamento/cronograma.md
+          - Executado: planejamento/cronogramaexec.md
+      - Processo de Design: planejamento/processoDesign.md
+      - Sites avaliados: planejamento/listasites.md
+  - Requisitos: 
+      - Perfil de usuário: requisitos/perfilDeUsuario.md
+      - Metodologia: requisitos/metodologiaParaPerfil.md
+      - Personas: requisitos/persona.md
+      - Cenário: requisitos/cenario.md
+  - Ferramentas: Ferramentas.md
+  - Atas de reunião: 
+          - Reunião 1: atasDeReuniao/reuniao1.md
+          - Reunião 2: atasDeReuniao/reuniao2.md
+          - Reunião 3: atasDeReuniao/reuniao3.md
   - Verificações: verificacoes.md
-  - Referências: referencias.md
 
 plugins:
   - search:

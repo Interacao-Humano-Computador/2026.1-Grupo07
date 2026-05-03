@@ -12,7 +12,7 @@ De forma geral, o melhor intervalo para agendamento de atividades em grupo está
 **Com base nisso definimos a reunião semanal fixa: Terça-feira 20h.**
 
 
-![alt text](image-11.png)
+![alt text](../assets/image-11.png)
 
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor | Revisor |

@@ -15,7 +15,7 @@ Ainda utilizamos o formulário apresentado no **Quadro I**, para padronização 
 
 <center>Quadro - I Formulário de identificação de violações de heurísticas</center>
 
-![alt text](image7.png)
+![alt text](/assets/image7.png)
 <p style="font-size: 10pt;">Fonte: MACIEL et al. ([2004?], p. 13).</p>
 
 
@@ -80,7 +80,7 @@ ___
 
 #### Beto Carrero World <a href = "https://www.betocarrero.com.br/?grvclid=c0479bdd300dcb0&grv_iai=908065&gad_source=1&gad_campaignid=23327651929">(link de acesso)</a>
 
-![alt text](image-7.png)
+![alt text](/assets/image-7.png)
 
 O site oficial do Beto Carrero World é uma plataforma de e-commerce voltada para a venda de passaportes, serviços de alimentação e opcionais de lazer. 
 
@@ -92,7 +92,7 @@ Durante a avaliação, foram identificadas falhas críticas na arquitetura de in
 
 #### Receita Federal do Brasil <a href = "https://servicos.receitafederal.gov.br/">(link de acesso)</a>
 
-![alt text](image-34.png)
+![alt text](/assets/image-34.png)
 
 O portal da Receita Federal representa um ecossistema complexo de serviços governamentais, sendo um objeto de estudo crítico para a análise de IHC devido à sua natureza institucional e à diversidade de perfis atendidos, desde o contribuinte iniciante até o profissional autônomo.
 
