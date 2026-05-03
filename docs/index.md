@@ -2,9 +2,9 @@
 
 # Introdução
 
-Escolhemos o portal do DETRAN-PA por ser um sistema de alta relevância social que lida com processos críticos e um público extremamente heterogêneo. A complexidade de sua arquitetura de informação e a coexistência de múltiplos sub-sistemas (ChatBot, Agendamentos, Infrações, Estatísticas, Ouvidoria e etc… ) oferecem o cenário ideal para aplicar análises detalhadas e propor melhorias que garantam que a tecnologia seja uma facilitadora, e não uma barreira, para o cidadão.
+O objeto de estudo deste projeto é o portal web do Laboratório Sabin. O sistema atual oferece funcionalidades de autoatendimento, como agendamento de exames, consulta de laudos, informações sobre unidades de atendimento.
 
-Portanto o grupo selecionou esse site para avaliar a necessidade de ajustes e a implementação de novas funcionalidades, visando uma análise detalhada de melhorias estruturais. O objetivo é aplicar os métodos ministrados em sala, evidenciando sua importância para que o usuário final disponha de um sistema que assegure qualidade, acessibilidade, usabilidade e segurança.
+Este repositório apresenta a aplicação prática de métodos e artefatos de Engenharia de Requisitos e Interação Humano-Computador (IHC) para avaliar e reprojetar o referido portal. O propósito principal é identificar problemas de usabilidade que impedem o alcance eficiente de objetivos por diferentes perfis de usuários.
 
 ## Nossa Equipe
 
@@ -33,12 +33,7 @@ Portanto o grupo selecionou esse site para avaliar a necessidade de ajustes e a 
       <br><sub><b>Thaiza Romualdo</b></sub>
     </a>
   </div>
-  <div class="contributor-item">
-    <a href="https://github.com/SemC0ndicao">
-      <img src="https://avatars.githubusercontent.com/u/117684340?v=4" alt="Vitor"/>
-      <br><sub><b>Vitor Evangelista</b></sub>
-    </a>
-  </div>
+  
   <div class="contributor-item">
     <a href="https://github.com/Maria-Laura-Regis">
       <img src="https://avatars.githubusercontent.com/u/186978721?v=4" alt="Maria Laura"/>

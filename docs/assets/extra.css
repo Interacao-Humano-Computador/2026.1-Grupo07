@@ -58,3 +58,32 @@
   border: 1px solid black;
   padding: 5px;
 }
+
+.hover-image {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.hover-image .img {
+  display: none;
+  position: absolute;
+  top: 1.6em;
+  width: 50vw;
+  max-width: 80vw;
+  height: auto;
+  border-radius: 8px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+  background: #fff;
+  z-index: 20;
+}
+
+.hover-image:hover .img,
+.hover-image:focus-within .img {
+  display: block;
+}
+
+.Print{
+  color: #3949ab;
+}

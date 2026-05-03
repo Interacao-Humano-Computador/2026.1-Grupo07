@@ -92,7 +92,7 @@ Durante a avaliação, foram identificadas falhas críticas na arquitetura de in
 
 #### Receita Federal do Brasil <a href = "https://servicos.receitafederal.gov.br/">(link de acesso)</a>
 
-![alt text](image-14.png)
+![alt text](image-34.png)
 
 O portal da Receita Federal representa um ecossistema complexo de serviços governamentais, sendo um objeto de estudo crítico para a análise de IHC devido à sua natureza institucional e à diversidade de perfis atendidos, desde o contribuinte iniciante até o profissional autônomo.
 

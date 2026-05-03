@@ -10,3 +10,77 @@
   margin-bottom: 2.5rem;
   color: #fff;
 }
+
+/* Secao de Contribuidores */
+.contributors {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+  justify-items: center;
+  max-width: 600px;
+  margin: 2rem auto;
+}
+
+.contributor-item {
+  text-align: center;
+}
+
+.contributor-item a {
+  text-decoration: none;
+  color: inherit;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.contributor-item img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  transition: transform 0.2s ease-in-out;
+  margin-bottom: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.contributor-item img:hover {
+  transform: scale(1.05);
+}
+
+.contributor-item sub {
+  font-size: 0.65rem;
+}
+
+.custom-fieldset{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.hover-image {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.hover-image .img {
+  display: none;
+  position: absolute;
+  top: 1.6em;
+  left: 50%;
+  transform: translateX(-50%);
+  width: min(320px, 80vw);
+  height: auto;
+  border-radius: 8px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+  background: #fff;
+  z-index: 20;
+}
+
+.hover-image:hover .img,
+.hover-image:focus-within .img {
+  display: block;
+}
