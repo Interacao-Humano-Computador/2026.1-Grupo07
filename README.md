@@ -12,11 +12,11 @@
 ## 📖 Sobre o projeto
 
 ### Introdução
-Escolhemos o portal do **Laboratório Sabin** por ser um ecossistema digital de alta relevância social, que lida com processos críticos de saúde e atende a um público extremamente heterogêneo. A complexidade de sua arquitetura de informação e a coexistência de múltiplos serviços (Agendamento de Exames, Resultados Online, Central de Atendimento via WhatsApp, entre outros) oferecem o cenário ideal para aplicar análises detalhadas e propor melhorias que garantam que a tecnologia seja uma facilitadora — e não uma barreira — para o paciente.
+  Escolhemos o portal do **Laboratório Sabin** por ser um ecossistema digital de alta relevância social, que lida com processos críticos de saúde e atende a um público extremamente heterogêneo. A complexidade de sua arquitetura de informação e a coexistência de múltiplos serviços (Agendamento de Exames, Resultados Online, Central de Atendimento via WhatsApp, entre outros) oferecem o cenário ideal para aplicar análises detalhadas e propor melhorias que garantam que a tecnologia seja uma facilitadora — e não uma barreira — para o paciente.
 
-O grupo selecionou este site para avaliar a necessidade de ajustes de usabilidade e a implementação de novas funcionalidades, visando uma análise detalhada de melhorias estruturais. O objetivo é aplicar os métodos ministrados em sala, evidenciando sua importância para que o usuário final disponha de um sistema que assegure qualidade, acessibilidade, facilidade de uso e segurança.
+   O grupo selecionou este site para avaliar a necessidade de ajustes de usabilidade e a implementação de novas funcionalidades, visando uma análise detalhada de melhorias estruturais. O objetivo é aplicar os métodos ministrados em sala, evidenciando sua importância para que o usuário final disponha de um sistema que assegure qualidade, acessibilidade, facilidade de uso e segurança.
 
-Nesta documentação, estão reunidos todos os artefatos desenvolvidos. O objetivo principal deste projeto é investigar a experiência dos usuários no portal Sabin, identificando dificuldades, necessidades e oportunidades de melhoria. A partir dessas análises, busca-se propor soluções que aprimorem a usabilidade e a eficiência do sistema, contribuindo para uma interação mais intuitiva e satisfatória.
+  Nesta documentação, estão reunidos todos os artefatos desenvolvidos. O objetivo principal deste projeto é investigar a experiência dos usuários no portal Sabin, identificando dificuldades, necessidades e oportunidades de melhoria. A partir dessas análises, busca-se propor soluções que aprimorem a usabilidade e a eficiência do sistema, contribuindo para uma interação mais intuitiva e satisfatória.
 
 ---
 
