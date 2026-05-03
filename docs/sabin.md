@@ -208,8 +208,3 @@ BARBOSA, S. D. J. et al. **Interação Humano-Computador e Experiência do Usuá
 
 MACIEL, C. et al. **Avaliação heurística de sítios na web**. Niterói: Instituto de Computação - Universidade Federal Fluminense (UFF), [2004?].
 
-## Histórico de Versão
-
-| Versão | Data | Descrição | Autor | Revisor |
-| :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 11/04/2026 | Adição do documento ao Pages  | [Maria Laura](https://github.com/Maria-Laura-Regis) |  |
