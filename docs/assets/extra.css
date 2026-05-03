@@ -189,12 +189,36 @@
 .md-tabs__link,
 .md-tabs__link:visited,
 .md-tabs__link:hover,
-.md-nav__link,
-.md-nav__link:visited,
-.md-nav__link:hover,
-.md-nav__link--active,
-.md-nav__title {
+.md-tabs__link--active {
   color: #fff !important;
+}
+
+/* Sidebar readable in light mode */
+[data-md-color-scheme="default"] .md-nav__link,
+[data-md-color-scheme="default"] .md-nav__link:visited,
+[data-md-color-scheme="default"] .md-nav__title {
+  color: #1f2937 !important;
+}
+
+[data-md-color-scheme="default"] .md-nav__link:hover,
+[data-md-color-scheme="default"] .md-nav__link--active,
+[data-md-color-scheme="default"] .md-nav__item .md-nav__link--active,
+[data-md-color-scheme="default"] .md-nav__item .md-nav__link:focus {
+  color: #e61318 !important;
+}
+
+/* Sidebar keeps white text in dark mode */
+[data-md-color-scheme="slate"] .md-nav__link,
+[data-md-color-scheme="slate"] .md-nav__link:visited,
+[data-md-color-scheme="slate"] .md-nav__title {
+  color: #fff !important;
+}
+
+[data-md-color-scheme="slate"] .md-nav__link:hover,
+[data-md-color-scheme="slate"] .md-nav__link--active,
+[data-md-color-scheme="slate"] .md-nav__item .md-nav__link--active,
+[data-md-color-scheme="slate"] .md-nav__item .md-nav__link:focus {
+  color: #ffb3b6 !important;
 }
 
 .md-nav__item .md-nav__link--active,
@@ -220,4 +244,16 @@
 .md-header__topic,
 .md-header__ellipsis {
   color: #fff !important;
+}
+
+/* Aumentar logo */
+.md-logo {
+  max-height: 60px !important;
+}
+
+.md-logo img {
+  height: 60px !important;
+  width: auto !important;
+  padding: 5px 0 !important;
+  border-radius: 50% !important;
 }
