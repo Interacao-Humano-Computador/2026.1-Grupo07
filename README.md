@@ -1,12 +1,26 @@
-# Sobre o projeto
+<div align="center">
+  <h1>🔬 Projeto IHC - Laboratório Sabin</h1>
+  <p>
+    <img src="https://img.shields.io/badge/Disciplina-Interação_Humano--Computador-blue" alt="Disciplina IHC" />
+    <img src="https://img.shields.io/badge/Universidade-UnB_FCTE-green" alt="UnB FCTE" />
+    <img src="https://img.shields.io/badge/Semestre-2026.1-orange" alt="Semestre" />
+  </p>
+</div>
 
-## Introdução
-Escolhemos o portal do DETRAN-PA por ser um sistema de alta relevância social que lida com processos críticos e um público extremamente heterogêneo. A complexidade de sua arquitetura de informação e a coexistência de múltiplos sub-sistemas (ChatBot, Agendamentos, Infrações, Estatísticas, Ouvidoria e etc… ) oferecem o cenário ideal para aplicar análises detalhadas e propor melhorias que garantam que a tecnologia seja uma facilitadora, e não uma barreira, para o cidadão.
-Contudo o grupo selecionou esse site para avaliar a necessidade de ajustes e a implementação de novas funcionalidades, visando uma análise detalhada de melhorias estruturais. O objetivo é aplicar os métodos ministrados em sala, evidenciando sua importância para que o usuário final disponha de um sistema que assegure qualidade, acessibilidade, usabilidade e segurança.
+> **Nota:** Repositório destinado aos artefatos desenvolvidos ao longo da disciplina de Interação Humano-Computador (IHC) da Universidade de Brasília (UnB).
 
-Nesta documentação, estão reunidos os artefatos desenvolvidos ao longo da disciplina de Interação Humano-Computador da Universidade de Brasília (UnB). O objetivo principal deste projeto é investigar a experiência dos usuários no Detran PA identificando dificuldades, necessidades e oportunidades de melhoria. A partir dessas análises, busca-se propor soluções que aprimorem a usabilidade, acessibilidade e eficiência do sistema, contribuindo para uma interação mais intuitiva e satisfatória para seus usuários.
+## 📖 Sobre o projeto
 
-## Nossa Equipe
+### Introdução
+Escolhemos o portal do **Laboratório Sabin** por ser um ecossistema digital de alta relevância social, que lida com processos críticos de saúde e atende a um público extremamente heterogêneo. A complexidade de sua arquitetura de informação e a coexistência de múltiplos serviços (Agendamento de Exames, Resultados Online, Central de Atendimento via WhatsApp, entre outros) oferecem o cenário ideal para aplicar análises detalhadas e propor melhorias que garantam que a tecnologia seja uma facilitadora — e não uma barreira — para o paciente.
+
+O grupo selecionou este site para avaliar a necessidade de ajustes de usabilidade e a implementação de novas funcionalidades, visando uma análise detalhada de melhorias estruturais. O objetivo é aplicar os métodos ministrados em sala, evidenciando sua importância para que o usuário final disponha de um sistema que assegure qualidade, acessibilidade, facilidade de uso e segurança.
+
+Nesta documentação, estão reunidos todos os artefatos desenvolvidos. O objetivo principal deste projeto é investigar a experiência dos usuários no portal Sabin, identificando dificuldades, necessidades e oportunidades de melhoria. A partir dessas análises, busca-se propor soluções que aprimorem a usabilidade e a eficiência do sistema, contribuindo para uma interação mais intuitiva e satisfatória.
+
+---
+
+## 👥 Nossa Equipe
 
 <table align="center">
   <tr>
