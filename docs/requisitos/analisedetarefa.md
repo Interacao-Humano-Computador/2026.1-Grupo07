@@ -3,7 +3,7 @@
 
 ## Introdução
 
-Conforme destacado na **Imagem 1**, uma **análise de tarefas** é utilizada para se ter um entendimento sobre qual é o trabalho dos usuários, como eles o realizam e por quê. Nesse tipo de análise, o trabalho é definido em termos dos objetivos que os usuários querem ou precisam atingir em seu contexto <span class="hover-image">(BARBOSA et al., 2021, p. 177)<sup class="Print">[PRINT]</sup><img class= "img" src="/assets/image-39.jpeg" alt="Imagem 1"> </span>.
+Conforme destacado na **Imagem 1**, uma **análise de tarefas** é utilizada para se ter um entendimento sobre qual é o trabalho dos usuários, como eles o realizam e por quê. Nesse tipo de análise, o trabalho é definido em termos dos objetivos que os usuários querem ou precisam atingir em seu contexto <span class="hover-image">(BARBOSA et al., 2021, p. 177)<sup class="Print">[PRINT]</sup><img class= "img" src="../assets/image-39.jpeg" alt="Imagem 1"> </span>.
 
 > *Legenda: Imagem 1 Fonte: (BARBOSA et al., 2021, p. 177).*
 
@@ -23,7 +23,7 @@ Na HTA, uma **tarefa** é qualquer parte do trabalho que precisa ser realizada, 
 
 > *Legenda: Imagem 4 Fonte: (BARBOSA et al., 2021, p 179).*
 
-A aplicação prática do método resulta na construção de uma árvore visual de decomposição. O diagrama parte de um objetivo geral no topo (por exemplo, "0. Cadastrar projeto final") e ramifica-se para subobjetivos e operações numeradas, explicitando os planos de execução e o fluxo que o usuário deve percorrer para concluir o trabalho <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="/assets/image-43.jpeg" alt="Imagem 3"> </span>.
+A aplicação prática do método resulta na construção de uma árvore visual de decomposição. O diagrama parte de um objetivo geral no topo (por exemplo, "0. Cadastrar projeto final") e ramifica-se para subobjetivos e operações numeradas, explicitando os planos de execução e o fluxo que o usuário deve percorrer para concluir o trabalho <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../assets/image-43.jpeg" alt="Imagem 3"> </span>.
 
 > *Legenda: Imagem 5 Fonte: (BARBOSA et al., 2021, p 181).*
 
@@ -39,7 +39,7 @@ Detalhando esses componentes na **Imagem 6**, os **operadores** são descritos c
 
 > *Legenda: imagem 6 Fonte: (BARBOSA et al., 2021, p 182).*
 
-A **Imagem 7** ressalta que, dentro da família de modelos baseados em GOMS, existem variações com diferentes níveis de complexidade e foco. Destacam-se as técnicas KLM (Card et al., 1983), CMN-GOMS (Card et al., 1983) e CPM-GOMS (John e Gray, 1995). <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="/assets/image-46.jpeg" alt="Imagem 3"> </span>
+A **Imagem 7** ressalta que, dentro da família de modelos baseados em GOMS, existem variações com diferentes níveis de complexidade e foco. Destacam-se as técnicas KLM (Card et al., 1983), CMN-GOMS (Card et al., 1983) e CPM-GOMS (John e Gray, 1995). <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../assets/image-46.jpeg" alt="Imagem 3"> </span>
 
 > *Legenda: Imagem 7 Fonte: (BARBOSA et al., 2021, p 182).*
 
@@ -51,11 +51,11 @@ De acordo com a **Imagem 8**, o KLM é a técnica mais simples da família GOMS 
 
 > *Legenda: Imagem 8 Fonte: (BARBOSA et al., 2021, p 182).*
 
-A **Imagem 5** ilustra a Tabela 8.5, que atribui durações médias (em segundos) para cada uma dessas operações do KLM. Por exemplo, a operação **K** (teclar) varia de 0,08s para um exímio digitador até 1,20s para alguém não familiarizado com o teclado, enquanto a preparação mental (**M**) consome em média 1,20s. <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="/assets/image-48.jpeg"> </span>
+A **Imagem 5** ilustra a Tabela 8.5, que atribui durações médias (em segundos) para cada uma dessas operações do KLM. Por exemplo, a operação **K** (teclar) varia de 0,08s para um exímio digitador até 1,20s para alguém não familiarizado com o teclado, enquanto a preparação mental (**M**) consome em média 1,20s. <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../assets/image-48.jpeg"> </span>
 
 > *Legenda: Imagem 9 Fonte: (BARBOSA et al., 2021, p 183).*
 
-A aplicação prática desses valores pode ser observada na **Imagem 10**, que demonstra o cálculo total de tempo para a tarefa de "Salvar arquivo". A análise compara diferentes métodos: usar o menu "Arquivo > Salvar" (totalizando 4,60s), clicar no botão de salvar na barra de ferramentas (3,10s) ou usar as teclas de atalho Ctrl+S (1,60s). <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="/assets/image-49.jpeg" alt="Imagem 6"> </span>
+A aplicação prática desses valores pode ser observada na **Imagem 10**, que demonstra o cálculo total de tempo para a tarefa de "Salvar arquivo". A análise compara diferentes métodos: usar o menu "Arquivo > Salvar" (totalizando 4,60s), clicar no botão de salvar na barra de ferramentas (3,10s) ou usar as teclas de atalho Ctrl+S (1,60s). <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../assets/image-49.jpeg" alt="Imagem 6"> </span>
 
 > *Legenda: Imagem 10 Fonte: (BARBOSA et al., 2021, p 184).*
 
@@ -63,17 +63,17 @@ A aplicação prática desses valores pode ser observada na **Imagem 10**, que d
 
 ## CMN-GOMS
 
-Como descrito na **Imagem 11**, o CMN-GOMS refere-se à proposta original do método GOMS. Neste modelo, exige-se uma hierarquia estrita de objetivos, onde os operadores são executados estritamente em ordem sequencial. Os métodos são documentados utilizando uma notação muito semelhante a um pseudocódigo computacional, incorporando submétodos e estruturas condicionais. <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="/assets/image-50.jpeg" alt="Imagem 7"> </span>
+Como descrito na **Imagem 11**, o CMN-GOMS refere-se à proposta original do método GOMS. Neste modelo, exige-se uma hierarquia estrita de objetivos, onde os operadores são executados estritamente em ordem sequencial. Os métodos são documentados utilizando uma notação muito semelhante a um pseudocódigo computacional, incorporando submétodos e estruturas condicionais. <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../assets/image-50.jpeg" alt="Imagem 7"> </span>
 
 > *Legenda: Imagem 11 Fonte: (BARBOSA et al., 2021, p 184).*
 
-...agem 12** apresenta o Exemplo 8.7, que demonstra um modelo CMN-GOMS sem detalhes para a tarefa de "descobrir a direção de tráfego de uma rua" no Google Maps. O objetivo principal (GOAL 0) é decomposto em subobjetivos (GOAL 1 e GOAL 2), oferecendo métodos alternativos de navegação que são condicionados por regras de seleção (SEL. RULE) baseadas no nível de conhecimento do usuário sobre o local. <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="/assets/image-51.jpeg alt="Imagem 8"> </span>
+...agem 12** apresenta o Exemplo 8.7, que demonstra um modelo CMN-GOMS sem detalhes para a tarefa de "descobrir a direção de tráfego de uma rua" no Google Maps. O objetivo principal (GOAL 0) é decomposto em subobjetivos (GOAL 1 e GOAL 2), oferecendo métodos alternativos de navegação que são condicionados por regras de seleção (SEL. RULE) baseadas no nível de conhecimento do usuário sobre o local. <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../assets/image-51.jpeg" alt="Imagem 8"> </span>
 
 > *Legenda: Imagem 12 Fonte: (BARBOSA et al., 2021, p 185).*
 
 Por fim, as **Imagens 13 e 14** expõem o Exemplo 8.8, que é o desdobramento aprofundado do modelo anterior. Este modelo detalhado expande os métodos até o nível mais granular das operações (OP.), como "deslocar o cursor do mouse" (OP. 1.A.A.1) ou "girar a roda do mouse para a frente" (OP. 1.A.A.2), mapeando de forma exaustiva todas as regras de seleção e passos físicos necessários para cumprir a meta no sistema. 
-<span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="/assets/image-52.jpeg" alt="Imagem 9"> </span>
-<span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="/assets/image-53.jpeg" alt="Imagem 10"> </span>
+<span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../assets/image-41.jpeg" alt="Imagem 1"> </span>.
+<span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../assets/image-44.jpeg" alt="Imagem 1"> </span>
 
 > *Legenda: Imagens 13 e 14 Fonte: (BARBOSA et al., 2021, p 185).*
 
@@ -100,7 +100,7 @@ Conforme destacado na **Imagem 18**, o modelo de árvores de tarefas concorrente
 
 > *Legenda: Imagem 18. Fonte: (BARBOSA et al., 2021, p 187).*
 
-A **Imagem 19** ilustra a representação visual na notação CTT. A Figura 8.4a apresenta os ícones específicos para cada um dos quatro tipos de tarefas (usuário, sistema, interativa e abstrata). Já a Figura 8.4b demonstra a estrutura hierárquica clássica do modelo, conectando uma tarefa abstrata raiz (T1) às suas tarefas subordinadas (T2 e T3) <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="/assets/image-58.jpeg" alt="Imagem 19"> </span>.
+A **Imagem 19** ilustra a representação visual na notação CTT. A Figura 8.4a apresenta os ícones específicos para cada um dos quatro tipos de tarefas (usuário, sistema, interativa e abstrata). Já a Figura 8.4b demonstra a estrutura hierárquica clássica do modelo, conectando uma tarefa abstrata raiz (T1) às suas tarefas subordinadas (T2 e T3) <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../assets/image-58.jpeg" alt="Imagem 19"> </span>.
 
 > *Legenda: Imagem 19. Fonte: (BARBOSA et al., 2021, p 187).*
 

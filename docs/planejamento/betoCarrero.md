@@ -10,7 +10,7 @@ Vamos utilizar a avaliação de heurísticas para identificação de possíveis 
 
 <center>Figura - I Descrição das atividades da avaliação heurística </center>
 
-![alt text](/assets/image-13.png)
+![alt text](../assets/image-13.png)
 <p style="font-size: 10pt;">Fonte: BARBOSA et al.(2021, p.)</p>
 
 

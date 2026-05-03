@@ -92,7 +92,7 @@
     --md-text-font:"Roboto";
     --md-code-font:"Roboto Mono";
     --md-primary-fg-color: #e61318;
-    --md-primary-fg-color--light: #f44336;
+    --md-primary-fg-color--light: #e61318;
     --md-primary-fg-color--dark: #c41e3a;
     --md-accent-fg-color: #e61318;
 }
