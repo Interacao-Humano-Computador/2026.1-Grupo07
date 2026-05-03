@@ -123,6 +123,7 @@ Por fim, a **Imagem 22** consolida todos esses conceitos por meio da Figura 8.6,
 * **Fonte:** BARBOSA, S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. *Interação Humano-Computador e Experiência do Usuário*. Rio de Janeiro: Autopublicação, 2021. (Capítulo 8).
 
 ---
+## Histórico de Versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 1/05/2026 | Criação do documento |[Maria Laura](https://github.com/Maria-Laura-Regis)|  |
