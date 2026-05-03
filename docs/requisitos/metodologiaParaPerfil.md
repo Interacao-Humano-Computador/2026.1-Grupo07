@@ -100,7 +100,7 @@ Além do Top 3 de importância, o secretário da sessão utilizou traços (`|`) 
 <<<<<<< HEAD:docs/requisitos/metodologiaParaPerfil.md
 A entrevista é a técnica escolhida para coletar dados qualitativos profundos sobre os perfis de usuários do portal Sabin. Diferente de questionários puramente quantitativos, esta abordagem nos permite compreender o contexto demográfico, o nível de letramento digital, e, principalmente, as dores e expectativas reais durante a jornada de uso de serviços de saúde digitais <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../assets/image-35.png" alt="Print"> </span>.
 =======
-A entrevista é a técnica escolhida para coletar dados qualitativos profundos sobre os perfis de usuários do portal Sabin. Diferente de questionários puramente quantitativos, esta abordagem nos permite compreender o contexto demográfico, o nível de letramento digital, e, principalmente, as dores e expectativas reais durante a jornada de uso de serviços de saúde digitais <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../docs/image-35.png" alt="Print"> </span>.
+A entrevista é a técnica escolhida para coletar dados qualitativos profundos sobre os perfis de usuários do portal Sabin. Diferente de questionários puramente quantitativos, esta abordagem nos permite compreender o contexto demográfico, o nível de letramento digital, e, principalmente, as dores e expectativas reais durante a jornada de uso de serviços de saúde digitais <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../assets/image-35.png" alt="Print"> </span>.
 
 >>>>>>> d245ce616a99b533644122fc21eee2fe373655da:docs/metodologiaParaPerfil.md
 
@@ -113,10 +113,10 @@ Optamos pelo formato de **Entrevista Semiestruturada**, com duração estimada d
 
 O roteiro projetado para esta coleta segue uma progressão lógica, baseada na estrutura apresnetada por  <span class="hover-image">Barbosa et al. (2021, p. 145)<sup class="Print">[PRINT]</sup><img class= "img" src="../assets/image-37.png" alt="Print"> </span>:
 =======
-Optamos pelo formato de **Entrevista Semiestruturada**, com duração estimada de 20 a 30 minutos. Esse modelo foi escolhido por fornecer um roteiro padronizado que garante a consistência da coleta entre diferentes participantes, ao mesmo tempo em que dá ao entrevistador a liberdade de fazer perguntas de aprofundamento (follow-up) sempre que o usuário mencionar uma dificuldade ou comportamento interessante <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../docs/image-36.png" alt="Print"> </span>.
+Optamos pelo formato de **Entrevista Semiestruturada**, com duração estimada de 20 a 30 minutos. Esse modelo foi escolhido por fornecer um roteiro padronizado que garante a consistência da coleta entre diferentes participantes, ao mesmo tempo em que dá ao entrevistador a liberdade de fazer perguntas de aprofundamento (follow-up) sempre que o usuário mencionar uma dificuldade ou comportamento interessante <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../assets/image-36.png" alt="Print"> </span>.
 
 
-O roteiro projetado para esta coleta segue uma progressão lógica, baseada na estrutura apresnetada por  <span class="hover-image">Barbosa et al. (2021, p. 145)<sup class="Print">[PRINT]</sup><img class= "img" src="../docs/image-37.png" alt="Print"> </span>:
+O roteiro projetado para esta coleta segue uma progressão lógica, baseada na estrutura apresnetada por  <span class="hover-image">Barbosa et al. (2021, p. 145)<sup class="Print">[PRINT]</sup><img class= "img" src="../assets/image-37.png" alt="Print"> </span>:
 >>>>>>> d245ce616a99b533644122fc21eee2fe373655da:docs/metodologiaParaPerfil.md
 
 1.  **Abertura:** Fase de alinhamento ético e quebra de gelo. O entrevistador explica o propósito da pesquisa (melhorar os serviços digitais do Sabin), garante que não há respostas certas ou erradas e solicita o consentimento para o registro dos dados, assegurando a confidencialidade.
@@ -152,7 +152,7 @@ Os dados coletados através deste roteiro gerarão uma integração rica de pers
 <<<<<<< HEAD:docs/requisitos/metodologiaParaPerfil.md
 O Grupo de Foco é uma técnica qualitativa baseada na dinâmica social. Diferente das entrevistas individuais, essa abordagem consiste em uma entrevista coletiva e interativa. Seu grande diferencial é a capacidade de revelar problemas, desafios, frustrações e preferências que frequentemente só emergem através da troca de experiências em um contexto social <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../assets/image-22.png" alt="Print"> </span>.
 =======
-O Grupo de Foco é uma técnica qualitativa baseada na dinâmica social. Diferente das entrevistas individuais, essa abordagem consiste em uma entrevista coletiva e interativa. Seu grande diferencial é a capacidade de revelar problemas, desafios, frustrações e preferências que frequentemente só emergem através da troca de experiências em um contexto social <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../docs/image-22.png" alt="Print"> </span>.
+O Grupo de Foco é uma técnica qualitativa baseada na dinâmica social. Diferente das entrevistas individuais, essa abordagem consiste em uma entrevista coletiva e interativa. Seu grande diferencial é a capacidade de revelar problemas, desafios, frustrações e preferências que frequentemente só emergem através da troca de experiências em um contexto social <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../assets/image-22.png" alt="Print"> </span>.
 
 >>>>>>> d245ce616a99b533644122fc21eee2fe373655da:docs/metodologiaParaPerfil.md
 
@@ -161,7 +161,7 @@ O Grupo de Foco é uma técnica qualitativa baseada na dinâmica social. Diferen
 <<<<<<< HEAD:docs/requisitos/metodologiaParaPerfil.md
 De acordo com <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../assets/image-23.png" alt="Print"> </span>, a estrutura da sessão segue os seguites aspectos:
 =======
-De acordo com <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../docs/image-23.png" alt="Print"> </span>, a estrutura da sessão segue os seguites aspectos:
+De acordo com <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../assets/image-23.png" alt="Print"> </span>, a estrutura da sessão segue os seguites aspectos:
 >>>>>>> d245ce616a99b533644122fc21eee2fe373655da:docs/metodologiaParaPerfil.md
 
 *   **Participantes:** A sessão reúne de 3 a 10 pessoas simultaneamente, permitindo coletar múltiplos pontos de vista de forma rápida.
@@ -175,7 +175,7 @@ De acordo com <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print"
 <<<<<<< HEAD:docs/requisitos/metodologiaParaPerfil.md
 A aplicação dos Grupos de Foco no contexto de serviços como o portal Sabin visa <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../assets/image-24.png" alt="Print"> </span>:
 =======
-A aplicação dos Grupos de Foco no contexto de serviços como o portal Sabin visa <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../docs/image-24.png" alt="Print"> </span>:
+A aplicação dos Grupos de Foco no contexto de serviços como o portal Sabin visa <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../assets/image-24.png" alt="Print"> </span>:
 >>>>>>> d245ce616a99b533644122fc21eee2fe373655da:docs/metodologiaParaPerfil.md
 
 
@@ -190,7 +190,7 @@ A aplicação dos Grupos de Foco no contexto de serviços como o portal Sabin vi
 <<<<<<< HEAD:docs/requisitos/metodologiaParaPerfil.md
 Para manter o foco e a produtividade, o moderador deve **evitar** pedir que os participantes façam previsões de utilidade sobre sistemas que ainda não experimentaram, bem como evitar tópicos polêmicos <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../assets/image-25.png" alt="Print"> </span>. 
 =======
-Para manter o foco e a produtividade, o moderador deve **evitar** pedir que os participantes façam previsões de utilidade sobre sistemas que ainda não experimentaram, bem como evitar tópicos polêmicos <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../docs/image-25.png" alt="Print"> </span>. 
+Para manter o foco e a produtividade, o moderador deve **evitar** pedir que os participantes façam previsões de utilidade sobre sistemas que ainda não experimentaram, bem como evitar tópicos polêmicos <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../assets/image-25.png" alt="Print"> </span>. 
 >>>>>>> d245ce616a99b533644122fc21eee2fe373655da:docs/metodologiaParaPerfil.md
 
 A discussão coletiva deve ser guiada por tópicos concretos, tais como:
