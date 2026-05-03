@@ -1,6 +1,7 @@
 site_name: IHC Grupo 7 - Sabin
 theme:
   name: material
+  custom_dir: docs/overrides
   favicon: assets/logo-sabin.png
   logo: assets/logo-sabin.png
   icon:
