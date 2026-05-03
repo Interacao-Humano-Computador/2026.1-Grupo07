@@ -51,9 +51,9 @@
       </a><br>
     </td>
     <td align="center">
-      <a href="https://github.com/SemC0ndicao">
-        <img src="https://avatars.githubusercontent.com/u/117684340?v=4" width="100px;" alt="Vitor"/><br>
-        <sub><b>Vitor Evangelista</b></sub>
+      <a href="https://github.com/nathanpromao">
+        <img src="https://avatars.githubusercontent.com/u/117684340?v=4" width="100px;" alt="Nathan"/><br>
+        <sub><b>Nathan Promtao</b></sub>
       </a><br>
     </td>
     <td align="center">
