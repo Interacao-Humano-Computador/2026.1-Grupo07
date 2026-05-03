@@ -118,11 +118,94 @@ Por fim, a **Imagem 22** consolida todos esses conceitos por meio da Figura 8.6,
 
 ---
 
+## Análise de Tarefas Realizadas
+
+# Análise de Tarefas
+
+Esta análise avalia a funcionalidade de **pré-agendamento de exames via envio de guias médicas** no portal do Sabin. No cenário mapeado, a usuária (Márcia) tenta utilizar o fluxo automatizado do site enviando fotos dos pedidos médicos. O sistema identifica os exames, mas fornece uma instrução genérica exigindo 12 horas de jejum. 
+
+Como o paciente (seu marido) faz uso de medicação contínua para hipertensão logo ao acordar, Márcia tenta utilizar o botão de "Dúvidas Frequentes" para verificar se a medicação quebra o jejum. Ao se deparar com um manual em PDF longo e sem ferramenta de busca, ela se sente insegura, abandona o processo automatizado e recorre ao ícone do WhatsApp para finalizar o agendamento com um atendente humano, garantindo que o preparo seja feito corretamente.
+
+Abaixo, a decomposição dessa interação utilizando os métodos de Árvores de Tarefas Concorrentes (CTT) e GOMS (KLM).
+
+---
+
+## 1. Árvores de Tarefas Concorrentes (ConcurTaskTrees - CTT)
+
+A notação CTT a seguir demonstra a decomposição hierárquica do cenário. O processo ilustra a interrupção (desativação `[>`) do fluxo principal automatizado devido à falha de suporte da interface, forçando a usuária a migrar para um fluxo alternativo de atendimento.
+
+**Legenda de Tarefas:** 
+☁️ Abstrata | 👤 Usuário | 🖥️ Sistema | 🖱️ Interativa
+**Legenda de Relações:** 
+`>>` (Ativação) | `[]>>` (Ativação com passagem de informação) | `[>` (Desativação)
+
+*   **0. Agendar exames com dúvida crítica** ☁️
+    *   **1. Tentar agendamento automatizado** ☁️ `[>` **2. Buscar atendimento humano (WhatsApp)** ☁️
+        *   **1.1.** Acessar funcionalidade de envio de pedido 🖱️ `>>`
+        *   **1.2.** Tirar fotos das guias médicas 🖱️ `[]>>`
+        *   **1.3.** Processar imagens e identificar exames 🖥️ `[]>>`
+        *   **1.4.** Exibir aviso genérico de preparo (12h de jejum) 🖥️ `>>`
+        *   **1.5.** Avaliar instruções e constatar conflito com medicação 👤 `>>`
+        *   **1.6.** Esclarecer dúvida de preparo ☁️
+            *   **1.6.1.** Clicar no botão "Dúvidas Frequentes" 🖱️ `>>`
+            *   **1.6.2.** Carregar e exibir manual em PDF 🖥️ `>>`
+            *   **1.6.3.** Tentar localizar termo "hipertensão" no documento 👤 `>>`
+            *   **1.6.4.** Constatar impossibilidade de busca e abandonar fluxo 🖱️
+    *   **2. Buscar atendimento humano (WhatsApp)** ☁️
+        *   **2.1.** Retornar à tela inicial do aplicativo/site 🖱️ `>>`
+        *   **2.2.** Clicar no ícone de atendimento via WhatsApp 🖱️ `>>`
+        *   **2.3.** Enviar fotos das guias e relatar dúvida ao atendente 🖱️
+
+---
+
+## 2. GOMS: Keystroke-Level Method (KLM)
+
+A análise KLM abaixo quantifica o tempo despendido pela usuária no cenário, adaptando os operadores primitivos (Point, Click) para a interação via tela de toque (Smartphone). 
+
+**Operadores utilizados:**
+*   **M** (Preparação mental): 1,20 s
+*   **P** (Apontar para o elemento na tela): 1,10 s
+*   **K** (Tocar/Clicar no botão ou tela): 0,20 s
+*   **W(t)** (Tempo de espera de resposta do sistema): Estimado
+
+### Análise da Tarefa: Tentar agendar exame e migrar para WhatsApp
+
+| operação | descrição | tempo (em s) |
+| :--- | :--- | :--- |
+| **método:** fluxo automatizado (falha) | | |
+| M | preparação (decidir iniciar agendamento) | 1,20 |
+| P | levar o dedo até o botão de envio de guia | 1,10 |
+| K | tocar no botão | 0,20 |
+| M | preparação (posicionar câmera sobre as guias) | 1,20 |
+| P | levar o dedo até o disparador da câmera | 1,10 |
+| K | tocar para capturar e enviar foto | 0,20 |
+| W(t) | espera pela leitura da IA (estimativa) | 3,00 |
+| M | preparação (ler o preparo de 12h e lembrar do remédio) | 1,20 |
+| P | levar o dedo até o botão "Dúvidas Frequentes" | 1,10 |
+| K | tocar no botão | 0,20 |
+| W(t) | espera pelo carregamento do PDF (estimativa) | 2,00 |
+| M | preparação (rolar o PDF, perceber que é longo e frustrar-se)| 1,20 |
+| P | levar o dedo até o botão de fechar/voltar | 1,10 |
+| K | tocar no botão | 0,20 |
+| **método:** recuperação via atendimento humano | | |
+| M | preparação (decidir abandonar e usar o WhatsApp) | 1,20 |
+| P | levar o dedo até o ícone de Início/Home | 1,10 |
+| K | tocar no botão | 0,20 |
+| M | preparação (localizar o ícone flutuante do WhatsApp) | 1,20 |
+| P | levar o dedo até o ícone do WhatsApp | 1,10 |
+| K | tocar no botão para abrir o chat | 0,20 |
+| | **tempo total estimado do cenário** | **19,80** |
+
+**Observação Analítica:** A tarefa de pré-agendamento deveria ser um fluxo rápido de inserção de dados. No entanto, devido à falha de suporte informacional (PDF não pesquisável), a usuária gasta quase 20 segundos apenas para realizar tentativas frustradas e ser obrigada a iniciar um segundo fluxo (WhatsApp), o que sobrecarrega tanto o tempo da usuária quanto os recursos de atendimento humano do laboratório.
+
+---
+
 ## Referências
 
 * **Fonte:** BARBOSA, S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. *Interação Humano-Computador e Experiência do Usuário*. Rio de Janeiro: Autopublicação, 2021. (Capítulo 8).
 
 ---
+## Histórico de Versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 1/05/2026 | Criação do documento |[Maria Laura](https://github.com/Maria-Laura-Regis)|  |

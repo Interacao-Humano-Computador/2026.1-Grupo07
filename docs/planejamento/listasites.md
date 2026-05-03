@@ -100,6 +100,15 @@ A avaliação por inspeção revelou que, embora o sistema seja funcional, ele p
 
 [ [Analise Detalhada](ReceitaFederal.md) realizada por Hugo Freitas. ]
 
+#### Laboratório Sabin <a href="https://www.sabin.com.br/">(link de acesso)</a>
+
+![alt text](../assets/image-sabin.png)
+
+O portal do Laboratório Sabin representa um ecossistema essencial de serviços de saúde digital, sendo um objeto de estudo crítico para a análise de IHC devido à sua importância operacional e à diversidade de perfis atendidos, que variam desde pacientes particulares com alta instrução tecnológica até idosos e familiares que priorizam a facilidade e a segurança na navegação.
+
+A avaliação por inspeção revelou que, embora o sistema atenda ao seu propósito institucional, ele apresenta problemas moderados e graves de usabilidade que afetam a fluidez das tarefas diárias. Foram identificadas violações significativas no fluxo de agendamento de exames, que falha na **Correspondência entre o sistema e o mundo real** e na **Flexibilidade e eficiência de uso** devido a passos excessivos e termos confusos. A análise também destaca problemas na **Visibilidade do status do sistema** e no **Projeto estético e minimalista**, onde a mistura de conteúdos institucionais de marketing com serviços essenciais gera uma sobrecarga visual (ruído). Esses obstáculos dificultam o acesso rápido aos resultados e a localização de unidades, impactando diretamente a autonomia e a eficiência do usuário final.
+
+[ [Análise Detalhada](sabin.md) realizada por Hugo. ]
 
 ## Referências
 
@@ -116,3 +125,4 @@ A avaliação por inspeção revelou que, embora o sistema seja funcional, ele p
 | 1.0 | 11/04/2026 | Criação do documento | [Vitor Evangelista](https://github.com/SemC0ndicao) | [Ingrid Alves](https://github.com/alvesingrid) |
 | 1.1 | 22/04/2026 | Adição do histórico de versão | [Ingrid Alves](https://github.com/alvesingrid) | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 | 1.2 | 24/04/2026 | Adequação ao feedback do professor | [Philipe Amancio](https://github.com/Phill-Chill) |  |
+| 1.3 | 01/05/2026 | Adição de avaliações | [Maria Laura](https://github.com/Maria-Laura-Regis) |  |
