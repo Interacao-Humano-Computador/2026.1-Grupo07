@@ -95,7 +95,7 @@ Para evitar que a discussão se torne puramente abstrata, é altamente recomend�
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 1/05/2026 | Criação do documento e abordagens das ferramentas selecionadas |[Philipe Amancio](https://github.com/Phill-Chill)|  |
+| 1.0 | 1/05/2026 | Criação do documento e abordagens das ferramentas selecionadas |[Philipe Amancio](https://github.com/Phill-Chill)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 
 ## Referência bibliográfica
 

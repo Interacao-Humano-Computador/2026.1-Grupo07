@@ -4,9 +4,9 @@
 
 **Equipe Facilitadora (Papéis):**
 
-*   **Moderador:** Conduz a sessão, faz as perguntas norteadoras e **parafraseia** as ideias dos usuários para garantir o entendimento técnico.
-*   **Secretário:** Anota e enumera apenas as ideias que já foram validadas e parafraseadas pelo moderador.
-*   **Cinegrafista:** Grava áudio e vídeo de toda a sessão para análise de contexto posterior.
+*   **Moderador:** (Philipe Amâncio) Conduz a sessão, faz as perguntas norteadoras e **parafraseia** as ideias dos usuários para garantir o entendimento técnico.
+*   **Secretário:** (Hugo Freitas) Anota e enumera apenas as ideias que já foram validadas e parafraseadas pelo moderador.
+*   **Cinegrafista:** (Maria Laura) Grava áudio e vídeo de toda a sessão para análise de contexto posterior.
 
 **Fluxo da Dinâmica:**
 
@@ -99,7 +99,7 @@ Além do Top 3 de importância, o secretário da sessão utilizou traços (`|`) 
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 1/05/2026 | Criação do documento |[Philipe Amancio](https://github.com/Phill-Chill)|  |
+| 1.0 | 1/05/2026 | Criação do documento |[Philipe Amancio](https://github.com/Phill-Chill)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 
 ## Referência bibliográfica
 
