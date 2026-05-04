@@ -68,10 +68,14 @@
 .hover-image .img {
   display: none;
   position: absolute;
-  top: 1.6em;
-  width: 50vw;
-  max-width: 80vw;
+  top: calc(100% + 0.6rem);
+  left: 50%;
+  transform: translateX(-50%);
+  width: min(50vw, 42rem);
+  max-width: calc(100vw - 2rem);
+  max-height: calc(100vh - 8rem);
   height: auto;
+  object-fit: contain;
   border-radius: 8px;
   border: 1px solid rgba(0, 0, 0, 0.2);
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);

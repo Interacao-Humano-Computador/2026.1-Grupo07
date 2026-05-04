@@ -1,3 +1,11 @@
+# Introdução
+Este roteiro de entrevista semiestruturada foi desenvolvido com o objetivo de compreender de forma aprofundada o perfil dos usuários do site do Laboratório Sabin. A proposta é identificar características demográficas, nível de familiaridade com tecnologia, comportamentos de uso, necessidades, dificuldades e expectativas em relação aos serviços digitais oferecidos.
+
+Por meio de uma abordagem flexível e centrada no usuário, a entrevista busca captar experiências reais, permitindo que os participantes relatem suas percepções de forma livre e detalhada. As informações coletadas servirão como base para a análise de usabilidade e para a identificação de oportunidades de melhoria no site, contribuindo para o desenvolvimento de soluções mais intuitivas, eficientes e alinhadas às demandas dos usuários.
+
+A entrevista tem duração estimada de 20 a 30 minutos, é confidencial e não possui respostas certas ou erradas — o foco está na experiência individual de cada participante.
+
+
 # Roteiro de Entrevista Semiestruturada – Perfil de Usuários do Site Sabin
 
 ## Objetivo da Entrevista

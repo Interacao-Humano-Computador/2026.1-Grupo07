@@ -65,6 +65,6 @@ Esses aspectos indicam oportunidades de melhoria na interface e no fluxo do sist
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 1/05/2026 | Criação do documento e adição do cenário 01 |[Philipe Amancio](https://github.com/Phill-Chill)| Maria Laura |
-| 1.1 | 1/05/2026 | Adição do cenário 2 |[Maria Laura Regis](https://github.com/Maria-Laura-Regis)|  |
-| 1.2 | 1/05/2026 | Adição do cenário 3 |[Maria Laura Regis](https://github.com/Maria-Laura-Regis)|  |
+| 1.0 | 01/05/2026 | Criação do documento e adição do cenário 01 |[Philipe Amancio](https://github.com/Phill-Chill)| [Maria Laura Regis](https://github.com/Maria-Laura-Regis) |
+| 1.1 | 01/05/2026 | Adição do cenário 2 |[Maria Laura Regis](https://github.com/Maria-Laura-Regis)| [Hugo Freitas Silva](https://github.com/HugoFreitass)|
+| 1.2 | 01/05/2026 | Adição do cenário 3 |[Maria Laura Regis](https://github.com/Maria-Laura-Regis)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |

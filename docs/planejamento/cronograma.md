@@ -215,4 +215,4 @@
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 11/04/2026 | Criação do documento  |[Hugo Freitas Silva](https://github.com/HugoFreitass) | [Thaiza Weert ](https://github.com/ThaizaWeert) |
 | 1.1 | 22/04/2026 | Adição do historico de versão| [Ingrid Alves](https://github.com/alvesingrid) |[Hugo Freitas Silva](https://github.com/HugoFreitass) |
-| 1.2 | 30/05/2026 | Adição do cronograma de apresentações 2 á 8| [Maria Laura](https://github.com/alvesingrid) |[Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.2 | 30/04/2026 | Adição do cronograma de apresentações 2 á 8| [Maria Laura](https://github.com/alvesingrid) |[Hugo Freitas Silva](https://github.com/HugoFreitass) |

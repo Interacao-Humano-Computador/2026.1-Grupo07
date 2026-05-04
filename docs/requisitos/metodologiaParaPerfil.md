@@ -30,23 +30,33 @@ Para atingir esse objetivo, adota-se uma estratégia de triangulação combinand
 
 **Metodologia de Classificação:**
 Durante a dinâmica, os participantes elencaram as funcionalidades e o escopo foi definido com base em dois critérios visuais anotados no quadro:
+
 1. **Priorização (Asteriscos):** O que as pessoas julgaram ser mais crítico/difícil.
-   * `***` : O mais importante
-   * `**` : O segundo mais importante
-   * `*` : O terceiro mais difícil / importante
+
+    - `***` : O mais importante
+    - `**` : O segundo mais importante
+    - `*` : O terceiro mais difícil / importante
+
 2. **Frequência (Traços `|`):** Representa quantas vezes a mesma funcionalidade foi citada por participantes diferentes durante a sessão, indicando o quão comum é aquela necessidade no grupo.
 
 ### Registros da Sessão
 
 Abaixo estão as imagens da lousa utilizada durante a dinâmica, contendo todas as anotações, os asteriscos de prioridade e os traços de frequência:
+
+<div align="center">Imagem I - Levantamento de requisitos pelo Brainstoming</div>
 ![Quadro 1](../../assets/Image-63.jpeg)
-> *Legenda: Imagem I. Fonte: autoria própria.*
+<div align="center">Fonte: autoria própria.</div>
+<br>
 
+<div align="center">Imagem II - Levantamento de requisitos pelo Brainstoming</div>
 ![Quadro 2](../../assets/Image-64.jpeg)
-> *Legenda: Imagem II. Fonte: autoria própria.*
+<div align="center">Fonte: autoria própria.</div>
+<br>
 
+<div align="center">Imagem III - Levantamento de requisitos pelo Brainstoming</div>
 ![Quadro 3](../../assets/Image-65.jpeg)
-> *Legenda: Imagem III. Fonte: autoria própria.*
+<div align="center">Fonte: autoria própria.</div>
+<br>
 
 ---
 

@@ -6,7 +6,6 @@ O **perfil de usuário** é uma descrição detalhada das características das p
 
 Para garantir a precisão, é necessário identificar características de interesse (como cargo, função, experiência, nível de instrução, atividades principais e faixa etária) e conduzir estudos para coletar dados reais do público <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/image-21.png" alt="Print"> </span>.
 
-> Autor(es): Philipe Amâncio
 
 ## Perfil de Usuário (iterado)
 
