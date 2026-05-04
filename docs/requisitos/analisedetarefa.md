@@ -241,7 +241,73 @@ Figura II - Diagrama em Árvore de Tarefas Concorrentes (CTT)
 
 > Fonte: autoria própria.
 
+# 3. Visualização e Download de Laudo de Exame
 
+Esta análise aborda uma funcionalidade de extrema importância e alta frequência de uso no portal do Sabin: **a consulta e o download de resultados de exames (laudos)**. No cenário analisado, a usuária Camila (gestante e paciente frequente) acessa o sistema pelo smartphone com o objetivo de verificar se o resultado do seu último exame de acompanhamento pré-natal já foi liberado e, em seguida, baixar o PDF para enviar à sua obstetra.
+
+Como a usuária tem um perfil de alta ansiedade por conta da gestação e realiza exames frequentemente, a agilidade do login e a clareza visual do *status* do exame na tela são fatores críticos para o sucesso da interação e a satisfação com a interface.
+
+Abaixo, apresentamos a decomposição dessa interação utilizando a Análise Hierárquica de Tarefas (HTA) para estruturar o fluxo lógico e o método GOMS (KLM) para quantificar o tempo de execução na interface móvel.
+
+---
+
+## 3.1 Análise Hierárquica de Tarefas (HTA)
+
+A HTA abaixo descreve o plano de ação necessário para que a usuária cumpra seu objetivo principal a partir do momento em que pega o celular.
+
+**0. Obter laudo de exame online [Plano: 1 > 2 > 3 > 4]**
+* **1. Realizar Autenticação no portal [Plano: 1.1 > 1.2 > 1.3 > 1.4]**
+    * 1.1. Acessar a página de login/resultados
+    * 1.2. Escolher o método de acesso rápido (Token via SMS)
+    * 1.3. Inserir o CPF
+    * 1.4. Inserir o código recebido via SMS
+* **2. Localizar o exame de interesse [Plano: 2.1 > 2.2]**
+    * 2.1. Acessar a aba ou seção "Últimos Resultados"
+    * 2.2. Identificar o exame desejado pela data ou nome
+* **3. Baixar o documento do laudo [Plano: 3.1 > 3.2]**
+    * 3.1. Clicar sobre o *card* do exame liberado
+    * 3.2. Acionar o botão "Baixar PDF"
+* **4. Compartilhar o documento (Tarefa externa) [Plano: 4.1 > 4.2]**
+    * 4.1. Selecionar a opção de compartilhamento nativa do smartphone
+    * 4.2. Escolher o mensageiro (WhatsApp) e enviar para a médica
+
+**Tabela HTA:**
+
+| Objetivo / Operação | Plano | Input | Ação | Feedback | Problemas e Recomendações |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **0. Obter laudo** | 1>2>3>4 | Necessidade de ver o resultado do exame | Logar, localizar exame, baixar PDF e compartilhar | Laudo em PDF no aparelho ou enviado ao médico | Lentidão ou falha no download geram extrema frustração. |
+| **1. Autenticação** | 1>2>3>4 | Tela de Login | Optar por login via SMS e inserir dados | Acesso concedido, direcionamento à *Home* | Atraso no envio do SMS pode interromper o fluxo; manter opção de senha padrão bem visível. |
+| **2. Localizar exame**| 1>2 | Logado na *Home* | Rolar tela até "Últimos Resultados" e clicar no exame | Tela de detalhes do exame específica carregada | Exames devem ter *status* visual muito claro (ex: "Em processamento" vs "Liberado"). |
+| **3. Baixar PDF** | 1>2 | Tela de detalhes do exame | Tocar no botão de download | Arquivo PDF aberto/salvo no celular | O botão "Baixar PDF" deve ter grande destaque (*Call to Action* primário) e permitir baixar todos os exames de um pedido em um arquivo único. |
+
+---
+
+## 3.2 GOMS: Keystroke-Level Method (KLM)
+
+A análise KLM a seguir quantifica o tempo despendido pela usuária no cenário, assumindo que ela já está logada no sistema e navegando pelo Smartphone (adaptação dos operadores para tela sensível ao toque).
+
+**Operadores utilizados (Padrão Mobile):**
+* **M** (Preparação mental): 1,20 s
+* **P** (Apontar para o elemento na tela / Rolar tela): 1,10 s
+* **K** (Tocar/Clicar no botão ou tela): 0,20 s
+* **W(t)** (Tempo de espera de resposta do sistema): Estimado conforme o contexto
+
+### Análise da Tarefa: Localizar exame recente e baixar PDF
+
+| Operação | Descrição | Tempo (em s) |
+| :--- | :--- | :--- |
+| **método:** | fluxo de download de laudo (sucesso) | |
+| M | preparação mental (decidir procurar os exames mais recentes na tela) | 1,20 |
+| P | rolar a tela / apontar o dedo até a seção "Últimos Resultados" | 1,10 |
+| K | tocar sobre o *card* do exame correspondente à data correta | 0,20 |
+| W(t) | aguardar o carregamento da página de detalhes do exame (estimativa) | 1,50 |
+| M | preparação mental (localizar a opção de download) | 1,20 |
+| P | apontar o dedo para o ícone/botão de "Baixar PDF" | 1,10 |
+| K | tocar no botão de download | 0,20 |
+| W(t) | aguardar a geração e abertura do PDF no aparelho (estimativa) | 2,00 |
+| | **tempo total estimado da tarefa** | **8,50** |
+
+**Observação Analítica:** A tarefa de baixar um laudo para um usuário já logado é um processo que deve ser extremamente rápido e direto, custando em média menos de 10 segundos. O ponto crítico (gargalo) é o tempo de resposta do sistema **W(t)** para gerar o PDF. A interface deve priorizar a visibilidade da seção "Últimos Resultados" logo na primeira dobra da tela inicial para minimizar o esforço de busca (Operadores M e P) por parte da paciente.
 
 
 
@@ -503,4 +569,7 @@ BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuári
 | Versão | Data | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 1/05/2026 | Criação do documento |[Maria Laura](https://github.com/Maria-Laura-Regis)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.1 | 4/05/2026 | Ajustes no documento |[Ingrid Alves](https://github.com/alvesingrid)|  |
+
+
 ---

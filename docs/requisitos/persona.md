@@ -94,13 +94,35 @@ A criação de personas serve para combater o problema do "usuário elástico", 
 | **Domínio e Vocabulário** | **Domínio do Tema:** Básico a intermediário (conhece sua saúde, mas não os jargões). <br> **Idiomas:** Português fluente. <br> **Jargões:** Compreende termos básicos de saúde, mas não possui familiaridade com linguagem técnica avançada. |
 | **Citação Representativa** | *"Quero resolver tudo rápido, sem precisar ficar procurando informação."* |
 
+# Persona 5:
+
+> ### Camila Fernandes (Paciente Frequente / Gestante)
+
+| Categoria | Detalhes do Perfil |
+| :--- | :--- |
+| **Foto** | ![alt text](../assets/persona_camila.png){width="600"} |
+| **Identidade** | **Nome:** Camila Fernandes <br> **Idade:** 29 anos <br> **Sexo:** Feminino <br> **Localização:** Valparaíso de Goiás, GO (Trabalha em Brasília, DF) <br> **Status Socioeconômico:** Classe Média <br> **Status na Pesquisa:** Persona Primária |
+| **Perfil Geral** | Professora do ensino fundamental, atualmente grávida do primeiro filho (24 semanas). Devido ao pré-natal, sua rotina de idas ao laboratório passou de anual para mensal. É muito organizada, mas a gravidez a deixou mais ansiosa com prazos e resultados. |
+| **Educação e Aprendizado** | **Formação:** Ensino Superior Completo em Pedagogia <br> **Nível de Leitura / Digital:** Alto / Alto <br> **Preferência de Aprendizado:** Gosta de interfaces explicativas, mas que vão direto ao ponto. Lê notificações e dicas curtas. <br> **Observação:** Prefere sistemas que a avisem proativamente (por SMS ou e-mail) do que ter que ficar "caçando" a informação. |
+| **Experiência Profissional** | **Cargo:** Professora de Ensino Fundamental. <br> **Responsabilidades:** Planejamento de aulas, correção de atividades e reuniões pedagógicas. <br> **Plano de Carreira:** Focar na estabilidade atual para poder se dedicar à maternidade nos próximos meses. |
+| **Relação com Tecnologia** | **Nível:** Alto. <br> **Dispositivos:** Smartphone (dispositivo principal, sempre em mãos) e Notebook. <br> **Sistemas:** Usa redes sociais, aplicativos de acompanhamento de gravidez, agenda digital e apps de banco. <br> **Preferência:** Aplicativos responsivos que funcionem perfeitamente no celular, já que passa muito tempo em pé ou longe do computador. |
+| **Experiência com Sistemas** | **Uso Atual:** Acessa o site do laboratório várias vezes na mesma semana quando faz exames importantes (como ultrassom morfológico ou curva glicêmica). <br> **Pontos Positivos:** Tem facilidade para navegar, filtrar exames por data e baixar PDFs. <br> **Frustrações:** Fica muito frustrada quando o sistema diz que o exame "está em análise" além do prazo ou quando precisa baixar 5 PDFs separados em vez de um laudo único. |
+| **Objetivos** | **Finais:** Visualizar resultados parciais de exames assim que são liberados e enviar os laudos consolidados para a sua obstetra. <br> **De Experiência:** Quer um acesso rápido, com indicadores visuais claros (como tags de "Liberado" ou "Em processamento"). <br> **De Vida:** Garantir que a saúde do bebê e a sua estejam perfeitas, sem estresse desnecessário com burocracia. |
+| **Habilidades e Tarefas** | **Competências:** Navegação fluida em abas, download e compartilhamento de arquivos em nuvem ou mensageiros. <br> **Tarefas Críticas:** Acompanhar status de exames (ansiedade pelo resultado) e baixar laudos. <br> **Tarefas Secundárias:** Agendar exames específicos que exigem autorização do convênio. |
+| **Relacionamentos** | **Interações:** Obstetra (contato frequente via WhatsApp para tirar dúvidas dos laudos) e recepção do laboratório. <br> **Influência:** Participa de grupos de gestantes no WhatsApp e costuma recomendar laboratórios que oferecem um bom aplicativo/site. |
+| **Requisitos e Expectativas** | **Necessidades:** Clareza no status do exame (se já saiu ou quando vai sair) e facilidade para baixar tudo de uma vez. <br> **Modelo Mental:** Se o laboratório prometeu o resultado para as 16h, ela fará login às 15h50 esperando que já esteja disponível na tela inicial. |
+| **Atitudes e Tolerância** | **Perfil:** Engajada e atenta aos detalhes, porém impaciente com lentidão. <br> **Tolerância a falhas:** Média para erros do sistema (tenta recarregar a página), mas baixíssima para falta de transparência na informação. <br> **Comportamento no Erro:** Se o laudo não carrega, ela imediatamente procura o chat de atendimento ou liga na central, pois teme que haja algo errado com o exame em si. |
+| **Domínio e Vocabulário** | **Domínio do Tema:** Intermediário (aprendeu muitos termos médicos recentemente por causa da gravidez). <br> **Idiomas:** Português fluente. <br> **Jargões:** Já entende termos como "Toxoplasmose", "TSH", "Glicemia de jejum", mas ainda prefere ver a conclusão do laudo de forma clara. |
+| **Citação Representativa** | *"Eu atualizo a página do laboratório o dia inteiro só para ver se o resultado do exame do meu bebê já saiu."* |
+
 
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 1/05/2026 | Criação do documento e adição da persona "Roberto" |[Philipe Amancio](https://github.com/Phill-Chill)| Maria Laura |
+| 1.0 | 1/05/2026 | Criação do documento e adição da persona "Roberto" |[Philipe Amancio](https://github.com/Phill-Chill)| [Maria Laura Regis](https://github.com/Maria-Laura-Regis)| 
 | 1.1 | 1/05/2026 | Adição da persona "Marcia" e "Mariana" |[Maria Laura Regis](https://github.com/Maria-Laura-Regis)|  |
 | 1.2 | 2/05/2026 | Adição da persona "Ayla |[Nathan Pontes Romão](https://github.com/nathanpromao)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.3 | 4/05/2026 | Adição da persona "Camila" |[Ingrid Alves](https://github.com/alvesingrid)|  |
 
 ## Referência bibliográfica
 

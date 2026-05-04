@@ -61,6 +61,24 @@ insegurança do usuário quanto à execução correta do processo.
 
 Esses aspectos indicam oportunidades de melhoria na interface e no fluxo do sistema, especialmente no suporte à tomada de decisão do usuário e na redução de erros com impacto direto na realização do exame.
 
+# Cenário 04: Acompanhamento de resultados e download de laudos durante o pré-natal
+
+**Atores:** Camila Fernandes (Paciente Frequente / Gestante), sistema do site Sabin
+
+Camila, uma professora de 29 anos grávida de 24 semanas, está no intervalo de suas aulas e sente-se ansiosa para conferir o resultado do exame de Curva Glicêmica que realizou no dia anterior no laboratório Sabin. A médica obstetra solicitou urgência, pois os níveis de glicose no sangue ditam as próximas etapas de sua dieta e suplementação. Sabendo que o prazo de entrega era para aquela tarde, Camila acessa o portal do Sabin através do navegador do seu smartphone.
+
+Desejando um acesso rápido e direto, ela opta por fazer o "Login por Token (SMS)" inserindo apenas o seu CPF, pois evita digitar senhas complexas no celular enquanto está caminhando pelos corredores da escola. Após receber o código por SMS e inseri-lo, o sistema a direciona para a página inicial logada. Imediatamente, seu objetivo principal é encontrar o status do exame atual, mas ela precisa rolar a tela buscando a aba de "Resultados". 
+
+Ao localizar o exame pela data de ontem, ela clica no *card* correspondente, sentindo alívio ao ver a *tag* "Liberado". O próximo passo é enviar o documento para sua médica. Camila clica no botão "Baixar PDF". No entanto, em vez de gerar um arquivo único consolidado com todas as coletas da curva glicêmica, o sistema abre uma nova tela exigindo que ela faça o download de três arquivos PDF separados, um para cada intervalo de coleta (jejum, 1 hora e 2 horas). 
+
+Apesar de conseguir completar sua tarefa principal (acessar os resultados), o processo gera atrito e uma carga de trabalho desnecessária. Camila tem que baixar os três arquivos, abrir a galeria/arquivos do celular, selecionar os três documentos e compartilhá-los via WhatsApp com a obstetra, escrevendo uma mensagem explicando qual arquivo é qual. Essa experiência fragmentada a deixa levemente frustrada com a falta de consolidação da interface, embora ela aprecie a rapidez com que a notificação inicial do resultado foi disponibilizada.
+
+**Análise do cenário**
+Nesse cenário, observam-se os seguintes pontos críticos:
+* **Eficiência de login:** O uso de token SMS agiliza muito o acesso em dispositivos móveis.
+* **Visibilidade de status:** O uso de *tags* visuais ("Liberado", "Em análise") atende à necessidade da paciente ansiosa, mas a informação de resultados recentes deveria estar na primeira dobra da tela.
+* **Fragmentação de arquivos:** A necessidade de baixar múltiplos PDFs para exames seriados gera trabalho adicional e confuso para o usuário no momento do compartilhamento.
+
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor |
@@ -68,6 +86,7 @@ Esses aspectos indicam oportunidades de melhoria na interface e no fluxo do sist
 | 1.0 | 01/05/2026 | Criação do documento e adição do cenário 01 |[Philipe Amancio](https://github.com/Phill-Chill)| [Maria Laura Regis](https://github.com/Maria-Laura-Regis) |
 | 1.1 | 01/05/2026 | Adição do cenário 2 |[Maria Laura Regis](https://github.com/Maria-Laura-Regis)| [Hugo Freitas Silva](https://github.com/HugoFreitass)|
 | 1.2 | 01/05/2026 | Adição do cenário 3 |[Maria Laura Regis](https://github.com/Maria-Laura-Regis)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.3 | 04/05/2026 | Adição do cenário 4 |[Ingrid Alves](https://github.com/alvesingrid)|  |
 
 ## Referência bibliográfica
 
