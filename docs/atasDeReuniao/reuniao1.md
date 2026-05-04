@@ -18,7 +18,9 @@ Este documento tem como objetivo registrar as deliberações, decisões e o acom
 - **Início (Previsto):** 19:00
 - **Início (Realizado):** 19:20
 - **Término (Realizado):** 19:50
-
+- 
+### Local 
+- Teams Sala Virtual
 ---
 
 ## 2. Participantes
