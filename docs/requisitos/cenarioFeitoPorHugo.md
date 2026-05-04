@@ -218,3 +218,7 @@ insegurança do usuário quanto à execução correta do processo.
 
 
 Esses aspectos indicam oportunidades de melhoria na interface e no fluxo do sistema, especialmente no suporte à tomada de decisão do usuário e na redução de erros com impacto direto na realização do exame.
+
+| Versão | Data | Descrição | Autor | Revisor |
+| :--- | :--- | :--- | :--- | :--- |
+| 1.0 | 1/05/2026 | Criação do documento |[Hugo Freitas Silva](https://github.com/HugoFreitass)|  |

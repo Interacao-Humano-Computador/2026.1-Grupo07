@@ -48,7 +48,13 @@ nav:
       - Sites avaliados: planejamento/listasites.md
   - Requisitos: 
       - Perfil de usuário: requisitos/perfilDeUsuario.md
-      - Metodologia: requisitos/metodologiaParaPerfil.md
+      - Metodologia:
+        - Brainstorming: requisitos/brainstorming.md
+        - Entrevista: requisitos/entrevista.md
+        - Grupo De Foco: requisitos/grupoDeFoco.md
+        - Questionário: requisitos/questionario.md
+      - Análise de tarefas: requisitos/analisedetarefa.md
+      - Aspectos éticos: requisitos/Aspectoseticos.md
       - Personas: requisitos/persona.md
       - Cenário: requisitos/cenario.md
   - Ferramentas: Ferramentas.md
@@ -91,7 +97,7 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/
+      link: https://github.com/Interacao-Humano-Computador/2026.1-Grupo07
   generator: false
   status:
     new: Novo
