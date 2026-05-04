@@ -77,7 +77,7 @@ ___
 
 ### Bibliografia Consultada
 
-* BRASIL. Ministério da Ciência, Tecnologia e Inovações. **Modelo de Ata de Reunião**. Brasília: MCTI, [202-?]. Disponível em: [Modelo Ata](https://ps.mctic.gov.br/MCTI-PS/guidances/examples/Ata_Reuniao_35E290FE.html?nodeId=e8d6222d). Acesso em: 11 abr. 2026. [Acesso direto ao pdf](ModeloAta.pdf).
+* BRASIL. Ministério da Ciência, Tecnologia e Inovações. **Modelo de Ata de Reunião**. Brasília: MCTI, [202-?]. Disponível em: [Modelo Ata](https://ps.mctic.gov.br/MCTI-PS/guidances/examples/Ata_Reuniao_35E290FE.html?nodeId=e8d6222d). Acesso em: 11 abr. 2026. [Acesso direto ao pdf](../ModeloAta.pdf).
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |

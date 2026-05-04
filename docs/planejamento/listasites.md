@@ -102,7 +102,7 @@ A avaliação por inspeção revelou que, embora o sistema seja funcional, ele p
 
 #### Laboratório Sabin <a href="https://www.sabin.com.br/">(link de acesso)</a>
 
-![alt text](../assets/image-sabin.png)
+![alt text](../assets/logo-sabin.png)
 
 O portal do Laboratório Sabin representa um ecossistema essencial de serviços de saúde digital, sendo um objeto de estudo crítico para a análise de IHC devido à sua importância operacional e à diversidade de perfis atendidos, que variam desde pacientes particulares com alta instrução tecnológica até idosos e familiares que priorizam a facilidade e a segurança na navegação.
 

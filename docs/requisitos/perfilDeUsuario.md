@@ -4,7 +4,7 @@
 
 O **perfil de usuário** é uma descrição detalhada das características das pessoas cujos objetivos devem ser apoiados pelo sistema que está sendo projetado. A elaboração desse perfil é um processo iterativo: embora o trabalho geralmente comece com uma ideia inicial de quem é o público-alvo, essa percepção preliminar não costuma ser suficientemente detalhada e pode até consistir em uma impressão equivocada.
 
-Para garantir a precisão, é necessário identificar características de interesse (como cargo, função, experiência, nível de instrução, atividades principais e faixa etária) e conduzir estudos para coletar dados reais do público <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../assets/image-21.png" alt="Print"> </span>.
+Para garantir a precisão, é necessário identificar características de interesse (como cargo, função, experiência, nível de instrução, atividades principais e faixa etária) e conduzir estudos para coletar dados reais do público <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/image-21.png" alt="Print"> </span>.
 
 > Autor(es): Philipe Amâncio
 
