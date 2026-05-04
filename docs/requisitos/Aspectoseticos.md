@@ -45,13 +45,19 @@ O seguinte modelo de termo de consentimento foi utilizado pelo grupo:
 
 <div align="center">Imagem I - Termo de consentimento </div>
 
+<div align="center" markdown=1>
 ![Termo 1](../assets/Termo-1.PNG)
+</div>
+
 <div align="center">Fonte: autoria própria.</div>
 <br>
 
 <div align="center">Imagem II - Área de assinatura </div>
 
+<div align="center" markdown=1>
 ![Termo 2](../assets/Termo-2.PNG)
+</div>
+
 <div align="center">Fonte: autoria própria.</div>
 <br>
 
