@@ -62,6 +62,9 @@ nav:
           - Reunião 1: atasDeReuniao/reuniao1.md
           - Reunião 2: atasDeReuniao/reuniao2.md
           - Reunião 3: atasDeReuniao/reuniao3.md
+          - Reunião 4: atasDeReuniao/reuniao4.md
+          - Reunião 5: atasDeReuniao/reuniao5.md
+          - Reunião 6: atasDeReuniao/reuniao6.md
   - Verificações: verificacoes.md
 
 plugins:

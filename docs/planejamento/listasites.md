@@ -110,6 +110,17 @@ A avaliação por inspeção revelou que, embora o sistema atenda ao seu propós
 
 [ [Análise Detalhada](sabin.md) realizada por Hugo. ]
 
+
+#### JUCIS DF <a href="http://jucis.df.gov.br/">(link de acesso)</a>
+
+![alt text](../assets/image-jucis.png)![alt text](image.png)
+
+O portal da JUCIS-DF (Junta Comercial, Industrial e Serviços do Distrito Federal) representa um ecossistema fundamental para o registro e legalização de empresas, sendo um objeto de estudo crítico para a análise de IHC devido à sua natureza burocrática e à necessidade de atender tanto cidadãos leigos quanto empresários em busca de serviços autônomos.
+
+A avaliação por inspeção revelou que, embora o sistema cumpra seu propósito legal, ele apresenta falhas críticas de acessibilidade visual e fluxo de navegação. Foram identificadas violações severas de usabilidade, especialmente na falta de Prevenção de Erros (ausência de máscaras de entrada em campos críticos, como chaves de segurança) e na falha de Correspondência entre o sistema e o mundo real (uso excessivo de siglas e jargões jurídicos sem a devida explicação contextual). A análise também destaca o uso de imagens estáticas para dados textuais (tabelas de preços) e saídas abruptas do sistema para abas externas, evidenciando uma ausência de Design Centrado no Usuário que impacta diretamente a eficiência e a autonomia do cidadão.
+
+[ [Análise Detalhada](JucisDF.md) realizada por Maria Laura. ]
+
 ## Referências
 
  BARBOSA, S. D. J. et al. **Interação Humano-Computador e Experiência do Usuário**. 1. ed. Rio de Janeiro: Autopublicação, 2021.
