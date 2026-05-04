@@ -562,7 +562,7 @@ A HTA permite compreender o processo de agendamento como um fluxo orientado a ob
 
 ## Referência bibliográfica
 
-BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
+> BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
 
 ---
 ## Histórico de Versão

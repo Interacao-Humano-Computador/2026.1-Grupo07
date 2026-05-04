@@ -28,6 +28,7 @@ Na noite de quinta-feira, Márcia, servidora pública de 55 anos que centraliza 
 
 O sistema processa as imagens com sucesso e identifica os exames corretamente, mas exibe um aviso genérico de preparo informando que todos os procedimentos listados exigem 12 horas de jejum absoluto. Márcia sabe que seu marido utiliza uma medicação contínua para hipertensão que deve ser ingerida obrigatoriamente logo ao acordar, com água. Preocupada se a medicação quebra o jejum ou se ele deve suspender o remédio, ela tenta buscar orientações específicas clicando no botão de "Dúvidas Frequentes" na tela de preparo. O aplicativo, no entanto, a redireciona para um longo manual em PDF genérico e não pesquisável, tornando exaustivo localizar a informação específica sobre "hipertensão". Insegura com a falta de clareza da interface e temendo que o marido perca a viagem no sábado por realizar o preparo de forma incorreta, Márcia abandona o fluxo automatizado. Ela retorna à tela inicial e clica no ícone de atendimento via WhatsApp, optando por enviar as fotos das guias para um atendente humano a fim de confirmar as restrições exatas e concluir a marcação sem margem para erros.
 
+---
 
 # Cenário 03: Cadastro de exame laboratorial com informação incompleta no sistema
 
@@ -43,23 +44,15 @@ No dia seguinte, ao revisar a confirmação, Mariana percebe que precisa confirm
 Análise do cenário
 Nesse cenário, observam-se alguns pontos críticos que podem impactar a experiência do usuário:
 
-
-dificuldade na identificação correta do exame devido a nomenclaturas técnicas;
-
-
-falta de clareza nas instruções de preparo durante o fluxo de agendamento;
-
-
-repetição desnecessária no preenchimento de dados pessoais;
-
-
-ausência de feedback completo e detalhado após a confirmação;
-
-
-insegurança do usuário quanto à execução correta do processo.
-
+- dificuldade na identificação correta do exame devido a nomenclaturas técnicas;
+- falta de clareza nas instruções de preparo durante o fluxo de agendamento;
+- repetição desnecessária no preenchimento de dados pessoais;
+- ausência de feedback completo e detalhado após a confirmação;
+- insegurança do usuário quanto à execução correta do processo.
 
 Esses aspectos indicam oportunidades de melhoria na interface e no fluxo do sistema, especialmente no suporte à tomada de decisão do usuário e na redução de erros com impacto direto na realização do exame.
+
+---
 
 # Cenário 04: Acompanhamento de resultados e download de laudos durante o pré-natal
 
@@ -74,10 +67,14 @@ Ao localizar o exame pela data de ontem, ela clica no *card* correspondente, sen
 Apesar de conseguir completar sua tarefa principal (acessar os resultados), o processo gera atrito e uma carga de trabalho desnecessária. Camila tem que baixar os três arquivos, abrir a galeria/arquivos do celular, selecionar os três documentos e compartilhá-los via WhatsApp com a obstetra, escrevendo uma mensagem explicando qual arquivo é qual. Essa experiência fragmentada a deixa levemente frustrada com a falta de consolidação da interface, embora ela aprecie a rapidez com que a notificação inicial do resultado foi disponibilizada.
 
 **Análise do cenário**
+
 Nesse cenário, observam-se os seguintes pontos críticos:
-* **Eficiência de login:** O uso de token SMS agiliza muito o acesso em dispositivos móveis.
-* **Visibilidade de status:** O uso de *tags* visuais ("Liberado", "Em análise") atende à necessidade da paciente ansiosa, mas a informação de resultados recentes deveria estar na primeira dobra da tela.
-* **Fragmentação de arquivos:** A necessidade de baixar múltiplos PDFs para exames seriados gera trabalho adicional e confuso para o usuário no momento do compartilhamento.
+
+- **Eficiência de login:** O uso de token SMS agiliza muito o acesso em dispositivos móveis.
+- **Visibilidade de status:** O uso de *tags* visuais ("Liberado", "Em análise") atende à necessidade da paciente ansiosa, mas a informação de resultados recentes deveria estar na primeira dobra da tela.
+- **Fragmentação de arquivos:** A necessidade de baixar múltiplos PDFs para exames seriados gera trabalho adicional e confuso para o usuário no momento do compartilhamento.
+
+---
 
 ## Histórico de Versão
 
@@ -90,4 +87,4 @@ Nesse cenário, observam-se os seguintes pontos críticos:
 
 ## Referência bibliográfica
 
-BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
+> BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
