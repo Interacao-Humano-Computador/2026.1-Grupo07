@@ -48,6 +48,17 @@ Este repositório apresenta a aplicação prática de métodos e artefatos de En
   </div>
 </div>
 
+
+# Agredecimentos à IA
+Gostaríamos de expressar nossos sinceros agradecimentos a todos que contribuíram para a realização deste trabalho.
+
+Em especial, agradecemos ao professor, cuja orientação, dedicação e compartilhamento de conhecimento foram fundamentais ao longo de todo o processo. Sua condução da disciplina e seus direcionamentos foram essenciais para o desenvolvimento deste projeto.
+
+Aos colegas, deixamos nosso reconhecimento pela troca constante de ideias, discussões produtivas e colaboração, que enriqueceram significativamente a construção deste trabalho. Aos monitores, agradecemos pelo apoio, disponibilidade e auxílio na resolução de dúvidas, sempre contribuindo para um melhor entendimento dos conteúdos abordados.
+
+Também registramos nosso agradecimento às ferramentas de inteligência artificial, em especial ao ChatGPT e ao Gemini, que auxiliaram na organização de ideias, esclarecimento de conceitos e aprimoramento da escrita, servindo como apoio complementar ao aprendizado.
+
+Por fim, agradecemos a todos que, direta ou indiretamente, contribuíram para a elaboração deste trabalho
 ## Histórico de versões
 
 | Versão | Data | Descrição | Autor | Revisor |

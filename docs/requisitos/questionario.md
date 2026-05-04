@@ -27,10 +27,10 @@ O presente documento apresenta a consolidação e análise dos dados coletados p
 
 Para entender o contexto de acesso dos usuários, investigamos a frequência com que visitam o site e o principal motivador dessa ação.
 
-![Frequência de Uso](Image-67.jpeg)
+![Frequência de Uso](../assets/image-68.jpeg)
 > *Legenda: Gráfico sobre a frequência de utilização do site do Sabin.*
 
-![Motivo da Visita](Image-66.jpeg)
+![Motivo da Visita](Image-67.jpeg)
 > *Legenda: Gráfico ilustrando o principal motivo da visita ao site.*
 
 *   A base de respondentes é composta por 16 pessoas.
@@ -44,10 +44,10 @@ Para entender o contexto de acesso dos usuários, investigamos a frequência com
 
 A percepção de qualidade técnica e visual do sistema foi avaliada por meio de notas para a velocidade de carregamento e o design geral.
 
-![Satisfação Geral](Image-68.jpeg)
+![Satisfação Geral](../assets/image-69.jpeg)
 > *Legenda: Avaliação da satisfação geral com a navegação e o design (escala de 1 a 10).*
 
-![Velocidade de Carregamento](Image-72.jpeg)
+![Velocidade de Carregamento](../assets/image-70.jpeg)
 > *Legenda: Avaliação da velocidade de carregamento das páginas.*
 
 *   A satisfação geral com a navegação e o design do site é bastante alta, com a maioria dos respondentes avaliando a experiência com notas 8 (37,5%), 9 (31,3%) e 10 (18,8%).
@@ -61,13 +61,13 @@ A percepção de qualidade técnica e visual do sistema foi avaliada por meio de
 
 Nesta seção, avaliamos quais ferramentas os usuários consideram mais úteis e o nível de facilidade (ou dificuldade) em utilizá-las.
 
-![Funcionalidades Mais Úteis](Image-70.jpeg)
+![Funcionalidades Mais Úteis](../assets/image-71.jpeg)
 > *Legenda: Gráfico indicando quais funcionalidades os usuários consideram mais úteis.*
 
-![Facilidade de Uso](Image-69.jpeg)
+![Facilidade de Uso](../assets/image-72.jpeg)
 > *Legenda: Avaliação do nível de facilidade de uso por funcionalidade específica.*
 
-![Expectativa de Agendamento](Image-73.jpeg)
+![Expectativa de Agendamento](../assets/image-73.jpeg)
 > *Legenda: Avaliação sobre o atendimento das expectativas no agendamento de exames.*
 
 *   A consulta de resultados de exames é esmagadoramente considerada a funcionalidade mais útil do site, sendo apontada por 87,5% dos participantes.
@@ -83,7 +83,7 @@ Nesta seção, avaliamos quais ferramentas os usuários consideram mais úteis e
 
 Através de perguntas abertas, mapeamos os obstáculos reais que quebram a fluidez da experiência do usuário.
 
-![Dificuldades Relatadas](Image-71.jpeg)
+![Dificuldades Relatadas](../assets/image-74.jpeg)
 > *Legenda: Respostas abertas sobre dificuldades técnicas ou erros ao utilizar o site.*
 
 *   A maioria absoluta dos usuários informou não ter enfrentado dificuldades técnicas ou erros sistêmicos.
@@ -98,7 +98,7 @@ Através de perguntas abertas, mapeamos os obstáculos reais que quebram a fluid
 
 Por fim, os próprios usuários indicaram oportunidades de inovação e melhoria para a plataforma.
 
-![Sugestões de Melhoria](Imagem-74.jpeg)
+![Sugestões de Melhoria](../assets/imagem-75.jpeg)
 > *Legenda: Respostas abertas com sugestões de novas funcionalidades ou melhorias.*
 
 *   Um usuário sugeriu a implementação de alertas automáticos caso o resultado de um exame apresente alterações fora dos padrões normais.

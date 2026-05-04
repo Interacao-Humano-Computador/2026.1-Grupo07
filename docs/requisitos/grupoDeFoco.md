@@ -1,4 +1,4 @@
-## Grupos de Foco
+## Introdução
 
 O Grupo de Foco é uma técnica qualitativa baseada na dinâmica social. Diferente das entrevistas individuais, essa abordagem consiste em uma entrevista coletiva e interativa. Seu grande diferencial é a capacidade de revelar problemas, desafios, frustrações e preferências que frequentemente só emergem através da troca de experiências em um contexto social <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/image-22.png" alt="Print"> </span>.
 
