@@ -76,6 +76,24 @@ Nesse cenário, observam-se os seguintes pontos críticos:
 
 ---
 
+# Cenário 05: Consulta de Resultados com Urgência
+
+**Atores:** Agnes Santos (16 anos, acompanhante digital dos avós).
+
+Agnes está em casa em uma tarde de terça-feira. Seu avô tem uma consulta médica de retorno muito importante marcada para amanhã de manhã. A data e hora limite para a entrega dos resultados do laboratório Sabin era hoje às 14h. Já são 14h15 e o avô de Agnes está ansioso, sugerindo que eles peguem um ônibus ou Uber para ir até a unidade física cobrar o papel, pois ele tem medo de chegar na consulta sem os exames. Para evitar o desgaste físico do avô, Agnes assume a responsabilidade de resolver o problema digitalmente. Agnes pega seu smartphone e abre o navegador direto no site do Sabin. Como ela prefere explorar por conta própria e ignora textos longos, ela escaneia a tela inicial buscando imediatamente o botão de "Resultados de Exames". Na tela de login, ela insere rapidamente o protocolo e a senha impressos no comprovante do avô. O sistema apresenta um rastreador visual simples (ex: Coletado > Em Análise > Liberado).
+
+Se houver atraso: A interface informa proativamente que o exame está em fase final de validação médica e oferece um botão de contato via WhatsApp. Isso evita que ela fique sem respostas e decida ir presencialmente.
+
+Se estiver pronto: O status aparece em verde como "Liberado", junto a um botão evidente de "Baixar PDF".
+
+**Análise do cenário**
+
+O cenário é muito bem-sucedido em equilibrar o objetivo de negócio (reduzir o fluxo de atendimento presencial e desafogar as clínicas) com o objetivo de vida da usuária (garantir o bem-estar e a saúde do avô sem estresse).
+
+- **Visibilidade do Status do Sistema(Heurística de Nielsen): ** O uso de um rastreador visual (Coletado > Em Análise > Liberado) é o ponto mais forte do cenário. Como o modelo mental da Agnes exige resultados em tempo real e ela tem uma frustração crônica com atrasos, expor em qual etapa o processo se encontra reduz a carga cognitiva e a ansiedade.
+- **Controle do Usuário e Prevenção de Erros: ** A funcionalidade de "transbordo" proativo para o WhatsApp em caso de atraso na validação médica é uma excelente estratégia de contenção. Ela previne o abandono do fluxo digital (a viagem física ao laboratório) e entrega o controle da situação de volta à usuária.
+- **Design Estético e Minimalista: ** Sabendo que a persona "não gosta de ler instruções longas", a decisão de omitir textos institucionais e ir direto para o botão "Baixar PDF" na hierarquia da informação atende perfeitamente à sua necessidade de agilidade.
+
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor |
@@ -84,6 +102,7 @@ Nesse cenário, observam-se os seguintes pontos críticos:
 | 1.1 | 01/05/2026 | Adição do cenário 2 |[Maria Laura Regis](https://github.com/Maria-Laura-Regis)| [Hugo Freitas Silva](https://github.com/HugoFreitass)|
 | 1.2 | 01/05/2026 | Adição do cenário 3 |[Maria Laura Regis](https://github.com/Maria-Laura-Regis)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 | 1.3 | 04/05/2026 | Adição do cenário 4 |[Ingrid Alves](https://github.com/alvesingrid)|  |
+| 1.4 | 04/05/2026 | Adição do cenário 5 |[Thaiza R da Silva](https://github.com/thaizaweert)|  |
 
 ## Referência bibliográfica
 
