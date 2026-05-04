@@ -18,9 +18,6 @@ Este documento tem como objetivo registrar as deliberações, decisões e o acom
 - *Início (Realizado):* 19:35
 - *Término (Realizado):* 20:45
 
-### Local 
-- Discord Sala Virtual
-
 ---
 
 ## 2. Participantes 
