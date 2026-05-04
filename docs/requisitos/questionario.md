@@ -30,7 +30,7 @@ Para entender o contexto de acesso dos usuários, investigamos a frequência com
 ![Frequência de Uso](../assets/image-68.jpeg)
 > *Legenda: Gráfico sobre a frequência de utilização do site do Sabin.*
 
-![Motivo da Visita](Image-67.jpeg)
+![Motivo da Visita](../assets/image-67.jpeg)
 > *Legenda: Gráfico ilustrando o principal motivo da visita ao site.*
 
 *   A base de respondentes é composta por 16 pessoas.
