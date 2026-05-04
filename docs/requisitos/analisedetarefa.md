@@ -494,9 +494,9 @@ A HTA evidencia que o processo é:
 A HTA permite compreender o processo de agendamento como um fluxo orientado a objetivos, facilitando a identificação de problemas de usabilidade e apoiando melhorias no design do sistema. Etapas que envolvem decisão e entrada de dados devem receber maior atenção para garantir eficiência, eficácia e satisfação do usuário.
 
 
-## Referências
+## Referência bibliográfica
 
-* **Fonte:** BARBOSA, S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. *Interação Humano-Computador e Experiência do Usuário*. Rio de Janeiro: Autopublicação, 2021. (Capítulo 8).
+BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
 
 ---
 ## Histórico de Versão

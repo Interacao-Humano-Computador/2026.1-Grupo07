@@ -56,7 +56,7 @@ O seguinte modelo de termo de consentimento foi utilizado pelo grupo:
 <br>
 
 
-## Bibliografia
+## Referência bibliográfica
 
 BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
 

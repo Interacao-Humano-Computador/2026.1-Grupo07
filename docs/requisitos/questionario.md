@@ -98,7 +98,8 @@ Através de perguntas abertas, mapeamos os obstáculos reais que quebram a fluid
 
 Por fim, os próprios usuários indicaram oportunidades de inovação e melhoria para a plataforma.
 
-![Sugestões de Melhoria](../assets/imagem-75.jpeg)
+
+![Sugestões de Melhoria](../assets/image-75.jpeg)
 > *Legenda: Respostas abertas com sugestões de novas funcionalidades ou melhorias.*
 
 *   Um usuário sugeriu a implementação de alertas automáticos caso o resultado de um exame apresente alterações fora dos padrões normais.
@@ -108,3 +109,7 @@ Por fim, os próprios usuários indicaram oportunidades de inovação e melhoria
 | Versão | Data | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 1/05/2026 | Criação do documento |[Philipe Amancio](https://github.com/Phill-Chill)|  |
+
+## Referência bibliográfica
+
+BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.

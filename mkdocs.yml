@@ -49,12 +49,13 @@ nav:
   - Requisitos: 
       - Perfil de usuário: requisitos/perfilDeUsuario.md
       - Metodologia:
+        - Aspectos éticos: requisitos/Aspectoseticos.md
         - Brainstorming: requisitos/brainstorming.md
         - Entrevista: requisitos/entrevista.md
         - Grupo De Foco: requisitos/grupoDeFoco.md
         - Questionário: requisitos/questionario.md
       - Análise de tarefas: requisitos/analisedetarefa.md
-      - Aspectos éticos: requisitos/Aspectoseticos.md
+     
       - Personas: requisitos/persona.md
       - Cenário: requisitos/cenario.md
   - Ferramentas: Ferramentas.md
