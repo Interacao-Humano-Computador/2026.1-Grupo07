@@ -116,6 +116,29 @@ A criação de personas serve para combater o problema do "usuário elástico", 
 | **Citação Representativa** | *"Eu atualizo a página do laboratório o dia inteiro só para ver se o resultado do exame do meu bebê já saiu."* |
 
 
+## Persona 6: 
+
+> ### Agnes (Estudante e Neta de Pacientes Frenquentes)
+
+| Categoria | Detalhes do Perfil |
+| :--- | :--- |
+|**Foto**| ![alt text](../assets/PersonaAgnes.png){width="600"}|
+| **Identidade** | **Nome:** Agnes Santos <br> **Idade:** 16 anos <br> **Sexo:** Feminino <br> **Localização:** Brasília, DF <br> **Status Socioeconômico:** Classe Baixa/Média <br> **Status na Pesquisa:** Persona Primária |
+| **Perfil Geral** | Estudante de Ensino Médio, realiza cusos externos e atualmente mora com os avós que frequenta clinicas e hospitais sendo acompanhante deles. |
+| **Educação e Aprendizado** | **Formação:** Ensino Médio Incompleto <br> **Nível de Leitura / Digital:** Basico <br> **Preferência de Aprendizado:** Aprende explorando as interfaces por conta própria. <br> **Observação:** Não gosta de ler instruções longas e sistemas lentos. |
+| **Experiência Profissional** | **Cargo:** Estudante e realiza Curso de Informatica Basica. <br> **Responsabilidades:** Auxilia em documentos, exames e consultas dos avós quando necessário. <br> **Plano de Carreira:** Até o momento sem planos. |
+| **Relação com Tecnologia** | **Nível:** Médio (usa com frequência tanto no cotidiano quanto para estudo). <br> **Dispositivos:** Smartphone (Pessoal) e Notebook (Para estudo). <br> **Sistemas:** Uso diário de aplicativos de Rede Sociais frequentes e para Bancos, Laboratorios, Convênios uso moderadamente.  <br> **Conexão:** Wi-Fi residencial e 4G/5G. |
+| **Experiência com Sistemas** | **Uso Atual:** Acessa sites de laboratórios e convênios para consultar resultados de exame e verificar preparatótrio. <br> **Pontos Positivos:** Adaptação com uso desses sistemas. <br> **Frustrações:** Os acessos são realizados para os avós pois os mesmo não conseguem realizar tarefas simples na internet. Agnes é responsavel em pegar os resultados de exames porem o sistema tem atraso de resultados o que faz os avós preferirem ir ao presencial agendar e pegar resultados. <br> **Preferência:** Simples, Pratico e Direto.|
+| **Objetivos** | **Finais:** Acessar aos resultados dos exames assim que estiverem prontos e ser informada sobre o status dele no sistema como data limite hora e se necessario realizar novamente uma nova coleta. <br> **De Experiência:** Sentir que o laboratorio e o sistemas estão em trabalhando em conjunto para  uma entrega rápida, segura e confiavel com o paciente. <br> **De Vida:** Priorizar a saude dos Avós pra caso seja necessario um tratamento mais rapido a denpeder dos exames. |
+| **Habilidades e Tarefas** | **Competências:** Boa familiaridade com sistemas digitais e alta autonomia de resolução básica. <br> **Tarefas Críticas:** Agendar exames online (baixa frequência) e consultar resultados (alta frequência). <br> **Tarefas Secundárias:** Buscar instruções de preparo (eventual) |
+| **Relacionamentos** | **Interações:** Médicos, Enfermeiros e Atendentes. <br> **Influência:** É a principal organizadora dos exames dos avós (stakeholder indireto). |
+| **Requisitos e Expectativas** | **Necessidades:** Agilidade na disponibilidade de resultado de examese na importação deles para o sistema. <br> **Modelo Mental:** Resultados serem apresentados em tempo real ao sistema do laboratório. |
+| **Atitudes e Tolerância** | **Perfil:** Prefere praticidade e agilidade, mas aceita soluções. <br> **Tolerância a falhas:** Mediana. <br> **Comportamento no Erro:** Frustração, se demorar muito com algum resultado ou preparação específico, prefere recorrer ao atendimento humano. |
+| **Domínio e Vocabulário** | **Domínio do Tema:** Simples (Sabe o básico sobre saúde e exames). <br> **Idiomas:** Português nativo. <br> **Jargões:** Termos básicos de saúde. |
+| **Citação Representativa** | *"Os resultados dos meus exames ainda não estar disponivel, mesmo estando na data e hora prevista."* |
+
+
+
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
@@ -123,6 +146,7 @@ A criação de personas serve para combater o problema do "usuário elástico", 
 | 1.1 | 1/05/2026 | Adição da persona "Marcia" e "Mariana" |[Maria Laura Regis](https://github.com/Maria-Laura-Regis)|  |
 | 1.2 | 2/05/2026 | Adição da persona "Ayla |[Nathan Pontes Romão](https://github.com/nathanpromao)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 | 1.3 | 4/05/2026 | Adição da persona "Camila" |[Ingrid Alves](https://github.com/alvesingrid)|  |
+| 1.4 | 4/05/2026 | Adição da persona "Agnes" |[Thaiza Romualdo da Silva](https://github.com/ThaizaWeert)| Philipe Amancio |
 
 ## Referência bibliográfica
 
