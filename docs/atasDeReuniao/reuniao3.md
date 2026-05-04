@@ -9,7 +9,7 @@ Este documento tem como objetivo registrar as deliberações, decisões e o acom
 |------|------------|
 | Projeto | Sigla do Projeto - Nome do Projeto |
 | Data | 12/04/2026 |
-| Local | Plataforma Teams |
+| Local | Plataforma Discord |
 | Redator | Maria Laura Regis |
 
 ### Horários
@@ -17,10 +17,6 @@ Este documento tem como objetivo registrar as deliberações, decisões e o acom
 - *Início (Previsto):* -
 - *Início (Realizado):* -
 - *Término (Realizado):* -
-
-### Local 
-- Discord Sala Virtual
-
 
 ---
 
