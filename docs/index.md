@@ -49,7 +49,7 @@ Este repositório apresenta a aplicação prática de métodos e artefatos de En
 </div>
 
 
-# Agredecimentos à IA
+# Agredecimentos
 Gostaríamos de expressar nossos sinceros agradecimentos a todos que contribuíram para a realização deste trabalho.
 
 Em especial, agradecemos ao professor, cuja orientação, dedicação e compartilhamento de conhecimento foram fundamentais ao longo de todo o processo. Sua condução da disciplina e seus direcionamentos foram essenciais para o desenvolvimento deste projeto.
