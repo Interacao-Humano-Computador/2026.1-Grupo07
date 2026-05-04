@@ -90,9 +90,9 @@ Se estiver pronto: O status aparece em verde como "Liberado", junto a um botão 
 
 O cenário é muito bem-sucedido em equilibrar o objetivo de negócio (reduzir o fluxo de atendimento presencial e desafogar as clínicas) com o objetivo de vida da usuária (garantir o bem-estar e a saúde do avô sem estresse).
 
-- **Visibilidade do Status do Sistema(Heurística de Nielsen): ** O uso de um rastreador visual (Coletado > Em Análise > Liberado) é o ponto mais forte do cenário. Como o modelo mental da Agnes exige resultados em tempo real e ela tem uma frustração crônica com atrasos, expor em qual etapa o processo se encontra reduz a carga cognitiva e a ansiedade.
-- **Controle do Usuário e Prevenção de Erros: ** A funcionalidade de "transbordo" proativo para o WhatsApp em caso de atraso na validação médica é uma excelente estratégia de contenção. Ela previne o abandono do fluxo digital (a viagem física ao laboratório) e entrega o controle da situação de volta à usuária.
-- **Design Estético e Minimalista: ** Sabendo que a persona "não gosta de ler instruções longas", a decisão de omitir textos institucionais e ir direto para o botão "Baixar PDF" na hierarquia da informação atende perfeitamente à sua necessidade de agilidade.
+- **Visibilidade do Status do Sistema(Heurística de Nielsen):** O uso de um rastreador visual (Coletado > Em Análise > Liberado) é o ponto mais forte do cenário. Como o modelo mental da Agnes exige resultados em tempo real e ela tem uma frustração crônica com atrasos, expor em qual etapa o processo se encontra reduz a carga cognitiva e a ansiedade.
+- **Controle do Usuário e Prevenção de Erros:** A funcionalidade de "transbordo" proativo para o WhatsApp em caso de atraso na validação médica é uma excelente estratégia de contenção. Ela previne o abandono do fluxo digital (a viagem física ao laboratório) e entrega o controle da situação de volta à usuária.
+- **Design Estético e Minimalista:** Sabendo que a persona "não gosta de ler instruções longas", a decisão de omitir textos institucionais e ir direto para o botão "Baixar PDF" na hierarquia da informação atende perfeitamente à sua necessidade de agilidade.
 
 ## Histórico de Versão
 
