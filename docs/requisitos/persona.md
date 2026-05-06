@@ -1,14 +1,19 @@
+# Elenco de Personas
+
 ## Introdução
 
-Uma **persona** é um personagem fictício e um arquétipo hipotético que representa um grupo de usuários reais, criada com o objetivo de descrever um usuário típico do sistema. Sua principal função é materializar o público-alvo durante as discussões de design, garantindo que toda a equipe técnica e de negócios mantenha o foco no mesmo alvo, evitando abstrações. Essas representações são construídas e definidas fundamentalmente por seus objetivos, que são lapidados por meio de refinamentos sucessivos durante a investigação do domínio do usuário <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/image-26.png" alt="Print"> </span>.
+Uma **persona** é um personagem fictício e um arquétipo hipotético que representa um grupo de usuários reais, criada com o objetivo de descrever um usuário típico do sistema. Sua principal função é materializar o público-alvo durante as discussões de design, garantindo que toda a equipe técnica e de negócios mantenha o foco no mesmo alvo, evitando abstrações. Essas representações são construídas e definidas fundamentalmente por seus objetivos, que são lapidados por meio de refinamentos sucessivos durante a investigação do domínio do usuário <span class="hover-image">(BARBOSA et al., 2021).<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/image-26.png" alt="Print"> </span>.
 
-A criação de personas serve para combater o problema do "usuário elástico", um termo genérico e impreciso que frequentemente resulta em sistemas confusos, que tratam a mesma pessoa ora como iniciante, ora como especialista, conforme a conveniência da programação. Tentar ampliar a funcionalidade de um produto para agradar a todos os pontos de vista costuma colocar obstáculos na jornada, interferindo no desempenho e arruinando a experiência. Por isso, em vez de criar um sistema genérico que se diz "amigável para o usuário", o design eficiente exige projetar para uma persona bem específica, garantindo que o sistema se adapte às necessidades dela, e não o contrário <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/image-27.png" alt="Print"> </span>.
+A criação de personas serve para combater o problema do "usuário elástico", um termo genérico e impreciso que frequentemente resulta em sistemas confusos, que tratam a mesma pessoa ora como iniciante, ora como especialista, conforme a conveniência da programação. Tentar ampliar a funcionalidade de um produto para agradar a todos os pontos de vista costuma colocar obstáculos na jornada, interferindo no desempenho e arruinando a experiência. Por isso, em vez de criar um sistema genérico que se diz "amigável para o usuário", o design eficiente exige projetar para uma persona bem específica, garantindo que o sistema se adapte às necessidades dela, e não o contrário <span class="hover-image">(BARBOSA et al., 2021).<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/image-27.png" alt="Print"> </span>.
+
+Na técnica de eleco de personas, é essencial que os integrantes da equipe de design garantam que cada persona se torne como uma pessoa real, como mebro da equipe. Cada integrante deve expressar as questões de design em termos de personas, usando seus nomes. Fazendo isso é possível avaliar melhor se uma solução de design foi ou não bem sucedida <span class="hover-image">(BARBOSA et al., 2021).<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/image-print-persona.png" alt="Print"> </span>.
 
 
 
 ## Persona 1: 
 
 > ### Roberto (Médico Clínico Geral)
+> Elaborada por: Philipe Amâncio
 
 | Categoria | Detalhes do Perfil |
 | :--- | :--- |
@@ -31,6 +36,7 @@ A criação de personas serve para combater o problema do "usuário elástico", 
 ## Persona 2: 
 
 > ### Márcia (Mãe e Gestora da Saúde Familiar)
+> Elaborada por: Maria Laura
 
 | Categoria | Detalhes do Perfil |
 | :--- | :--- |
@@ -55,6 +61,7 @@ A criação de personas serve para combater o problema do "usuário elástico", 
 ## Persona 3: 
 
 > ### Ayla (Estudante de direito e estágiaria)
+> Elaborada por: Nathan Pontes
 
 | Categoria | Detalhes do Perfil |
 | :--- | :--- |
@@ -73,9 +80,11 @@ A criação de personas serve para combater o problema do "usuário elástico", 
 | **Domínio e Vocabulário** | **Domínio do Tema:** Mediano (Sabe o básico sobre saúde preventiva e exames). <br> **Idiomas:** Português nativo. <br> **Jargões:** Termos básicos de saúde. |
 | **Citação Representativa** | *"Preciso marcar meu hemograma pra esse fim de semana, espero que o site tenha as informações sobre o jejum."* |
 
+
 ## Persona 4:
 
 > ### Mariana Alves Souza (Paciente Particular / Analista)
+> Elaborada por: Hugo Freitas
 
 | Categoria | Detalhes do Perfil |
 | :--- | :--- |
@@ -94,9 +103,11 @@ A criação de personas serve para combater o problema do "usuário elástico", 
 | **Domínio e Vocabulário** | **Domínio do Tema:** Básico a intermediário (conhece sua saúde, mas não os jargões). <br> **Idiomas:** Português fluente. <br> **Jargões:** Compreende termos básicos de saúde, mas não possui familiaridade com linguagem técnica avançada. |
 | **Citação Representativa** | *"Quero resolver tudo rápido, sem precisar ficar procurando informação."* |
 
+
 # Persona 5:
 
 > ### Camila Fernandes (Paciente Frequente / Gestante)
+> Elaborada por: Ingrid Alves
 
 | Categoria | Detalhes do Perfil |
 | :--- | :--- |
@@ -119,6 +130,7 @@ A criação de personas serve para combater o problema do "usuário elástico", 
 ## Persona 6: 
 
 > ### Agnes (Estudante e Neta de Pacientes Frenquentes)
+> Elaborada por: Thaiza Romualdo 
 
 | Categoria | Detalhes do Perfil |
 | :--- | :--- |
@@ -142,11 +154,12 @@ A criação de personas serve para combater o problema do "usuário elástico", 
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 1/05/2026 | Criação do documento e adição da persona "Roberto" |[Philipe Amancio](https://github.com/Phill-Chill)| [Maria Laura Regis](https://github.com/Maria-Laura-Regis)| 
-| 1.1 | 1/05/2026 | Adição da persona "Marcia" e "Mariana" |[Maria Laura Regis](https://github.com/Maria-Laura-Regis)|  |
-| 1.2 | 2/05/2026 | Adição da persona "Ayla |[Nathan Pontes Romão](https://github.com/nathanpromao)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
-| 1.3 | 4/05/2026 | Adição da persona "Camila" |[Ingrid Alves](https://github.com/alvesingrid)|  |
-| 1.4 | 4/05/2026 | Adição da persona "Agnes" |[Thaiza Romualdo da Silva](https://github.com/ThaizaWeert)| Philipe Amancio |
+| 1.0 | 01/05/2026 | Criação do documento e adição da persona "Roberto" | [Philipe Amancio](https://github.com/Phill-Chill)| [Maria Laura Regis](https://github.com/Maria-Laura-Regis)| 
+| 1.1 | 01/05/2026 | Adição da persona "Marcia" e "Mariana" |[Maria Laura Regis](https://github.com/Maria-Laura-Regis)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.2 | 02/05/2026 | Adição da persona "Ayla |[Nathan Pontes Romão](https://github.com/nathanpromao)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.3 | 04/05/2026 | Adição da persona "Camila" |[Ingrid Alves](https://github.com/alvesingrid)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.4 | 04/05/2026 | Adição da persona "Agnes" |[Thaiza Romualdo da Silva](https://github.com/ThaizaWeert)| [Philipe Amancio](https://github.com/Phill-Chill) |
+| 1.5 | 06/05/2026 | Adição dos autores de cada persona e modificações na introdução | [Hugo Freitas Silva](https://github.com/HugoFreitass) | [Philipe Amancio](https://github.com/Phill-Chill) |
 
 ## Referência bibliográfica
 
