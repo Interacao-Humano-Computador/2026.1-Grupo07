@@ -66,4 +66,4 @@ Por fim, agradecemos a todos que, direta ou indiretamente, contribuíram para a 
 | 1.0 | 11/04/2026| Criação da Git Page | [Hugo Freitas Silva](https://github.com/HugoFreitass) | [Ingrid Alves](https://github.com/alvesingrid) |
 | 1.1 | 12/04/2026 | Atualização de informações | [Ingrid Alves](https://github.com/alvesingrid) |[Hugo Freitas Silva](https://github.com/HugoFreitass) |
 | 1.2 | 22/04/2026 | Ajuste no design do pages | [Ingrid Alves](https://github.com/alvesingrid) |[Hugo Freitas Silva](https://github.com/HugoFreitass) |
-
+| 1.3 | 03/05/2026 | Adição da análise de Requisitos | [Hugo Freitas Silva](https://github.com/HugoFreitass), [Nathan Pontes](https://github.com/nathanpromao) , [Philipe Amancio](https://github.com/Phill-Chill) | [Ingrid Alves](https://github.com/alvesingrid), [Thaiza Romualdo](https://github.com/ThaizaWeert), [Maria Laura](https://github.com/Maria-Laura-Regis) |
