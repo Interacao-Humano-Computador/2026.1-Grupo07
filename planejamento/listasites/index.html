@@ -1,0 +1,2370 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../processoDesign/">
+      
+      
+        <link rel="next" href="../../requisitos/perfilDeUsuario/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/favicon-gota-vermelha.svg">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
+    
+    
+      
+        <title>Sites avaliados - IHC Grupo 7</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:300,300i,400,400i,700,700i%7CJetBrains+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Inter";--md-code-font:"JetBrains Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  
+  <style>
+    /* FORÇA VERMELHO SABIN #e61318 EM TUDO */
+    
+    /* Variáveis CSS do tema */
+    :root {
+      --md-primary-fg-color: #e61318 !important;
+      --md-primary-fg-color--light: #e61318 !important;
+      --md-primary-fg-color--dark: #c41e3a !important;
+      --md-accent-fg-color: #e61318 !important;
+      --md-accent-fg-color--transparent: #e613181a !important;
+    }
+
+    /* Override das cores de paleta red */
+    [data-md-color-primary=red],
+    [data-md-color-accent=red] {
+      --md-primary-fg-color: #e61318 !important;
+      --md-primary-fg-color--light: #e61318 !important;
+      --md-primary-fg-color--dark: #c41e3a !important;
+      --md-accent-fg-color: #e61318 !important;
+      --md-accent-fg-color--transparent: #e613181a !important;
+    }
+
+    /* Header */
+    .md-header {
+      background-color: #e61318 !important;
+      color: #fff !important;
+    }
+
+    .md-header__title {
+      color: #fff !important;
+    }
+
+    .md-header__button {
+      color: #fff !important;
+    }
+
+    .md-header-nav__button {
+      color: #fff !important;
+    }
+
+    /* Tabs */
+    .md-tabs {
+      background-color: #e61318 !important;
+      color: #fff !important;
+    }
+
+    .md-tabs__list {
+      background-color: #e61318 !important;
+    }
+
+    .md-tabs__link {
+      color: rgba(255, 255, 255, 0.7) !important;
+    }
+
+    .md-tabs__link--active {
+      border-bottom-color: #fff !important;
+      color: #fff !important;
+    }
+
+    .md-tabs__link:hover {
+      color: #fff !important;
+    }
+
+    /* Botões */
+    .md-button {
+      background-color: #e61318 !important;
+      color: #fff !important;
+      border-color: #e61318 !important;
+    }
+
+    .md-button:visited {
+      background-color: #e61318 !important;
+      color: #fff !important;
+    }
+
+    .md-button:hover,
+    .md-button:focus {
+      background-color: #c41e3a !important;
+      border-color: #c41e3a !important;
+    }
+
+    /* Links */
+    a {
+      color: #e61318 !important;
+    }
+
+    a:visited {
+      color: #c41e3a !important;
+    }
+
+    a:hover {
+      color: #c41e3a !important;
+    }
+
+    .md-typeset a {
+      color: #e61318 !important;
+    }
+
+    .md-typeset a:visited {
+      color: #c41e3a !important;
+    }
+
+    .md-typeset a:hover {
+      color: #c41e3a !important;
+    }
+
+    /* Navegação */
+    .md-nav__link--active {
+      color: #e61318 !important;
+    }
+
+    .md-nav__link:hover {
+      color: #e61318 !important;
+    }
+
+    .md-nav__title {
+      color: #e61318 !important;
+    }
+
+    /* Busca */
+    .md-search-result__link {
+      border-left-color: #e61318 !important;
+    }
+
+    .md-search-result__link:hover {
+      background-color: rgba(230, 19, 24, 0.1) !important;
+    }
+
+    .md-search-result__link--active {
+      background-color: rgba(230, 19, 24, 0.2) !important;
+    }
+
+    /* Focus outlines */
+    .md-button:focus-visible,
+    .md-nav__link:focus-visible,
+    .md-search__input:focus-visible {
+      outline-color: #e61318 !important;
+    }
+
+    /* Admonições */
+    .md-typeset .admonition {
+      border-left-color: #e61318 !important;
+    }
+
+    .md-typeset .note {
+      border-left-color: #e61318 !important;
+    }
+
+    /* Inline code */
+    .md-typeset code {
+      background-color: rgba(230, 19, 24, 0.1) !important;
+      color: #e61318 !important;
+    }
+
+    /* Highlights */
+    .md-typeset .highlight {
+      background-color: inherit;
+    }
+
+    /* Footer links */
+    .md-footer-meta a:hover {
+      color: #e61318 !important;
+    }
+
+    /* Remove pink e orange themes se existirem */
+    [data-md-color-primary=pink],
+    [data-md-color-primary=deep-orange],
+    [data-md-color-accent=pink],
+    [data-md-color-accent=deep-orange] {
+      display: none !important;
+    }
+
+    /* Força código de destaque para vermelho */
+    .highlight .nb,
+    .highlight .nc,
+    .highlight .no,
+    .highlight .nf {
+      color: #e61318 !important;
+    }
+
+    /* Sidebar */
+    .md-sidebar__inner {
+      border-color: #e61318 !important;
+    }
+
+    /* Tooltips */
+    .md-tooltip {
+      background-color: #e61318 !important;
+      color: #fff !important;
+    }
+
+    /* Status badges */
+    .md-status {
+      background-color: #e61318 !important;
+      color: #fff !important;
+    }
+  </style>
+
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="red" data-md-color-accent="red">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#introducao" class="md-skip">
+          Pular para conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabeçalho">
+    <a href="../.." title="IHC Grupo 7" class="md-header__button md-logo" aria-label="IHC Grupo 7" data-md-component="logo">
+      
+  <img src="../../assets/logo-sabin-5.jpeg" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            IHC Grupo 7
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Sites avaliados
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="red" data-md-color-accent="red"  aria-label="Modo escuro"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Modo escuro" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="red" data-md-color-accent="red"  aria-label="Modo claro"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Modo claro" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Pesquisar">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="Compartilhar" aria-label="Compartilhar" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91s2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="Limpar" aria-label="Limpar" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inicializando busca
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Abas" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../heatmap/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Planejamento
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../requisitos/perfilDeUsuario/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Análise de Requisitos
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../Ferramentas/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Ferramentas
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../atasDeReuniao/reuniao1/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Atas de reunião
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../verificacoes/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Verificações
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navegação" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="IHC Grupo 7" class="md-nav__button md-logo" aria-label="IHC Grupo 7" data-md-component="logo">
+      
+  <img src="../../assets/logo-sabin-5.jpeg" alt="logo">
+
+    </a>
+    IHC Grupo 7
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Planejamento
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Planejamento
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_1" id="__nav_2_1_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cronograma
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Cronograma
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../heatmap/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Heatmap
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cronograma/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Planejado
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cronogramaexec/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Executado
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../processoDesign/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Processo de Design
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Sites avaliados
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Sites avaliados
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+  
+
+<nav class="md-nav md-nav--secondary" aria-label="Nesta página">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Nesta página
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Introdução
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia-de-avaliacao" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Metodologia de avaliação
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Metodologia de avaliação">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#definicoes-para-classificacao-de-problemas" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Definições para classificação de problemas
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Definições para classificação de problemas">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-natureza-do-problema" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1. Natureza do Problema
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-perspectiva-da-tarefa-e-do-usuario" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2. Perspectiva da Tarefa e do Usuário
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-perspectiva-do-projeto-categorias-de-revisao" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3. Perspectiva do Projeto (Categorias de Revisão)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-graus-de-severidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        4. Graus de Severidade
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lista-de-heuristicas" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Lista de heurísticas
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lista-de-sites-avaliados" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        LISTA DE SITES AVALIADOS
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="LISTA DE SITES AVALIADOS">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#beto-carrero-world-link-de-acesso" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Beto Carrero World (link de acesso)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#receita-federal-do-brasil-link-de-acesso" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Receita Federal do Brasil (link de acesso)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#laboratorio-sabin-link-de-acesso" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Laboratório Sabin (link de acesso)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#jucis-df-link-de-acesso" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        JUCIS DF (link de acesso)
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Referências
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Histórico de Versão
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Análise de Requisitos
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Análise de Requisitos
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../requisitos/perfilDeUsuario/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Perfil de usuário
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2" id="__nav_3_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Metodologia
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Metodologia
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../requisitos/Aspectoseticos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Aspectos éticos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../requisitos/brainstorming/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Brainstorming
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_2_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2_3" id="__nav_3_2_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Entrevista
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Entrevista
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../requisitos/entrevista/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Entrevista Realizada
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../requisitos/roteiroEntrevista/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Roteiro da entrevista
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../requisitos/questionario/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Questionário
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../requisitos/analisedetarefa/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Análise de tarefas
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../requisitos/persona/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Personas
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../requisitos/cenario/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cenário
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Ferramentas/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ferramentas
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Atas de reunião
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Atas de reunião
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atasDeReuniao/reuniao1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reunião 1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atasDeReuniao/reuniao2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reunião 2
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atasDeReuniao/reuniao3/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reunião 3
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atasDeReuniao/reuniao4/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reunião 4
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atasDeReuniao/reuniao5/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reunião 5
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atasDeReuniao/reuniao6/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reunião 6
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacoes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Verificações
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+<nav class="md-nav md-nav--secondary" aria-label="Nesta página">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Nesta página
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Introdução
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia-de-avaliacao" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Metodologia de avaliação
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Metodologia de avaliação">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#definicoes-para-classificacao-de-problemas" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Definições para classificação de problemas
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Definições para classificação de problemas">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-natureza-do-problema" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1. Natureza do Problema
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-perspectiva-da-tarefa-e-do-usuario" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2. Perspectiva da Tarefa e do Usuário
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-perspectiva-do-projeto-categorias-de-revisao" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3. Perspectiva do Projeto (Categorias de Revisão)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-graus-de-severidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        4. Graus de Severidade
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lista-de-heuristicas" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Lista de heurísticas
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lista-de-sites-avaliados" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        LISTA DE SITES AVALIADOS
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="LISTA DE SITES AVALIADOS">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#beto-carrero-world-link-de-acesso" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Beto Carrero World (link de acesso)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#receita-federal-do-brasil-link-de-acesso" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Receita Federal do Brasil (link de acesso)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#laboratorio-sabin-link-de-acesso" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Laboratório Sabin (link de acesso)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#jucis-df-link-de-acesso" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        JUCIS DF (link de acesso)
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Referências
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Histórico de Versão
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+  <h1>Sites avaliados</h1>
+
+<h2 id="introducao">Introdução<a class="headerlink" href="#introducao" title="Permanent link">&para;</a></h2>
+<p>Uma avaliação de IHC (Interação Humano-Computador) é essencial para garantir a qualidade de um software, sendo útil para identificar problemas de interface e corrigi-los antes da entrega final. A avaliação de IHC parte das necessidades dos stakeholders e dos requisitos do projeto, ela atua na verificação e validação de uma interface, envolve aspectos técnicos e humanos, e deve ser abordada em três perspectivas: a de quem concebe a solução, de quem a utiliza e de quem a constrói. Por isso, é fundamental planejar uma avaliação que seja capaz de fornecer esta visão plurilateral e sociotécnica </p>
+<h2 id="metodologia-de-avaliacao">Metodologia de avaliação<a class="headerlink" href="#metodologia-de-avaliacao" title="Permanent link">&para;</a></h2>
+<p>O planejamento da avaliação será estruturado com base no framework DECIDE, que define o processo de uma avaliação de IHC se baseando nos seguintes passos (BARBOSA et al., 2021): </p>
+<ul>
+<li>D: determinar os objetivos da avaliação</li>
+<li>E:  explorar perguntas a serem respondidas com a avaliação.</li>
+<li>C: (choose) escolher os métodos de avaliação</li>
+<li>I: identificar e gerir as questões práticas da avaliação.</li>
+<li>D: decidir como lidar com as questões éticas</li>
+<li>E: (evaluate) avaliar, interpretar e apresentar os resultados</li>
+</ul>
+<p>Ainda utilizamos o formulário apresentado no <strong>Quadro I</strong>, para padronização das análises.</p>
+<center>Quadro - I Formulário de identificação de violações de heurísticas</center>
+
+<p><img alt="alt text" src="../../assets/image7.png" /></p>
+<p style="font-size: 10pt;">Fonte: MACIEL et al. ([2004?], p. 13).</p>
+
+<h4 id="definicoes-para-classificacao-de-problemas">Definições para classificação de problemas<a class="headerlink" href="#definicoes-para-classificacao-de-problemas" title="Permanent link">&para;</a></h4>
+<p>Para o preenchimento dos relatórios de inspeção, serão utilizadas as seguintes definições e critérios baseados em <strong>Maciel et al. ([2004?])</strong> e na escala de <strong>Nielsen (1994 <em>apud</em> MACIEL et al., [2004?])</strong>.</p>
+<h5 id="1-natureza-do-problema">1. Natureza do Problema<a class="headerlink" href="#1-natureza-do-problema" title="Permanent link">&para;</a></h5>
+<p>Determina a recorrência e o impacto no aprendizado do usuário.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Classificação</th>
+<th style="text-align: left;">Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>Barreira</strong></td>
+<td style="text-align: left;">Aspecto onde o usuário esbarra sucessivas vezes e não aprende a superá-lo. O erro persiste em futuras realizações da tarefa.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Obstáculo</strong></td>
+<td style="text-align: left;">Aspecto onde o usuário esbarra, mas aprende a superá-lo após o contato inicial.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Ruído</strong></td>
+<td style="text-align: left;">Aspecto que diminui o desempenho na tarefa e gera uma má impressão do sistema, sem necessariamente impedir a conclusão.</td>
+</tr>
+</tbody>
+</table>
+<h5 id="2-perspectiva-da-tarefa-e-do-usuario">2. Perspectiva da Tarefa e do Usuário<a class="headerlink" href="#2-perspectiva-da-tarefa-e-do-usuario" title="Permanent link">&para;</a></h5>
+<p>Define o alcance do problema conforme o contexto de uso.</p>
+<ul>
+<li><strong>Perspectiva da Tarefa:</strong><ul>
+<li><strong>Principal:</strong> Atrapalha tarefas frequentes ou de alta importância.</li>
+<li><strong>Secundário:</strong> Atrapalha tarefas pouco frequentes ou de baixa importância.</li>
+</ul>
+</li>
+<li><strong>Perspectiva do Usuário:</strong><ul>
+<li><strong>Geral:</strong> Afeta qualquer tipo de usuário.</li>
+<li><strong>Preliminar:</strong> Afeta usuários novatos ou intermediários.</li>
+<li><strong>Especial:</strong> Afeta usuários com necessidades especiais (acessibilidade).</li>
+</ul>
+</li>
+</ul>
+<h5 id="3-perspectiva-do-projeto-categorias-de-revisao">3. Perspectiva do Projeto (Categorias de Revisão)<a class="headerlink" href="#3-perspectiva-do-projeto-categorias-de-revisao" title="Permanent link">&para;</a></h5>
+<blockquote>
+<p><strong>Observação:</strong> Estas categorias não devem ser preenchidas na primeira avaliação heurística.
+* <strong>Falso Problema:</strong> Aspecto classificado como erro que, na realidade, não traz prejuízo ao usuário ou à tarefa.
+* <strong>Novo:</strong> Problema que surgiu como consequência direta da correção de um erro anterior.</p>
+</blockquote>
+<h5 id="4-graus-de-severidade">4. Graus de Severidade<a class="headerlink" href="#4-graus-de-severidade" title="Permanent link">&para;</a></h5>
+<p>Utilizado para priorizar o esforço de correção do sistema.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Grau</th>
+<th style="text-align: left;">Classificação</th>
+<th style="text-align: left;">Definição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><strong>0</strong></td>
+<td style="text-align: left;"><strong>Sem Importância</strong></td>
+<td style="text-align: left;">Não afeta a operação; não é necessariamente um problema de usabilidade.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>1</strong></td>
+<td style="text-align: left;"><strong>Cosmético</strong></td>
+<td style="text-align: left;">Reparo de baixa prioridade, realizado apenas se houver tempo disponível.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>2</strong></td>
+<td style="text-align: left;"><strong>Simples</strong></td>
+<td style="text-align: left;">Problema de baixa prioridade de correção.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>3</strong></td>
+<td style="text-align: left;"><strong>Grave</strong></td>
+<td style="text-align: left;">Alta prioridade; deve ser reparado para evitar prejuízo à experiência.</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>4</strong></td>
+<td style="text-align: left;"><strong>Catastrófico</strong></td>
+<td style="text-align: left;">Impeditivo; deve ser reparado obrigatoriamente antes da disponibilização.</td>
+</tr>
+</tbody>
+</table>
+<h4 id="lista-de-heuristicas">Lista de heurísticas<a class="headerlink" href="#lista-de-heuristicas" title="Permanent link">&para;</a></h4>
+<p>Para a análise da interface, serão consideradas as dez heurísticas de usabilidade propostas por Nielsen (BARBOSA et al., 2021):</p>
+<ul>
+<li><strong>Visibilidade do estado do sistema:</strong> O sistema deve sempre manter os usuários informados sobre o que está acontecendo através de feedback adequado e em tempo hábil.</li>
+<li><strong>Correspondência entre o sistema e o mundo real:</strong> O sistema deve utilizar palavras, expressões e conceitos familiares ao usuário, evitando jargões técnicos. Deve-se seguir convenções do mundo real, apresentando informações em ordem lógica e natural.</li>
+<li><strong>Controle e liberdade do usuário:</strong> Caso o usuário realize ações equivocadas, o sistema deve oferecer uma "saída de emergência" clara para abandonar o estado indesejado sem diálogos extensos. Deve permitir as funções de desfazer e refazer.</li>
+<li><strong>Consistência e padronização:</strong> O usuário não deve ter dúvidas se palavras ou ações diferentes significam a mesma coisa. É necessário seguir as convenções da plataforma ou ambiente computacional.</li>
+<li><strong>Reconhecimento em vez de memorização:</strong> Objetos, ações e opções devem estar visíveis. O usuário não deve precisar memorizar informações de uma parte da aplicação para usar em outra. Instruções de uso devem estar facilmente acessíveis.</li>
+<li><strong>Flexibilidade e eficiência de uso:</strong> Aceleradores (atalhos) — muitas vezes imperceptíveis ao usuário novato — podem tornar a interação mais rápida para o experiente. O sistema deve permitir a customização de ações frequentes.</li>
+<li><strong>Projeto estético e minimalista:</strong> As interfaces não devem conter informações irrelevantes ou raramente necessárias. Cada unidade extra de informação compete com as unidades importantes pela atenção do usuário.</li>
+<li><strong>Prevenção de erros:</strong> Mais eficiente do que boas mensagens de erro é um projeto cuidadoso que evite que os problemas ocorram em primeiro lugar.</li>
+<li><strong>Ajuda aos usuários para reconhecerem, diagnosticarem e recuperarem-se de erros:</strong> As mensagens de erro devem ser expressas em linguagem clara (sem códigos), indicar precisamente o problema e sugerir uma solução construtiva.</li>
+<li><strong>Ajuda e documentação:</strong> Embora o ideal seja um sistema intuitivo, a documentação deve ser oferecida. Ela deve ser fácil de consultar, focada na tarefa, fornecer passos concretos e não ser excessivamente extensa.</li>
+</ul>
+<hr />
+<h2 id="lista-de-sites-avaliados">LISTA DE SITES AVALIADOS<a class="headerlink" href="#lista-de-sites-avaliados" title="Permanent link">&para;</a></h2>
+<h4 id="beto-carrero-world-link-de-acesso">Beto Carrero World <a href = "https://www.betocarrero.com.br/?grvclid=c0479bdd300dcb0&grv_iai=908065&gad_source=1&gad_campaignid=23327651929">(link de acesso)</a><a class="headerlink" href="#beto-carrero-world-link-de-acesso" title="Permanent link">&para;</a></h4>
+<p><img alt="alt text" src="../../assets/image-7.png" /></p>
+<p>O site oficial do Beto Carrero World é uma plataforma de e-commerce voltada para a venda de passaportes, serviços de alimentação e opcionais de lazer. </p>
+<p>Durante a avaliação, foram identificadas falhas críticas na arquitetura de informação, como o agrupamento semântico incorreto de itens (ex: serviços de alimentação categorizados sob o rótulo de "Passaportes"). Além disso, o sistema apresenta inconsistências na visibilidade do estado, dificultando a distinção entre botões de navegação e botões de ação final. Essas violações de heurísticas elevam a carga cognitiva e podem induzir o usuário ao erro durante o fluxo de fechamento do pedido.</p>
+<p>[ <a href="../betoCarrero/">Analise Detalhada</a> realizada por Philipe Amâncio e Hugo Freitas. ]</p>
+<hr />
+<h4 id="receita-federal-do-brasil-link-de-acesso">Receita Federal do Brasil <a href = "https://servicos.receitafederal.gov.br/">(link de acesso)</a><a class="headerlink" href="#receita-federal-do-brasil-link-de-acesso" title="Permanent link">&para;</a></h4>
+<p><img alt="alt text" src="../../assets/image-34.png" /></p>
+<p>O portal da Receita Federal representa um ecossistema complexo de serviços governamentais, sendo um objeto de estudo crítico para a análise de IHC devido à sua natureza institucional e à diversidade de perfis atendidos, desde o contribuinte iniciante até o profissional autônomo.</p>
+<p>A avaliação por inspeção revelou que, embora o sistema seja funcional, ele padece de uma "infoxicação" (excesso de informação), onde a falta de hierarquia visual e o ruído de conteúdos institucionais obscurecem as tarefas principais. Foram identificadas violações severas de usabilidade, especialmente no mecanismo de busca, que ignora a <strong>Correspondência com o Mundo Real</strong> ao utilizar termos estritamente burocráticos. A análise também destaca falhas na <strong>Prevenção de Erros</strong> em formulários e serviços digitais, onde a ausência de mensagens orientadas à solução gera obstáculos que impactam diretamente a eficácia da tarefa e a autonomia do cidadão.</p>
+<p>[ <a href="../ReceitaFederal/">Analise Detalhada</a> realizada por Hugo Freitas. ]</p>
+<h4 id="laboratorio-sabin-link-de-acesso">Laboratório Sabin <a href="https://www.sabin.com.br/">(link de acesso)</a><a class="headerlink" href="#laboratorio-sabin-link-de-acesso" title="Permanent link">&para;</a></h4>
+<p><img alt="alt text" src="../../assets/logo-sabin.png" /></p>
+<p>O portal do Laboratório Sabin representa um ecossistema essencial de serviços de saúde digital, sendo um objeto de estudo crítico para a análise de IHC devido à sua importância operacional e à diversidade de perfis atendidos, que variam desde pacientes particulares com alta instrução tecnológica até idosos e familiares que priorizam a facilidade e a segurança na navegação.</p>
+<p>A avaliação por inspeção revelou que, embora o sistema atenda ao seu propósito institucional, ele apresenta problemas moderados e graves de usabilidade que afetam a fluidez das tarefas diárias. Foram identificadas violações significativas no fluxo de agendamento de exames, que falha na <strong>Correspondência entre o sistema e o mundo real</strong> e na <strong>Flexibilidade e eficiência de uso</strong> devido a passos excessivos e termos confusos. A análise também destaca problemas na <strong>Visibilidade do status do sistema</strong> e no <strong>Projeto estético e minimalista</strong>, onde a mistura de conteúdos institucionais de marketing com serviços essenciais gera uma sobrecarga visual (ruído). Esses obstáculos dificultam o acesso rápido aos resultados e a localização de unidades, impactando diretamente a autonomia e a eficiência do usuário final.</p>
+<p>[ <a href="../sabin/">Análise Detalhada</a> realizada por Hugo. ]</p>
+<h4 id="jucis-df-link-de-acesso">JUCIS DF <a href="http://jucis.df.gov.br/">(link de acesso)</a><a class="headerlink" href="#jucis-df-link-de-acesso" title="Permanent link">&para;</a></h4>
+<p><img alt="alt text" src="../../assets/image-jucis.png" /><img alt="alt text" src="image.png" /></p>
+<p>O portal da JUCIS-DF (Junta Comercial, Industrial e Serviços do Distrito Federal) representa um ecossistema fundamental para o registro e legalização de empresas, sendo um objeto de estudo crítico para a análise de IHC devido à sua natureza burocrática e à necessidade de atender tanto cidadãos leigos quanto empresários em busca de serviços autônomos.</p>
+<p>A avaliação por inspeção revelou que, embora o sistema cumpra seu propósito legal, ele apresenta falhas críticas de acessibilidade visual e fluxo de navegação. Foram identificadas violações severas de usabilidade, especialmente na falta de Prevenção de Erros (ausência de máscaras de entrada em campos críticos, como chaves de segurança) e na falha de Correspondência entre o sistema e o mundo real (uso excessivo de siglas e jargões jurídicos sem a devida explicação contextual). A análise também destaca o uso de imagens estáticas para dados textuais (tabelas de preços) e saídas abruptas do sistema para abas externas, evidenciando uma ausência de Design Centrado no Usuário que impacta diretamente a eficiência e a autonomia do cidadão.</p>
+<p>[ <a href="JucisDF.md">Análise Detalhada</a> realizada por Maria Laura. ]</p>
+<h2 id="referencias">Referências<a class="headerlink" href="#referencias" title="Permanent link">&para;</a></h2>
+<p>BARBOSA, S. D. J. et al. <strong>Interação Humano-Computador e Experiência do Usuário</strong>. 1. ed. Rio de Janeiro: Autopublicação, 2021.</p>
+<p>MACIEL, C. et al. <strong>Avaliação heurística de sítios na web</strong>. Niterói: Instituto de Computação - Universidade Federal Fluminense (UFF), [2004?]. </p>
+<h2 id="historico-de-versao">Histórico de Versão<a class="headerlink" href="#historico-de-versao" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Versão</th>
+<th style="text-align: left;">Data</th>
+<th style="text-align: left;">Descrição</th>
+<th style="text-align: left;">Autor</th>
+<th style="text-align: left;">Revisor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">1.0</td>
+<td style="text-align: left;">11/04/2026</td>
+<td style="text-align: left;">Criação do documento</td>
+<td style="text-align: left;"><a href="https://github.com/SemC0ndicao">Vitor Evangelista</a></td>
+<td style="text-align: left;"><a href="https://github.com/alvesingrid">Ingrid Alves</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">1.1</td>
+<td style="text-align: left;">22/04/2026</td>
+<td style="text-align: left;">Adição do histórico de versão</td>
+<td style="text-align: left;"><a href="https://github.com/alvesingrid">Ingrid Alves</a></td>
+<td style="text-align: left;"><a href="https://github.com/HugoFreitass">Hugo Freitas Silva</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">1.2</td>
+<td style="text-align: left;">24/04/2026</td>
+<td style="text-align: left;">Adequação ao feedback do professor</td>
+<td style="text-align: left;"><a href="https://github.com/Phill-Chill">Philipe Amancio</a></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">1.3</td>
+<td style="text-align: left;">01/05/2026</td>
+<td style="text-align: left;">Adição de avaliações</td>
+<td style="text-align: left;"><a href="https://github.com/Maria-Laura-Regis">Maria Laura</a></td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Voltar para o topo
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+</div>
+      
+        
+<div class="md-social">
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/Interacao-Humano-Computador/2026.1-Grupo07" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.tabs", "navigation.top", "search.highlight", "content.code.copy", "navigation.tabs.sticky", "navigation.sections", "navigation.expand", "navigation.indexes", "toc.follow", "search.suggest", "search.share", "content.code.annotate", "header.autohide"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "search.result.more.one": "mais 1 nesta p\u00e1gina", "search.result.more.other": "# mais nesta p\u00e1gina", "search.result.none": "Nenhum documento encontrado", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Digite para iniciar a busca", "search.result.term.missing": "Ausente", "select.version": "Selecione a vers\u00e3o"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>

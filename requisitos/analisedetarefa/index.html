@@ -1,0 +1,2590 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../questionario/">
+      
+      
+        <link rel="next" href="../persona/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/favicon-gota-vermelha.svg">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
+    
+    
+      
+        <title>Análise de tarefas - IHC Grupo 7</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:300,300i,400,400i,700,700i%7CJetBrains+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Inter";--md-code-font:"JetBrains Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  
+  <style>
+    /* FORÇA VERMELHO SABIN #e61318 EM TUDO */
+    
+    /* Variáveis CSS do tema */
+    :root {
+      --md-primary-fg-color: #e61318 !important;
+      --md-primary-fg-color--light: #e61318 !important;
+      --md-primary-fg-color--dark: #c41e3a !important;
+      --md-accent-fg-color: #e61318 !important;
+      --md-accent-fg-color--transparent: #e613181a !important;
+    }
+
+    /* Override das cores de paleta red */
+    [data-md-color-primary=red],
+    [data-md-color-accent=red] {
+      --md-primary-fg-color: #e61318 !important;
+      --md-primary-fg-color--light: #e61318 !important;
+      --md-primary-fg-color--dark: #c41e3a !important;
+      --md-accent-fg-color: #e61318 !important;
+      --md-accent-fg-color--transparent: #e613181a !important;
+    }
+
+    /* Header */
+    .md-header {
+      background-color: #e61318 !important;
+      color: #fff !important;
+    }
+
+    .md-header__title {
+      color: #fff !important;
+    }
+
+    .md-header__button {
+      color: #fff !important;
+    }
+
+    .md-header-nav__button {
+      color: #fff !important;
+    }
+
+    /* Tabs */
+    .md-tabs {
+      background-color: #e61318 !important;
+      color: #fff !important;
+    }
+
+    .md-tabs__list {
+      background-color: #e61318 !important;
+    }
+
+    .md-tabs__link {
+      color: rgba(255, 255, 255, 0.7) !important;
+    }
+
+    .md-tabs__link--active {
+      border-bottom-color: #fff !important;
+      color: #fff !important;
+    }
+
+    .md-tabs__link:hover {
+      color: #fff !important;
+    }
+
+    /* Botões */
+    .md-button {
+      background-color: #e61318 !important;
+      color: #fff !important;
+      border-color: #e61318 !important;
+    }
+
+    .md-button:visited {
+      background-color: #e61318 !important;
+      color: #fff !important;
+    }
+
+    .md-button:hover,
+    .md-button:focus {
+      background-color: #c41e3a !important;
+      border-color: #c41e3a !important;
+    }
+
+    /* Links */
+    a {
+      color: #e61318 !important;
+    }
+
+    a:visited {
+      color: #c41e3a !important;
+    }
+
+    a:hover {
+      color: #c41e3a !important;
+    }
+
+    .md-typeset a {
+      color: #e61318 !important;
+    }
+
+    .md-typeset a:visited {
+      color: #c41e3a !important;
+    }
+
+    .md-typeset a:hover {
+      color: #c41e3a !important;
+    }
+
+    /* Navegação */
+    .md-nav__link--active {
+      color: #e61318 !important;
+    }
+
+    .md-nav__link:hover {
+      color: #e61318 !important;
+    }
+
+    .md-nav__title {
+      color: #e61318 !important;
+    }
+
+    /* Busca */
+    .md-search-result__link {
+      border-left-color: #e61318 !important;
+    }
+
+    .md-search-result__link:hover {
+      background-color: rgba(230, 19, 24, 0.1) !important;
+    }
+
+    .md-search-result__link--active {
+      background-color: rgba(230, 19, 24, 0.2) !important;
+    }
+
+    /* Focus outlines */
+    .md-button:focus-visible,
+    .md-nav__link:focus-visible,
+    .md-search__input:focus-visible {
+      outline-color: #e61318 !important;
+    }
+
+    /* Admonições */
+    .md-typeset .admonition {
+      border-left-color: #e61318 !important;
+    }
+
+    .md-typeset .note {
+      border-left-color: #e61318 !important;
+    }
+
+    /* Inline code */
+    .md-typeset code {
+      background-color: rgba(230, 19, 24, 0.1) !important;
+      color: #e61318 !important;
+    }
+
+    /* Highlights */
+    .md-typeset .highlight {
+      background-color: inherit;
+    }
+
+    /* Footer links */
+    .md-footer-meta a:hover {
+      color: #e61318 !important;
+    }
+
+    /* Remove pink e orange themes se existirem */
+    [data-md-color-primary=pink],
+    [data-md-color-primary=deep-orange],
+    [data-md-color-accent=pink],
+    [data-md-color-accent=deep-orange] {
+      display: none !important;
+    }
+
+    /* Força código de destaque para vermelho */
+    .highlight .nb,
+    .highlight .nc,
+    .highlight .no,
+    .highlight .nf {
+      color: #e61318 !important;
+    }
+
+    /* Sidebar */
+    .md-sidebar__inner {
+      border-color: #e61318 !important;
+    }
+
+    /* Tooltips */
+    .md-tooltip {
+      background-color: #e61318 !important;
+      color: #fff !important;
+    }
+
+    /* Status badges */
+    .md-status {
+      background-color: #e61318 !important;
+      color: #fff !important;
+    }
+  </style>
+
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="red" data-md-color-accent="red">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#analise-de-tarefas" class="md-skip">
+          Pular para conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabeçalho">
+    <a href="../.." title="IHC Grupo 7" class="md-header__button md-logo" aria-label="IHC Grupo 7" data-md-component="logo">
+      
+  <img src="../../assets/logo-sabin-5.jpeg" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            IHC Grupo 7
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Análise de tarefas
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="red" data-md-color-accent="red"  aria-label="Modo escuro"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Modo escuro" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="red" data-md-color-accent="red"  aria-label="Modo claro"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Modo claro" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Pesquisar">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="Compartilhar" aria-label="Compartilhar" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91s2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="Limpar" aria-label="Limpar" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inicializando busca
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Abas" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../planejamento/heatmap/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Planejamento
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../perfilDeUsuario/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Análise de Requisitos
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../Ferramentas/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Ferramentas
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../atasDeReuniao/reuniao1/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Atas de reunião
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../verificacoes/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Verificações
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navegação" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="IHC Grupo 7" class="md-nav__button md-logo" aria-label="IHC Grupo 7" data-md-component="logo">
+      
+  <img src="../../assets/logo-sabin-5.jpeg" alt="logo">
+
+    </a>
+    IHC Grupo 7
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Planejamento
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Planejamento
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_1" id="__nav_2_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cronograma
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Cronograma
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/heatmap/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Heatmap
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/cronograma/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Planejado
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/cronogramaexec/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Executado
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/processoDesign/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Processo de Design
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/listasites/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Sites avaliados
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Análise de Requisitos
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Análise de Requisitos
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../perfilDeUsuario/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Perfil de usuário
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2" id="__nav_3_2_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Metodologia
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Metodologia
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Aspectoseticos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Aspectos éticos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../brainstorming/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Brainstorming
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_2_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2_3" id="__nav_3_2_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Entrevista
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Entrevista
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../entrevista/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Entrevista Realizada
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../roteiroEntrevista/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Roteiro da entrevista
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../questionario/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Questionário
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Análise de tarefas
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Análise de tarefas
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+  
+
+<nav class="md-nav md-nav--secondary" aria-label="Nesta página">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Nesta página
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Introdução
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../persona/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Personas
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cenario/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cenário
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Ferramentas/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ferramentas
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Atas de reunião
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Atas de reunião
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atasDeReuniao/reuniao1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reunião 1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atasDeReuniao/reuniao2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reunião 2
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atasDeReuniao/reuniao3/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reunião 3
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atasDeReuniao/reuniao4/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reunião 4
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atasDeReuniao/reuniao5/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reunião 5
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atasDeReuniao/reuniao6/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reunião 6
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacoes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Verificações
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+<nav class="md-nav md-nav--secondary" aria-label="Nesta página">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Nesta página
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Introdução
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="analise-de-tarefas">Análise de Tarefas<a class="headerlink" href="#analise-de-tarefas" title="Permanent link">&para;</a></h1>
+<h2 id="introducao">Introdução<a class="headerlink" href="#introducao" title="Permanent link">&para;</a></h2>
+<p>Uma <strong>análise de tarefas</strong> é utilizada para se ter um entendimento sobre qual é o trabalho dos usuários, como eles o realizam e por quê. Nesse tipo de análise, o trabalho é definido em termos dos objetivos que os usuários querem ou precisam atingir em seu contexto <span class="hover-image">(BARBOSA et al., 2021, p. 177)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/image-39.jpeg" alt="Imagem 1"> </span>.</p>
+<p>Na área de Interação Humano-Computador (IHC), a análise de tarefas pode ser empregada em três atividades habituais do projeto: para a análise da situação atual (seja ela apoiada ou não por um sistema computacional), para o (re)design de um sistema computacional ou para a avaliação do resultado de uma intervenção que inclua a introdução de um (novo) sistema computacional. O texto ilustrado também ressalta que, quando o objetivo é avaliar um sistema computacional existente, a análise de tarefas pode ser bem concreta, descrevendo o comportamento do usuário de forma detalhada <span class="hover-image">(BARBOSA et al., 2021, p. 178)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/image-40.jpeg" alt="Imagem 2"> </span>.</p>
+<h1 id="analise-hierarquica-de-tarefas-hta">Análise Hierárquica de Tarefas (HTA)<a class="headerlink" href="#analise-hierarquica-de-tarefas-hta" title="Permanent link">&para;</a></h1>
+<h2 id="introducao_1">Introdução<a class="headerlink" href="#introducao_1" title="Permanent link">&para;</a></h2>
+<p>A Análise Hierárquica de Tarefas (HTA - <em>Hierarchical Task Analysis</em>) foi desenvolvida na década de 1960 para entender as competências e habilidades exibidas em tarefas complexas e não repetitivas, bem como para auxiliar na identificação de problemas de desempenho. Ela ajuda a relacionar o que as pessoas fazem (ou se recomenda que façam), por que o fazem, e quais as consequências caso não o façam corretamente. Diferente das abordagens de sua época, o método se baseia em psicologia funcional, e não comportamental <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/image-41.jpeg" alt="Imagem 1"> </span>.</p>
+<p>Na HTA, uma <strong>tarefa</strong> é qualquer parte do trabalho que precisa ser realizada, e toda tarefa pode ser definida em termos de seu(s) objetivo(s). Tarefas complexas são definidas em termos de objetivos e subobjetivos, em um desdobramento hierárquico que é chamado de decomposição de tarefas ou redescrição. No nível mais baixo da hierarquia de objetivos, cada subobjetivo é alcançado por uma <strong>operação</strong>, que é considerada a unidade fundamental em HTA. Esses elementos são organizados em diagramas que demonstram as relações estruturais do plano, que podem ser do tipo sequencial (1&gt;2), seleção (1/2) ou paralelo (1+2) <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/image-42.jpeg" alt="Imagem 2"> </span>.</p>
+<p>A aplicação prática do método resulta na construção de uma árvore visual de decomposição. O diagrama parte de um objetivo geral no topo (por exemplo, "0. Cadastrar projeto final") e ramifica-se para subobjetivos e operações numeradas, explicitando os planos de execução e o fluxo que o usuário deve percorrer para concluir o trabalho <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/image-43.jpeg" alt="Imagem 3"> </span>.</p>
+<h1 id="analise-de-tarefas-metodo-goms">Análise de Tarefas: Método GOMS<a class="headerlink" href="#analise-de-tarefas-metodo-goms" title="Permanent link">&para;</a></h1>
+<h2 id="introducao-ao-goms">Introdução ao GOMS<a class="headerlink" href="#introducao-ao-goms" title="Permanent link">&para;</a></h2>
+<p>O GOMS é um método utilizado para descrever uma tarefa e o conhecimento do usuário sobre como realizá-la, estruturando-se em quatro componentes fundamentais: objetivos (<em>goals</em>), operadores (<em>operators</em>), métodos (<em>methods</em>) e regras de seleção (<em>selection rules</em>). Os <strong>objetivos</strong> representam exatamente o que o usuário deseja realizar utilizando o software, como, por exemplo, editar um texto. <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/image-44.jpeg" alt="Imagem 1"> </span></p>
+<p>Os <strong>operadores</strong> são descritos como primitivas internas (ações cognitivas) ou externas (ações concretas permitidas pelo software, como digitar no teclado ou clicar em um botão). Os <strong>métodos</strong> consistem em sequências bem conhecidas de subobjetivos e operadores que permitem atingir um objetivo maior. Quando existe mais de um método viável, aplicam-se as <strong>regras de seleção</strong>, que representam a tomada de decisão do usuário sobre qual caminho utilizar em uma determinada situação. <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/image-45.jpeg" alt="Imagem 2"> </span></p>
+<p>Dentro da família de modelos baseados em GOMS, existem variações com diferentes níveis de complexidade e foco. Destacam-se as técnicas KLM (Card et al., 1983), CMN-GOMS (Card et al., 1983) e CPM-GOMS (John e Gray, 1995). <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/image-46.jpeg" alt="Imagem 3"> </span></p>
+<hr />
+<h2 id="klm-keystroke-level-method">KLM (Keystroke-Level Method)<a class="headerlink" href="#klm-keystroke-level-method" title="Permanent link">&para;</a></h2>
+<p>O KLM é a técnica mais simples da família GOMS e atua de forma limitada a um conjunto predefinido de operadores primitivos. Estes operadores incluem: <strong>K</strong> (pressionar tecla ou botão), <strong>P</strong> (apontar com o mouse), <strong>H</strong> (mover as mãos para o teclado ou dispositivo), <strong>D</strong> (desenhar um segmento de reta), <strong>M</strong> (preparação mental para realizar uma ação) e <strong>R</strong> (tempo de resposta do sistema onde o usuário deve esperar). <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/image-47.jpeg" alt="Imagem 4"> </span></p>
+<p>Que atribui durações médias (em segundos) para cada uma dessas operações do KLM. Por exemplo, a operação <strong>K</strong> (teclar) varia de 0,08s para um exímio digitador até 1,20s para alguém não familiarizado com o teclado, enquanto a preparação mental (<strong>M</strong>) consome em média 1,20s. <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/image-48.jpeg"> </span></p>
+<p>A aplicação prática desses valores pode ser observada na <strong>Tabela I</strong>, que demonstra o cálculo total de tempo para a tarefa de "Salvar arquivo". A análise compara diferentes métodos: usar o menu "Arquivo &gt; Salvar" (totalizando 4,60s), clicar no botão de salvar na barra de ferramentas (3,10s) ou usar as teclas de atalho Ctrl+S (1,60s).</p>
+<center> Tabela I - Tabela com dados de tempo na execução da funcionalidade de salvar arquivo. </center>
+
+<p><img alt="alt text" src="../../assets/image-49.jpeg" /></p>
+<blockquote>
+<p>Fonte: BARBOSA et al. (2021, p.198)</p>
+</blockquote>
+<hr />
+<h2 id="cmn-goms">CMN-GOMS<a class="headerlink" href="#cmn-goms" title="Permanent link">&para;</a></h2>
+<p>O CMN-GOMS refere-se à proposta original do método GOMS. Neste modelo, exige-se uma hierarquia estrita de objetivos, onde os operadores são executados estritamente em ordem sequencial. Os métodos são documentados utilizando uma notação muito semelhante a um pseudocódigo computacional, incorporando submétodos e estruturas condicionais. <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/image-50.jpeg" alt="Imagem 7"> </span></p>
+<p>...agem 12** apresenta o Exemplo 8.7, que demonstra um modelo CMN-GOMS sem detalhes para a tarefa de "descobrir a direção de tráfego de uma rua" no Google Maps. O objetivo principal (GOAL 0) é decomposto em subobjetivos (GOAL 1 e GOAL 2), oferecendo métodos alternativos de navegação que são condicionados por regras de seleção (SEL. RULE) baseadas no nível de conhecimento do usuário sobre o local. <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/image-51.jpeg" alt="Imagem 8"> </span></p>
+<p>Este modelo detalhado expande os métodos até o nível mais granular das operações (OP.), como "deslocar o cursor do mouse" (OP. 1.A.A.1) ou "girar a roda do mouse para a frente" (OP. 1.A.A.2), mapeando de forma exaustiva todas as regras de seleção e passos físicos necessários para cumprir a meta no sistema. 
+<span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/image-41.jpeg" alt="Imagem 1"> </span>.
+<span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/image-44.jpeg" alt="Imagem 1"> </span></p>
+<h2 id="cpm-goms">CPM-GOMS<a class="headerlink" href="#cpm-goms" title="Permanent link">&para;</a></h2>
+<p>A sigla CPM-GOMS tem dupla origem: ela representa os operadores <em>cognitivos, perceptivos e motores</em>, e também faz referência à abordagem do <em>Critical Path Method</em> (técnica de análise do caminho crítico). Esta versão do GOMS baseia-se diretamente no processador humano de informações (MHP) e em seu modelo de estágios paralelos. Diferente das abordagens anteriores, o CPM-GOMS não pressupõe que os operadores sejam executados de forma estritamente sequencial; pelo contrário, atividades cognitivas, perceptivas e motoras podem ocorrer em paralelo, dependendo da natureza da tarefa. <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/image-54.jpeg" alt="Imagem 11"> </span></p>
+<p>O CPM-GOMS utiliza um diagrama do tipo PERT para mapear visualmente os operadores e suas dependências. Neste diagrama, é possível observar linhas do tempo paralelas para diferentes recursos do processamento humano, como visão, cognição, mão direita, mão esquerda e movimento dos olhos. O "caminho crítico" traçado através dessas dependências fornece uma previsão simples do tempo total necessário para concluir a tarefa de interação. <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/image-55.jpeg" alt="Imagem 12"> </span></p>
+<p>Por fim, a construção de um modelo CPM-GOMS se inicia a partir de um modelo CMN-GOMS prévio. Os operadores identificados inicialmente são então classificados de forma mais aprofundada nas categorias do MHP (cognitivos, perceptivos e motores). A cada um desses operadores é atribuída uma duração estimada. Somando-se esses valores ao longo do caminho crítico, calcula-se o tempo previsto de execução da tarefa, o que possibilita aos designers realizar análises qualitativas da relação entre os aspectos do design e o tempo de execução, além de simular soluções alternativas. <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/image-56.jpeg" alt="Imagem 13"> </span></p>
+<h1 id="arvores-de-tarefas-concorrentes-concurtasktrees-ctt">Árvores de Tarefas Concorrentes (ConcurTaskTrees – CTT)<a class="headerlink" href="#arvores-de-tarefas-concorrentes-concurtasktrees-ctt" title="Permanent link">&para;</a></h1>
+<h2 id="introducao-ao-ctt">Introdução ao CTT<a class="headerlink" href="#introducao-ao-ctt" title="Permanent link">&para;</a></h2>
+<p>O modelo de árvores de tarefas concorrentes (ConcurTaskTrees – CTT) foi criado para auxiliar a avaliação e o design de IHC. Nesse modelo, existem quatro tipos de tarefas: <em>tarefas do usuário</em> (realizadas fora do sistema), <em>tarefas do sistema</em> (em que o sistema realiza um processamento sem interagir com o usuário), <em>tarefas interativas</em> (em que ocorrem os diálogos usuário–sistema) e <em>tarefas abstratas</em> (que não são tarefas em si, mas sim uma representação de uma composição de tarefas). Assim como na análise hierárquica, a leitura do modelo exige que, para considerar uma tarefa principal realizada, suas tarefas subordinadas devem ter sido realizadas <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/image-57.jpeg" alt="Imagem 18"> </span>.</p>
+<p>A representação visual na notação CTT apresenta os ícones específicos para cada um dos quatro tipos de tarefas (usuário, sistema, interativa e abstrata), que podem ser representadas por uma estrutura hierárquica clássica do modelo, conectando uma tarefa abstrata raiz (T1) às suas tarefas subordinadas (T2 e T3) <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/image-58.jpeg" alt="Imagem 19"> </span>.</p>
+<p>Além da hierarquia estrita, o CTT permite representar diversas relações lógicas e temporais entre as tarefas, aumentando consideravelmente a expressividade da notação. As principais relações descritas são: ativação (<code>&gt;&gt;</code>), ativação com passagem de informação (<code>[]&gt;&gt;</code>), escolha entre tarefas alternativas (<code>[]</code>), tarefas concorrentes (<code>|||</code>), tarefas concorrentes e comunicantes (<code>|[]|</code>), tarefas independentes (<code>|=|</code>), desativação (<code>[&gt;</code>) e suspensão/retomada (<code>|&gt;</code>) <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/image-59.jpeg" alt="Imagem 20"> </span>.</p>
+<p>Para facilitar o entendimento visual dessas conexões a <strong>Figura 1</strong> mapeia graficamente cada uma das relações entre tarefas no CTT. Os símbolos textuais correspondentes a cada tipo de interação (como concorrência ou escolha) são posicionados nas linhas que unem os nós das tarefas.</p>
+<center> Figura I - Exemplos de diagrama CTT </center>
+
+<p><img alt="alt text" src="../../assets/image-60.jpeg" /></p>
+<blockquote>
+<p>Fonte: BARBOSA et al. (2021, p.202) </p>
+</blockquote>
+<p>Por fim, a <strong>Imagem 22</strong> consolida todos esses conceitos por meio da Figura 8.6, apresentando um exemplo prático de um modelo de tarefas em CTT para o objetivo de "Agendar compromisso". O diagrama detalha como a tarefa abstrata no topo da hierarquia se decompõe em subtarefas específicas (como examinar compromissos, informar dados e gravar no sistema), interligando diferentes tipos de tarefas (usuário, interativa e de sistema) através das relações de ativação, passagem de informação e concorrência <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/image-61.jpeg" alt="Imagem 22"> </span>.</p>
+<hr />
+<h2 id="analise-de-tarefas-realizadas">Análise de Tarefas Realizadas<a class="headerlink" href="#analise-de-tarefas-realizadas" title="Permanent link">&para;</a></h2>
+<h1 id="1-pre-agendamento-de-exames-via-envio-de-guias-medicas">1. Pré-agendamento de exames via envio de guias médicas<a class="headerlink" href="#1-pre-agendamento-de-exames-via-envio-de-guias-medicas" title="Permanent link">&para;</a></h1>
+<p>Esta análise avalia a funcionalidade de <strong>pré-agendamento de exames via envio de guias médicas</strong> no portal do Sabin. No cenário mapeado, a usuária (Márcia) tenta utilizar o fluxo automatizado do site enviando fotos dos pedidos médicos. O sistema identifica os exames, mas fornece uma instrução genérica exigindo 12 horas de jejum. </p>
+<p>Como o paciente (seu marido) faz uso de medicação contínua para hipertensão logo ao acordar, Márcia tenta utilizar o botão de "Dúvidas Frequentes" para verificar se a medicação quebra o jejum. Ao se deparar com um manual em PDF longo e sem ferramenta de busca, ela se sente insegura, abandona o processo automatizado e recorre ao ícone do WhatsApp para finalizar o agendamento com um atendente humano, garantindo que o preparo seja feito corretamente.</p>
+<p>Abaixo, a decomposição dessa interação utilizando os métodos de Árvores de Tarefas Concorrentes (CTT) e GOMS (KLM).</p>
+<hr />
+<h2 id="11-arvores-de-tarefas-concorrentes-concurtasktrees-ctt">1.1 Árvores de Tarefas Concorrentes (ConcurTaskTrees - CTT)<a class="headerlink" href="#11-arvores-de-tarefas-concorrentes-concurtasktrees-ctt" title="Permanent link">&para;</a></h2>
+<p>A notação CTT a seguir demonstra a decomposição hierárquica do cenário. O processo ilustra a interrupção (desativação <code>[&gt;</code>) do fluxo principal automatizado devido à falha de suporte da interface, forçando a usuária a migrar para um fluxo alternativo de atendimento.</p>
+<p><strong>Legenda de Tarefas:</strong> 
+☁️ Abstrata | 👤 Usuário | 🖥️ Sistema | 🖱️ Interativa
+<strong>Legenda de Relações:</strong> 
+<code>&gt;&gt;</code> (Ativação) | <code>[]&gt;&gt;</code> (Ativação com passagem de informação) | <code>[&gt;</code> (Desativação)</p>
+<ul>
+<li><strong>0. Agendar exames com dúvida crítica</strong> ☁️<ul>
+<li><strong>1. Tentar agendamento automatizado</strong> ☁️ <code>[&gt;</code> <strong>2. Buscar atendimento humano (WhatsApp)</strong> ☁️<ul>
+<li><strong>1.1.</strong> Acessar funcionalidade de envio de pedido 🖱️ <code>&gt;&gt;</code></li>
+<li><strong>1.2.</strong> Tirar fotos das guias médicas 🖱️ <code>[]&gt;&gt;</code></li>
+<li><strong>1.3.</strong> Processar imagens e identificar exames 🖥️ <code>[]&gt;&gt;</code></li>
+<li><strong>1.4.</strong> Exibir aviso genérico de preparo (12h de jejum) 🖥️ <code>&gt;&gt;</code></li>
+<li><strong>1.5.</strong> Avaliar instruções e constatar conflito com medicação 👤 <code>&gt;&gt;</code></li>
+<li><strong>1.6.</strong> Esclarecer dúvida de preparo ☁️<ul>
+<li><strong>1.6.1.</strong> Clicar no botão "Dúvidas Frequentes" 🖱️ <code>&gt;&gt;</code></li>
+<li><strong>1.6.2.</strong> Carregar e exibir manual em PDF 🖥️ <code>&gt;&gt;</code></li>
+<li><strong>1.6.3.</strong> Tentar localizar termo "hipertensão" no documento 👤 <code>&gt;&gt;</code></li>
+<li><strong>1.6.4.</strong> Constatar impossibilidade de busca e abandonar fluxo 🖱️</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>2. Buscar atendimento humano (WhatsApp)</strong> ☁️<ul>
+<li><strong>2.1.</strong> Retornar à tela inicial do aplicativo/site 🖱️ <code>&gt;&gt;</code></li>
+<li><strong>2.2.</strong> Clicar no ícone de atendimento via WhatsApp 🖱️ <code>&gt;&gt;</code></li>
+<li><strong>2.3.</strong> Enviar fotos das guias e relatar dúvida ao atendente 🖱️</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<hr />
+<h2 id="12-goms-keystroke-level-method-klm">1.2 GOMS: Keystroke-Level Method (KLM)<a class="headerlink" href="#12-goms-keystroke-level-method-klm" title="Permanent link">&para;</a></h2>
+<p>A análise KLM abaixo quantifica o tempo despendido pela usuária no cenário, adaptando os operadores primitivos (Point, Click) para a interação via tela de toque (Smartphone). </p>
+<p><strong>Operadores utilizados:</strong>
+*   <strong>M</strong> (Preparação mental): 1,20 s
+*   <strong>P</strong> (Apontar para o elemento na tela): 1,10 s
+*   <strong>K</strong> (Tocar/Clicar no botão ou tela): 0,20 s
+*   <strong>W(t)</strong> (Tempo de espera de resposta do sistema): Estimado</p>
+<h3 id="analise-da-tarefa-tentar-agendar-exame-e-migrar-para-whatsapp">Análise da Tarefa: Tentar agendar exame e migrar para WhatsApp<a class="headerlink" href="#analise-da-tarefa-tentar-agendar-exame-e-migrar-para-whatsapp" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">operação</th>
+<th style="text-align: left;">descrição</th>
+<th style="text-align: left;">tempo (em s)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>método:</strong> fluxo automatizado (falha)</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">M</td>
+<td style="text-align: left;">preparação (decidir iniciar agendamento)</td>
+<td style="text-align: left;">1,20</td>
+</tr>
+<tr>
+<td style="text-align: left;">P</td>
+<td style="text-align: left;">levar o dedo até o botão de envio de guia</td>
+<td style="text-align: left;">1,10</td>
+</tr>
+<tr>
+<td style="text-align: left;">K</td>
+<td style="text-align: left;">tocar no botão</td>
+<td style="text-align: left;">0,20</td>
+</tr>
+<tr>
+<td style="text-align: left;">M</td>
+<td style="text-align: left;">preparação (posicionar câmera sobre as guias)</td>
+<td style="text-align: left;">1,20</td>
+</tr>
+<tr>
+<td style="text-align: left;">P</td>
+<td style="text-align: left;">levar o dedo até o disparador da câmera</td>
+<td style="text-align: left;">1,10</td>
+</tr>
+<tr>
+<td style="text-align: left;">K</td>
+<td style="text-align: left;">tocar para capturar e enviar foto</td>
+<td style="text-align: left;">0,20</td>
+</tr>
+<tr>
+<td style="text-align: left;">W(t)</td>
+<td style="text-align: left;">espera pela leitura da IA (estimativa)</td>
+<td style="text-align: left;">3,00</td>
+</tr>
+<tr>
+<td style="text-align: left;">M</td>
+<td style="text-align: left;">preparação (ler o preparo de 12h e lembrar do remédio)</td>
+<td style="text-align: left;">1,20</td>
+</tr>
+<tr>
+<td style="text-align: left;">P</td>
+<td style="text-align: left;">levar o dedo até o botão "Dúvidas Frequentes"</td>
+<td style="text-align: left;">1,10</td>
+</tr>
+<tr>
+<td style="text-align: left;">K</td>
+<td style="text-align: left;">tocar no botão</td>
+<td style="text-align: left;">0,20</td>
+</tr>
+<tr>
+<td style="text-align: left;">W(t)</td>
+<td style="text-align: left;">espera pelo carregamento do PDF (estimativa)</td>
+<td style="text-align: left;">2,00</td>
+</tr>
+<tr>
+<td style="text-align: left;">M</td>
+<td style="text-align: left;">preparação (rolar o PDF, perceber que é longo e frustrar-se)</td>
+<td style="text-align: left;">1,20</td>
+</tr>
+<tr>
+<td style="text-align: left;">P</td>
+<td style="text-align: left;">levar o dedo até o botão de fechar/voltar</td>
+<td style="text-align: left;">1,10</td>
+</tr>
+<tr>
+<td style="text-align: left;">K</td>
+<td style="text-align: left;">tocar no botão</td>
+<td style="text-align: left;">0,20</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>método:</strong> recuperação via atendimento humano</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">M</td>
+<td style="text-align: left;">preparação (decidir abandonar e usar o WhatsApp)</td>
+<td style="text-align: left;">1,20</td>
+</tr>
+<tr>
+<td style="text-align: left;">P</td>
+<td style="text-align: left;">levar o dedo até o ícone de Início/Home</td>
+<td style="text-align: left;">1,10</td>
+</tr>
+<tr>
+<td style="text-align: left;">K</td>
+<td style="text-align: left;">tocar no botão</td>
+<td style="text-align: left;">0,20</td>
+</tr>
+<tr>
+<td style="text-align: left;">M</td>
+<td style="text-align: left;">preparação (localizar o ícone flutuante do WhatsApp)</td>
+<td style="text-align: left;">1,20</td>
+</tr>
+<tr>
+<td style="text-align: left;">P</td>
+<td style="text-align: left;">levar o dedo até o ícone do WhatsApp</td>
+<td style="text-align: left;">1,10</td>
+</tr>
+<tr>
+<td style="text-align: left;">K</td>
+<td style="text-align: left;">tocar no botão para abrir o chat</td>
+<td style="text-align: left;">0,20</td>
+</tr>
+<tr>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"><strong>tempo total estimado do cenário</strong></td>
+<td style="text-align: left;"><strong>19,80</strong></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Observação Analítica:</strong> A tarefa de pré-agendamento deveria ser um fluxo rápido de inserção de dados. No entanto, devido à falha de suporte informacional (PDF não pesquisável), a usuária gasta quase 20 segundos apenas para realizar tentativas frustradas e ser obrigada a iniciar um segundo fluxo (WhatsApp), o que sobrecarrega tanto o tempo da usuária quanto os recursos de atendimento humano do laboratório.</p>
+<h2 id="2visualizar-imagem-dicom">2.Visualizar Imagem DICOM<a class="headerlink" href="#2visualizar-imagem-dicom" title="Permanent link">&para;</a></h2>
+<p>A HTA foi utilizada para mapear a decomposição do objetivo principal (Analisar Imagem DICOM) em subobjetivos. O foco desta análise é identificar a sequência necessária para o sucesso da tarefa e explicitar os problemas e recomendações associados a cada etapa, utilizando o critério de probabilidade e custo de falha para propor soluções preventivas.</p>
+<h4 id="12-diagrama-hierarquico-estrutura-logica-da-analise-hierarquica-de-tarefas-hta">1.2 Diagrama Hierárquico (Estrutura Lógica) da análise Hierárquica de Tarefas (HTA):<a class="headerlink" href="#12-diagrama-hierarquico-estrutura-logica-da-analise-hierarquica-de-tarefas-hta" title="Permanent link">&para;</a></h4>
+<div class="language-text highlight"><pre><span></span><code><span id="__span-0-1"><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a>0. Analisar exame de imagem (DICOM) [Plano: 1 &gt; 2] (Sequencial)
+</span><span id="__span-0-2"><a id="__codelineno-0-2" name="__codelineno-0-2" href="#__codelineno-0-2"></a>├── 1. Localizar o exame do paciente [Plano: 1 / 2] (Seleção)
+</span><span id="__span-0-3"><a id="__codelineno-0-3" name="__codelineno-0-3" href="#__codelineno-0-3"></a>│   ├── 1.1 Pesquisar pelo nome do paciente
+</span><span id="__span-0-4"><a id="__codelineno-0-4" name="__codelineno-0-4" href="#__codelineno-0-4"></a>│   └── 1.2 Buscar na lista de exames recentes
+</span><span id="__span-0-5"><a id="__codelineno-0-5" name="__codelineno-0-5" href="#__codelineno-0-5"></a>└── 2. Operar o visualizador DICOM [Plano: 1 &gt; 2] (Sequencial)
+</span><span id="__span-0-6"><a id="__codelineno-0-6" name="__codelineno-0-6" href="#__codelineno-0-6"></a>    ├── 2.1 Ativar visualizador (carregar plugin/imagem)
+</span><span id="__span-0-7"><a id="__codelineno-0-7" name="__codelineno-0-7" href="#__codelineno-0-7"></a>    └── 2.2 Manipular a imagem [Plano: 1 + 2 + 3] (Paralelo)
+</span><span id="__span-0-8"><a id="__codelineno-0-8" name="__codelineno-0-8" href="#__codelineno-0-8"></a>        ├── 2.2.1 Ajustar brilho/contraste (janelamento)
+</span><span id="__span-0-9"><a id="__codelineno-0-9" name="__codelineno-0-9" href="#__codelineno-0-9"></a>        ├── 2.2.2 Aplicar zoom
+</span><span id="__span-0-10"><a id="__codelineno-0-10" name="__codelineno-0-10" href="#__codelineno-0-10"></a>        └── 2.2.3 Realizar medições na lesão
+</span></code></pre></div>
+<h3 id="tabela-hta">Tabela HTA<a class="headerlink" href="#tabela-hta" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Objetivo / Operação</th>
+<th>Plano</th>
+<th>Input</th>
+<th>Ação</th>
+<th>Feedback</th>
+<th>Problemas e Recomendações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0. Analisar exame de imagem (DICOM)</td>
+<td>1 &gt; 2</td>
+<td>Médico autenticado no portal e com necessidade de avaliar o exame.</td>
+<td>Localizar o exame do paciente e operar o visualizador DICOM.</td>
+<td>Exame visualizado com qualidade suficiente para análise diagnóstica.</td>
+<td>Se houver falha no carregamento, o sistema deve oferecer alternativa de contingência.</td>
+</tr>
+<tr>
+<td>1. Localizar o exame do paciente</td>
+<td>1 / 2</td>
+<td>Dados do paciente ou histórico recente disponível.</td>
+<td>Pesquisar pelo nome do paciente ou consultar a lista de exames recentes.</td>
+<td>Exame correto localizado no sistema.</td>
+<td>Recomenda-se incluir filtros por data, modalidade e tipo de exame.</td>
+</tr>
+<tr>
+<td>2. Operar o visualizador DICOM</td>
+<td>1 &gt; 2</td>
+<td>Exame selecionado no sistema.</td>
+<td>Ativar o visualizador e, em seguida, manipular a imagem.</td>
+<td>Imagem exibida e disponível para inspeção clínica.</td>
+<td>Recomenda-se visualizador nativo no navegador e carregamento mais robusto.</td>
+</tr>
+<tr>
+<td>2.2 Manipular a imagem</td>
+<td>1 + 2 + 3</td>
+<td>Imagem carregada no visualizador.</td>
+<td>Ajustar brilho/contraste, aplicar zoom e realizar medições conforme necessário.</td>
+<td>Imagem adequada para interpretação e análise da lesão.</td>
+<td>Recomenda-se manter ferramentas principais sempre visíveis e com ícones padronizados.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="22arvore-de-tarefas-concorrentes-ctt">2.2.Árvore de Tarefas Concorrentes (CTT)<a class="headerlink" href="#22arvore-de-tarefas-concorrentes-ctt" title="Permanent link">&para;</a></h2>
+<p>A Árvore de Tarefas Concorrentes (<em>Concurrence Task Trees</em> - CTT), desenvolvida por Fabio Paternò, é um modelo de análise que avança a estruturação clássica da HTA. Enquanto a HTA foca na decomposição hierárquica baseada em objetivos e no custo de falhas, o CTT destaca-se por representar visualmente e formalmente as <strong>relações temporais e lógicas</strong> entre as tarefas, além de classificar explicitamente a alocação de responsabilidades (se a ação é feita pelo usuário, pelo sistema ou pela interação de ambos).</p>
+<p>A utilização do CTT justifica-se na avaliação de funcionalidades complexas e dinâmicas, como o visualizador de imagens DICOM. A análise de exames médicos pelos profissionais de saúde raramente ocorre de forma linear ou rígida. O médico frequentemente realiza ações simultâneas e intercaladas, como aplicar <em>zoom</em> enquanto movimenta a imagem, ou iniciar a medição de uma lesão e suspendê-la temporariamente para ajustar o janelamento de contraste. O CTT permite mapear essa flexibilidade de forma estruturada assim como apresentado na figura I.</p>
+<p>Figura II - Diagrama em Árvore de Tarefas Concorrentes (CTT)</p>
+<p><img alt="alt text" src="../../assets/image-39.png" /></p>
+<blockquote>
+<p>Fonte: autoria própria.</p>
+</blockquote>
+<h1 id="3-visualizacao-e-download-de-laudo-de-exame">3. Visualização e Download de Laudo de Exame<a class="headerlink" href="#3-visualizacao-e-download-de-laudo-de-exame" title="Permanent link">&para;</a></h1>
+<p>Esta análise aborda uma funcionalidade de extrema importância e alta frequência de uso no portal do Sabin: <strong>a consulta e o download de resultados de exames (laudos)</strong>. No cenário analisado, a usuária Camila (gestante e paciente frequente) acessa o sistema pelo smartphone com o objetivo de verificar se o resultado do seu último exame de acompanhamento pré-natal já foi liberado e, em seguida, baixar o PDF para enviar à sua obstetra.</p>
+<p>Como a usuária tem um perfil de alta ansiedade por conta da gestação e realiza exames frequentemente, a agilidade do login e a clareza visual do <em>status</em> do exame na tela são fatores críticos para o sucesso da interação e a satisfação com a interface.</p>
+<p>Abaixo, apresentamos a decomposição dessa interação utilizando a Análise Hierárquica de Tarefas (HTA) para estruturar o fluxo lógico e o método GOMS (KLM) para quantificar o tempo de execução na interface móvel.</p>
+<hr />
+<h2 id="31-analise-hierarquica-de-tarefas-hta">3.1 Análise Hierárquica de Tarefas (HTA)<a class="headerlink" href="#31-analise-hierarquica-de-tarefas-hta" title="Permanent link">&para;</a></h2>
+<p>A HTA abaixo descreve o plano de ação necessário para que a usuária cumpra seu objetivo principal a partir do momento em que pega o celular.</p>
+<p><strong>0. Obter laudo de exame online [Plano: 1 &gt; 2 &gt; 3 &gt; 4]</strong>
+* <strong>1. Realizar Autenticação no portal [Plano: 1.1 &gt; 1.2 &gt; 1.3 &gt; 1.4]</strong>
+    * 1.1. Acessar a página de login/resultados
+    * 1.2. Escolher o método de acesso rápido (Token via SMS)
+    * 1.3. Inserir o CPF
+    * 1.4. Inserir o código recebido via SMS
+* <strong>2. Localizar o exame de interesse [Plano: 2.1 &gt; 2.2]</strong>
+    * 2.1. Acessar a aba ou seção "Últimos Resultados"
+    * 2.2. Identificar o exame desejado pela data ou nome
+* <strong>3. Baixar o documento do laudo [Plano: 3.1 &gt; 3.2]</strong>
+    * 3.1. Clicar sobre o <em>card</em> do exame liberado
+    * 3.2. Acionar o botão "Baixar PDF"
+* <strong>4. Compartilhar o documento (Tarefa externa) [Plano: 4.1 &gt; 4.2]</strong>
+    * 4.1. Selecionar a opção de compartilhamento nativa do smartphone
+    * 4.2. Escolher o mensageiro (WhatsApp) e enviar para a médica</p>
+<p><strong>Tabela HTA:</strong></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Objetivo / Operação</th>
+<th style="text-align: left;">Plano</th>
+<th style="text-align: left;">Input</th>
+<th style="text-align: left;">Ação</th>
+<th style="text-align: left;">Feedback</th>
+<th style="text-align: left;">Problemas e Recomendações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>0. Obter laudo</strong></td>
+<td style="text-align: left;">1&gt;2&gt;3&gt;4</td>
+<td style="text-align: left;">Necessidade de ver o resultado do exame</td>
+<td style="text-align: left;">Logar, localizar exame, baixar PDF e compartilhar</td>
+<td style="text-align: left;">Laudo em PDF no aparelho ou enviado ao médico</td>
+<td style="text-align: left;">Lentidão ou falha no download geram extrema frustração.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>1. Autenticação</strong></td>
+<td style="text-align: left;">1&gt;2&gt;3&gt;4</td>
+<td style="text-align: left;">Tela de Login</td>
+<td style="text-align: left;">Optar por login via SMS e inserir dados</td>
+<td style="text-align: left;">Acesso concedido, direcionamento à <em>Home</em></td>
+<td style="text-align: left;">Atraso no envio do SMS pode interromper o fluxo; manter opção de senha padrão bem visível.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>2. Localizar exame</strong></td>
+<td style="text-align: left;">1&gt;2</td>
+<td style="text-align: left;">Logado na <em>Home</em></td>
+<td style="text-align: left;">Rolar tela até "Últimos Resultados" e clicar no exame</td>
+<td style="text-align: left;">Tela de detalhes do exame específica carregada</td>
+<td style="text-align: left;">Exames devem ter <em>status</em> visual muito claro (ex: "Em processamento" vs "Liberado").</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>3. Baixar PDF</strong></td>
+<td style="text-align: left;">1&gt;2</td>
+<td style="text-align: left;">Tela de detalhes do exame</td>
+<td style="text-align: left;">Tocar no botão de download</td>
+<td style="text-align: left;">Arquivo PDF aberto/salvo no celular</td>
+<td style="text-align: left;">O botão "Baixar PDF" deve ter grande destaque (<em>Call to Action</em> primário) e permitir baixar todos os exames de um pedido em um arquivo único.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="32-goms-keystroke-level-method-klm">3.2 GOMS: Keystroke-Level Method (KLM)<a class="headerlink" href="#32-goms-keystroke-level-method-klm" title="Permanent link">&para;</a></h2>
+<p>A análise KLM a seguir quantifica o tempo despendido pela usuária no cenário, assumindo que ela já está logada no sistema e navegando pelo Smartphone (adaptação dos operadores para tela sensível ao toque).</p>
+<p><strong>Operadores utilizados (Padrão Mobile):</strong>
+* <strong>M</strong> (Preparação mental): 1,20 s
+* <strong>P</strong> (Apontar para o elemento na tela / Rolar tela): 1,10 s
+* <strong>K</strong> (Tocar/Clicar no botão ou tela): 0,20 s
+* <strong>W(t)</strong> (Tempo de espera de resposta do sistema): Estimado conforme o contexto</p>
+<h3 id="analise-da-tarefa-localizar-exame-recente-e-baixar-pdf">Análise da Tarefa: Localizar exame recente e baixar PDF<a class="headerlink" href="#analise-da-tarefa-localizar-exame-recente-e-baixar-pdf" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Operação</th>
+<th style="text-align: left;">Descrição</th>
+<th style="text-align: left;">Tempo (em s)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>método:</strong></td>
+<td style="text-align: left;">fluxo de download de laudo (sucesso)</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">M</td>
+<td style="text-align: left;">preparação mental (decidir procurar os exames mais recentes na tela)</td>
+<td style="text-align: left;">1,20</td>
+</tr>
+<tr>
+<td style="text-align: left;">P</td>
+<td style="text-align: left;">rolar a tela / apontar o dedo até a seção "Últimos Resultados"</td>
+<td style="text-align: left;">1,10</td>
+</tr>
+<tr>
+<td style="text-align: left;">K</td>
+<td style="text-align: left;">tocar sobre o <em>card</em> do exame correspondente à data correta</td>
+<td style="text-align: left;">0,20</td>
+</tr>
+<tr>
+<td style="text-align: left;">W(t)</td>
+<td style="text-align: left;">aguardar o carregamento da página de detalhes do exame (estimativa)</td>
+<td style="text-align: left;">1,50</td>
+</tr>
+<tr>
+<td style="text-align: left;">M</td>
+<td style="text-align: left;">preparação mental (localizar a opção de download)</td>
+<td style="text-align: left;">1,20</td>
+</tr>
+<tr>
+<td style="text-align: left;">P</td>
+<td style="text-align: left;">apontar o dedo para o ícone/botão de "Baixar PDF"</td>
+<td style="text-align: left;">1,10</td>
+</tr>
+<tr>
+<td style="text-align: left;">K</td>
+<td style="text-align: left;">tocar no botão de download</td>
+<td style="text-align: left;">0,20</td>
+</tr>
+<tr>
+<td style="text-align: left;">W(t)</td>
+<td style="text-align: left;">aguardar a geração e abertura do PDF no aparelho (estimativa)</td>
+<td style="text-align: left;">2,00</td>
+</tr>
+<tr>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"><strong>tempo total estimado da tarefa</strong></td>
+<td style="text-align: left;"><strong>8,50</strong></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Observação Analítica:</strong> A tarefa de baixar um laudo para um usuário já logado é um processo que deve ser extremamente rápido e direto, custando em média menos de 10 segundos. O ponto crítico (gargalo) é o tempo de resposta do sistema <strong>W(t)</strong> para gerar o PDF. A interface deve priorizar a visibilidade da seção "Últimos Resultados" logo na primeira dobra da tela inicial para minimizar o esforço de busca (Operadores M e P) por parte da paciente.</p>
+<h1 id="analise-goms-agendamento-de-exame-no-site-sabin">Análise GOMS — Agendamento de Exame no Site Sabin<a class="headerlink" href="#analise-goms-agendamento-de-exame-no-site-sabin" title="Permanent link">&para;</a></h1>
+<h2 id="introducao_2">Introdução<a class="headerlink" href="#introducao_2" title="Permanent link">&para;</a></h2>
+<p>A técnica <strong>GOMS (Goals, Operators, Methods, Selection Rules)</strong> é utilizada para modelar o comportamento de usuários experientes durante a execução de tarefas em sistemas computacionais. Diferente da HTA, que foca na decomposição hierárquica de objetivos, o GOMS descreve o <strong>conhecimento procedimental</strong>, ou seja, como o usuário realiza a tarefa passo a passo, assumindo que ele já domina o sistema e não comete erros.</p>
+<p>Essa abordagem permite analisar a <strong>eficiência da interação</strong>, identificar gargalos e até estimar o tempo de execução de tarefas por meio do modelo <strong>KLM (Keystroke-Level Model)</strong>.</p>
+<hr />
+<h2 id="1-goals-objetivos">1. Goals (Objetivos)<a class="headerlink" href="#1-goals-objetivos" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong>G0:</strong> Agendar exame laboratorial online  </li>
+<li><strong>G1:</strong> Acessar o site do Sabin  </li>
+<li><strong>G2:</strong> Iniciar processo de agendamento  </li>
+<li><strong>G3:</strong> Selecionar exame  </li>
+<li><strong>G4:</strong> Escolher unidade e horário  </li>
+<li><strong>G5:</strong> Informar dados pessoais  </li>
+<li><strong>G6:</strong> Confirmar agendamento  </li>
+</ul>
+<hr />
+<h2 id="2-operators-operadores">2. Operators (Operadores)<a class="headerlink" href="#2-operators-operadores" title="Permanent link">&para;</a></h2>
+<h3 id="operadores-fisicos-externos">Operadores físicos (externos)<a class="headerlink" href="#operadores-fisicos-externos" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>K:</strong> pressionar tecla  </li>
+<li><strong>P:</strong> apontar cursor  </li>
+<li><strong>B:</strong> clicar (pressionar/soltar botão do mouse)  </li>
+<li><strong>H:</strong> mover mão entre dispositivos  </li>
+</ul>
+<h3 id="operadores-cognitivos">Operadores cognitivos<a class="headerlink" href="#operadores-cognitivos" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>M:</strong> preparação mental  </li>
+</ul>
+<h3 id="sistema">Sistema<a class="headerlink" href="#sistema" title="Permanent link">&para;</a></h3>
+<ul>
+<li><strong>R:</strong> tempo de resposta do sistema  </li>
+</ul>
+<hr />
+<h2 id="3-methods-metodos">3. Methods (Métodos)<a class="headerlink" href="#3-methods-metodos" title="Permanent link">&para;</a></h2>
+<h3 id="metodo-principal-fluxo-padrao-via-interface-web">Método principal (fluxo padrão via interface web)<a class="headerlink" href="#metodo-principal-fluxo-padrao-via-interface-web" title="Permanent link">&para;</a></h3>
+<ol>
+<li>
+<p>Acessar site:
+   M → H → K → K → R</p>
+</li>
+<li>
+<p>Iniciar agendamento:
+   M → P → B → R</p>
+</li>
+<li>
+<p>Selecionar exame:
+   M → K → K → P → B → R</p>
+</li>
+<li>
+<p>Escolher unidade e horário:
+   M → P → B → P → B → R</p>
+</li>
+<li>
+<p>Informar dados pessoais:
+   M → K → K → K → R</p>
+</li>
+<li>
+<p>Confirmar agendamento:
+   M → P → B → R</p>
+</li>
+</ol>
+<hr />
+<h2 id="4-selection-rules-regras-de-selecao">4. Selection Rules (Regras de Seleção)<a class="headerlink" href="#4-selection-rules-regras-de-selecao" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Se o usuário souber o nome do exame → usar <strong>busca direta</strong>  </li>
+<li>Caso contrário → navegar por categorias/listas  </li>
+<li>Se houver dados previamente salvos → usar <strong>autopreenchimento</strong>  </li>
+<li>Caso contrário → preencher manualmente  </li>
+<li>Se houver múltiplos horários → escolher o mais conveniente  </li>
+</ul>
+<hr />
+<h2 id="5-tabela-goms">5. Tabela GOMS<a class="headerlink" href="#5-tabela-goms" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Goal</th>
+<th>Método</th>
+<th>Operadores</th>
+<th>Observação</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>G1: Acessar site</td>
+<td>Abrir navegador + acessar URL</td>
+<td>M, H, K, K, R</td>
+<td>Pode ser automatizado (favoritos)</td>
+</tr>
+<tr>
+<td>G2: Iniciar agendamento</td>
+<td>Clicar na funcionalidade</td>
+<td>M, P, B, R</td>
+<td>Depende da visibilidade do botão</td>
+</tr>
+<tr>
+<td>G3: Selecionar exame</td>
+<td>Buscar e selecionar</td>
+<td>M, K, K, P, B, R</td>
+<td>Sensível à qualidade da busca</td>
+</tr>
+<tr>
+<td>G4: Escolher unidade/horário</td>
+<td>Seleção sequencial</td>
+<td>M, P, B, P, B, R</td>
+<td>Pode gerar carga cognitiva</td>
+</tr>
+<tr>
+<td>G5: Informar dados</td>
+<td>Preencher formulário</td>
+<td>M, K, K, K, R</td>
+<td>Propenso a erros</td>
+</tr>
+<tr>
+<td>G6: Confirmar</td>
+<td>Revisar e confirmar</td>
+<td>M, P, B, R</td>
+<td>Feedback crítico</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="6-analise-klm-estimativa-de-tempo">6. Análise KLM (Estimativa de Tempo)<a class="headerlink" href="#6-analise-klm-estimativa-de-tempo" title="Permanent link">&para;</a></h2>
+<p>Considerando um usuário mediano:</p>
+<table>
+<thead>
+<tr>
+<th>Etapa</th>
+<th>Sequência</th>
+<th>Tempo (s)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Acessar site</td>
+<td>M + K + K + R</td>
+<td>~1,6 + R</td>
+</tr>
+<tr>
+<td>Iniciar agendamento</td>
+<td>M + P + B + R</td>
+<td>~2,4 + R</td>
+</tr>
+<tr>
+<td>Selecionar exame</td>
+<td>M + 2K + P + B + R</td>
+<td>~2,8 + R</td>
+</tr>
+<tr>
+<td>Escolher unidade/horário</td>
+<td>M + P + B + P + B + R</td>
+<td>~3,6 + R</td>
+</tr>
+<tr>
+<td>Informar dados</td>
+<td>M + 3K + R</td>
+<td>~1,8 + R</td>
+</tr>
+<tr>
+<td>Confirmar</td>
+<td>M + P + B + R</td>
+<td>~2,4 + R</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Tempo total estimado:</strong> ~14–16 segundos + tempo de resposta do sistema</p>
+<hr />
+<h2 id="7-interpretacao">7. Interpretação<a class="headerlink" href="#7-interpretacao" title="Permanent link">&para;</a></h2>
+<p>A análise evidencia que:</p>
+<ul>
+<li>O fluxo é <strong>linear e previsível</strong> para usuários experientes  </li>
+<li>As etapas mais custosas são:</li>
+<li><strong>Seleção de exame (G3)</strong>  </li>
+<li><strong>Escolha de unidade/horário (G4)</strong>  </li>
+<li>A etapa mais crítica em termos de erro é:</li>
+<li><strong>Entrada de dados (G5)</strong>  </li>
+</ul>
+<hr />
+<h2 id="8-insights-de-design">8. Insights de Design<a class="headerlink" href="#8-insights-de-design" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong>Reduzir número de cliques (P, B)</strong>  </li>
+<li><strong>Diminuir carga cognitiva (M)</strong> com melhor organização da interface  </li>
+<li><strong>Implementar autofill</strong> para dados pessoais  </li>
+<li><strong>Melhorar mecanismo de busca</strong> de exames  </li>
+<li><strong>Exibir disponibilidade de forma clara</strong> para unidade/horário  </li>
+</ul>
+<hr />
+<h2 id="9-conclusao">9. Conclusão<a class="headerlink" href="#9-conclusao" title="Permanent link">&para;</a></h2>
+<p>A análise GOMS permite entender o desempenho de usuários experientes no sistema de agendamento do Sabin, evidenciando oportunidades claras de otimização.</p>
+<p>Enquanto a HTA estrutura o problema em termos de objetivos, o GOMS mostra <strong>como esses objetivos são operacionalizados</strong>, permitindo avaliar eficiência, consistência e qualidade da interação.</p>
+<p>Essa abordagem é particularmente útil para orientar melhorias que reduzam tempo de execução, esforço cognitivo e probabilidade de erro.</p>
+<h2 id="analise-hierarquica-de-tarefas-hta-agendamento-de-exame-no-site-sabin">Análise Hierárquica de Tarefas (HTA) — Agendamento de Exame no Site Sabin<a class="headerlink" href="#analise-hierarquica-de-tarefas-hta-agendamento-de-exame-no-site-sabin" title="Permanent link">&para;</a></h2>
+<p>A <strong>Análise Hierárquica de Tarefas (HTA — Hierarchical Task Analysis)</strong> é uma técnica amplamente utilizada em Interação Humano-Computador (IHC) para compreender como os usuários realizam atividades em sistemas complexos. Em vez de focar apenas nas ações, a HTA parte dos <strong>objetivos dos usuários</strong>, decompondo-os em <strong>subobjetivos e operações</strong>, organizados por meio de um plano que define a ordem e a relação entre essas tarefas.</p>
+<p>Essa abordagem permite identificar <strong>pontos críticos de interação</strong>, <strong>possíveis erros</strong> e <strong>oportunidades de melhoria no design</strong>, sendo especialmente útil na avaliação e no redesenho de sistemas interativos.</p>
+<p>Neste contexto, a seguir é apresentada uma HTA para o processo de <strong>agendamento de exames laboratoriais no site do Sabin</strong>, modelando as etapas necessárias para que o usuário atinja seu objetivo principal.</p>
+<p>A funcionalidade analisada está apresentada na <strong>Figura III</strong>:</p>
+<p>Figura III - Funcionalidade de agendamento de exame em diagrama HTA.</p>
+<p><img alt="alt text" src="../../assets/image-40.png" /></p>
+<blockquote>
+<p>Fonte: autoria própria</p>
+</blockquote>
+<h3 id="0-agendar-exame-laboratorial-online"><strong>0. Agendar exame laboratorial online</strong><a class="headerlink" href="#0-agendar-exame-laboratorial-online" title="Permanent link">&para;</a></h3>
+<p><strong>Plano geral:</strong><br />
+<code>1 &gt; 2 &gt; 3 &gt; 4 &gt; 5 &gt; 6</code><br />
+As etapas devem ser executadas de forma <strong>sequencial</strong>, até a confirmação do agendamento.</p>
+<hr />
+<h2 id="decomposicao-hierarquica">Decomposição Hierárquica<a class="headerlink" href="#decomposicao-hierarquica" title="Permanent link">&para;</a></h2>
+<h3 id="1-acessar-o-site-do-sabin"><strong>1. Acessar o site do Sabin</strong><a class="headerlink" href="#1-acessar-o-site-do-sabin" title="Permanent link">&para;</a></h3>
+<p>Primeira etapa do fluxo, onde o usuário entra no sistema.</p>
+<ul>
+<li><strong>Input:</strong> acesso a um navegador/dispositivo  </li>
+<li><strong>Ação:</strong> abrir o site  </li>
+<li><strong>Feedback esperado:</strong> página inicial carregada corretamente  </li>
+</ul>
+<hr />
+<h3 id="2-iniciar-processo-de-agendamento"><strong>2. Iniciar processo de agendamento</strong><a class="headerlink" href="#2-iniciar-processo-de-agendamento" title="Permanent link">&para;</a></h3>
+<p>O usuário localiza a funcionalidade de agendamento.</p>
+<ul>
+<li><strong>Ação:</strong> acessar a opção de agendamento  </li>
+<li><strong>Feedback:</strong> interface de busca de exames exibida  </li>
+</ul>
+<hr />
+<h3 id="3-selecionar-exame"><strong>3. Selecionar exame</strong><a class="headerlink" href="#3-selecionar-exame" title="Permanent link">&para;</a></h3>
+<p><strong>Plano:</strong> <code>3.1 &gt; 3.2</code></p>
+<h4 id="31-buscar-exame-pelo-nome"><strong>3.1 Buscar exame pelo nome</strong><a class="headerlink" href="#31-buscar-exame-pelo-nome" title="Permanent link">&para;</a></h4>
+<ul>
+<li><strong>Ação:</strong> digitar o nome do exame  </li>
+<li><strong>Feedback:</strong> lista de exames disponíveis  </li>
+</ul>
+<h4 id="32-selecionar-exame-correto"><strong>3.2 Selecionar exame correto</strong><a class="headerlink" href="#32-selecionar-exame-correto" title="Permanent link">&para;</a></h4>
+<ul>
+<li><strong>Ação:</strong> escolher o exame desejado  </li>
+<li><strong>Feedback:</strong> exame selecionado  </li>
+</ul>
+<hr />
+<h3 id="4-escolher-unidade-e-horario"><strong>4. Escolher unidade e horário</strong><a class="headerlink" href="#4-escolher-unidade-e-horario" title="Permanent link">&para;</a></h3>
+<p><strong>Plano:</strong> <code>4.1 &gt; 4.2</code></p>
+<h4 id="41-selecionar-unidade"><strong>4.1 Selecionar unidade</strong><a class="headerlink" href="#41-selecionar-unidade" title="Permanent link">&para;</a></h4>
+<ul>
+<li><strong>Ação:</strong> escolher a unidade/laboratório  </li>
+<li><strong>Feedback:</strong> unidade selecionada  </li>
+</ul>
+<h4 id="42-selecionar-horario"><strong>4.2 Selecionar horário</strong><a class="headerlink" href="#42-selecionar-horario" title="Permanent link">&para;</a></h4>
+<ul>
+<li><strong>Ação:</strong> escolher data e horário disponíveis  </li>
+<li><strong>Feedback:</strong> horário definido  </li>
+</ul>
+<hr />
+<h3 id="5-informar-dados-pessoais"><strong>5. Informar dados pessoais</strong><a class="headerlink" href="#5-informar-dados-pessoais" title="Permanent link">&para;</a></h3>
+<p>Etapa de preenchimento ou validação dos dados do usuário.</p>
+<ul>
+<li><strong>Ação:</strong> inserir ou confirmar dados pessoais  </li>
+<li><strong>Feedback:</strong> dados validados pelo sistema  </li>
+</ul>
+<hr />
+<h3 id="6-confirmar-agendamento"><strong>6. Confirmar agendamento</strong><a class="headerlink" href="#6-confirmar-agendamento" title="Permanent link">&para;</a></h3>
+<p>Etapa final do processo.</p>
+<ul>
+<li><strong>Ação:</strong> revisar informações e confirmar  </li>
+<li><strong>Feedback:</strong> confirmação do agendamento  </li>
+</ul>
+<hr />
+<h2 id="interpretacao-da-analise">Interpretação da Análise<a class="headerlink" href="#interpretacao-da-analise" title="Permanent link">&para;</a></h2>
+<p>A HTA evidencia que o processo é:</p>
+<ul>
+<li><strong>Sequencial</strong>, sem ramificações no fluxo principal  </li>
+<li>Dependente de decisões intermediárias (etapas 3 e 4)  </li>
+<li>Estruturado com <strong>dependência entre tarefas</strong></li>
+</ul>
+<hr />
+<h2 id="pontos-criticos-visao-de-ihc">Pontos Críticos (Visão de IHC)<a class="headerlink" href="#pontos-criticos-visao-de-ihc" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong>Busca de exames:</strong> pode gerar ambiguidade  </li>
+<li><strong>Escolha de unidade/horário:</strong> depende de boa visualização  </li>
+<li><strong>Entrada de dados:</strong> propensa a erros  </li>
+<li><strong>Confirmação:</strong> requer feedback claro  </li>
+</ul>
+<hr />
+<h2 id="conclusao">Conclusão<a class="headerlink" href="#conclusao" title="Permanent link">&para;</a></h2>
+<p>A HTA permite compreender o processo de agendamento como um fluxo orientado a objetivos, facilitando a identificação de problemas de usabilidade e apoiando melhorias no design do sistema. Etapas que envolvem decisão e entrada de dados devem receber maior atenção para garantir eficiência, eficácia e satisfação do usuário.</p>
+<h2 id="referencia-bibliografica">Referência bibliográfica<a class="headerlink" href="#referencia-bibliografica" title="Permanent link">&para;</a></h2>
+<blockquote>
+<p>BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.</p>
+</blockquote>
+<hr />
+<h2 id="historico-de-versao">Histórico de Versão<a class="headerlink" href="#historico-de-versao" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Versão</th>
+<th style="text-align: left;">Data</th>
+<th style="text-align: left;">Descrição</th>
+<th style="text-align: left;">Autor</th>
+<th style="text-align: left;">Revisor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">1.0</td>
+<td style="text-align: left;">1/05/2026</td>
+<td style="text-align: left;">Criação do documento</td>
+<td style="text-align: left;"><a href="https://github.com/Maria-Laura-Regis">Maria Laura</a></td>
+<td style="text-align: left;"><a href="https://github.com/HugoFreitass">Hugo Freitas Silva</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">1.1</td>
+<td style="text-align: left;">4/05/2026</td>
+<td style="text-align: left;">Ajustes no documento</td>
+<td style="text-align: left;"><a href="https://github.com/alvesingrid">Ingrid Alves</a></td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
+<hr />
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Voltar para o topo
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+</div>
+      
+        
+<div class="md-social">
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/Interacao-Humano-Computador/2026.1-Grupo07" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.tabs", "navigation.top", "search.highlight", "content.code.copy", "navigation.tabs.sticky", "navigation.sections", "navigation.expand", "navigation.indexes", "toc.follow", "search.suggest", "search.share", "content.code.annotate", "header.autohide"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "search.result.more.one": "mais 1 nesta p\u00e1gina", "search.result.more.other": "# mais nesta p\u00e1gina", "search.result.none": "Nenhum documento encontrado", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Digite para iniciar a busca", "search.result.term.missing": "Ausente", "select.version": "Selecione a vers\u00e3o"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>

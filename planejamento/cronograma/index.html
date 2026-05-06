@@ -1,0 +1,3455 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../heatmap/">
+      
+      
+        <link rel="next" href="../cronogramaexec/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/favicon-gota-vermelha.svg">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
+    
+    
+      
+        <title>Planejado - IHC Grupo 7</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:300,300i,400,400i,700,700i%7CJetBrains+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Inter";--md-code-font:"JetBrains Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  
+  <style>
+    /* FORÇA VERMELHO SABIN #e61318 EM TUDO */
+    
+    /* Variáveis CSS do tema */
+    :root {
+      --md-primary-fg-color: #e61318 !important;
+      --md-primary-fg-color--light: #e61318 !important;
+      --md-primary-fg-color--dark: #c41e3a !important;
+      --md-accent-fg-color: #e61318 !important;
+      --md-accent-fg-color--transparent: #e613181a !important;
+    }
+
+    /* Override das cores de paleta red */
+    [data-md-color-primary=red],
+    [data-md-color-accent=red] {
+      --md-primary-fg-color: #e61318 !important;
+      --md-primary-fg-color--light: #e61318 !important;
+      --md-primary-fg-color--dark: #c41e3a !important;
+      --md-accent-fg-color: #e61318 !important;
+      --md-accent-fg-color--transparent: #e613181a !important;
+    }
+
+    /* Header */
+    .md-header {
+      background-color: #e61318 !important;
+      color: #fff !important;
+    }
+
+    .md-header__title {
+      color: #fff !important;
+    }
+
+    .md-header__button {
+      color: #fff !important;
+    }
+
+    .md-header-nav__button {
+      color: #fff !important;
+    }
+
+    /* Tabs */
+    .md-tabs {
+      background-color: #e61318 !important;
+      color: #fff !important;
+    }
+
+    .md-tabs__list {
+      background-color: #e61318 !important;
+    }
+
+    .md-tabs__link {
+      color: rgba(255, 255, 255, 0.7) !important;
+    }
+
+    .md-tabs__link--active {
+      border-bottom-color: #fff !important;
+      color: #fff !important;
+    }
+
+    .md-tabs__link:hover {
+      color: #fff !important;
+    }
+
+    /* Botões */
+    .md-button {
+      background-color: #e61318 !important;
+      color: #fff !important;
+      border-color: #e61318 !important;
+    }
+
+    .md-button:visited {
+      background-color: #e61318 !important;
+      color: #fff !important;
+    }
+
+    .md-button:hover,
+    .md-button:focus {
+      background-color: #c41e3a !important;
+      border-color: #c41e3a !important;
+    }
+
+    /* Links */
+    a {
+      color: #e61318 !important;
+    }
+
+    a:visited {
+      color: #c41e3a !important;
+    }
+
+    a:hover {
+      color: #c41e3a !important;
+    }
+
+    .md-typeset a {
+      color: #e61318 !important;
+    }
+
+    .md-typeset a:visited {
+      color: #c41e3a !important;
+    }
+
+    .md-typeset a:hover {
+      color: #c41e3a !important;
+    }
+
+    /* Navegação */
+    .md-nav__link--active {
+      color: #e61318 !important;
+    }
+
+    .md-nav__link:hover {
+      color: #e61318 !important;
+    }
+
+    .md-nav__title {
+      color: #e61318 !important;
+    }
+
+    /* Busca */
+    .md-search-result__link {
+      border-left-color: #e61318 !important;
+    }
+
+    .md-search-result__link:hover {
+      background-color: rgba(230, 19, 24, 0.1) !important;
+    }
+
+    .md-search-result__link--active {
+      background-color: rgba(230, 19, 24, 0.2) !important;
+    }
+
+    /* Focus outlines */
+    .md-button:focus-visible,
+    .md-nav__link:focus-visible,
+    .md-search__input:focus-visible {
+      outline-color: #e61318 !important;
+    }
+
+    /* Admonições */
+    .md-typeset .admonition {
+      border-left-color: #e61318 !important;
+    }
+
+    .md-typeset .note {
+      border-left-color: #e61318 !important;
+    }
+
+    /* Inline code */
+    .md-typeset code {
+      background-color: rgba(230, 19, 24, 0.1) !important;
+      color: #e61318 !important;
+    }
+
+    /* Highlights */
+    .md-typeset .highlight {
+      background-color: inherit;
+    }
+
+    /* Footer links */
+    .md-footer-meta a:hover {
+      color: #e61318 !important;
+    }
+
+    /* Remove pink e orange themes se existirem */
+    [data-md-color-primary=pink],
+    [data-md-color-primary=deep-orange],
+    [data-md-color-accent=pink],
+    [data-md-color-accent=deep-orange] {
+      display: none !important;
+    }
+
+    /* Força código de destaque para vermelho */
+    .highlight .nb,
+    .highlight .nc,
+    .highlight .no,
+    .highlight .nf {
+      color: #e61318 !important;
+    }
+
+    /* Sidebar */
+    .md-sidebar__inner {
+      border-color: #e61318 !important;
+    }
+
+    /* Tooltips */
+    .md-tooltip {
+      background-color: #e61318 !important;
+      color: #fff !important;
+    }
+
+    /* Status badges */
+    .md-status {
+      background-color: #e61318 !important;
+      color: #fff !important;
+    }
+  </style>
+
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="red" data-md-color-accent="red">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#cronograma" class="md-skip">
+          Pular para conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabeçalho">
+    <a href="../.." title="IHC Grupo 7" class="md-header__button md-logo" aria-label="IHC Grupo 7" data-md-component="logo">
+      
+  <img src="../../assets/logo-sabin-5.jpeg" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            IHC Grupo 7
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Planejado
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="red" data-md-color-accent="red"  aria-label="Modo escuro"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Modo escuro" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="red" data-md-color-accent="red"  aria-label="Modo claro"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Modo claro" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Pesquisar">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="Compartilhar" aria-label="Compartilhar" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91s2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="Limpar" aria-label="Limpar" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inicializando busca
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Abas" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../heatmap/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Planejamento
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../requisitos/perfilDeUsuario/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Análise de Requisitos
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../Ferramentas/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Ferramentas
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../atasDeReuniao/reuniao1/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Atas de reunião
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../verificacoes/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Verificações
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navegação" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="IHC Grupo 7" class="md-nav__button md-logo" aria-label="IHC Grupo 7" data-md-component="logo">
+      
+  <img src="../../assets/logo-sabin-5.jpeg" alt="logo">
+
+    </a>
+    IHC Grupo 7
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Planejamento
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Planejamento
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2_1" id="__nav_2_1_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cronograma
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_1_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Cronograma
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../heatmap/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Heatmap
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Planejado
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Planejado
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+  
+
+<nav class="md-nav md-nav--secondary" aria-label="Nesta página">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Nesta página
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#entrega-1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Entrega 1
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#apresentacao-da-entrega-1-12042026" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Apresentação da entrega 1: 12/04/2026
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#entrega-2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Entrega 2
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Entrega 2">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#cronograma-de-atividades" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cronograma de Atividades
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cronograma-de-reunioes-e-gravacoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cronograma de Reuniões e Gravações
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#entrega-3-principios-gerais-metas-e-guia-de-estilo" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Entrega 3: Princípios Gerais, Metas e Guia de Estilo
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Entrega 3: Princípios Gerais, Metas e Guia de Estilo">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#cronograma-de-atividades_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cronograma de Atividades
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cronograma-de-reunioes-e-gravacoes_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cronograma de Reuniões e Gravações
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#entrega-4-planejamento-da-avaliacao-do-storyboard-e-tarefas" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Entrega 4: Planejamento da Avaliação do Storyboard e Tarefas
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Entrega 4: Planejamento da Avaliação do Storyboard e Tarefas">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#cronograma-de-atividades_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cronograma de Atividades
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cronograma-de-reunioes-e-gravacoes_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cronograma de Reuniões e Gravações
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#entrega-5-relato-storyboardtarefas-e-planejamento-prototipo-de-papel" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Entrega 5: Relato (Storyboard/Tarefas) e Planejamento (Protótipo de Papel)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Entrega 5: Relato (Storyboard/Tarefas) e Planejamento (Protótipo de Papel)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#cronograma-de-atividades_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cronograma de Atividades
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cronograma-de-reunioes-e-gravacoes_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cronograma de Reuniões e Gravações
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#entrega-6-relato-prototipo-de-papel-e-planejamento-alta-fidelidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Entrega 6: Relato (Protótipo de Papel) e Planejamento (Alta Fidelidade)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Entrega 6: Relato (Protótipo de Papel) e Planejamento (Alta Fidelidade)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#cronograma-de-atividades_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cronograma de Atividades
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cronograma-de-reunioes-e-gravacoes_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cronograma de Reuniões e Gravações
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#entrega-7-relato-dos-resultados-do-prototipo-de-alta-fidelidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Entrega 7: Relato dos Resultados do Protótipo de Alta Fidelidade
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Entrega 7: Relato dos Resultados do Protótipo de Alta Fidelidade">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#cronograma-de-atividades_5" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cronograma de Atividades
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cronograma-de-reunioes-e-gravacoes_5" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cronograma de Reuniões e Gravações
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#entrega-8-verificacao-dos-artefatos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Entrega 8: Verificação dos Artefatos
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Entrega 8: Verificação dos Artefatos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#cronograma-de-atividades_6" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cronograma de Atividades
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cronograma-de-reunioes-e-gravacoes_6" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cronograma de Reuniões e Gravações
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#entrega-final-projeto-final-da-disciplina" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Entrega Final: Projeto Final da Disciplina
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Entrega Final: Projeto Final da Disciplina">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#cronograma-de-atividades_7" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cronograma de Atividades
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cronograma-de-reunioes-e-gravacoes_7" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cronograma de Reuniões e Gravações
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Histórico de Versão
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cronogramaexec/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Executado
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../processoDesign/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Processo de Design
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../listasites/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Sites avaliados
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Análise de Requisitos
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Análise de Requisitos
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../requisitos/perfilDeUsuario/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Perfil de usuário
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2" id="__nav_3_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Metodologia
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Metodologia
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../requisitos/Aspectoseticos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Aspectos éticos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../requisitos/brainstorming/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Brainstorming
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_2_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2_3" id="__nav_3_2_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Entrevista
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_3_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Entrevista
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../requisitos/entrevista/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Entrevista Realizada
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../requisitos/roteiroEntrevista/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Roteiro da entrevista
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../requisitos/questionario/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Questionário
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../requisitos/analisedetarefa/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Análise de tarefas
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../requisitos/persona/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Personas
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../requisitos/cenario/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cenário
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Ferramentas/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ferramentas
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Atas de reunião
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Atas de reunião
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atasDeReuniao/reuniao1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reunião 1
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atasDeReuniao/reuniao2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reunião 2
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atasDeReuniao/reuniao3/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reunião 3
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atasDeReuniao/reuniao4/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reunião 4
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atasDeReuniao/reuniao5/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reunião 5
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atasDeReuniao/reuniao6/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reunião 6
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacoes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Verificações
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+<nav class="md-nav md-nav--secondary" aria-label="Nesta página">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Nesta página
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#entrega-1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Entrega 1
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#apresentacao-da-entrega-1-12042026" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Apresentação da entrega 1: 12/04/2026
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#entrega-2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Entrega 2
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Entrega 2">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#cronograma-de-atividades" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cronograma de Atividades
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cronograma-de-reunioes-e-gravacoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cronograma de Reuniões e Gravações
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#entrega-3-principios-gerais-metas-e-guia-de-estilo" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Entrega 3: Princípios Gerais, Metas e Guia de Estilo
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Entrega 3: Princípios Gerais, Metas e Guia de Estilo">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#cronograma-de-atividades_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cronograma de Atividades
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cronograma-de-reunioes-e-gravacoes_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cronograma de Reuniões e Gravações
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#entrega-4-planejamento-da-avaliacao-do-storyboard-e-tarefas" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Entrega 4: Planejamento da Avaliação do Storyboard e Tarefas
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Entrega 4: Planejamento da Avaliação do Storyboard e Tarefas">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#cronograma-de-atividades_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cronograma de Atividades
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cronograma-de-reunioes-e-gravacoes_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cronograma de Reuniões e Gravações
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#entrega-5-relato-storyboardtarefas-e-planejamento-prototipo-de-papel" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Entrega 5: Relato (Storyboard/Tarefas) e Planejamento (Protótipo de Papel)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Entrega 5: Relato (Storyboard/Tarefas) e Planejamento (Protótipo de Papel)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#cronograma-de-atividades_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cronograma de Atividades
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cronograma-de-reunioes-e-gravacoes_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cronograma de Reuniões e Gravações
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#entrega-6-relato-prototipo-de-papel-e-planejamento-alta-fidelidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Entrega 6: Relato (Protótipo de Papel) e Planejamento (Alta Fidelidade)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Entrega 6: Relato (Protótipo de Papel) e Planejamento (Alta Fidelidade)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#cronograma-de-atividades_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cronograma de Atividades
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cronograma-de-reunioes-e-gravacoes_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cronograma de Reuniões e Gravações
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#entrega-7-relato-dos-resultados-do-prototipo-de-alta-fidelidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Entrega 7: Relato dos Resultados do Protótipo de Alta Fidelidade
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Entrega 7: Relato dos Resultados do Protótipo de Alta Fidelidade">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#cronograma-de-atividades_5" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cronograma de Atividades
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cronograma-de-reunioes-e-gravacoes_5" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cronograma de Reuniões e Gravações
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#entrega-8-verificacao-dos-artefatos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Entrega 8: Verificação dos Artefatos
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Entrega 8: Verificação dos Artefatos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#cronograma-de-atividades_6" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cronograma de Atividades
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cronograma-de-reunioes-e-gravacoes_6" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cronograma de Reuniões e Gravações
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#entrega-final-projeto-final-da-disciplina" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Entrega Final: Projeto Final da Disciplina
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Entrega Final: Projeto Final da Disciplina">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#cronograma-de-atividades_7" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cronograma de Atividades
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cronograma-de-reunioes-e-gravacoes_7" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cronograma de Reuniões e Gravações
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Histórico de Versão
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="cronograma">Cronograma<a class="headerlink" href="#cronograma" title="Permanent link">&para;</a></h1>
+<h2 id="entrega-1">Entrega 1<a class="headerlink" href="#entrega-1" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Atividade</th>
+<th style="text-align: center;">Descrição</th>
+<th style="text-align: center;">Período para o desenvolvimento da atividade</th>
+<th style="text-align: center;">Responsáveis</th>
+<th style="text-align: center;">Período da Revisão</th>
+<th style="text-align: center;">Revisores</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">Documentar a equipe</td>
+<td style="text-align: center;">Reunir os nomes e fotos dos integrantes para disponibilizar no Gitpages</td>
+<td style="text-align: center;">09/04/2026 - 10/04/2026</td>
+<td style="text-align: center;">Philipe</td>
+<td style="text-align: center;">11/04/2026 - 12/04/2026</td>
+<td style="text-align: center;">Ingrid</td>
+</tr>
+<tr>
+<td style="text-align: center;">Análises de sites</td>
+<td style="text-align: center;">O grupo será separado em duplas em que cada deverá realizar uma investigação de 2 sites</td>
+<td style="text-align: center;">09/04/2026 - 11/04/2026</td>
+<td style="text-align: center;">Vitor</td>
+<td style="text-align: center;">11/04/2026 - 12/04/2026</td>
+<td style="text-align: center;">Thaiza</td>
+</tr>
+<tr>
+<td style="text-align: center;">Lista dos sites avaliados</td>
+<td style="text-align: center;">Reunir todos os sites que foram analisados</td>
+<td style="text-align: center;">07/04/2026 - 11/04/2026</td>
+<td style="text-align: center;">Thaiza</td>
+<td style="text-align: center;">11/04/2026 - 12/04/2026</td>
+<td style="text-align: center;">Maria Laura</td>
+</tr>
+<tr>
+<td style="text-align: center;">Selecionar o site para o projeto</td>
+<td style="text-align: center;">Com base em todas as análises o grupo escolherá um único site com sua devida justificativa</td>
+<td style="text-align: center;">07/04/2026 - 11/04/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Vitor</td>
+<td style="text-align: center;">11/04/2026 - 12/04/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Vitor</td>
+</tr>
+<tr>
+<td style="text-align: center;">Definição das ferramentas utilizadas no projeto</td>
+<td style="text-align: center;">Reunir todas as ferramentas que foram utilizadas para realizar as reuniões, atas, processo de análise e de design, gravação</td>
+<td style="text-align: center;">07/04/2026 - 11/04/2026</td>
+<td style="text-align: center;">Philipe</td>
+<td style="text-align: center;">11/04/2026 - 12/04/2026</td>
+<td style="text-align: center;">Hugo</td>
+</tr>
+<tr>
+<td style="text-align: center;">Processo de design</td>
+<td style="text-align: center;">Deve ser feito com base nas seguintes fases definidas no livro IHC e UX :Análise, síntese e avaliação, além de especificar qual será utilizado e a justificativa</td>
+<td style="text-align: center;">10/04/2026 - 11/04/2026</td>
+<td style="text-align: center;">Maria Laura</td>
+<td style="text-align: center;">11/04/2026 - 12/04/2026</td>
+<td style="text-align: center;">Vitor</td>
+</tr>
+<tr>
+<td style="text-align: center;">Cronograma planejado</td>
+<td style="text-align: center;">Deve ser feito o cronograma das atividades com seus respectivos responsáveis, data de início e término, e uma breve descrição da tarefa. Este não é o cronogama executado.</td>
+<td style="text-align: center;">09/04/2026 - 11/04/2026</td>
+<td style="text-align: center;">Hugo e Philipe</td>
+<td style="text-align: center;">11/04/2026 - 12/04/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Vitor</td>
+</tr>
+<tr>
+<td style="text-align: center;">Montagem do GitPages</td>
+<td style="text-align: center;">Centraizar todos os artefatos produzidos pelo grupo em uma página do github, usando uma ferramenta que aceita arquivos .md</td>
+<td style="text-align: center;">10/04/2026 - 11/04/2026</td>
+<td style="text-align: center;">Ingrid e Hugo</td>
+<td style="text-align: center;">11/04/2026 - 12/04/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Vitor</td>
+</tr>
+<tr>
+<td style="text-align: center;">Vídeo da apresentação</td>
+<td style="text-align: center;">Editar e postar o vídeo da apresentação no youtube</td>
+<td style="text-align: center;">12/04/2026 - 12/04/2026</td>
+<td style="text-align: center;">Vitor</td>
+<td style="text-align: center;">12/04/2026 - 12/04/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Vitor</td>
+</tr>
+<tr>
+<td style="text-align: center;">Escrever atas</td>
+<td style="text-align: center;">Escrever atas de cada reunião, especificando mebros presentes, tema, data e outras informações relevantes</td>
+<td style="text-align: center;">07/04/2026- 11/04/2026</td>
+<td style="text-align: center;">Maria Laura</td>
+<td style="text-align: center;">11/04/2026 - 12/04/2026</td>
+<td style="text-align: center;">Philipe</td>
+</tr>
+</tbody>
+</table>
+<h2 id="apresentacao-da-entrega-1-12042026">Apresentação da entrega 1: 12/04/2026<a class="headerlink" href="#apresentacao-da-entrega-1-12042026" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Atividade</th>
+<th style="text-align: center;">Descrição</th>
+<th style="text-align: center;">Período para o desenvolvimento da atividade</th>
+<th style="text-align: center;">Responsáveis</th>
+<th style="text-align: center;">Período da Revisão</th>
+<th style="text-align: center;">Revisores</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">Replanejamento</td>
+<td style="text-align: center;">Replanejar o projeto, com base nos feedbacks recebidos do professor, monitores e colegas de turma</td>
+<td style="text-align: center;">13/04/2026 -</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Vitor</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">Hugo, Maria Laura e Philipe</td>
+</tr>
+</tbody>
+</table>
+<h2 id="entrega-2">Entrega 2<a class="headerlink" href="#entrega-2" title="Permanent link">&para;</a></h2>
+<h3 id="cronograma-de-atividades">Cronograma de Atividades<a class="headerlink" href="#cronograma-de-atividades" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Atividade</th>
+<th style="text-align: center;">Descrição</th>
+<th style="text-align: center;">Período de Desenvolvimento</th>
+<th style="text-align: center;">Responsáveis</th>
+<th style="text-align: center;">Período de Revisão</th>
+<th style="text-align: center;">Revisores</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">Elicitação: Brainstorming</td>
+<td style="text-align: center;">Condução da técnica de Brainstorming para o levantamento de necessidades.</td>
+<td style="text-align: center;">13/04/2026 - 14/04/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo e Philipe</td>
+<td style="text-align: center;">14/04/2026 - 15/04/2026</td>
+<td style="text-align: center;">Ingrid</td>
+</tr>
+<tr>
+<td style="text-align: center;">Aspectos Éticos</td>
+<td style="text-align: center;">Produção do Termo de Consentimento Livre e Esclarecido (TCLE).</td>
+<td style="text-align: center;">13/04/2026 - 14/04/2026</td>
+<td style="text-align: center;">Ingrid</td>
+<td style="text-align: center;">14/04/2026 - 15/04/2026</td>
+<td style="text-align: center;">Hugo</td>
+</tr>
+<tr>
+<td style="text-align: center;">Elicitação: Entrevista</td>
+<td style="text-align: center;">Planejamento, execução e documentação da entrevista com usuários.</td>
+<td style="text-align: center;">14/04/2026 - 15/04/2026</td>
+<td style="text-align: center;">Thaiza</td>
+<td style="text-align: center;">15/04/2026 - 16/04/2026</td>
+<td style="text-align: center;">Philipe</td>
+</tr>
+<tr>
+<td style="text-align: center;">Elicitação: Questionário</td>
+<td style="text-align: center;">Criação e distribuição do questionário para o público-alvo.</td>
+<td style="text-align: center;">14/04/2026 - 15/04/2026</td>
+<td style="text-align: center;">Ingrid e Nathan</td>
+<td style="text-align: center;">15/04/2026 - 16/04/2026</td>
+<td style="text-align: center;">Thaiza</td>
+</tr>
+<tr>
+<td style="text-align: center;">Elicitação: Grupo de Foco</td>
+<td style="text-align: center;">Organização, mediação e análise dos dados do grupo de foco.</td>
+<td style="text-align: center;">15/04/2026 - 16/04/2026</td>
+<td style="text-align: center;">Maria Laura</td>
+<td style="text-align: center;">16/04/2026 - 17/04/2026</td>
+<td style="text-align: center;">Hugo</td>
+</tr>
+<tr>
+<td style="text-align: center;">Definição de Personas</td>
+<td style="text-align: center;">Elaboração de pelo menos uma persona detalhada por membro da equipe.</td>
+<td style="text-align: center;">16/04/2026 - 17/04/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+<td style="text-align: center;">17/04/2026 - 18/04/2026</td>
+<td style="text-align: center;">Revisão Cruzada</td>
+</tr>
+<tr>
+<td style="text-align: center;">Criação de Cenários</td>
+<td style="text-align: center;">Cada integrante deverá criar no mínimo um cenário de interação.</td>
+<td style="text-align: center;">17/04/2026 - 18/04/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+<td style="text-align: center;">18/04/2026 - 19/04/2026</td>
+<td style="text-align: center;">Revisão Cruzada</td>
+</tr>
+<tr>
+<td style="text-align: center;">Análise de Tarefas</td>
+<td style="text-align: center;">Especificação de tarefas utilizando no mínimo dois métodos (como HTA e GOMS) por todos os membros.</td>
+<td style="text-align: center;">18/04/2026 - 19/04/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+<td style="text-align: center;">19/04/2026 - 20/04/2026</td>
+<td style="text-align: center;">Revisão Cruzada</td>
+</tr>
+<tr>
+<td style="text-align: center;">Montagem do GitPages</td>
+<td style="text-align: center;">Organização e publicação da documentação no repositório.</td>
+<td style="text-align: center;">20/04/2026 - 20/04/2026</td>
+<td style="text-align: center;">Maria Laura e Philipe</td>
+<td style="text-align: center;">20/04/2026 - 20/04/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+<tr>
+<td style="text-align: center;">Replanejamento</td>
+<td style="text-align: center;">Replanejar o projeto com base nos feedbacks recebidos do professor e monitores.</td>
+<td style="text-align: center;">4/05/2026 - 10/05/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">Revisão Cruzada</td>
+</tr>
+</tbody>
+</table>
+<h3 id="cronograma-de-reunioes-e-gravacoes">Cronograma de Reuniões e Gravações<a class="headerlink" href="#cronograma-de-reunioes-e-gravacoes" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Evento</th>
+<th style="text-align: center;">Descrição</th>
+<th style="text-align: center;">Data / Período</th>
+<th style="text-align: center;">Responsáveis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">Reunião Semanal</td>
+<td style="text-align: center;">Reunião de alinhamento para acompanhamento das atividades da semana de elicitação.</td>
+<td style="text-align: center;">16/04/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathans</td>
+</tr>
+<tr>
+<td style="text-align: center;">Reunião de Revisão e Gravação</td>
+<td style="text-align: center;">Reunião para validar os artefatos finais e realizar a gravação da apresentação.</td>
+<td style="text-align: center;">02/05/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+<tr>
+<td style="text-align: center;">Vídeo da apresentação</td>
+<td style="text-align: center;">Gravação do vídeo da entrega para o YouTube (2 dias antes da entrega).</td>
+<td style="text-align: center;">02/05/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Apresentação da Entrega 2</strong></td>
+<td style="text-align: center;"><strong>Data oficial da entrega e apresentação da etapa 2</strong>.</td>
+<td style="text-align: center;"><strong>03/05/2026</strong></td>
+<td style="text-align: center;"><strong>Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Gravação da inspeção do Grupo +1</td>
+<td style="text-align: center;">Gravar a verificação dos artefatos da entrega 2 elaborados pelo grupo avaliado (no dia da entrega).</td>
+<td style="text-align: center;">04/05/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="entrega-3-principios-gerais-metas-e-guia-de-estilo">Entrega 3: Princípios Gerais, Metas e Guia de Estilo<a class="headerlink" href="#entrega-3-principios-gerais-metas-e-guia-de-estilo" title="Permanent link">&para;</a></h2>
+<h3 id="cronograma-de-atividades_1">Cronograma de Atividades<a class="headerlink" href="#cronograma-de-atividades_1" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Atividade</th>
+<th style="text-align: center;">Descrição</th>
+<th style="text-align: center;">Período de Desenvolvimento</th>
+<th style="text-align: center;">Responsáveis</th>
+<th style="text-align: center;">Período de Revisão</th>
+<th style="text-align: center;">Revisores</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">Princípios Gerais de Projeto</td>
+<td style="text-align: center;">Estabelecer os princípios de design aplicados ao projeto.</td>
+<td style="text-align: center;">04/05/2026 - 10/05/2026</td>
+<td style="text-align: center;">Philipe e Thaiza</td>
+<td style="text-align: center;">10/05/2026</td>
+<td style="text-align: center;">Ingrid</td>
+</tr>
+<tr>
+<td style="text-align: center;">Metas de Usabilidade</td>
+<td style="text-align: center;">Definir os objetivos de usabilidade da plataforma.</td>
+<td style="text-align: center;">06/05/2026 - 10/05/2026</td>
+<td style="text-align: center;">Maria Laura e Nathan</td>
+<td style="text-align: center;">10/05/2026</td>
+<td style="text-align: center;">Hugo</td>
+</tr>
+<tr>
+<td style="text-align: center;">Características da Plataforma</td>
+<td style="text-align: center;">Documentar as restrições e especificações do sistema escolhido.</td>
+<td style="text-align: center;">04/05/2026 - 10/05/2026</td>
+<td style="text-align: center;">Hugo e Ingrid</td>
+<td style="text-align: center;">10/05/2026</td>
+<td style="text-align: center;">Philipe</td>
+</tr>
+<tr>
+<td style="text-align: center;">Guia de Estilo</td>
+<td style="text-align: center;">Elaborar o documento de padronização visual, tipografia e cores.</td>
+<td style="text-align: center;">05/05/2026 - 10/05/2026</td>
+<td style="text-align: center;">Philipe e Maria Laura</td>
+<td style="text-align: center;">10/05/2026</td>
+<td style="text-align: center;">Thaiza</td>
+</tr>
+<tr>
+<td style="text-align: center;">Montagem do GitPages</td>
+<td style="text-align: center;">Integração dos novos artefatos na página do GitHub.</td>
+<td style="text-align: center;">04/05/2026 - 11/05/2026</td>
+<td style="text-align: center;">Nathan e Thaiza</td>
+<td style="text-align: center;">11/05/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+</tbody>
+</table>
+<h3 id="cronograma-de-reunioes-e-gravacoes_1">Cronograma de Reuniões e Gravações<a class="headerlink" href="#cronograma-de-reunioes-e-gravacoes_1" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Evento</th>
+<th style="text-align: center;">Descrição</th>
+<th style="text-align: center;">Data / Período</th>
+<th style="text-align: center;">Responsáveis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">Reunião Semanal</td>
+<td style="text-align: center;">Reunião de acompanhamento das tarefas da fase de análise de requisitos.</td>
+<td style="text-align: center;">05/05/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+<tr>
+<td style="text-align: center;">Reunião Semanal</td>
+<td style="text-align: center;">Reunião de acompanhamento das tarefas e fechamento da documentação.</td>
+<td style="text-align: center;">07/05/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+<tr>
+<td style="text-align: center;">Reunião de Revisão e Gravação</td>
+<td style="text-align: center;">Revisão geral dos documentos e gravação do seminário.</td>
+<td style="text-align: center;">10/05/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+<tr>
+<td style="text-align: center;">Vídeo da apresentação</td>
+<td style="text-align: center;">Entrega do vídeo (gravado 2 dias antes da entrega oficial).</td>
+<td style="text-align: center;">11/05/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Entrega 3</strong></td>
+<td style="text-align: center;"><strong>Data oficial da entrega da etapa 3 no Aprender3</strong>.</td>
+<td style="text-align: center;"><strong>12/05/2026</strong></td>
+<td style="text-align: center;"><strong>Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Gravação da inspeção do Grupo +1</td>
+<td style="text-align: center;">Gravação da avaliação dos artefatos do grupo designado (no dia da entrega).</td>
+<td style="text-align: center;">13/05/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="entrega-4-planejamento-da-avaliacao-do-storyboard-e-tarefas">Entrega 4: Planejamento da Avaliação do Storyboard e Tarefas<a class="headerlink" href="#entrega-4-planejamento-da-avaliacao-do-storyboard-e-tarefas" title="Permanent link">&para;</a></h2>
+<h3 id="cronograma-de-atividades_2">Cronograma de Atividades<a class="headerlink" href="#cronograma-de-atividades_2" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Atividade</th>
+<th style="text-align: center;">Descrição</th>
+<th style="text-align: center;">Período de Desenvolvimento</th>
+<th style="text-align: center;">Responsáveis</th>
+<th style="text-align: center;">Período de Revisão</th>
+<th style="text-align: center;">Revisores</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">Planejamento (Storyboard)</td>
+<td style="text-align: center;">Aplicar o Framework DECIDE para delinear a avaliação do Storyboard.</td>
+<td style="text-align: center;">13/05/2026 - 14/05/2026</td>
+<td style="text-align: center;">Ingrid e Hugo</td>
+<td style="text-align: center;">15/05/2026</td>
+<td style="text-align: center;">Maria Laura</td>
+</tr>
+<tr>
+<td style="text-align: center;">Planejamento (Análise de Tarefas)</td>
+<td style="text-align: center;">Estruturar métodos e questões práticas para a Análise de Tarefas.</td>
+<td style="text-align: center;">14/05/2026 - 15/05/2026</td>
+<td style="text-align: center;">Thaiza e Philipe</td>
+<td style="text-align: center;">16/05/2026</td>
+<td style="text-align: center;">Nathan</td>
+</tr>
+<tr>
+<td style="text-align: center;">Planejamento do Relato (Storyboard)</td>
+<td style="text-align: center;">Definir estrutura do relatório dos resultados da avaliação.</td>
+<td style="text-align: center;">15/05/2026 - 16/05/2026</td>
+<td style="text-align: center;">Maria Laura</td>
+<td style="text-align: center;">16/05/2026</td>
+<td style="text-align: center;">Hugo</td>
+</tr>
+<tr>
+<td style="text-align: center;">Planejamento do Relato (Tarefas)</td>
+<td style="text-align: center;">Estruturar documento de relato da avaliação e teste piloto.</td>
+<td style="text-align: center;">16/05/2026</td>
+<td style="text-align: center;">Nathan</td>
+<td style="text-align: center;">17/05/2026</td>
+<td style="text-align: center;">Ingrid</td>
+</tr>
+<tr>
+<td style="text-align: center;">Montagem do GitPages</td>
+<td style="text-align: center;">Organização dos artefatos de planejamento no site do projeto.</td>
+<td style="text-align: center;">17/05/2026</td>
+<td style="text-align: center;">Hugo e Ingrid</td>
+<td style="text-align: center;">18/05/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+</tbody>
+</table>
+<h3 id="cronograma-de-reunioes-e-gravacoes_2">Cronograma de Reuniões e Gravações<a class="headerlink" href="#cronograma-de-reunioes-e-gravacoes_2" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Evento</th>
+<th style="text-align: center;">Descrição</th>
+<th style="text-align: center;">Data / Período</th>
+<th style="text-align: center;">Responsáveis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">Reunião Semanal</td>
+<td style="text-align: center;">Reunião para alinhamento sobre o framework DECIDE.</td>
+<td style="text-align: center;">14/05/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+<tr>
+<td style="text-align: center;">Reunião de Revisão e Gravação</td>
+<td style="text-align: center;">Encontro para consolidar os planejamentos e gravar o vídeo da apresentação.</td>
+<td style="text-align: center;">18/05/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+<tr>
+<td style="text-align: center;">Vídeo da apresentação</td>
+<td style="text-align: center;">Entrega do vídeo.</td>
+<td style="text-align: center;">18/05/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Entrega 4</strong></td>
+<td style="text-align: center;"><strong>Data oficial da entrega da etapa 4 no Aprender3</strong>.</td>
+<td style="text-align: center;"><strong>19/05/2026</strong></td>
+<td style="text-align: center;"><strong>Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Gravação da inspeção do Grupo +1</td>
+<td style="text-align: center;">Gravação da avaliação dos planejamentos do Grupo +1 (no dia da entrega).</td>
+<td style="text-align: center;">20/05/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="entrega-5-relato-storyboardtarefas-e-planejamento-prototipo-de-papel">Entrega 5: Relato (Storyboard/Tarefas) e Planejamento (Protótipo de Papel)<a class="headerlink" href="#entrega-5-relato-storyboardtarefas-e-planejamento-prototipo-de-papel" title="Permanent link">&para;</a></h2>
+<h3 id="cronograma-de-atividades_3">Cronograma de Atividades<a class="headerlink" href="#cronograma-de-atividades_3" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Atividade</th>
+<th style="text-align: center;">Descrição</th>
+<th style="text-align: center;">Período de Desenvolvimento</th>
+<th style="text-align: center;">Responsáveis</th>
+<th style="text-align: center;">Período de Revisão</th>
+<th style="text-align: center;">Revisores</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">Relato de Resultados</td>
+<td style="text-align: center;">Documentar resultados da avaliação do Storyboard e Análise de Tarefas.</td>
+<td style="text-align: center;">20/05/2026 - 23/05/2026</td>
+<td style="text-align: center;">Nathan e Thaiza</td>
+<td style="text-align: center;">24/05/2026 - 24/05/2026</td>
+<td style="text-align: center;">Philipe</td>
+</tr>
+<tr>
+<td style="text-align: center;">Planejamento Avaliação (Papel)</td>
+<td style="text-align: center;">Planejar a avaliação do Protótipo de Papel via Framework DECIDE.</td>
+<td style="text-align: center;">24/05/2026 - 26/05/2026</td>
+<td style="text-align: center;">Philipe e Ingrid</td>
+<td style="text-align: center;">27/05/2026 - 27/05/2026</td>
+<td style="text-align: center;">Maria Laura</td>
+</tr>
+<tr>
+<td style="text-align: center;">Planejamento Relato (Papel)</td>
+<td style="text-align: center;">Estruturar como os dados da avaliação do Protótipo serão reportados.</td>
+<td style="text-align: center;">27/05/2026 - 28/05/2026</td>
+<td style="text-align: center;">Hugo e Maria Laura</td>
+<td style="text-align: center;">28/05/2026 - 28/05/2026</td>
+<td style="text-align: center;">Nathan</td>
+</tr>
+<tr>
+<td style="text-align: center;">Montagem do GitPages</td>
+<td style="text-align: center;">Organização final da etapa 5 na documentação online.</td>
+<td style="text-align: center;">28/05/2026 - 28/05/2026</td>
+<td style="text-align: center;">Maria Laura e Nathan</td>
+<td style="text-align: center;">29/05/2026 - 29/05/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+</tbody>
+</table>
+<h3 id="cronograma-de-reunioes-e-gravacoes_3">Cronograma de Reuniões e Gravações<a class="headerlink" href="#cronograma-de-reunioes-e-gravacoes_3" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Evento</th>
+<th style="text-align: center;">Descrição</th>
+<th style="text-align: center;">Data / Período</th>
+<th style="text-align: center;">Responsáveis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">Reunião Semanal</td>
+<td style="text-align: center;">Acompanhamento do andamento dos relatos e planejamentos.</td>
+<td style="text-align: center;">22/05/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+<tr>
+<td style="text-align: center;">Reunião Específica</td>
+<td style="text-align: center;">Reunião agendada para organização das atividades subsequentes de prototipação.</td>
+<td style="text-align: center;">29/05/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+<tr>
+<td style="text-align: center;">Reunião de Revisão e Gravação</td>
+<td style="text-align: center;">Revisão dos artefatos da etapa 5 e gravação da apresentação.</td>
+<td style="text-align: center;">29/05/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+<tr>
+<td style="text-align: center;">Vídeo da apresentação</td>
+<td style="text-align: center;">Entrega do vídeo</td>
+<td style="text-align: center;">29/05/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Entrega 5</strong></td>
+<td style="text-align: center;"><strong>Data oficial da entrega da etapa 5 no Aprender3</strong>.</td>
+<td style="text-align: center;"><strong>31/05/2026</strong></td>
+<td style="text-align: center;"><strong>Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Gravação da inspeção do Grupo +1</td>
+<td style="text-align: center;">Gravação da avaliação sobre o Grupo +1 (no dia da entrega).</td>
+<td style="text-align: center;">31/05/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="entrega-6-relato-prototipo-de-papel-e-planejamento-alta-fidelidade">Entrega 6: Relato (Protótipo de Papel) e Planejamento (Alta Fidelidade)<a class="headerlink" href="#entrega-6-relato-prototipo-de-papel-e-planejamento-alta-fidelidade" title="Permanent link">&para;</a></h2>
+<h3 id="cronograma-de-atividades_4">Cronograma de Atividades<a class="headerlink" href="#cronograma-de-atividades_4" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Atividade</th>
+<th style="text-align: center;">Descrição</th>
+<th style="text-align: center;">Período de Desenvolvimento</th>
+<th style="text-align: center;">Responsáveis</th>
+<th style="text-align: center;">Período de Revisão</th>
+<th style="text-align: center;">Revisores</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">Relato Resultados (Papel)</td>
+<td style="text-align: center;">Consolidar o relatório com os resultados da avaliação do Protótipo de Papel.</td>
+<td style="text-align: center;">01/06/2026 - 02/06/2026</td>
+<td style="text-align: center;">Ingrid e Hugo</td>
+<td style="text-align: center;">03/06/2026 - 03/06/2026</td>
+<td style="text-align: center;">Thaiza</td>
+</tr>
+<tr>
+<td style="text-align: center;">Planejamento Avaliação (Alta F.)</td>
+<td style="text-align: center;">Estruturar o planejamento para testar o protótipo de alta fidelidade.</td>
+<td style="text-align: center;">02/06/2026 - 03/06/2026</td>
+<td style="text-align: center;">Maria Laura e Thaiza</td>
+<td style="text-align: center;">04/06/2026 - 04/06/2026</td>
+<td style="text-align: center;">Nathan</td>
+</tr>
+<tr>
+<td style="text-align: center;">Planejamento Relato (Alta F.)</td>
+<td style="text-align: center;">Definir modelo de relatório para consolidação dos testes no protótipo final.</td>
+<td style="text-align: center;">03/06/2026 - 04/06/2026</td>
+<td style="text-align: center;">Philipe e Nathan</td>
+<td style="text-align: center;">04/06/2026 - 04/06/2026</td>
+<td style="text-align: center;">Maria Laura</td>
+</tr>
+<tr>
+<td style="text-align: center;">Montagem do GitPages</td>
+<td style="text-align: center;">Integração dos relatórios e planejamentos da etapa 6 no site.</td>
+<td style="text-align: center;">04/06/2026 - 04/06/2026</td>
+<td style="text-align: center;">Thaiza e Hugo</td>
+<td style="text-align: center;">05/06/2026 - 05/06/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+</tbody>
+</table>
+<h3 id="cronograma-de-reunioes-e-gravacoes_4">Cronograma de Reuniões e Gravações<a class="headerlink" href="#cronograma-de-reunioes-e-gravacoes_4" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Evento</th>
+<th style="text-align: center;">Descrição</th>
+<th style="text-align: center;">Data / Período</th>
+<th style="text-align: center;">Responsáveis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">Reunião Semanal</td>
+<td style="text-align: center;">Alinhamento do relatório do protótipo de papel e do planejamento de alta fidelidade.</td>
+<td style="text-align: center;">04/06/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+<tr>
+<td style="text-align: center;">Reunião de Revisão e Gravação</td>
+<td style="text-align: center;">Leitura final dos documentos e gravação em grupo.</td>
+<td style="text-align: center;">05/06/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+<tr>
+<td style="text-align: center;">Vídeo da apresentação</td>
+<td style="text-align: center;">Entrega do vídeo.</td>
+<td style="text-align: center;">05/06/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Entrega 6</strong></td>
+<td style="text-align: center;"><strong>Data oficial da entrega da etapa 6 no Aprender3</strong>.</td>
+<td style="text-align: center;"><strong>07/06/2026</strong></td>
+<td style="text-align: center;"><strong>Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Gravação da inspeção do Grupo +1</td>
+<td style="text-align: center;">Análise e gravação dos artefatos da entrega 6 do Grupo +1 (no dia da entrega).</td>
+<td style="text-align: center;">07/06/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+</tbody>
+</table>
+<h2 id="entrega-7-relato-dos-resultados-do-prototipo-de-alta-fidelidade">Entrega 7: Relato dos Resultados do Protótipo de Alta Fidelidade<a class="headerlink" href="#entrega-7-relato-dos-resultados-do-prototipo-de-alta-fidelidade" title="Permanent link">&para;</a></h2>
+<h3 id="cronograma-de-atividades_5">Cronograma de Atividades<a class="headerlink" href="#cronograma-de-atividades_5" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Atividade</th>
+<th style="text-align: center;">Descrição</th>
+<th style="text-align: center;">Período de Desenvolvimento</th>
+<th style="text-align: center;">Responsáveis</th>
+<th style="text-align: center;">Período de Revisão</th>
+<th style="text-align: center;">Revisores</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">Consolidação dos Dados</td>
+<td style="text-align: center;">Agrupar e organizar os dados coletados durante os testes de usabilidade do protótipo de alta fidelidade.</td>
+<td style="text-align: center;">08/06/2026 - 10/06/2026</td>
+<td style="text-align: center;">Ingrid e Nathan</td>
+<td style="text-align: center;">11/06/2026 - 11/06/2026</td>
+<td style="text-align: center;">Hugo</td>
+</tr>
+<tr>
+<td style="text-align: center;">Relato dos Resultados</td>
+<td style="text-align: center;">Redigir o documento final detalhando os problemas encontrados, sugestões de melhoria e feedback dos usuários.</td>
+<td style="text-align: center;">10/06/2026 - 12/06/2026</td>
+<td style="text-align: center;">Maria Laura e Philipe</td>
+<td style="text-align: center;">13/06/2026 - 13/06/2026</td>
+<td style="text-align: center;">Thaiza</td>
+</tr>
+<tr>
+<td style="text-align: center;">Montagem do GitPages</td>
+<td style="text-align: center;">Publicar o relato de resultados da etapa 7 no repositório do projeto.</td>
+<td style="text-align: center;">12/06/2026 - 13/06/2026</td>
+<td style="text-align: center;">Thaiza e Hugo</td>
+<td style="text-align: center;">13/06/2026 - 13/06/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+</tbody>
+</table>
+<h3 id="cronograma-de-reunioes-e-gravacoes_5">Cronograma de Reuniões e Gravações<a class="headerlink" href="#cronograma-de-reunioes-e-gravacoes_5" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Evento</th>
+<th style="text-align: center;">Descrição</th>
+<th style="text-align: center;">Data / Período</th>
+<th style="text-align: center;">Responsáveis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">Reunião Semanal</td>
+<td style="text-align: center;">Reunião para acompanhamento da redação do relato e análise dos dados.</td>
+<td style="text-align: center;">11/06/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+<tr>
+<td style="text-align: center;">Reunião de Revisão e Gravação</td>
+<td style="text-align: center;">Revisão geral do relatório de alta fidelidade e gravação da apresentação.</td>
+<td style="text-align: center;">14/06/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+<tr>
+<td style="text-align: center;">Vídeo da apresentação</td>
+<td style="text-align: center;">Entrega do vídeo do seminário (.</td>
+<td style="text-align: center;">14/06/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Entrega 7</strong></td>
+<td style="text-align: center;"><strong>Data oficial da entrega da etapa 7 no Aprender3</strong>.</td>
+<td style="text-align: center;"><strong>16/06/2026</strong></td>
+<td style="text-align: center;"><strong>Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Gravação da inspeção do Grupo +1</td>
+<td style="text-align: center;">Gravação da avaliação dos artefatos da entrega 7 do Grupo +1 (no dia da entrega).</td>
+<td style="text-align: center;">16/06/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="entrega-8-verificacao-dos-artefatos">Entrega 8: Verificação dos Artefatos<a class="headerlink" href="#entrega-8-verificacao-dos-artefatos" title="Permanent link">&para;</a></h2>
+<h3 id="cronograma-de-atividades_6">Cronograma de Atividades<a class="headerlink" href="#cronograma-de-atividades_6" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Atividade</th>
+<th style="text-align: center;">Descrição</th>
+<th style="text-align: center;">Período de Desenvolvimento</th>
+<th style="text-align: center;">Responsáveis</th>
+<th style="text-align: center;">Período de Revisão</th>
+<th style="text-align: center;">Revisores</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">Planejamento da Verificação</td>
+<td style="text-align: center;">Definir os métodos de inspeção, checklists e divisão de quais artefatos serão verificados por quem.</td>
+<td style="text-align: center;">17/06/2026 - 19/06/2026</td>
+<td style="text-align: center;">Thaiza e Nathan</td>
+<td style="text-align: center;">20/06/2026 - 20/06/2026</td>
+<td style="text-align: center;">Maria Laura</td>
+</tr>
+<tr>
+<td style="text-align: center;">Execução da Verificação</td>
+<td style="text-align: center;">Inspecionar os artefatos produzidos ao longo de todo o projeto em busca de erros e inconsistências.</td>
+<td style="text-align: center;">19/06/2026 - 21/06/2026</td>
+<td style="text-align: center;">Ingrid e Philipe</td>
+<td style="text-align: center;">22/06/2026 - 22/06/2026</td>
+<td style="text-align: center;">Hugo</td>
+</tr>
+<tr>
+<td style="text-align: center;">Montagem do GitPages</td>
+<td style="text-align: center;">Organizar e publicar os relatos de verificação de cada artefato no site do projeto.</td>
+<td style="text-align: center;">21/06/2026 - 22/06/2026</td>
+<td style="text-align: center;">Hugo e Maria Laura</td>
+<td style="text-align: center;">22/06/2026 - 22/06/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+</tbody>
+</table>
+<h3 id="cronograma-de-reunioes-e-gravacoes_6">Cronograma de Reuniões e Gravações<a class="headerlink" href="#cronograma-de-reunioes-e-gravacoes_6" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Evento</th>
+<th style="text-align: center;">Descrição</th>
+<th style="text-align: center;">Data / Período</th>
+<th style="text-align: center;">Responsáveis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">Reunião Semanal</td>
+<td style="text-align: center;">Alinhamento sobre os métodos de verificação e andamento da inspeção interna.</td>
+<td style="text-align: center;">18/06/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+<tr>
+<td style="text-align: center;">Reunião de Revisão e Gravação</td>
+<td style="text-align: center;">Fechamento das verificações, validação das correções e gravação do vídeo.</td>
+<td style="text-align: center;">22/06/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+<tr>
+<td style="text-align: center;">Vídeo da apresentação</td>
+<td style="text-align: center;">Entrega do vídeo da etapa 8 .</td>
+<td style="text-align: center;">22/06/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Entrega 8</strong></td>
+<td style="text-align: center;"><strong>Data oficial da entrega da etapa 8 no Aprender3</strong>.</td>
+<td style="text-align: center;"><strong>24/06/2026</strong></td>
+<td style="text-align: center;"><strong>Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Gravação da inspeção do Grupo +1</td>
+<td style="text-align: center;">Gravação da avaliação dos artefatos da entrega 8 do Grupo +1 (no dia da entrega).</td>
+<td style="text-align: center;">24/06/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="entrega-final-projeto-final-da-disciplina">Entrega Final: Projeto Final da Disciplina<a class="headerlink" href="#entrega-final-projeto-final-da-disciplina" title="Permanent link">&para;</a></h2>
+<h3 id="cronograma-de-atividades_7">Cronograma de Atividades<a class="headerlink" href="#cronograma-de-atividades_7" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Atividade</th>
+<th style="text-align: center;">Descrição</th>
+<th style="text-align: center;">Período de Desenvolvimento</th>
+<th style="text-align: center;">Responsáveis</th>
+<th style="text-align: center;">Período de Revisão</th>
+<th style="text-align: center;">Revisores</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">Síntese Executiva do Projeto</td>
+<td style="text-align: center;">Redigir a justificativa do site escolhido, ciclo de vida utilizado e resultados alcançados.</td>
+<td style="text-align: center;">25/06/2026 - 26/06/2026</td>
+<td style="text-align: center;">Philipe e Ingrid</td>
+<td style="text-align: center;">27/06/2026 - 27/06/2026</td>
+<td style="text-align: center;">Thaiza</td>
+</tr>
+<tr>
+<td style="text-align: center;">Tabelas de Síntese (Artefatos)</td>
+<td style="text-align: center;">Elaborar as tabelas resumindo ferramentas, técnicas utilizadas e artefatos por integrante.</td>
+<td style="text-align: center;">26/06/2026 - 27/06/2026</td>
+<td style="text-align: center;">Maria Laura e Nathan</td>
+<td style="text-align: center;">28/06/2026 - 28/06/2026</td>
+<td style="text-align: center;">Hugo</td>
+</tr>
+<tr>
+<td style="text-align: center;">Tabelas de Síntese (Vídeos/Avaliações)</td>
+<td style="text-align: center;">Elaborar as tabelas de vídeos, avaliações dos protótipos e o relato de facilidades/dificuldades da equipe.</td>
+<td style="text-align: center;">27/06/2026 - 28/06/2026</td>
+<td style="text-align: center;">Thaiza e Hugo</td>
+<td style="text-align: center;">29/06/2026 - 29/06/2026</td>
+<td style="text-align: center;">Philipe</td>
+</tr>
+<tr>
+<td style="text-align: center;">Montagem do GitPages</td>
+<td style="text-align: center;">Revisão final de todos os links, formatação e publicação da Entrega Final.</td>
+<td style="text-align: center;">28/06/2026 - 29/06/2026</td>
+<td style="text-align: center;">Nathan e Ingrid</td>
+<td style="text-align: center;">29/06/2026 - 29/06/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+</tbody>
+</table>
+<h3 id="cronograma-de-reunioes-e-gravacoes_7">Cronograma de Reuniões e Gravações<a class="headerlink" href="#cronograma-de-reunioes-e-gravacoes_7" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Evento</th>
+<th style="text-align: center;">Descrição</th>
+<th style="text-align: center;">Data / Período</th>
+<th style="text-align: center;">Responsáveis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">Reunião Semanal</td>
+<td style="text-align: center;">Divisão das tabelas de síntese e discussões finais sobre os resultados do projeto.</td>
+<td style="text-align: center;">25/06/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+<tr>
+<td style="text-align: center;">Reunião de Revisão e Gravação</td>
+<td style="text-align: center;">Revisão de toda a documentação da Wiki e gravação da grande apresentação final (20 a 30 min).</td>
+<td style="text-align: center;">29/06/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+<tr>
+<td style="text-align: center;">Vídeo da apresentação</td>
+<td style="text-align: center;">Entrega do vídeo do projeto final .</td>
+<td style="text-align: center;">29/06/2026</td>
+<td style="text-align: center;">Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Entrega Final</strong></td>
+<td style="text-align: center;"><strong>Data oficial da entrega do Projeto Final no Aprender3</strong>.</td>
+<td style="text-align: center;"><strong>01/07/2026</strong></td>
+<td style="text-align: center;"><strong>Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan</strong></td>
+</tr>
+</tbody>
+</table>
+<h2 id="historico-de-versao">Histórico de Versão<a class="headerlink" href="#historico-de-versao" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Versão</th>
+<th style="text-align: left;">Data</th>
+<th style="text-align: left;">Descrição</th>
+<th style="text-align: left;">Autor</th>
+<th style="text-align: left;">Revisor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">1.0</td>
+<td style="text-align: left;">11/04/2026</td>
+<td style="text-align: left;">Criação do documento</td>
+<td style="text-align: left;"><a href="https://github.com/HugoFreitass">Hugo Freitas Silva</a></td>
+<td style="text-align: left;"><a href="https://github.com/ThaizaWeert">Thaiza Weert </a></td>
+</tr>
+<tr>
+<td style="text-align: left;">1.1</td>
+<td style="text-align: left;">22/04/2026</td>
+<td style="text-align: left;">Adição do historico de versão</td>
+<td style="text-align: left;"><a href="https://github.com/alvesingrid">Ingrid Alves</a></td>
+<td style="text-align: left;"><a href="https://github.com/HugoFreitass">Hugo Freitas Silva</a></td>
+</tr>
+<tr>
+<td style="text-align: left;">1.2</td>
+<td style="text-align: left;">30/04/2026</td>
+<td style="text-align: left;">Adição do cronograma de apresentações 2 á 8</td>
+<td style="text-align: left;"><a href="https://github.com/alvesingrid">Maria Laura</a></td>
+<td style="text-align: left;"><a href="https://github.com/HugoFreitass">Hugo Freitas Silva</a></td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Voltar para o topo
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+</div>
+      
+        
+<div class="md-social">
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/Interacao-Humano-Computador/2026.1-Grupo07" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.tabs", "navigation.top", "search.highlight", "content.code.copy", "navigation.tabs.sticky", "navigation.sections", "navigation.expand", "navigation.indexes", "toc.follow", "search.suggest", "search.share", "content.code.annotate", "header.autohide"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "search.result.more.one": "mais 1 nesta p\u00e1gina", "search.result.more.other": "# mais nesta p\u00e1gina", "search.result.none": "Nenhum documento encontrado", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Digite para iniciar a busca", "search.result.term.missing": "Ausente", "select.version": "Selecione a vers\u00e3o"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>
