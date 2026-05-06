@@ -49,11 +49,13 @@ nav:
       - Metodologia:
         - Aspectos éticos: requisitos/Aspectoseticos.md
         - Brainstorming: requisitos/brainstorming.md
-        - Entrevista: requisitos/entrevista.md
+        - Entrevista: 
+          - Entrevista Realizada: requisitos/entrevista.md
+          - Roteiro da entrevista: requisitos/roteiroEntrevista.md
         # - Grupo De Foco: requisitos/grupoDeFoco.md
         - Questionário: requisitos/questionario.md
       - Análise de tarefas: requisitos/analisedetarefa.md
-     
+    
       - Personas: requisitos/persona.md
       - Cenário: requisitos/cenario.md
   - Ferramentas: Ferramentas.md
