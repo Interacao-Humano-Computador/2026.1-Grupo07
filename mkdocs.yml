@@ -44,7 +44,7 @@ nav:
           - Executado: planejamento/cronogramaexec.md
       - Processo de Design: planejamento/processoDesign.md
       - Sites avaliados: planejamento/listasites.md
-  - Requisitos: 
+  - Análise de Requisitos: 
       - Perfil de usuário: requisitos/perfilDeUsuario.md
       - Metodologia:
         - Aspectos éticos: requisitos/Aspectoseticos.md
