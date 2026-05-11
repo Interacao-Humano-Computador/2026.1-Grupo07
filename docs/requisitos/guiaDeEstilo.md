@@ -109,6 +109,7 @@ O site do Grupo Sabin utiliza uma linguagem relativamente acessível ao público
 Em determinados contextos, funcionalidades semelhantes recebem nomes diferentes, o que pode gerar inconsistência na experiência do usuário. Além disso, há diferenças no estilo textual entre áreas institucionais, páginas de serviços e seções de atendimento, indicando ausência de um padrão rígido de comunicação.
 
 Apesar disso, o sistema procura utilizar:
+
 - verbos de ação em botões e menus;
 - linguagem cordial e institucional;
 - termos comuns da área da saúde;
@@ -117,6 +118,7 @@ Apesar disso, o sistema procura utilizar:
 ### Tipos de Tela
 
 O site apresenta diferentes modelos de páginas, porém sem uma uniformidade visual plenamente consolidada. Algumas telas possuem organização moderna e limpa, enquanto outras apresentam estruturas mais densas visualmente, com diferenças perceptíveis em:
+
 - espaçamento;
 - alinhamento;
 - tamanho de elementos;
@@ -124,6 +126,7 @@ O site apresenta diferentes modelos de páginas, porém sem uma uniformidade vis
 - organização de conteúdo.
 
 Os principais tipos de tela identificados incluem:
+
 - página inicial;
 - páginas institucionais;
 - telas de agendamento;
@@ -136,11 +139,13 @@ Embora exista uma tentativa de manter identidade visual da marca, nota-se que di
 ### Sequências de Diálogo
 
 Os fluxos de interação seguem padrões básicos de navegação e feedback, porém sem grande consistência entre todas as áreas do sistema. Algumas operações apresentam:
+
 - mensagens claras de confirmação;
 - validação de campos;
 - feedback visual durante carregamento.
 
 Entretanto, em outras partes do site:
+
 - os retornos visuais são discretos;
 - há diferenças no comportamento de formulários;
 - certos fluxos exigem mais etapas do que o necessário;
@@ -151,6 +156,7 @@ Isso pode impactar a previsibilidade da interação e aumentar a carga cognitiva
 ### Consistência de Navegação
 
 Embora o site mantenha elementos recorrentes como menu principal e identidade visual da marca, a consistência geral da navegação não é totalmente uniforme. Existem diferenças perceptíveis entre páginas em relação a:
+
 - organização dos menus;
 - estrutura de conteúdo;
 - comportamento responsivo;
