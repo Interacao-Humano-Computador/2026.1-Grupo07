@@ -56,7 +56,7 @@ A disciplina de Interação Humano-Computador (IHC) foi fundamental para ampliar
 | Versão | Data | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 11/05/2026 | Criação do documento |[Nathan Pontes Romão](https://github.com/nathanpromao)|  |
-| 1.0 | 11/05/2026 | Adicionando texto|[Thaiza R Da Silva](https://github.com/thaizaweert)|  |
+| 1.1 | 11/05/2026 | Adicionando texto|[Thaiza R Da Silva](https://github.com/thaizaweert)|  |
 
 ## Referência bibliográfica
 
