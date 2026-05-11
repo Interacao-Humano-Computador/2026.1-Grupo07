@@ -163,4 +163,4 @@ Na técnica de eleco de personas, é essencial que os integrantes da equipe de d
 
 ## Referência bibliográfica
 
-BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
+> BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.

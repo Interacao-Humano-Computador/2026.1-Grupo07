@@ -106,10 +106,11 @@ Por fim, os próprios usuários indicaram oportunidades de inovação e melhoria
 *   Foi recomendada a criação de um recurso que reporte ao paciente a evolução do seu histórico de resultados ao longo do tempo.
 *   Houve também o pedido pela inclusão de uma funcionalidade que permita agendar a realização de exames em residência dentro de um prazo de 24 horas.
 
+## Histórico de Versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 1/05/2026 | Criação do documento |[Philipe Amancio](https://github.com/Phill-Chill)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 
 ## Referência bibliográfica
 
-BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
+>BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.

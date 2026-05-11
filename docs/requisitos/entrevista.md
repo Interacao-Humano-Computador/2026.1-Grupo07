@@ -34,10 +34,11 @@ O roteiro intercala dois tipos fundamentais de perguntas para otimizar o tempo e
 
 O entrevistado atua como profissional da área de saúde, possui nível superior (graduação) e encontra-se dentro da faixa etária estipulada para a pesquisa. Inserido em uma rotina de trabalho de alta demanda, o uso constante de sistemas laboratoriais — acessados majoritariamente através dos desktops da empresa — é essencial para o gerenciamento dos dados e suporte direto às suas consultas. Durante a entrevista, ele relatou que, de maneira geral, os portais desse nicho poderiam ser mais bem adaptados ao modelo mental e às necessidades dos profissionais de saúde, priorizando a eficiência operacional. Como forte oportunidade de melhoria para o sistema, o usuário levantou a ideia de que a plataforma não apenas exiba os dados brutos, mas já forneça uma pré-avaliação ou destaque visual das alterações nos exames de sangue, com o objetivo de agilizar a tomada de decisão e a precisão do diagnóstico clínico.
 
+## Histórico de Versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 1/05/2026 | Criação do documento |[Philipe Amancio](https://github.com/Phill-Chill)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 
 ## Referência bibliográfica
 
-BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
+> BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.

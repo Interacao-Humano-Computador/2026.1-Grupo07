@@ -36,6 +36,7 @@ A discussão coletiva deve ser guiada por tópicos concretos, tais como:
 4.  **Sentimentos:** Preferências claras e aversões contundentes em relação a serviços digitais.
 5.  **Reações a propostas:** Opiniões e atitudes sobre ideias de novos produtos ou funcionalidades desejadas para o sistema.
 
+## Histórico de Versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 1/05/2026 | Criação do documento |[Philipe Amancio](https://github.com/Phill-Chill)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
@@ -43,4 +44,4 @@ A discussão coletiva deve ser guiada por tópicos concretos, tais como:
 
 ## Referência bibliográfica
 
-BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
+> BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.

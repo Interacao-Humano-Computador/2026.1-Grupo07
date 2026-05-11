@@ -94,6 +94,10 @@ O cenário é muito bem-sucedido em equilibrar o objetivo de negócio (reduzir o
 - **Controle do Usuário e Prevenção de Erros:** A funcionalidade de "transbordo" proativo para o WhatsApp em caso de atraso na validação médica é uma excelente estratégia de contenção. Ela previne o abandono do fluxo digital (a viagem física ao laboratório) e entrega o controle da situação de volta à usuária.
 - **Design Estético e Minimalista:** Sabendo que a persona "não gosta de ler instruções longas", a decisão de omitir textos institucionais e ir direto para o botão "Baixar PDF" na hierarquia da informação atende perfeitamente à sua necessidade de agilidade.
 
+## Referência bibliográfica
+
+> BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
+
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor |
@@ -104,6 +108,4 @@ O cenário é muito bem-sucedido em equilibrar o objetivo de negócio (reduzir o
 | 1.3 | 04/05/2026 | Adição do cenário 4 |[Ingrid Alves](https://github.com/alvesingrid)|  |
 | 1.4 | 04/05/2026 | Adição do cenário 5 |[Thaiza R da Silva](https://github.com/thaizaweert)|  |
 
-## Referência bibliográfica
 
-> BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.

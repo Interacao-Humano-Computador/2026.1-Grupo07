@@ -62,11 +62,11 @@ O seguinte modelo de termo de consentimento foi utilizado pelo grupo:
 <br>
 
 
-## Referência bibliográfica
-
-BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
-
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 3/05/2026 | Criação do documento e abordagens das ferramentas selecionadas |[Nathan Pontes Romão](https://github.com/nathanpromao)/[Ingrid Alves](https://github.com/alvesingrid)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+
+## Referência bibliográfica
+
+>BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.

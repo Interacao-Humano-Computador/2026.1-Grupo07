@@ -58,6 +58,7 @@ nav:
     
       - Personas: requisitos/persona.md
       - Cenário: requisitos/cenario.md
+      - Características da Plataforma: requisitos/caracteristicasDaPlataforma.md
   - Ferramentas: Ferramentas.md
   - Atas de reunião: 
           - Reunião 1: atasDeReuniao/reuniao1.md
