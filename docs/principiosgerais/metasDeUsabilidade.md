@@ -24,11 +24,12 @@ nível de competência e desempenho <span class="hover-image">(BARBOSA; SILVA, 2
 ## Aplicação para o projeto
 
 
-## Referência Bibliográfica:
-BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. 1. ed. Rio de Janeiro: Elsevier, 2010.
-
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 11/05/2026 | Criação do documento |[Nathan Pontes Romão](https://github.com/nathanpromao)|  |
+
+## Referência bibliográfica
+
+>BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
