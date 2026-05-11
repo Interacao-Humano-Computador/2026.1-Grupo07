@@ -1,14 +1,6 @@
 # Princípios e Diretrizes Gerais do Projeto
 
 
-##  Características da Plataforma para o Projeto
-
-O projeto do portal do Laboratório Sabin será desenvolvido considerando as seguintes características de plataforma:
-
-* **Plataforma Alvo:** Aplicação Web Responsiva (acessível via navegadores em Desktop, Tablets e Smartphones).
-* **Restrições e Contexto de Uso:** O sistema deve considerar o contexto de mobilidade e a possível carga emocional/ansiedade do usuário (buscando resultados médicos ou agendamentos urgentes). Portanto, a interface exige tempos de resposta rápidos, alta legibilidade em telas pequenas e fluxos de navegação que minimizem o uso de dados móveis e a digitação excessiva em teclados virtuais.
-
----
 
 ##  Princípios Gerais do Projeto
 
@@ -87,7 +79,9 @@ O portal apresenta lacunas neste princípio. O fluxo de recuperação de protoco
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 09/05/2026 | Criação do documento |[Maria Laura Regis](https://github.com/Maria-Laura-Regis)| [Philipe Amencio](https://github.com/Philipe-Chill) |
+| 1.0 | 09/05/2026 | Criação do documento |[Maria Laura Regis](https://github.com/Maria-Laura-Regis) | [Philipe Amencio](https://github.com/Philipe-Chill) |
+| 1.1 | 11/05/2026 | Remocção da seção de características da plataforma (informação duplicada) | [Hugo Freitas Silva](https://github.com/HugoFreitass) | [Philipe Amencio](https://github.com/Philipe-Chill) |
+
 ---
 
 ## Referência Bibliográfica:
