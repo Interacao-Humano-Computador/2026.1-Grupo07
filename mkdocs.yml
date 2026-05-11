@@ -59,6 +59,9 @@ nav:
       - Personas: requisitos/persona.md
       - Cenário: requisitos/cenario.md
       - Características da Plataforma: requisitos/caracteristicasDaPlataforma.md
+  - Princípios e Diretrizes Gerais:
+      - Princípios Gerais: principiosgerais/principios.md
+      - Metas de Usabilidade: principios/metasDeUsabilidade.md
   - Ferramentas: Ferramentas.md
   - Atas de reunião: 
           - Reunião 1: atasDeReuniao/reuniao1.md
