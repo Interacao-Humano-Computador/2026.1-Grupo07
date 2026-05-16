@@ -1,5 +1,11 @@
 # Questionário
 
+## Rastreabilidade
+|Artefato(s) | Autore(s)|
+| --- | --- |
+| Página de Questinário | Philipe |
+| Construção e aplicação do questionário | Ingrid |
+
 ## Introdução
 O questionário é uma técnica de levantamento de dados amplamente utilizada na área de Interação Humano-Computador para coletar informações autorrelatadas de uma amostra abrangente de usuários. Ele se destaca por permitir a coleta de dados de pessoas geograficamente dispersas e de forma assíncrona. Enquanto métodos qualitativos (como entrevistas e brainstorming) são excelentes para descobrir "o que" e "por que" os usuários pensam de determinada forma, o questionário é a ferramenta ideal para responder "quantos" pensam assim, ajudando a validar estatisticamente as hipóteses levantadas nas fases iniciais da pesquisa <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/image-38.png" alt="Print"> </span>..
 
@@ -106,11 +112,16 @@ Por fim, os próprios usuários indicaram oportunidades de inovação e melhoria
 *   Foi recomendada a criação de um recurso que reporte ao paciente a evolução do seu histórico de resultados ao longo do tempo.
 *   Houve também o pedido pela inclusão de uma funcionalidade que permita agendar a realização de exames em residência dentro de um prazo de 24 horas.
 
+___
+
+## Referência Bibliográfica
+
+>BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
+
+___
+
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 1/05/2026 | Criação do documento |[Philipe Amancio](https://github.com/Phill-Chill)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
-
-## Referência bibliográfica
-
->BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
+| 1.1 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos  | [Philipe Amancio](https://github.com/Phill-Chill)| [Ingrid Alves](https://github.com/alvesingrid)|

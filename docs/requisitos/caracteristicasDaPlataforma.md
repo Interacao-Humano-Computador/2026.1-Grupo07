@@ -1,5 +1,10 @@
 # Características da Plataforma
 
+## Rastreabilidade
+|Artefato(s) | Autore(s)|
+| --- | --- |
+| Página de Características da Plataforma | Ingrid |
+
 ## 1. Visão Geral
 Este documento descreve as características da plataforma do portal web do **Laboratório Sabin**, que é o objeto de estudo deste projeto de Interação Humano-Computador (IHC). O objetivo é definir os requisitos não-funcionais, dispositivos suportados, navegadores compatíveis e restrições tecnológicas que impactam a experiência do usuário.
 
@@ -37,14 +42,17 @@ O acesso ao portal web abrange diferentes tipos de dispositivos, devendo emprega
 - **Visualizador de PDF**: Para o acesso aos laudos, o usuário deve ter um visualizador de PDF no navegador ou instalado no dispositivo.
 - **JavaScript**: A plataforma requer a ativação de JavaScript no navegador para o funcionamento de componentes interativos da interface (validação de formulários, menus suspensos, carregamento dinâmico).
 
-## 5. Referência Bibliográfica
+
+---
+## Referência Bibliográfica
 
 > BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
 
----
+____
 
-## 6. Histórico de Versões
+## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :---: | :---: | :--- | :--- | :--- |
 | 1.0 | 11/05/2026 | Criação do documento de características da plataforma | [Ingrid Alves](https://github.com/alvesingrid) | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.1 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Philipe-Chill) | [Ingrid Alves](https://github.com/alvesingrid) |

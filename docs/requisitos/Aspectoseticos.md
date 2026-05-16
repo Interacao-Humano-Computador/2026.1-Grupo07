@@ -1,4 +1,9 @@
 # Aspectos Éticos
+## Rastreabilidade
+|Artefato(s) | Autore(s)|
+| --- | --- |
+| Página de Aspectos Éticos | Nathan e Ingrid |
+
 
 ## Introdução
 Ao realizar qualquer tipo de pesquisa que envolva pessoas, é fundamental que sejam levados em conta os aspectos éticos envolvidos no processo. Isso é crucial para garantir a proteção dos direitos e da dignidade dos participantes envolvidos na pesquisa, seja de forma direta ou indireta.
@@ -26,7 +31,7 @@ Com base nesses princípios éticos e na literatura (Johnson, 2008; Courage e Ba
 
 
 
-## Principios
+## Princípios
 
 Apesar de essa resolução não se aplicar à execução de métodos de avaliação com objetivos técnicos, suas recomendações são muito úteis para orientar os avaliadores no cuidado ético durante seu trabalho. Segundo essa resolução,esses cuidados envolvem considerar os seguintes princípios:
 <span class="hover-image">(BARBOSA et al., 2021, p. 140)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/Aspectos éticos-2.PNG" alt="Print"> </span>.
@@ -41,7 +46,7 @@ Apesar de essa resolução não se aplicar à execução de métodos de avaliaç
 - **Princípio da justiça e equidade:** relacionado à relevância social da pesquisa, com vantagens significativas para os participantes da pesquisa e minimização do ônus para os participantes vulneráveis, o que garante a igual consideração dos interesses envolvidos, não perdendo o sentido de sua destinação sócio-humanitária.
 
 ## Termo de consentimento do grupo
-O seguinte modelo de termo de consentimento foi utilizado pelo grupo:
+O seguinte modelo de termo de consentimento, representado na **Imagem I**,foi utilizado pelo grupo:
 
 <div align="center">Imagem I - Termo de consentimento </div>
 
@@ -49,7 +54,7 @@ O seguinte modelo de termo de consentimento foi utilizado pelo grupo:
 ![Termo 1](../assets/Termo-1.PNG)
 </div>
 
-<div align="center">Fonte: autoria própria.</div>
+> Fonte: autoria própria.
 <br>
 
 <div align="center">Imagem II - Área de assinatura </div>
@@ -58,15 +63,16 @@ O seguinte modelo de termo de consentimento foi utilizado pelo grupo:
 ![Termo 2](../assets/Termo-2.PNG)
 </div>
 
-<div align="center">Fonte: autoria própria.</div>
+> Fonte: autoria própria.
 <br>
 
+___
+## Referência Bibliográfica
 
+>BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
+___
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 3/05/2026 | Criação do documento e abordagens das ferramentas selecionadas |[Nathan Pontes Romão](https://github.com/nathanpromao)/[Ingrid Alves](https://github.com/alvesingrid)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
-
-## Referência bibliográfica
-
->BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
+| 1.1 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Philipe-Chill) | [Ingrid Alves](https://github.com/alvesingrid)|

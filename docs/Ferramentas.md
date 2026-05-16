@@ -1,4 +1,11 @@
 # Ferramentas
+
+## Rastreabilidade
+|Artefato(s) | Autore(s)|
+| --- | --- |
+| Página de Ferramentas | Philipe |
+
+
 ## Introdução
 Os recursos descritos a seguir, apresentados na Tabela I, foram selecionados pelo integrante Philipe Amâncio com base em projetos de outras disciplinas do curso de Engenharia de Software da UnB (Universidade de Brasília) e em trabalhos de IHC de semestres anteriores. O objetivo é auxiliar e padronizar as etapas de planejamento, execução e documentação da análise de Interação Humano-Computador (IHC), garantindo a consistência metodológica e a colaboração eficiente entre os membros da equipe durante o ciclo de vida do projeto.
 
@@ -54,4 +61,6 @@ Os recursos descritos a seguir, apresentados na Tabela I, foram selecionados pel
 | 1.0 | 11/04/2026 | Criação do documento  |[Philipe Amancio](https://github.com/Phill-Chill) | [Ingrid Alves](https://github.com/alvesingrid) |
 | 1.1 | 22/04/2026 | Adição do historico de versão | [Ingrid Alves](https://github.com/alvesingrid) |[Hugo Freitas Silva](https://github.com/HugoFreitass) |
 | 1.2 | 24/04/2026 | Adequação da página ao feedback do professor |[Philipe Amancio](https://github.com/Phill-Chill) |  |
+| 1.3 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Philipe-Chill) | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+
 

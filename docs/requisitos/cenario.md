@@ -1,3 +1,14 @@
+## Rastreabilidade
+|Artefato(s) | Autore(s)|
+| --- | --- |
+| Página de Elenco de Personas | Philipe |
+| [Cenário: Acesso ao resultado com visualizadores de imagem (DICOM)](#dicom) | Philipe |
+| [Cenário: Agendamento de exames com dúvidas críticas de preparo](#agendamento)  | Maria Laura |
+| [Cenário: Cadastro de exame laboratorial com informação incompleta no sistema](#cadastro)| Hugo |
+| [Cenário: Acompanhamento de resultados e download de laudos durante o pré-natal](#acompanhamento) | Ingrid |
+| [Cenário: Consulta de Resultados com Urgência](#consulta)| Thaiza |
+
+
 ## Introdução
 
 Um **cenário** é, essencialmente, uma narrativa sobre pessoas realizando uma atividade. Seja construído em formato textual ou pictórico, trata-se de uma descrição concreta e rica em detalhes contextuais sobre uma situação de uso do sistema, envolvendo os usuários, os processos e os dados reais ou potenciais <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/image-29.png" alt="Print"> </span> 
@@ -10,7 +21,7 @@ Para assegurar que o conjunto de cenários seja verdadeiramente representativo d
 
 ## Cenários criados:
 
-# Cenário 01: Acesso ao resultado com visualizadores de imagem (DICOM)
+# Cenário 01: Acesso ao resultado com visualizadores de imagem (DICOM) {#dicom}
 
 **Atores:** Roberto (Médico Clínico Geral), Paciente
 
@@ -20,7 +31,7 @@ Ao localizar o exame no sistema, o laudo em PDF carrega rapidamente. No entanto,
 
 ---
 
-# Cenário 02: Agendamento de exames com dúvidas críticas de preparo
+# Cenário 02: Agendamento de exames com dúvidas críticas de preparo {#agendamento}
 
 **Atores:** Márcia (Mãe e Gestora da saúde familiar), Atendente Humano (Sabin)
 
@@ -30,7 +41,7 @@ O sistema processa as imagens com sucesso e identifica os exames corretamente, m
 
 ---
 
-# Cenário 03: Cadastro de exame laboratorial com informação incompleta no sistema
+# Cenário 03: Cadastro de exame laboratorial com informação incompleta no sistema {#cadastro}
 
 **Atores:** Mariana Alves Souza (paciente), sistema do site Sabin
 
@@ -54,7 +65,7 @@ Esses aspectos indicam oportunidades de melhoria na interface e no fluxo do sist
 
 ---
 
-# Cenário 04: Acompanhamento de resultados e download de laudos durante o pré-natal
+# Cenário 04: Acompanhamento de resultados e download de laudos durante o pré-natal {#acompanhamento}
 
 **Atores:** Camila Fernandes (Paciente Frequente / Gestante), sistema do site Sabin
 
@@ -76,7 +87,7 @@ Nesse cenário, observam-se os seguintes pontos críticos:
 
 ---
 
-# Cenário 05: Consulta de Resultados com Urgência
+# Cenário 05: Consulta de Resultados com Urgência {#consulta}
 
 **Atores:** Agnes Santos (16 anos, acompanhante digital dos avós).
 
@@ -94,9 +105,11 @@ O cenário é muito bem-sucedido em equilibrar o objetivo de negócio (reduzir o
 - **Controle do Usuário e Prevenção de Erros:** A funcionalidade de "transbordo" proativo para o WhatsApp em caso de atraso na validação médica é uma excelente estratégia de contenção. Ela previne o abandono do fluxo digital (a viagem física ao laboratório) e entrega o controle da situação de volta à usuária.
 - **Design Estético e Minimalista:** Sabendo que a persona "não gosta de ler instruções longas", a decisão de omitir textos institucionais e ir direto para o botão "Baixar PDF" na hierarquia da informação atende perfeitamente à sua necessidade de agilidade.
 
-## Referência bibliográfica
+## Referência Bibliográfica
 
 > BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
+
+____
 
 ## Histórico de Versão
 
@@ -107,5 +120,6 @@ O cenário é muito bem-sucedido em equilibrar o objetivo de negócio (reduzir o
 | 1.2 | 01/05/2026 | Adição do cenário 3 |[Maria Laura Regis](https://github.com/Maria-Laura-Regis)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 | 1.3 | 04/05/2026 | Adição do cenário 4 |[Ingrid Alves](https://github.com/alvesingrid)|  |
 | 1.4 | 04/05/2026 | Adição do cenário 5 |[Thaiza R da Silva](https://github.com/thaizaweert)|  |
+| 1.5 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Philipe-Chill) | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 
 

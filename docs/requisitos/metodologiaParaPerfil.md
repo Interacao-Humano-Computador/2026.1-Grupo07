@@ -91,12 +91,15 @@ A discussão coletiva deve ser guiada por tópicos concretos, tais como:
 
 Para evitar que a discussão se torne puramente abstrata, é altamente recomendável introduzir materiais concretos no ambiente do Grupo de Foco. Apresentar protótipos de tela do novo portal Sabin permite que o grupo tenha um alvo bem definido para suas críticas e opiniões. Além da discussão livre, o moderador pode pedir que o grupo realize pequenas tarefas no protótipo e relate coletivamente a experiência.
 
+___
+
+## Referência bibliográfica
+
+> BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
+
+____
 
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 1/05/2026 | Criação do documento e abordagens das ferramentas selecionadas |[Philipe Amancio](https://github.com/Phill-Chill)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
-
-## Referência bibliográfica
-
-> BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.

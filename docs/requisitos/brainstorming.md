@@ -1,4 +1,11 @@
-## Brainstorming com Diagrama de Afinidade
+# Brainstorming com Diagrama de Afinidade
+
+## Rastreabilidade
+|Artefato(s) | Autore(s)|
+| --- | --- |
+| Página de Brainstorming  | Philipe, Hugo e Maria Laura |
+
+## Introdução
 
 **Objetivo:** Levantar as reais necessidades dos usuários para o novo portal Sabin, focando na visão de um "sistema ideal" para remover limitações técnicas e focar no valor da experiência.
 
@@ -16,7 +23,7 @@
 
 **Entrega Final:** O resultado é um escopo claro e priorizado, entregando à equipe de design uma lista das funcionalidades consideradas críticas e mais urgentes pelos próprios usuários.
 
-# Análise de Resultados: Brainstorming
+## Análise de Resultados: Brainstorming
 
 **Objetivo:** Levantar as reais necessidades dos usuários para o novo portal Sabin, focando na visão de um "sistema ideal" para remover limitações técnicas e focar no valor da experiência.
 
@@ -32,6 +39,8 @@ Durante a dinâmica, os participantes elencaram as funcionalidades e o escopo fo
 2. **Frequência (Traços `|`):** Representa quantas vezes a mesma funcionalidade foi citada por participantes diferentes durante a sessão, indicando o quão comum é aquela necessidade no grupo.
 
 ### Registros da Sessão
+
+>Link da gravação do Brainstorming: [Vídeo](https://youtu.be/9quO0uegV2o)
 
 Abaixo estão as imagens da lousa utilizada durante a dinâmica, contendo todas as anotações, os asteriscos de prioridade e os traços de frequência:
 
@@ -96,12 +105,14 @@ Além do Top 3 de importância, o secretário da sessão utilizou traços (`|`) 
 * Informação clara sobre os preparativos dos exames.
 
 ---
+## Referência Bibliográfica
+
+> BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
+
+____
 
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 1/05/2026 | Criação do documento |[Philipe Amancio](https://github.com/Phill-Chill)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
-
-## Referência bibliográfica
-
-> BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
+| 1.1 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos  | [Philipe Amancio](https://github.com/Phill-Chill)| [Maria Laura Regis](https://github.com/Maria-Laura-Regis) / [Hugo Freitas Silva](https://github.com/HugoFreitass)|

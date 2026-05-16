@@ -1,5 +1,10 @@
 # Perfil de Usuário
 
+## Rastreabilidade
+|Artefato(s) | Autore(s)|
+| --- | --- |
+| Página de Perfil de Usuário | Philipe e Hugo |
+
 ## Introdução 
 
 O **perfil de usuário** é uma descrição detalhada das características das pessoas cujos objetivos devem ser apoiados pelo sistema que está sendo projetado. A elaboração desse perfil é um processo iterativo: embora o trabalho geralmente comece com uma ideia inicial de quem é o público-alvo, essa percepção preliminar não costuma ser suficientemente detalhada e pode até consistir em uma impressão equivocada.
@@ -43,11 +48,14 @@ Com base nos resultados da avalição dos dados coletados pelo ferramentas de Br
 
 <br>
 
-## Histórico de Versão
-| Versão | Data | Descrição | Autor | Revisor |
-| :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 1/05/2026 | Criação do documento |[Philipe Amancio](https://github.com/Phill-Chill)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+___
 
 ## Referência bibliográfica
 
 > BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
+___
+## Histórico de Versão
+| Versão | Data | Descrição | Autor | Revisor |
+| :--- | :--- | :--- | :--- | :--- |
+| 1.0 | 1/05/2026 | Criação do documento |[Philipe Amancio](https://github.com/Phill-Chill)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.1 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Philipe-Chill) | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) |

@@ -1,5 +1,10 @@
 # Processo de Design
 
+## Rastreabilidade
+|Artefato(s) | Autore(s)|
+| --- | --- |
+| Processo de desgin| Maria Laura e Philipe |
+
 ## Introdução
 
 Ao buscarmos maneiras de resolver problemas, diminuir características desagradáveis ou melhorar algo estamos exercendo atividades de design. Com isso pode-se entender que design é um processo que busca valorizar aspecto positivos em detrimento da redução dos negativos. Compreendido o que seria design, é possível separar em três atividades fundamentais (BARBOSA et al., 2021):
@@ -122,28 +127,19 @@ O processo não termina na entrega. Existe uma etapa de coleta de opinião do us
 
 ## Por que escolhemos o Ciclo de Vida de Mayhew?
 
-- *Redução de Riscos:*  
-  Por ser dividido em três níveis, o erro é detectado cedo. Se o modelo conceitual (Nível 1) falhar na avaliação, você corrige antes de gastar tempo com o design detalhado (Nível 3).
-
-- *Foco em Metas:*  
-  O modelo de Mayhew é orientado por resultados. Em cada etapa, há uma pergunta decisiva. Se a resposta for "não", o fluxo obriga o retorno para o refinamento.
-
-- *Rastreabilidade:*  
-  Ele oferece um guia claro de quais artefatos são produzidos em cada fase (como o guia de estilo e os protótipos), garantindo que a equipe de desenvolvimento saiba exatamente o que implementar.
-
-- *Alinhamento com a Teoria de IHC:*  
-  Ele executa perfeitamente a natureza iterativa mencionada anteriormente, permitindo que o designer aprenda com cada ciclo de avaliação.
+A escolha do Ciclo de Vida da Engenharia de Usabilidade de Mayhew (1999) justifica-se pela sua visão holística e pelo seu alto nível de detalhamento estrutural. Diferente de modelos mais simplificados, o processo de Mayhew reúne e organiza sistematicamente as diversas atividades da área de IHC, orientando o trabalho da nossa equipe de forma clara em direção a uma solução interativa de alta qualidade <span class="hover-image"> (BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup> <img class= "img" src="../../assets/image-41.png" alt="Print"> </span>
 
 ---
 
-# Referência
+## Referência
 
  BARBOSA, S. D. J. et al. **Interação Humano-Computador e Experiência do Usuário**. 1. ed. Rio de Janeiro: Autopublicação, 2021.
-
+___
 
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 11/04/2026 | Criação do documento  |[Maria Laura Regis ](https://github.com/Maria-Laura-Regis) | [Ingrid Alves](https://github.com/alvesingrid) |
 | 1.1 | 22/04/2026 | Adição do historico de versão| [Ingrid Alves](https://github.com/alvesingrid) |[Hugo Freitas Silva](https://github.com/HugoFreitass) |
-| 1.2 | 11/04/2026 | Adequação ao feedback do professor  |[Maria Laura Regis ](https://github.com/Maria-Laura-Regis) / [Philipe Amancio](https://github.com/Phill-Chill)|  |
+| 1.2 | 11/04/2026 | Adequação ao feedback do professor  |[Maria Laura Regis ](https://github.com/Maria-Laura-Regis) / [Philipe Amancio](https://github.com/Phill-Chill)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.3 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Philipe-Chill) | [Maria Laura Regis ](https://github.com/Maria-Laura-Regis) |

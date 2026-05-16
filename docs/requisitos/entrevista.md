@@ -1,3 +1,9 @@
+## Rastreabilidade
+|Artefato(s) | Autore(s)|
+| --- | --- |
+| Página de Entrevista | Philipe |
+| Realização da entrevista | Thaiza |
+
 ## Entrevistas Semiestruturadas
 
 A entrevista é a técnica escolhida para coletar dados qualitativos profundos sobre os perfis de usuários do portal Sabin. Diferente de questionários puramente quantitativos, esta abordagem nos permite compreender o contexto demográfico, o nível de letramento digital, e, principalmente, as dores e expectativas reais durante a jornada de uso de serviços de saúde digitais <span class="hover-image">(BARBOSA et al., 2021)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/image-35.png" alt="Print"> </span>.
@@ -32,13 +38,20 @@ O roteiro intercala dois tipos fundamentais de perguntas para otimizar o tempo e
 
 ### Análise dos Resultados
 
+
 O entrevistado atua como profissional da área de saúde, possui nível superior (graduação) e encontra-se dentro da faixa etária estipulada para a pesquisa. Inserido em uma rotina de trabalho de alta demanda, o uso constante de sistemas laboratoriais — acessados majoritariamente através dos desktops da empresa — é essencial para o gerenciamento dos dados e suporte direto às suas consultas. Durante a entrevista, ele relatou que, de maneira geral, os portais desse nicho poderiam ser mais bem adaptados ao modelo mental e às necessidades dos profissionais de saúde, priorizando a eficiência operacional. Como forte oportunidade de melhoria para o sistema, o usuário levantou a ideia de que a plataforma não apenas exiba os dados brutos, mas já forneça uma pré-avaliação ou destaque visual das alterações nos exames de sangue, com o objetivo de agilizar a tomada de decisão e a precisão do diagnóstico clínico.
+> Link da gravação da entrevista: [Vídeo](https://youtu.be/l79ZLvNdzws)
+
+___
+
+## Referência Bibliográfica
+
+> BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
+
+___
 
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 1/05/2026 | Criação do documento |[Philipe Amancio](https://github.com/Phill-Chill)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
-
-## Referência bibliográfica
-
-> BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
+| 1.1 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Philipe-Chill) | [Maria Laura Regis ](https://github.com/Maria-Laura-Regis)/ [Hugo Freitas Silva](https://github.com/HugoFreitass) |

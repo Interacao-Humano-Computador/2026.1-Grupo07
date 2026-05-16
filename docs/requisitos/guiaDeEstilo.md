@@ -1,4 +1,12 @@
-# Introdução
+# Guia de estilo
+
+## Rastreabilidade
+|Artefato(s) | Autore(s)|
+| --- | --- |
+| Página de Guia de Estilo| Hugo e Philipe |
+
+
+## Introdução
 
 O guia de estilo servirá para comunicar as principais decisões de design entre os membros da equipe de design e também com a equipe de desenvolvimento, de modo que elas sejam efetivamente implementadas no produto final.<span class="hover-image"> BARBOSA et al. (2021) <sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/image-41.png" alt="Print"> </span>.
 
@@ -51,20 +59,20 @@ O site do Sabin adota um estilo de interação centrado na navegação por pági
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/ezlwZaEb9QSiTcKfxfsbeT/Guia-de-estilo-sabin?node-id=0-1&embed-host=share" allowfullscreen></iframe>
 
-### Localização e consulta de unidades
+#### Localização e consulta de unidades
 Na funcionalidade de localização e consulta de unidades, observam-se elementos de interação voltados à identificação visual das unidades, à busca por localização e à exibição de informações complementares para apoio à navegação do usuário. Esses elementos contribuem para a orientação espacial e para o acesso rápido às informações necessárias durante a interação
 #### Protótipo no Figma
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/eBJfjwhkyzDXePxLt2XvYF/Untitled?embed-host=share" allowfullscreen></iframe>
 
-### Compra de vacinas e exames
+#### Compra de vacinas e exames
 Na funcionalidade de compra de vacinas e exames, os elementos de interação foram agrupados de acordo com as ações de filtragem, seleção e compra de serviços. A interface apresenta recursos que permitem ao usuário filtrar categorias de serviço, visualizar itens disponíveis e realizar a ação de compra de forma direta
 
 #### Protótipo no Figma
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/5HcrKhgUrdhy6FgT5Qf54n/Untitled?node-id=0-1&embed-host=share" allowfullscreen></iframe>
 
-### Agendamento de vacina ou exame
+#### Agendamento de vacina ou exame
 
 Na funcionalidade de agendamento, o principal elemento de interação identificado corresponde à seleção do serviço desejado, seguida do redirecionamento do usuário para o formulário de preenchimento. Desse modo, a interface atua como ponto de entrada para o fluxo de agendamento, conectando a escolha inicial do serviço à etapa seguinte do processo
 
@@ -72,12 +80,12 @@ Na funcionalidade de agendamento, o principal elemento de interação identifica
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/ke8M4RfWtYYt7ewAJn0a3X/Untitled?node-id=0-1&embed-host=share" allowfullscreen></iframe>
 
-## Seleção de estilo
+### Seleção de estilo
 Nesta seção, analisa-se o estilo de interação adotado na interface com base nos elementos e fluxos implementados no sistema. A proposta não é sugerir uma nova solução, mas descrever as escolhas de design presentes no produto.
 
 A interface analisada adota um estilo baseado em menus, formulários, busca e cartões, com uso de botões como elementos de ação. A navegação ocorre por seleção e por interação visual direta. A disposição dos elementos varia entre as telas conforme o redirecionamento no fluxo do sistema.
 
-## Aceleradores
+### Aceleradores
 Não foram identificados aceleradores na interface analisada. As interações observadas são realizadas por meio dos elementos visuais da interface, sem indicação de atalhos de teclado ou comandos rápidos equivalentes.
 
 ## Elementos de ação
@@ -164,13 +172,18 @@ Embora o site mantenha elementos recorrentes como menu principal e identidade vi
 - hierarquia visual.
 
 Como consequência, a experiência do usuário pode variar dependendo da seção acessada. Isso sugere que o site ainda possui oportunidades de melhoria relacionadas à padronização de interface e consolidação de um guia de estilo mais rígido.
+___
 
+## Referência Bibliográfica
+
+> BARBOSA, S. D. J. et al. **Interação Humano-Computador e Experiência do Usuário**. 1. ed. Rio de Janeiro: Autopublicação, 2021.
+
+___
+## Histórico de Versões
 | Versão | Data | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 10/05/2026 | Criação do documento |[Philipe Amancio](https://github.com/Phill-Chill)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 | 1.1 | 11/05/2026 | Adição da seção de Vocabulário e padrões e do guia de estilo no figma | [Hugo Freitas Silva](https://github.com/HugoFreitass) | [Philipe Amancio](https://github.com/Phill-Chill) |
+| 1.2 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Philipe-Chill) | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 
-# Referência
-
- BARBOSA, S. D. J. et al. **Interação Humano-Computador e Experiência do Usuário**. 1. ed. Rio de Janeiro: Autopublicação, 2021.
 

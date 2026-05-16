@@ -210,12 +210,14 @@ Entrevista semiestruturada, com perguntas abertas e possibilidade de aprofundame
 
 - Oportunidades de melhoria:
 
+___
+## Referência bibliográfica
+
+> BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
+
+___
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 01/05/2026 | Criação do documento | [Hugo Freitas Silva](https://github.com/HugoFreitass) e [Philipe Amancio](https://github.com/Phill-Chill)| [Maria Laura Regis](https://github.com/Maria-Laura-Regis) |
 | 1.1 | 06/05/2026 | Adiciona Referências | [Hugo Freitas Silva](https://github.com/HugoFreitass) | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) |
-
-## Referência bibliográfica
-
-> BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.

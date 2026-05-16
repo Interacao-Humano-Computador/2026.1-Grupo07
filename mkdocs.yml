@@ -60,8 +60,8 @@ nav:
       - Cenário: requisitos/cenario.md
       - Características da Plataforma: requisitos/caracteristicasDaPlataforma.md
       - Princípios e Diretrizes Gerais:
-        - Princípios Gerais: principiosgerais/principios.md
-        - Metas de Usabilidade: principiosgerais/metasDeUsabilidade.md
+        - Princípios Gerais: requisitos/principios.md
+        - Metas de Usabilidade: requisitos/metasDeUsabilidade.md
       - Guia de Estilo: requisitos/guiaDeEstilo.md
   - Ferramentas: Ferramentas.md
   - Atas de reunião: 
@@ -71,7 +71,11 @@ nav:
           - Reunião 4: atasDeReuniao/reuniao4.md
           - Reunião 5: atasDeReuniao/reuniao5.md
           - Reunião 6: atasDeReuniao/reuniao6.md
-  - Verificações: verificacoes.md
+  - Verificações: 
+          - Entrega 01 - Grupo 08: verificacaoE1G8.md
+          - Entrega 02 - Grupo 01: verificacaoE2G1.md
+          - Entrega 03 - Grupo 01: verificacaoE3G1.md
+  - Gravações: gravacoes.md
 
 plugins:
   - search:

@@ -1,3 +1,12 @@
+## Rastreabilidade
+|Artefato(s) | Autore(s)|
+| --- | --- |
+| Página de sites avaliados | Philipe |
+| [Análise do site Beto Carrero World](#beto) | Philipe |
+| [Análise do site Receita federa](#receita) | Hugo |
+| [Análise do site Sabin](#sabin)| Hugo |
+| [Análise do site JUCIS-DF](#jucis)| Maria Laura|
+
 ## Introdução
 Uma avaliação de IHC (Interação Humano-Computador) é essencial para garantir a qualidade de um software, sendo útil para identificar problemas de interface e corrigi-los antes da entrega final. A avaliação de IHC parte das necessidades dos stakeholders e dos requisitos do projeto, ela atua na verificação e validação de uma interface, envolve aspectos técnicos e humanos, e deve ser abordada em três perspectivas: a de quem concebe a solução, de quem a utiliza e de quem a constrói. Por isso, é fundamental planejar uma avaliação que seja capaz de fornecer esta visão plurilateral e sociotécnica 
 
@@ -78,7 +87,7 @@ ___
 
 ## LISTA DE SITES AVALIADOS
 
-#### Beto Carrero World <a href = "https://www.betocarrero.com.br/?grvclid=c0479bdd300dcb0&grv_iai=908065&gad_source=1&gad_campaignid=23327651929">(link de acesso)</a>
+#### Beto Carrero World <a href = "https://www.betocarrero.com.br/?grvclid=c0479bdd300dcb0&grv_iai=908065&gad_source=1&gad_campaignid=23327651929">(link de acesso)</a> {#beto}
 
 ![alt text](../assets/image-7.png)
 
@@ -90,7 +99,7 @@ Durante a avaliação, foram identificadas falhas críticas na arquitetura de in
 
 ----
 
-#### Receita Federal do Brasil <a href = "https://servicos.receitafederal.gov.br/">(link de acesso)</a>
+#### Receita Federal do Brasil <a href = "https://servicos.receitafederal.gov.br/">(link de acesso)</a> {#receita}
 
 ![alt text](../assets/image-34.png)
 
@@ -100,7 +109,7 @@ A avaliação por inspeção revelou que, embora o sistema seja funcional, ele p
 
 [ [Analise Detalhada](ReceitaFederal.md) realizada por Hugo Freitas. ]
 
-#### Laboratório Sabin <a href="https://www.sabin.com.br/">(link de acesso)</a>
+#### Laboratório Sabin <a href="https://www.sabin.com.br/">(link de acesso)</a> {#sabin}
 
 ![alt text](../assets/logo-sabin.png)
 
@@ -111,7 +120,7 @@ A avaliação por inspeção revelou que, embora o sistema atenda ao seu propós
 [ [Análise Detalhada](sabin.md) realizada por Hugo. ]
 
 
-#### JUCIS DF <a href="http://jucis.df.gov.br/">(link de acesso)</a>
+#### JUCIS DF <a href="http://jucis.df.gov.br/">(link de acesso)</a> {#jucis}
 
 ![alt text](../assets/image-jucis.png)![alt text](image.png)
 
@@ -137,5 +146,6 @@ A avaliação por inspeção revelou que, embora o sistema cumpra seu propósito
 | 1.1 | 22/04/2026 | Adição do histórico de versão | [Ingrid Alves](https://github.com/alvesingrid) | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 | 1.2 | 24/04/2026 | Adequação ao feedback do professor | [Philipe Amancio](https://github.com/Phill-Chill) |  |
 | 1.3 | 01/05/2026 | Adição de avaliações | [Maria Laura](https://github.com/Maria-Laura-Regis) |  |
+| 1.4 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Philipe-Chill) | [Maria Laura Regis ](https://github.com/Maria-Laura-Regis)/ [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 
 

@@ -35,11 +35,11 @@
 | Elicitação: Entrevista | Planejamento, execução e documentação da entrevista com usuários. | 14/04/2026 - 15/04/2026 | Thaiza | 15/04/2026 - 16/04/2026 | Philipe |
 | Elicitação: Questionário | Criação e distribuição do questionário para o público-alvo. | 14/04/2026 - 15/04/2026 | Ingrid e Nathan | 15/04/2026 - 16/04/2026 | Thaiza |
 | Elicitação: Grupo de Foco | Organização, mediação e análise dos dados do grupo de foco. | 15/04/2026 - 16/04/2026 | Maria Laura | 16/04/2026 - 17/04/2026 | Hugo |
-| Definição de Personas | Elaboração de pelo menos uma persona detalhada por membro da equipe. | 16/04/2026 - 17/04/2026 | Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan | 17/04/2026 - 18/04/2026 | Revisão Cruzada |
-| Criação de Cenários | Cada integrante deverá criar no mínimo um cenário de interação. | 17/04/2026 - 18/04/2026 | Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan | 18/04/2026 - 19/04/2026 | Revisão Cruzada |
-| Análise de Tarefas | Especificação de tarefas utilizando no mínimo dois métodos (como HTA e GOMS) por todos os membros. | 18/04/2026 - 19/04/2026 | Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan | 19/04/2026 - 20/04/2026 | Revisão Cruzada |
+| Definição de Personas | Elaboração de pelo menos uma persona detalhada por membro da equipe. | 16/04/2026 - 17/04/2026 | Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan | 17/04/2026 - 18/04/2026 | Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan|
+| Criação de Cenários | Cada integrante deverá criar no mínimo um cenário de interação. | 17/04/2026 - 18/04/2026 | Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan | 18/04/2026 - 19/04/2026 | Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan |
+| Análise de Tarefas | Especificação de tarefas utilizando no mínimo dois métodos (como HTA e GOMS) por todos os membros. | 18/04/2026 - 19/04/2026 | Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan | 19/04/2026 - 20/04/2026 | Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan |
 | Montagem do GitPages | Organização e publicação da documentação no repositório. | 20/04/2026 - 20/04/2026 | Maria Laura e Philipe | 20/04/2026 - 20/04/2026 |Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan |
-| Replanejamento | Replanejar o projeto com base nos feedbacks recebidos do professor e monitores. | 4/05/2026 - 10/05/2026 | Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan | - | Revisão Cruzada |
+| Replanejamento | Replanejar o projeto com base nos feedbacks recebidos do professor e monitores. | 4/05/2026 - 10/05/2026 | Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan | - | Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan |
 
 ### Cronograma de Reuniões e Gravações
 
@@ -215,4 +215,4 @@
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 11/04/2026 | Criação do documento  |[Hugo Freitas Silva](https://github.com/HugoFreitass) | [Thaiza Weert ](https://github.com/ThaizaWeert) |
 | 1.1 | 22/04/2026 | Adição do historico de versão| [Ingrid Alves](https://github.com/alvesingrid) |[Hugo Freitas Silva](https://github.com/HugoFreitass) |
-| 1.2 | 30/04/2026 | Adição do cronograma de apresentações 2 á 8| [Maria Laura](https://github.com/alvesingrid) |[Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.2 | 30/04/2026 | Adição do cronograma de apresentações 2 á 8| [Maria Laura](https://github.com/Maria-Laura-Regis) |[Hugo Freitas Silva](https://github.com/HugoFreitass) |

@@ -19,7 +19,7 @@
 
 ### Cronograma de Atividades Realizado
 
-| Atividade | Descrição | Período de Desenvolvimento | Responsáveis | Período de Revisão | Revisores |
+| Atividade | Descrição | Data de conclusão | Responsáveis | Período de Revisão | Revisores |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Elicitação: Brainstorming | Condução da técnica de Brainstorming para o levantamento de necessidades. | 30/04/2026 | Maria Laura, Hugo e Philipe | 01/05/2026  | Maria Laura, Hugo, Philipe |
 | Aspectos Éticos | Produção do Termo de Consentimento Livre e Esclarecido (TCLE). | 29/04/2026 | Ingrid | 30/04/2026 | Hugo |
@@ -28,7 +28,7 @@
 | Definição de Personas | Elaboração de pelo menos uma persona detalhada por membro da equipe. | 30/04/2026 | Maria Laura, Philipe, Hugo, Nathan | 01/05/2026 | Maria Laura, Philipe, Hugo, Nathan |
 | Criação de Cenários | Cada integrante deverá criar no mínimo um cenário de interação. | 01/05/2026 | Maria Laura, Philipe, Hugo | 02/05/2026 | Maria Laura, Philipe, Hugo |
 | Análise de Tarefas | Especificação de tarefas utilizando no mínimo dois métodos (como HTA e GOMS) por todos os membros. | 01/05/2026 | Maria Laura, Philipe, Hugo | 01/05/2026 | Maria Laura, Philipe, Hugo |
-| Montagem do GitPages | Organização e publicação da documentação no repositório. | 26/04/2026 - 03/05/2026 | Maria Laura, Philipe, Hugo | 02/05/2026 - 03/05/2026 | Maria Laura, Philipe, Hugo |
+| Montagem do GitPages | Organização e publicação da documentação no repositório. | 03/05/2026 | Maria Laura, Philipe, Hugo | 02/05/2026 - 03/05/2026 | Maria Laura, Philipe, Hugo |
 | Replanejamento | Replanejar o projeto com base nos feedbacks recebidos do professor e monitores. | 4/05/2026 - 10/05/2026 | Maria Laura, Philipe, Hugo, Nathan, Thaiza, Ingrid | - | Maria Laura, Philipe, Hugo, Nathan, Thaiza, Ingrid |
 
 ### Cronograma de Reuniões e Gravações
@@ -42,10 +42,35 @@
 | Gravação da inspeção do Grupo +1 | Gravar a verificação dos artefatos da entrega 2 elaborados pelo grupo avaliado (no dia da entrega). | 04/05/2026 | Maria Laura, Philipe, Hugo, Nathan, Thaiza, Ingrid |
 
 
-## Apresentação da entrega 1: 12/04/2026
+## Entrega 3: Princípios Gerais, Metas e Guia de Estilo
+
+### Cronograma de Atividades
+
+| Atividade | Descrição | Data de conclusão | Responsáveis | Período de Revisão | Revisores |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Princípios Gerais de Projeto | Estabelecer os princípios de design aplicados ao projeto. | 10/05/2026 | Maria Laura | 11/05/2026| Ingrid |
+| Metas de Usabilidade | Definir os objetivos de usabilidade da plataforma. | 10/05/2026 | Thaiza e Nathan | 11/05/2026 | Hugo |
+| Características da Plataforma | Documentar as restrições e especificações do sistema escolhido. | 10/05/2026 | Hugo e Ingrid | 11/05/2026 | Ingrid |
+| Guia de Estilo | Elaborar o documento de padronização visual, tipografia e cores. |  10/05/2026 | Philipe e Hugo | 11/05/2026 | Thaiza |
+| Montagem do GitPages | Integração dos novos artefatos na página do GitHub. | 09/05/2026 - 10/05/2026 | Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan | 11/05/2026 | Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan |
+
+### Cronograma de Reuniões e Gravações
+
+| Evento | Descrição | Data / Período | Responsáveis |
+|:---:|:---:|:---:|:---:|
+| Reunião Semanal | Reunião de acompanhamento das tarefas da fase de análise de requisitos. | 05/05/2026 | Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan |
+| Reunião Semanal | Reunião de acompanhamento das tarefas e fechamento da documentação. | 07/05/2026 | Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan |
+| Reunião de Revisão e Gravação | Revisão geral dos documentos e gravação do seminário. | 11/05/2026 | Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan |
+| Vídeo da apresentação | Entrega do vídeo. | 11/05/2026 | Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan |
+| **Entrega 3** | **Data oficial da entrega da etapa 3 no Aprender3**. | **11/05/2026** | **Maria Laura, Hugo, Philipe, Thaiza, Ingrid, Nathan** |
+| Gravação da inspeção do Grupo +1 | Gravação da avaliação dos artefatos do grupo designado (no dia da entrega). | --/--/---- |  |
+
+
+
 
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 11/04/2026 | Criação do documento  |[Philipe Amancio](https://github.com/Phill-Chill) | [Vitor Evangelista](https://github.com/SemC0ndicao) |
 | 1.1 | 22/04/2026 | Adição do historico de versão| [Ingrid Alves](https://github.com/alvesingrid) |[Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.2 | 05/04/2026 | Adição do cornograma exacutado da entrega 03| [Philipe Amancio](https://github.com/Phill-Chill)|[Maria Laura](https://github.com/Maria-Laura-Regis) |

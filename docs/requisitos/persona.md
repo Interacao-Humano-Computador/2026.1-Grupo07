@@ -1,5 +1,16 @@
 # Elenco de Personas
 
+## Rastreabilidade
+|Artefato(s) | Autore(s)|
+| --- | --- |
+| Página de elenco de personas | Philipe |
+| [Persona: Roberto](#roberto) | Philipe |
+| [Persona: Márcia](#marcia)  | Maria Laura |
+| [Persona: Ayla](#ayla)| Nathan |
+| [Persona: Mariana](#mariana) | Hugo |
+| [Persona: Camila](#camila)| Ingrid |
+| [Persona: Agnes](#agnes)| Thaiza |
+
 ## Introdução
 
 Uma **persona** é um personagem fictício e um arquétipo hipotético que representa um grupo de usuários reais, criada com o objetivo de descrever um usuário típico do sistema. Sua principal função é materializar o público-alvo durante as discussões de design, garantindo que toda a equipe técnica e de negócios mantenha o foco no mesmo alvo, evitando abstrações. Essas representações são construídas e definidas fundamentalmente por seus objetivos, que são lapidados por meio de refinamentos sucessivos durante a investigação do domínio do usuário <span class="hover-image">(BARBOSA et al., 2021).<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/image-26.png" alt="Print"> </span>.
@@ -12,7 +23,7 @@ Na técnica de eleco de personas, é essencial que os integrantes da equipe de d
 
 ## Persona 1: 
 
-> ### Roberto (Médico Clínico Geral)
+> ### Roberto (Médico Clínico Geral) {#roberto}
 > Elaborada por: Philipe Amâncio
 
 | Categoria | Detalhes do Perfil |
@@ -35,7 +46,7 @@ Na técnica de eleco de personas, é essencial que os integrantes da equipe de d
 
 ## Persona 2: 
 
-> ### Márcia (Mãe e Gestora da Saúde Familiar)
+> ### Márcia (Mãe e Gestora da Saúde Familiar) {#marcia}
 > Elaborada por: Maria Laura
 
 | Categoria | Detalhes do Perfil |
@@ -60,7 +71,7 @@ Na técnica de eleco de personas, é essencial que os integrantes da equipe de d
 
 ## Persona 3: 
 
-> ### Ayla (Estudante de direito e estágiaria)
+> ### Ayla (Estudante de direito e estágiaria) {#ayla}
 > Elaborada por: Nathan Pontes
 
 | Categoria | Detalhes do Perfil |
@@ -83,7 +94,7 @@ Na técnica de eleco de personas, é essencial que os integrantes da equipe de d
 
 ## Persona 4:
 
-> ### Mariana Alves Souza (Paciente Particular / Analista)
+> ### Mariana Alves Souza (Paciente Particular / Analista) {#mariana}
 > Elaborada por: Hugo Freitas
 
 | Categoria | Detalhes do Perfil |
@@ -104,9 +115,9 @@ Na técnica de eleco de personas, é essencial que os integrantes da equipe de d
 | **Citação Representativa** | *"Quero resolver tudo rápido, sem precisar ficar procurando informação."* |
 
 
-# Persona 5:
+## Persona 5:
 
-> ### Camila Fernandes (Paciente Frequente / Gestante)
+> ### Camila Fernandes (Paciente Frequente / Gestante) {#camila}
 > Elaborada por: Ingrid Alves
 
 | Categoria | Detalhes do Perfil |
@@ -129,7 +140,7 @@ Na técnica de eleco de personas, é essencial que os integrantes da equipe de d
 
 ## Persona 6: 
 
-> ### Agnes (Estudante e Neta de Pacientes Frenquentes)
+> ### Agnes (Estudante e Neta de Pacientes Frenquentes) {#agnes}
 > Elaborada por: Thaiza Romualdo 
 
 | Categoria | Detalhes do Perfil |
@@ -149,7 +160,13 @@ Na técnica de eleco de personas, é essencial que os integrantes da equipe de d
 | **Domínio e Vocabulário** | **Domínio do Tema:** Simples (Sabe o básico sobre saúde e exames). <br> **Idiomas:** Português nativo. <br> **Jargões:** Termos básicos de saúde. |
 | **Citação Representativa** | *"Os resultados dos meus exames ainda não estar disponivel, mesmo estando na data e hora prevista."* |
 
+___
 
+## Referência Bibliográfica
+
+> BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
+
+___
 
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor | Revisor |
@@ -160,7 +177,5 @@ Na técnica de eleco de personas, é essencial que os integrantes da equipe de d
 | 1.3 | 04/05/2026 | Adição da persona "Camila" |[Ingrid Alves](https://github.com/alvesingrid)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 | 1.4 | 04/05/2026 | Adição da persona "Agnes" |[Thaiza Romualdo da Silva](https://github.com/ThaizaWeert)| [Philipe Amancio](https://github.com/Phill-Chill) |
 | 1.5 | 06/05/2026 | Adição dos autores de cada persona e modificações na introdução | [Hugo Freitas Silva](https://github.com/HugoFreitass) | [Philipe Amancio](https://github.com/Phill-Chill) |
+| 1.6 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Phill-Chill)| [Maria Laura Regis](https://github.com/Maria-Laura-Regis)| 
 
-## Referência bibliográfica
-
-> BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
