@@ -45,12 +45,6 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/ThaizaWeert">
-        <img src="https://avatars.githubusercontent.com/u/101186343?v=4" width="100px;" alt="Thaiza"/><br>
-        <sub><b>Thaiza Romualdo</b></sub>
-      </a><br>
-    </td>
-    <td align="center">
       <a href="https://github.com/nathanpromao">
         <img src="https://avatars.githubusercontent.com/u/57817030?v=4" width="100px;" alt="Nathan"/><br>
         <sub><b>Nathan Promtao</b></sub>
