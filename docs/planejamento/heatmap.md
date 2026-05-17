@@ -15,7 +15,7 @@ De forma geral, o melhor intervalo para agendamento de atividades em grupo está
 ![alt text](../assets/image-11.png)
 
 ## Histórico de Versão
-| Versão | Data | Descrição | Autor | Revisor |
-| :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 11/04/2026 | Criação do documento  |[Ingrid Alves](https://github.com/alvesingrid) | [Thaiza Weert ](https://github.com/ThaizaWeert) |
-| 1.1 | 22/04/2026 | Adição do historico de versão| [Ingrid Alves](https://github.com/alvesingrid) |[Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
+| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
+| 1.0 | 11/04/2026 | Criação do documento | [Ingrid Alves](https://github.com/alvesingrid) | 11/04/2026 | Revisão da estrutura inicial e do conteúdo base do heatmap de disponibilidade | [Thaiza Romualdo da Silva](https://github.com/ThaizaWeert) |
+| 1.1 | 22/04/2026 | Adição do historico de versão | [Ingrid Alves](https://github.com/alvesingrid) | 22/04/2026 | Checagem da tabela de versões e da ordem dos registros no heatmap de disponibilidade | [Hugo Freitas Silva](https://github.com/HugoFreitass) |

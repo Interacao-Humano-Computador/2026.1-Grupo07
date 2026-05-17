@@ -137,9 +137,9 @@ A escolha do Ciclo de Vida da Engenharia de Usabilidade de Mayhew (1999) justifi
 ___
 
 ## Histórico de Versão
-| Versão | Data | Descrição | Autor | Revisor |
-| :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 11/04/2026 | Criação do documento  |[Maria Laura Regis ](https://github.com/Maria-Laura-Regis) | [Ingrid Alves](https://github.com/alvesingrid) |
-| 1.1 | 22/04/2026 | Adição do historico de versão| [Ingrid Alves](https://github.com/alvesingrid) |[Hugo Freitas Silva](https://github.com/HugoFreitass) |
-| 1.2 | 11/04/2026 | Adequação ao feedback do professor  |[Maria Laura Regis ](https://github.com/Maria-Laura-Regis) / [Philipe Amancio](https://github.com/Phill-Chill)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
-| 1.3 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Philipe-Chill) | [Maria Laura Regis ](https://github.com/Maria-Laura-Regis) |
+| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
+| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
+| 1.0 | 11/04/2026 | Criação do documento | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | 11/04/2026 | Revisão da estrutura inicial e do conteúdo base do processo de design | [Ingrid Alves](https://github.com/alvesingrid) |
+| 1.1 | 22/04/2026 | Adição do historico de versão | [Ingrid Alves](https://github.com/alvesingrid) | 22/04/2026 | Checagem da tabela de versões e da ordem dos registros no processo de design | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.2 | 11/04/2026 | Adequação ao feedback do professor | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) / [Philipe Amancio](https://github.com/Phill-Chill) | 11/04/2026 | Conferência dos ajustes do processo de design conforme o feedback recebido | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.3 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Phill-Chill) | 15/05/2026 | Validação dos links e créditos de autoria no processo de design | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) |

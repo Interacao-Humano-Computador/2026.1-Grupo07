@@ -196,9 +196,9 @@ Conclui-se que o site atende seu propósito institucional e operacional, porém 
 
 ## Histórico de versões
 
-|    Data    | Versão |       Descrição       | Autores | Data Revisão |        Descrição Revisão        | Revisores |
-| :--------: | :----: | :-------------------: | :-----: | :----------: | :-----------------------------: | :-------: |
-| 28/04/2026 |   1.0  | Realização da análise |   Hugo  |  28/04/2026  | Revisão de conteúdo e estrutura |     -     |
+| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
+| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
+| 1.0 | 28/04/2026 | Realização da análise | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 28/04/2026 | Validação dos critérios, achados e conclusões da análise do site Sabin | - |
 
 ---
 

@@ -14,6 +14,6 @@ Este documento centraliza os links para as gravações das apresentações de ca
 
 ## Histórico de Versão
 
-| Versão | Data | Descrição | Autor | Revisor |
-| :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 15/05/2026 | Criação do documento de registro de apresentações | [Philipe Amancio](https://github.com/Phill-Chill)|  |
+| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
+| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
+| 1.0 | 15/05/2026 | Criação do documento de registro de apresentações | [Philipe Amancio](https://github.com/Phill-Chill) | [Hugo Freitas Silva](https://github.com/HugoFreitass) | Revisão da estrutura inicial e do conteúdo base do registro de gravações | - |

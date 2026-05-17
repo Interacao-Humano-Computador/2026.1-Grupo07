@@ -190,11 +190,11 @@ Como melhorias, recomenda-se reorganizar a arquitetura da informação, simplifi
 
 Conclui-se que o portal cumpre sua função institucional, mas ajustes de usabilidade podem melhorar significativamente a eficiência, acessibilidade e experiência geral dos usuários.
 
-## Histórioco de versões
+## Histórico de Versão
 
-| Data | Versão | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores | 
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|19/04/2026| 1.0 | Realização da análise | Hugo | 19/04/2026 | Revisão de conteúdo e estrutura | Philipe |
+| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
+| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
+| 1.0 | 19/04/2026 | Realização da análise | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 19/04/2026 | Validação dos critérios, achados e conclusões da análise do site Receita Federal | [Philipe Amancio](https://github.com/Phill-Chill) |
 
 
 ## Referências

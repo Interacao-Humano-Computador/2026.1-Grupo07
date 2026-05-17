@@ -38,7 +38,7 @@
 ---
 
 ## Histórico de Versão
-| Versão | Data | Descrição | Autor | Revisor |
-| :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 11/04/2026 | Criação do documento  |[Vitor Evangelista  ](https://github.com/SemC0ndicao) | [Ingrid Alves](https://github.com/alvesingrid) |
-| 1.1 | 22/04/2026 | Adição do historico de versão| [Ingrid Alves](https://github.com/alvesingrid) |[Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
+| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
+| 1.0 | 11/04/2026 | Criação do documento | [Vitor Evangelista](https://github.com/SemC0ndicao) | 11/04/2026 | Revisão da estrutura inicial e do conteúdo base da verificação da entrega 1 do grupo 8 | [Ingrid Alves](https://github.com/alvesingrid) |
+| 1.1 | 22/04/2026 | Adição do historico de versão | [Ingrid Alves](https://github.com/alvesingrid) | 22/04/2026 | Checagem da tabela de versões e da ordem dos registros na verificação da entrega 1 do grupo 8 | [Hugo Freitas Silva](https://github.com/HugoFreitass) |

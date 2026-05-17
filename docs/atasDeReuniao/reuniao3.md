@@ -81,11 +81,11 @@ ___
 
 * BRASIL. Ministério da Ciência, Tecnologia e Inovações. **Modelo de Ata de Reunião**. Brasília: MCTI, [202-?]. Disponível em: [Modelo Ata](https://ps.mctic.gov.br/MCTI-PS/guidances/examples/Ata_Reuniao_35E290FE.html?nodeId=e8d6222d). Acesso em: 11 abr. 2026. [Acesso direto ao pdf](../ModeloAta.pdf).
 ## Histórico de Versão
-| Versão | Data | Descrição | Autor | Revisor |
-| :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 11/04/2026 | Criação do documento  |[Ingrid Alves](https://github.com/alvesingrid) | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) |
-| 1.1 | 22/04/2026 | Adição do historico de versão| [Ingrid Alves](https://github.com/alvesingrid) |[Hugo Freitas Silva](https://github.com/HugoFreitass) |
-| 1.2 | 26/04/2026 | Adequação ao feedback do professor | [Philipe Amancio](https://github.com/Phill-Chill) |  |
+| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
+| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
+| 1.0 | 11/04/2026 | Criação do documento | [Ingrid Alves](https://github.com/alvesingrid) | 11/04/2026 | Revisão da estrutura inicial e do conteúdo base da ata da reunião 3 | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) |
+| 1.1 | 22/04/2026 | Adição do historico de versão | [Ingrid Alves](https://github.com/alvesingrid) | 22/04/2026 | Checagem da tabela de versões e da ordem dos registros na ata da reunião 3 | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.2 | 26/04/2026 | Adequação ao feedback do professor | [Philipe Amancio](https://github.com/Phill-Chill) | - | Conferência dos ajustes da ata da reunião 3 conforme o feedback recebido | - |
 
 
 [^1]: Estrutura adaptada do padrão de Atas do MCTI.

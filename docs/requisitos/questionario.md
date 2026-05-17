@@ -121,7 +121,7 @@ ___
 ___
 
 ## Histórico de Versão
-| Versão | Data | Descrição | Autor | Revisor |
-| :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 1/05/2026 | Criação do documento |[Philipe Amancio](https://github.com/Phill-Chill)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
-| 1.1 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos  | [Philipe Amancio](https://github.com/Phill-Chill)| [Ingrid Alves](https://github.com/alvesingrid)|
+| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
+| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
+| 1.0 | 1/05/2026 | Criação do documento | [Philipe Amancio](https://github.com/Phill-Chill) | 1/05/2026 | Revisão da estrutura inicial e do conteúdo base do questionário | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.1 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Phill-Chill) | 15/05/2026 | Validação dos links e créditos de autoria no questionário | [Ingrid Alves](https://github.com/alvesingrid) |

@@ -575,10 +575,10 @@ A HTA permite compreender o processo de agendamento como um fluxo orientado a ob
 > BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
 ___
 ## Histórico de Versão
-| Versão | Data | Descrição | Autor | Revisor |
-| :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 1/05/2026 | Criação do documento |[Maria Laura](https://github.com/Maria-Laura-Regis)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
-| 1.1 | 4/05/2026 | Ajustes no documento |[Ingrid Alves](https://github.com/alvesingrid)|  |
-| 1.2 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos  | [Philipe Amancio](https://github.com/Phill-Chill)| [Maria Laura Regis](https://github.com/Maria-Laura-Regis) / [Hugo Freitas Silva](https://github.com/HugoFreitass)|
+| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
+| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
+| 1.0 | 1/05/2026 | Criação do documento | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | 1/05/2026 | Revisão da estrutura inicial e do conteúdo base da análise de tarefa | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.1 | 4/05/2026 | Ajustes no documento | [Ingrid Alves](https://github.com/alvesingrid) | - | Conferência dos ajustes pontuais realizados na análise de tarefa | - |
+| 1.2 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Phill-Chill) | 15/05/2026 | Validação dos links e créditos de autoria na análise de tarefa | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) / [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 
 ___

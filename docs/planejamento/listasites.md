@@ -140,12 +140,12 @@ A avaliação por inspeção revelou que, embora o sistema cumpra seu propósito
 
 ## Histórico de Versão
 
-| Versão | Data | Descrição | Autor | Revisor |
-| :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 11/04/2026 | Criação do documento | [Vitor Evangelista](https://github.com/SemC0ndicao) | [Ingrid Alves](https://github.com/alvesingrid) |
-| 1.1 | 22/04/2026 | Adição do histórico de versão | [Ingrid Alves](https://github.com/alvesingrid) | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
-| 1.2 | 24/04/2026 | Adequação ao feedback do professor | [Philipe Amancio](https://github.com/Phill-Chill) |  |
-| 1.3 | 01/05/2026 | Adição de avaliações | [Maria Laura](https://github.com/Maria-Laura-Regis) |  |
-| 1.4 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Philipe-Chill) | [Maria Laura Regis ](https://github.com/Maria-Laura-Regis)/ [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
+| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
+| 1.0 | 11/04/2026 | Criação do documento | [Vitor Evangelista](https://github.com/SemC0ndicao) | 11/04/2026 | Revisão da estrutura inicial e do conteúdo base da lista de sites avaliados | [Ingrid Alves](https://github.com/alvesingrid) |
+| 1.1 | 22/04/2026 | Adição do histórico de versão | [Ingrid Alves](https://github.com/alvesingrid) | 22/04/2026 | Checagem da tabela de versões e da ordem dos registros na lista de sites avaliados | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.2 | 24/04/2026 | Adequação ao feedback do professor | [Philipe Amancio](https://github.com/Phill-Chill) | 24/04/2026 | Conferência dos ajustes da lista de sites avaliados conforme o feedback recebido | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.3 | 01/05/2026 | Adição de avaliações | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | 01/05/2026 | Validação das avaliações incorporadas à lista de sites avaliados | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.4 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Phill-Chill) | 15/05/2026 | Validação dos links e créditos de autoria na lista de sites avaliados | [Maria Laura Regis](https://github.com/Maria-Laura-Regis)/ [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 
 

@@ -52,7 +52,7 @@ ____
 
 ## Histórico de Versões
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| :---: | :---: | :--- | :--- | :--- |
-| 1.0 | 11/05/2026 | Criação do documento de características da plataforma | [Ingrid Alves](https://github.com/alvesingrid) | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
-| 1.1 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Philipe-Chill) | [Ingrid Alves](https://github.com/alvesingrid) |
+| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
+| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
+| 1.0 | 11/05/2026 | Criação do documento de características da plataforma | [Ingrid Alves](https://github.com/alvesingrid) | 11/05/2026 | Revisão da estrutura inicial e do conteúdo base das características da plataforma | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.1 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Phill-Chill) | 15/05/2026 | Validação dos links e créditos de autoria nas características da plataforma | [Ingrid Alves](https://github.com/alvesingrid) |

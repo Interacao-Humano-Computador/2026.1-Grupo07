@@ -161,12 +161,12 @@ Como melhorias, recomenda-se padronizar menus, reorganizar categorias, oferecer 
 Conclui-se que o site cumpre seu papel comercial, mas ajustes de usabilidade podem melhorar significativamente a experiência do usuário e facilitar a conversão de vendas.
 
 
-## Histórioco de versões
+## Histórico de Versão
 
-| Data | Versão | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores | 
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|18/04/2026| 1.0 | Realização da análise | Philipe | 19/04/2026 | Revisão de conteúdo e estrutura | Hugo |
-|19/04/2026| 1.1 | Consolidação e relato dos resultados + adicionar o histórico de versões | Hugo | - | - | - |
+| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
+| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
+| 1.0 | 18/04/2026 | Realização da análise | [Philipe Amancio](https://github.com/Phill-Chill) | 19/04/2026 | Validação dos critérios, achados e conclusões da análise do site Beto Carrero | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.1 | 19/04/2026 | Consolidação e relato dos resultados + adicionar o histórico de versões | [Hugo Freitas Silva](https://github.com/HugoFreitass) | - | Checagem da tabela de versões e da ordem dos registros na análise do site Beto Carrero | - |
 
 ## Referências
 

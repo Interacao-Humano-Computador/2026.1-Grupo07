@@ -100,6 +100,6 @@ ___
 ____
 
 ## Histórico de Versão
-| Versão | Data | Descrição | Autor | Revisor |
-| :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 1/05/2026 | Criação do documento e abordagens das ferramentas selecionadas |[Philipe Amancio](https://github.com/Phill-Chill)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
+| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
+| 1.0 | 1/05/2026 | Criação do documento e abordagens das ferramentas selecionadas | [Philipe Amancio](https://github.com/Phill-Chill) | 1/05/2026 | Revisão da estrutura inicial e do conteúdo base da metodologia para definição do perfil | [Hugo Freitas Silva](https://github.com/HugoFreitass) |

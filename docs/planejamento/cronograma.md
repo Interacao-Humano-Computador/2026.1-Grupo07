@@ -211,8 +211,9 @@
 | **Entrega Final** | **Data oficial da entrega do Projeto Final no Aprender3**. | **01/07/2026** | **Maria Laura, Hugo, Philipe, Ingrid, Nathan** |
 
 ## Histórico de Versão
-| Versão | Data | Descrição | Autor | Revisor |
-| :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 11/04/2026 | Criação do documento  |[Hugo Freitas Silva](https://github.com/HugoFreitass) | [Thaiza Weert ](https://github.com/ThaizaWeert) |
-| 1.1 | 22/04/2026 | Adição do historico de versão| [Ingrid Alves](https://github.com/alvesingrid) |[Hugo Freitas Silva](https://github.com/HugoFreitass) |
-| 1.2 | 30/04/2026 | Adição do cronograma de apresentações 2 á 8| [Maria Laura](https://github.com/Maria-Laura-Regis) |[Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
+| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
+| 1.0 | 11/04/2026 | Criação do documento | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 11/04/2026 | Revisão da estrutura inicial e do conteúdo base do cronograma planejado | [Thaiza Romualdo da Silva](https://github.com/ThaizaWeert) |
+| 1.1 | 22/04/2026 | Adição do historico de versão | [Ingrid Alves](https://github.com/alvesingrid) | 22/04/2026 | Checagem da tabela de versões e da ordem dos registros no cronograma planejado | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.2 | 30/04/2026 | Adição do cronograma de apresentações 2 á 8 | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | 30/04/2026 | Checagem das atividades, datas e entregas registradas no cronograma planejado | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.3 | 16/05/2026 | Redistribuição de tarefas de | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 16/05/2026 | Revisão complementar das apresentações 2 a 8 registradas no cronograma planejado | [Philipe Amancio](https://github.com/Phill-Chill)|

@@ -118,10 +118,10 @@ apresentação.
 
 
 ## Histórico de Versão
-| Versão | Data | Descrição | Autor | Revisor |
-| :--- | :--- | :--- | :--- | :--- |
-| 1.0 |  | Criação do documento  ||  |
-| 1.x | 26/04/2026 | Adequação ao feedback do professor | [Philipe Amancio](https://github.com/Phill-Chill) |  |
+| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
+| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
+| 1.0 | - | Criação do documento | - | - | Revisão da estrutura inicial e do conteúdo base da ata da reunião 2 | - |
+| 1.x | 26/04/2026 | Adequação ao feedback do professor | [Philipe Amancio](https://github.com/Phill-Chill) | - | Conferência dos ajustes da ata da reunião 2 conforme o feedback recebido | - |
 
 
 

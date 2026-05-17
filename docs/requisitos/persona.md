@@ -169,13 +169,13 @@ ___
 ___
 
 ## Histórico de Versão
-| Versão | Data | Descrição | Autor | Revisor |
-| :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 01/05/2026 | Criação do documento e adição da persona "Roberto" | [Philipe Amancio](https://github.com/Phill-Chill)| [Maria Laura Regis](https://github.com/Maria-Laura-Regis)| 
-| 1.1 | 01/05/2026 | Adição da persona "Marcia" e "Mariana" |[Maria Laura Regis](https://github.com/Maria-Laura-Regis)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
-| 1.2 | 02/05/2026 | Adição da persona "Ayla |[Nathan Pontes Romão](https://github.com/nathanpromao)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
-| 1.3 | 04/05/2026 | Adição da persona "Camila" |[Ingrid Alves](https://github.com/alvesingrid)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
-| 1.4 | 04/05/2026 | Adição da persona "Agnes" |[Thaiza Romualdo da Silva](https://github.com/ThaizaWeert)| [Philipe Amancio](https://github.com/Phill-Chill) |
-| 1.5 | 06/05/2026 | Adição dos autores de cada persona e modificações na introdução | [Hugo Freitas Silva](https://github.com/HugoFreitass) | [Philipe Amancio](https://github.com/Phill-Chill) |
-| 1.6 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Phill-Chill)| [Maria Laura Regis](https://github.com/Maria-Laura-Regis)| 
+| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
+| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
+| 1.0 | 01/05/2026 | Criação do documento e adição da persona "Roberto" | [Philipe Amancio](https://github.com/Phill-Chill) | 01/05/2026 | Conferência da estrutura da persona Roberto e dos campos iniciais do elenco | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) |
+| 1.1 | 01/05/2026 | Adição da persona "Marcia" e "Mariana" | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | 01/05/2026 | Validação da inclusão das personas Marcia e Mariana no conjunto existente | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.2 | 02/05/2026 | Adição da persona "Ayla" | [Nathan Pontes Romão](https://github.com/nathanpromao) | 02/05/2026 | Revisão da nova persona Ayla e da consistência com o modelo das demais personas | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.3 | 04/05/2026 | Adição da persona "Camila" | [Ingrid Alves](https://github.com/alvesingrid) | 04/05/2026 | Checagem da persona Camila e da padronização com o elenco anterior | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.4 | 04/05/2026 | Adição da persona "Agnes" | [Thaiza Romualdo da Silva](https://github.com/ThaizaWeert) | 04/05/2026 | Verificação da persona Agnes e da coerência dos atributos documentados | [Philipe Amancio](https://github.com/Phill-Chill) |
+| 1.5 | 06/05/2026 | Adição dos autores de cada persona e modificações na introdução | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 06/05/2026 | Conferência dos créditos por persona e dos ajustes realizados na introdução | [Philipe Amancio](https://github.com/Phill-Chill) |
+| 1.6 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Phill-Chill) | 15/05/2026 | Validação da rastreabilidade dos autores vinculada às personas | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) |
 

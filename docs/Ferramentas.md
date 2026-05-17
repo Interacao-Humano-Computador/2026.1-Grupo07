@@ -56,11 +56,11 @@ Os recursos descritos a seguir, apresentados na Tabela I, foram selecionados pel
 > **Fonte:** elaboração própria
 
 ## Histórico de Versão
-| Versão | Data | Descrição | Autor | Revisor |
-| :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 11/04/2026 | Criação do documento  |[Philipe Amancio](https://github.com/Phill-Chill) | [Ingrid Alves](https://github.com/alvesingrid) |
-| 1.1 | 22/04/2026 | Adição do historico de versão | [Ingrid Alves](https://github.com/alvesingrid) |[Hugo Freitas Silva](https://github.com/HugoFreitass) |
-| 1.2 | 24/04/2026 | Adequação da página ao feedback do professor |[Philipe Amancio](https://github.com/Phill-Chill) |  |
-| 1.3 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Philipe-Chill) | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
+| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
+| 1.0 | 11/04/2026 | Criação do documento | [Philipe Amancio](https://github.com/Phill-Chill) | 11/04/2026 | Revisão da estrutura inicial e do conteúdo base do documento de ferramentas | [Ingrid Alves](https://github.com/alvesingrid) |
+| 1.1 | 22/04/2026 | Adição do historico de versão | [Ingrid Alves](https://github.com/alvesingrid) | 22/04/2026 | Checagem da tabela de versões e da ordem dos registros no documento de ferramentas | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.2 | 24/04/2026 | Adequação da página ao feedback do professor | [Philipe Amancio](https://github.com/Phill-Chill) | - | Conferência dos ajustes do documento de ferramentas conforme o feedback recebido | - |
+| 1.3 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Phill-Chill) | 15/05/2026 | Validação dos links e créditos de autoria no documento de ferramentas | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 
 

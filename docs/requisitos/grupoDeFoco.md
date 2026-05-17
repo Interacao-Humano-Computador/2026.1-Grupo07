@@ -37,9 +37,9 @@ A discussão coletiva deve ser guiada por tópicos concretos, tais como:
 5.  **Reações a propostas:** Opiniões e atitudes sobre ideias de novos produtos ou funcionalidades desejadas para o sistema.
 
 ## Histórico de Versão
-| Versão | Data | Descrição | Autor | Revisor |
-| :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 1/05/2026 | Criação do documento |[Philipe Amancio](https://github.com/Phill-Chill)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
+| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
+| 1.0 | 1/05/2026 | Criação do documento | [Philipe Amancio](https://github.com/Phill-Chill) | 1/05/2026 | Revisão da estrutura inicial e do conteúdo base do grupo de foco | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 
 
 ## Referência bibliográfica

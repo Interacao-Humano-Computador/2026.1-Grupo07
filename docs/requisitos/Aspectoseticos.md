@@ -72,7 +72,7 @@ ___
 >BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
 ___
 ## Histórico de Versão
-| Versão | Data | Descrição | Autor | Revisor |
-| :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 3/05/2026 | Criação do documento e abordagens das ferramentas selecionadas |[Nathan Pontes Romão](https://github.com/nathanpromao)/[Ingrid Alves](https://github.com/alvesingrid)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
-| 1.1 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Philipe-Chill) | [Ingrid Alves](https://github.com/alvesingrid)|
+| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
+| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
+| 1.0 | 3/05/2026 | Criação do documento e abordagens das ferramentas selecionadas | [Nathan Pontes Romão](https://github.com/nathanpromao) / [Ingrid Alves](https://github.com/alvesingrid) | 3/05/2026 | Revisão da estrutura inicial e do conteúdo base dos aspectos éticos | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.1 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Phill-Chill) | 15/05/2026 | Validação dos links e créditos de autoria nos aspectos éticos | [Ingrid Alves](https://github.com/alvesingrid) |

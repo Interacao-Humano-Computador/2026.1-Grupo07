@@ -113,13 +113,13 @@ ____
 
 ## Histórico de Versão
 
-| Versão | Data | Descrição | Autor | Revisor |
-| :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 01/05/2026 | Criação do documento e adição do cenário 01 |[Philipe Amancio](https://github.com/Phill-Chill)| [Maria Laura Regis](https://github.com/Maria-Laura-Regis) |
-| 1.1 | 01/05/2026 | Adição do cenário 2 |[Maria Laura Regis](https://github.com/Maria-Laura-Regis)| [Hugo Freitas Silva](https://github.com/HugoFreitass)|
-| 1.2 | 01/05/2026 | Adição do cenário 3 |[Maria Laura Regis](https://github.com/Maria-Laura-Regis)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
-| 1.3 | 04/05/2026 | Adição do cenário 4 |[Ingrid Alves](https://github.com/alvesingrid)|  |
-| 1.4 | 04/05/2026 | Adição do cenário 5 |[Thaiza R da Silva](https://github.com/thaizaweert)|  |
-| 1.5 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Philipe-Chill) | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
+| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
+| 1.0 | 01/05/2026 | Criação do documento e adição do cenário 01 | [Philipe Amancio](https://github.com/Phill-Chill) | 01/05/2026 | Revisão do cenário 01 e da estrutura inicial do documento de cenários | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) |
+| 1.1 | 01/05/2026 | Adição do cenário 2 | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | 01/05/2026 | Conferência da integração do cenário 2 ao conjunto de cenários já criado | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.2 | 01/05/2026 | Adição do cenário 3 | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | 01/05/2026 | Validação do cenário 3 e da continuidade com os cenários anteriores | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.3 | 04/05/2026 | Adição do cenário 4 | [Ingrid Alves](https://github.com/alvesingrid) | - | Checagem do cenário 4 e da padronização da descrição de uso | - |
+| 1.4 | 04/05/2026 | Adição do cenário 5 | [Thaiza Romualdo da Silva](https://github.com/ThaizaWeert) | - | Revisão do cenário 5 e da consistência com o elenco de situações mapeadas | - |
+| 1.5 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Phill-Chill) | 15/05/2026 | Conferência dos vínculos de autoria adicionados aos cenários | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 
 

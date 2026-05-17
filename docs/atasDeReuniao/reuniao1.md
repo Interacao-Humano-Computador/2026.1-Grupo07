@@ -95,11 +95,11 @@ Nenhuma pendência registrada.
 
 
 ## Histórico de Versão
-| Versão | Data | Descrição | Autor | Revisor |
-| :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 11/04/2026 | Criação do documento  |[Thaiza](https://github.com/ThaizaWeert) | [Ingrid Alves](https://github.com/alvesingrid) |
-| 1.1 | 22/04/2026 | Adição do historico de versão| [Ingrid Alves](https://github.com/alvesingrid) |[Hugo Freitas Silva](https://github.com/HugoFreitass) | 
-| 1.2 | 26/04/2026 | Adequação ao feedback do professor | [Philipe Amancio](https://github.com/Phill-Chill) |  |
+| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
+| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
+| 1.0 | 11/04/2026 | Criação do documento | [Thaiza Romualdo da Silva](https://github.com/ThaizaWeert) | 11/04/2026 | Revisão da estrutura inicial e do conteúdo base da ata da reunião 1 | [Ingrid Alves](https://github.com/alvesingrid) |
+| 1.1 | 22/04/2026 | Adição do historico de versão | [Ingrid Alves](https://github.com/alvesingrid) | 22/04/2026 | Checagem da tabela de versões e da ordem dos registros na ata da reunião 1 | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.2 | 26/04/2026 | Adequação ao feedback do professor | [Philipe Amancio](https://github.com/Phill-Chill) | - | Conferência dos ajustes da ata da reunião 1 conforme o feedback recebido | - |
 
 
 [^1]: Estrutura adaptada do padrão de Atas do MCTI.

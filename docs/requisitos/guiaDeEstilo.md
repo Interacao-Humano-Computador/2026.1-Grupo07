@@ -180,10 +180,10 @@ ___
 
 ___
 ## Histórico de Versões
-| Versão | Data | Descrição | Autor | Revisor |
-| :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 10/05/2026 | Criação do documento |[Philipe Amancio](https://github.com/Phill-Chill)| [Hugo Freitas Silva](https://github.com/HugoFreitass) |
-| 1.1 | 11/05/2026 | Adição da seção de Vocabulário e padrões e do guia de estilo no figma | [Hugo Freitas Silva](https://github.com/HugoFreitass) | [Philipe Amancio](https://github.com/Phill-Chill) |
-| 1.2 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Philipe-Chill) | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
+| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
+| 1.0 | 10/05/2026 | Criação do documento | [Philipe Amancio](https://github.com/Phill-Chill) | 10/05/2026 | Revisão da estrutura inicial e do conteúdo base do guia de estilo | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.1 | 11/05/2026 | Adição da seção de Vocabulário e padrões e do guia de estilo no figma | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 11/05/2026 | Validação da seção de vocabulário, padrões visuais e vínculo com o guia no Figma | [Philipe Amancio](https://github.com/Phill-Chill) |
+| 1.2 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Phill-Chill) | 15/05/2026 | Validação dos links e créditos de autoria no guia de estilo | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 
 

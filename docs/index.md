@@ -61,9 +61,9 @@ Também registramos nosso agradecimento às ferramentas de inteligência artific
 Por fim, agradecemos a todos que, direta ou indiretamente, contribuíram para a elaboração deste trabalho
 ## Histórico de versões
 
-| Versão | Data | Descrição | Autor | Revisor |
-| :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 11/04/2026| Criação da Git Page | [Hugo Freitas Silva](https://github.com/HugoFreitass) | [Ingrid Alves](https://github.com/alvesingrid) |
-| 1.1 | 12/04/2026 | Atualização de informações | [Ingrid Alves](https://github.com/alvesingrid) |[Hugo Freitas Silva](https://github.com/HugoFreitass) |
-| 1.2 | 22/04/2026 | Ajuste no design do pages | [Ingrid Alves](https://github.com/alvesingrid) |[Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
+| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
+| 1.0 | 11/04/2026 | Criação da Git Page | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 11/04/2026 | Revisão da estrutura inicial e do conteúdo base da página inicial do GitPages | [Ingrid Alves](https://github.com/alvesingrid) |
+| 1.1 | 12/04/2026 | Atualização de informações | [Ingrid Alves](https://github.com/alvesingrid) | 12/04/2026 | Verificação das informações atualizadas na página inicial do GitPages | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.2 | 22/04/2026 | Ajuste no design do pages | [Ingrid Alves](https://github.com/alvesingrid) | 22/04/2026 | Revisão visual dos ajustes aplicados ao GitPages | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 

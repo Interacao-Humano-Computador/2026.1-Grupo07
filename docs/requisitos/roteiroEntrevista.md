@@ -217,7 +217,7 @@ ___
 
 ___
 ## Histórico de Versão
-| Versão | Data | Descrição | Autor | Revisor |
-| :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 01/05/2026 | Criação do documento | [Hugo Freitas Silva](https://github.com/HugoFreitass) e [Philipe Amancio](https://github.com/Phill-Chill)| [Maria Laura Regis](https://github.com/Maria-Laura-Regis) |
-| 1.1 | 06/05/2026 | Adiciona Referências | [Hugo Freitas Silva](https://github.com/HugoFreitass) | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) |
+| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
+| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
+| 1.0 | 01/05/2026 | Criação do documento | [Hugo Freitas Silva](https://github.com/HugoFreitass) e [Philipe Amancio](https://github.com/Phill-Chill) | 01/05/2026 | Revisão da estrutura inicial e do conteúdo base do roteiro de entrevista | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) |
+| 1.1 | 06/05/2026 | Adiciona Referências | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 06/05/2026 | Conferência das referências e da formatação bibliográfica do roteiro de entrevista | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) |

@@ -69,8 +69,8 @@
 
 
 ## Histórico de Versão
-| Versão | Data | Descrição | Autor | Revisor |
-| :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 11/04/2026 | Criação do documento  |[Philipe Amancio](https://github.com/Phill-Chill) | [Vitor Evangelista](https://github.com/SemC0ndicao) |
-| 1.1 | 22/04/2026 | Adição do historico de versão| [Ingrid Alves](https://github.com/alvesingrid) |[Hugo Freitas Silva](https://github.com/HugoFreitass) |
-| 1.2 | 05/04/2026 | Adição do cornograma exacutado da entrega 03| [Philipe Amancio](https://github.com/Phill-Chill)|[Maria Laura](https://github.com/Maria-Laura-Regis) |
+| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
+| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
+| 1.0 | 11/04/2026 | Criação do documento | [Philipe Amancio](https://github.com/Phill-Chill) | 11/04/2026 | Revisão da estrutura inicial e do conteúdo base do cronograma executado | [Vitor Evangelista](https://github.com/SemC0ndicao) |
+| 1.1 | 22/04/2026 | Adição do historico de versão | [Ingrid Alves](https://github.com/alvesingrid) | 22/04/2026 | Checagem da tabela de versões e da ordem dos registros no cronograma executado | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.2 | 05/04/2026 | Adição do cornograma exacutado da entrega 03 | [Philipe Amancio](https://github.com/Phill-Chill) | 05/04/2026 | Conferência da atualização do cronograma executado da entrega 03 | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) |
