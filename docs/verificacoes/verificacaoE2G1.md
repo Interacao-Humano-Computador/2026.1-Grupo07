@@ -3,8 +3,9 @@
 ## Link da reunião de verificação: [Video](https://youtu.be/I-vq7Q_5CT4)
 
 **Fase:** Análise de Requisitos (Perfil do usuário, Aspectos Éticos de Pesquisas Envolvendo Pessoas e Análise de tarefas)
+
 | Nº | Categoria | Pergunta | Resposta | Observações | Autor do item |
-|----|-----------|----------|----------|-------------|-----------------------------|
+|----|-----------|----------|----------|-------------|---------------|
 | 1 | Entrega 2 | O GitHub Pages possui todos os 11 itens de Desenvolvimento do projeto? | Incompleto | Não tem cronograma executável, não tem os componentes do cronograma, atas encontram-se completas, possuem autores porém faltam revisores, referências da entrega 1 estão ok, falta introdução nas tecnicas de elicitação, não tem video de apresentação, não tem tabela de contribuição. | André Barros de Sales (Professor) |
 | 2 | Entrega 2 | Cada integrante da equipe elaborou ao menos 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência? | Sim | - | André Barros de Sales (Professor) |
 | 3 | Entrega 2 | O perfil do usuário é definido por mais de uma forma (técnica de elicitação e/ou ferramenta)? | Sim | - | André Barros de Sales (Professor) |

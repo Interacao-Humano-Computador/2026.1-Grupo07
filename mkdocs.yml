@@ -72,9 +72,9 @@ nav:
           - Reunião 5: atasDeReuniao/reuniao5.md
           - Reunião 6: atasDeReuniao/reuniao6.md
   - Verificações: 
-          - Entrega 01 - Grupo 08: verificacaoE1G8.md
-          - Entrega 02 - Grupo 01: verificacaoE2G1.md
-          - Entrega 03 - Grupo 01: verificacaoE3G1.md
+          - Entrega 01 - Grupo 08: verificacoes/verificacaoE1G8.md
+          - Entrega 02 - Grupo 01: verificacoes/verificacaoE2G1.md
+          - Entrega 03 - Grupo 01: verificacoes/verificacaoE3G1.md
   - Gravações: gravacoes.md
 
 plugins:
