@@ -28,13 +28,6 @@ Este repositório apresenta a aplicação prática de métodos e artefatos de En
     </a>
   </div>
   <div class="contributor-item">
-    <a href="https://github.com/ThaizaWeert">
-      <img src="https://avatars.githubusercontent.com/u/101186343?v=4" alt="Thaiza"/>
-      <br><sub><b>Thaiza Romualdo</b></sub>
-    </a>
-  </div>
-  
-  <div class="contributor-item">
     <a href="https://github.com/Maria-Laura-Regis">
       <img src="https://avatars.githubusercontent.com/u/186978721?v=4" alt="Maria Laura"/>
       <br><sub><b>Maria Laura</b></sub>
