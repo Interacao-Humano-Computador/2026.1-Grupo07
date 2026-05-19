@@ -46,3 +46,10 @@ Por fim, o documento de resultados deverá apresentar as recomendações de desi
 ## Referências Bibliográficas
 
 * **BARBOSA, S. D. J.; SILVA, B. S. (2011).** *Interação Humano-Computador*. Rio de Janeiro: Elsevier.
+
+---
+## Histórico de Versão
+| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
+| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
+| 1.0 | 18/05/2026 | Criação do documento | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | 1/05/2026 | Revisão da estrutura inicial e do conteúdo base | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+---

@@ -25,13 +25,19 @@ O uso de storyboards vai muito além da produção cinematográfica. De acordo c
 Nesta seção, apresentamos os storyboards desenvolvidos pela equipe para o Portal Sabin. Eles representam os fluxos de tarefas essenciais, conforme modelado na nossa Análise Hierárquica de Tarefas (HTA).
 
 ### 3.1. [Primeiro storyboard]
-*(Insira aqui uma breve descrição do que o storyboard abaixo representa)*
-
-![Storyboard Fluxo 1](caminho/para/seu-storyboard-fluxo1.png)
-
+>Elaborada por: Maria Laura Regis
+O Storyboard representa o fluxo do Ctt 1.1
+![Storyboard Fluxo 1](../../assets/story-maria.png)
 
 ---
 
 ## Referências Bibliográficas
 
 * **STORYBOARDTHAT.** *O que é um Storyboard?* Por Aaron Sherman. Disponível em: <https://www.storyboardthat.com/pt/articles/e/o-que-%C3%A9-um-storyboard>. Acesso em: 19 mai. 2026.
+
+---
+## Histórico de Versão
+| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
+| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
+| 1.0 | 18/05/2026 | Criação do documento | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | 1/05/2026 | Revisão da estrutura inicial e do conteúdo | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+---

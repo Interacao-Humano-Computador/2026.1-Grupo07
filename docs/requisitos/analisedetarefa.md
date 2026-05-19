@@ -139,29 +139,7 @@ Abaixo, a decomposição dessa interação utilizando os métodos de Árvores de
 
 ### 1.1 Árvores de Tarefas Concorrentes (ConcurTaskTrees - CTT)
 
-A notação CTT a seguir demonstra a decomposição hierárquica do cenário. O processo ilustra a interrupção (desativação `[>`) do fluxo principal automatizado devido à falha de suporte da interface, forçando a usuária a migrar para um fluxo alternativo de atendimento.
-
-**Legenda de Tarefas:** 
-☁️ Abstrata | 👤 Usuário | 🖥️ Sistema | 🖱️ Interativa
-**Legenda de Relações:** 
-`>>` (Ativação) | `[]>>` (Ativação com passagem de informação) | `[>` (Desativação)
-
-*   **0. Agendar exames com dúvida crítica** ☁️
-    *   **1. Tentar agendamento automatizado** ☁️ `[>` **2. Buscar atendimento humano (WhatsApp)** ☁️
-        *   **1.1.** Acessar funcionalidade de envio de pedido 🖱️ `>>`
-        *   **1.2.** Tirar fotos das guias médicas 🖱️ `[]>>`
-        *   **1.3.** Processar imagens e identificar exames 🖥️ `[]>>`
-        *   **1.4.** Exibir aviso genérico de preparo (12h de jejum) 🖥️ `>>`
-        *   **1.5.** Avaliar instruções e constatar conflito com medicação 👤 `>>`
-        *   **1.6.** Esclarecer dúvida de preparo ☁️
-            *   **1.6.1.** Clicar no botão "Dúvidas Frequentes" 🖱️ `>>`
-            *   **1.6.2.** Carregar e exibir manual em PDF 🖥️ `>>`
-            *   **1.6.3.** Tentar localizar termo "hipertensão" no documento 👤 `>>`
-            *   **1.6.4.** Constatar impossibilidade de busca e abandonar fluxo 🖱️
-    *   **2. Buscar atendimento humano (WhatsApp)** ☁️
-        *   **2.1.** Retornar à tela inicial do aplicativo/site 🖱️ `>>`
-        *   **2.2.** Clicar no ícone de atendimento via WhatsApp 🖱️ `>>`
-        *   **2.3.** Enviar fotos das guias e relatar dúvida ao atendente 🖱️
+![alt text](../assets/ctt-maria.png)
 
 
 ### 1.2 GOMS: Keystroke-Level Method (KLM)
