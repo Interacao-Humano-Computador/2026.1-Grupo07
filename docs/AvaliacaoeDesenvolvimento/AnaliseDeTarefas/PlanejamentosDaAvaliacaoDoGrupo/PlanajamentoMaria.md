@@ -30,9 +30,8 @@ Nesta etapa inicial, definem-se os elementos organizacionais, perfis e materiais
 A coleta será realizada de forma **presencial**, em ambiente reservado. Durante a sessão, o participante analisará os artefatos de forma sequencial enquanto responde a uma entrevista semiestruturada.
 
 ### Organização e Papéis da Equipe
-* **Avaliador/Condutor:** [Nome]
-* **Anotador:** [Nome]
-* **Cinegrafista:** [Nome]
+* **Avaliador/Condutor:** [Maria Laura]
+
 
 ### Roteiro de Entrevista
 
@@ -54,36 +53,16 @@ A coleta será realizada de forma **presencial**, em ambiente reservado. Durante
 
 ---
 
-## 3. Análise Quantitativa (GOMS/KLM)
 
-Abaixo, apresentamos a análise da tarefa de **Pré-agendamento**, validando a eficiência do fluxo.
 
-**Operadores:** M (1,20s), P (1,10s), K (0,20s), W(t) (espera do sistema).
-
-| Operação | Descrição | Tempo (s) |
-| :--- | :--- | :--- |
-| **Fluxo automatizado (falha)** | | |
-| M+P+K | Iniciar agendamento | 2,50 |
-| M+P+K | Capturar e enviar foto | 2,50 |
-| W(t) | Espera IA | 3,00 |
-| M+P+K | Abrir dúvidas (PDF) | 2,50 |
-| W(t) | Carregamento PDF | 2,00 |
-| M+P+K | Frustração/Fechar | 2,50 |
-| **Recuperação (WhatsApp)** | | |
-| M+P+K | Retorno/Início | 2,50 |
-| M+P+K | Abrir WhatsApp | 2,50 |
-| | **Tempo total** | **19,80** |
-
----
-
-## 4. Interpretação e Consolidação
+## 3. Interpretação e Consolidação
 
 * **Listagem de Problemas:** Compilar quebras de expectativa (ex: dificuldade com PDF não pesquisável, frustração com o fluxo automatizado).
 * **Refinamento dos Modelos:** Os diagramas CTT e o Storyboard serão ajustados iterativamente com base nos feedbacks coletados durante as entrevistas.
 
 ---
 
-## 5. Relato dos Resultados
+## 4. Relato dos Resultados
 
 Os achados serão estruturados em um relatório com:
 1. Objetivos da avaliação.
@@ -95,7 +74,7 @@ Os achados serão estruturados em um relatório com:
 ## Cronograma das Sessões
 | Responsável | Participante | Data | Local |
 | :--- | :--- | :--- | :--- |
-| [Nome] | [Nome] | DD/MM/AAAA | Presencial |
+| Maria Laura | A definir | 23/05/2026 | Presencial |
 
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor |
