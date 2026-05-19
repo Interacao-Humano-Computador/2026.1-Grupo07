@@ -4,7 +4,7 @@
 ## Rastreabilidade
 |Artefato(s) | Autore(s)|
 | --- | --- |
-| Página de Avaliação da Análise de Tarefas  | Maria LAura |
+| Página de Avaliação da Análise de Tarefas  | Maria Laura |
 
 Este documento estabelece o plano de avaliação para os artefatos de **Cenário**, **Storyboard**, **CTT (ConcurTaskTrees)** e **Análise GOMS (KLM)** associados à funcionalidade de **Pré-agendamento** do Portal Sabin. A metodologia segue a abordagem de investigação por meio de **Entrevistas**.
 
