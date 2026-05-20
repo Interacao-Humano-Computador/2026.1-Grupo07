@@ -1,3 +1,8 @@
+## Rastreabilidade
+|Artefato(s) | Autore(s)|
+| --- | --- |
+| Página de Planejamento da Avaliação do Storyboard | Hugo |
+
 # Introdução
 Este documento detalha o planejamento da nossa avaliação, estruturado para responder às seguintes questões fundamentais:
 
@@ -70,7 +75,7 @@ A entrevista será conduzida de forma semiestruturada, permitindo que os partici
 
 ## I - Identificar as Questões Práticas 
 
-Nesta etapa do framework DECIDE, são definidos os procedimentos organizacionais e os recursos necessários para a execução da avaliação <span class="hover-image">(BARBOSA; SILVA, 2021, p. 294)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/DECIDE-I.png"> </span>. Para esta etapa, os participantes serão selecionados com base nas características descritas no [Perfil de Usuário](../../docs/requisitos/perfilDeUsuario.md) elaboradas para o projeto.
+Nesta etapa do framework DECIDE, são definidos os procedimentos organizacionais e os recursos necessários para a execução da avaliação <span class="hover-image">(BARBOSA; SILVA, 2021, p. 294)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/DECIDE-I.png"> </span>. Para esta etapa, os participantes serão selecionados com base nas características descritas no [Perfil de Usuário](../../../requisitos/perfilDeUsuario.md) elaboradas para o projeto.
 
 As entrevistas serão realizadas na modalidade **presencial**. Serão utilizados os artefatos da Análise de Tarefas (impressos ou exibidos em um Notebook/Tablet), papel e caneta para anotações, além de equipamento de vídeo. Durante as sessões, a equipe poderá assumir as seguintes responsabilidades funcionais:
 
