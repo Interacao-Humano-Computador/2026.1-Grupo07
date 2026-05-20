@@ -44,20 +44,20 @@ Por fim, antes de iniciar as sessões oficiais, será conduzido um **Teste Pilot
 
 As entrevistas oficiais seguirão o cronograma abaixo:
 
-| Responsável pela Sessão | Participante | Tarefa | Data | Horário | Local de Realização |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| [Nome do Integrante] | [Nome do Usuário] | |DD/MM/AAAA | 00:00 - 00:00 |  |
-| [Nome do Integrante] | [Nome do Usuário] | |DD/MM/AAAA | 00:00 - 00:00 |  |
+| Responsável pela Sessão | Participante | Data | Horário | Local de Realização |
+| :--- | :--- | :--- | :--- | :--- |
+| [Hugo Freitas Silva](https://github.com/HugoFreitass) | Pedro Henrique Ferreira Xavier | 26/05/2026| 12:10 - 12:40 | UnB - FCTE (sala s9) |
+| [Maria Laura Regis](https://github.com/Maria-Laura-Regis)  | Alessandra Peloso | 23/05/2026 | 12:00 - 12:40 | Sudoeste |
 
 Os planejamento das avaliações das análises das tarefas estão abaixo:
 
 | Responsável pela Sessão | Planejamento da avaliação da análise da tarefa |
 | :--- | :--- |
-| [Philipe Amancio](https://github.com/Phill-Chill) | [Acesso ao resultado de imagem com visualizador DICOM](AvaliacaoDesenvolvimento\Nivel01\AnaliseDeTarefas\PlanejamentosAvalGrupo\PlanejamentoPhilipe.md)| 
-| [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | [Agendamento de exames com dúvidas críticas de preparo](AvaliacaoDesenvolvimento\Nivel01\AnaliseDeTarefas\PlanejamentosAvalGrupo\PlanajamentoMaria.md) |
-| [Hugo Freitas Silva](https://github.com/HugoFreitass) | [Cadastro de exame laboratorial com informação incompleta no sistema](AvaliacaoDesenvolvimento\Nivel01\AnaliseDeTarefas\PlanejamentosAvalGrupo\PlanejamentoHugo.md)|
+| [Philipe Amancio](https://github.com/Phill-Chill) | [Acesso ao resultado de imagem com visualizador DICOM](../AnaliseDeTarefas/PlanejamentosAvalGrupo/PlanejamentoPhilipe.md)| 
+| [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | [Agendamento de exames com dúvidas críticas de preparo](../AnaliseDeTarefas/PlanejamentosAvalGrupo/PlanajamentoMaria.md) |
+| [Hugo Freitas Silva](https://github.com/HugoFreitass) | [Cadastro de exame laboratorial com informação incompleta no sistema](../AnaliseDeTarefas/PlanejamentosAvalGrupo/PlanejamentoHugo.md)|
 | Nathan | - |
-| [Ingrid Alves](https://github.com/alvesingrid)| [Acompanhamento de resultados e download de laudos durante o pré-natal](AvaliacaoDesenvolvimento\Nivel01\AnaliseDeTarefas\PlanejamentosAvalGrupo\PlanejamentoIngrid.md) |
+| [Ingrid Alves](https://github.com/alvesingrid)| [Acompanhamento de resultados e download de laudos durante o pré-natal](../AnaliseDeTarefas/PlanejamentosAvalGrupo/PlanejamentoIngrid.md) |
 
 ---
 
@@ -77,6 +77,10 @@ Para garantir a padronização, a **estrutura do relatório do resultado da aval
 5. Uma lista detalhada dos problemas encontrados (priorizando a correção);
 6. O feedback geral dos usuários.
 
+
+## Referências Bibliográficas
+
+* **BARBOSA, S. D. J.; SILVA, B. S. (2011).** *Interação Humano-Computador*. Rio de Janeiro: Elsevier.
 
 ## Histórico de Versão
 

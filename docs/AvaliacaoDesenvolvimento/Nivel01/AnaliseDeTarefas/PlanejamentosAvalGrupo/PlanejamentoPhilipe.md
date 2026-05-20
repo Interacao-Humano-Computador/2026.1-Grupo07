@@ -89,6 +89,10 @@ Os achados finais serão estruturados em um relatório de resultados formalizado
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Philipe Amancio** | [Nome do Médico] | Utilizar o Visualizador DICOM | DD/MM/AAAA | 00:00 - 00:00 | [Ex: Consultório do Participante] |
 
+## Referências Bibliográficas
+
+* **BARBOSA, S. D. J.; SILVA, B. S. (2011).** *Interação Humano-Computador*. Rio de Janeiro: Elsevier.
+
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |

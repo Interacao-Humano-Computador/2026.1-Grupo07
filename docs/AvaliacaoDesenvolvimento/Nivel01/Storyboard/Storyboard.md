@@ -5,6 +5,10 @@
 |Artefato(s) | Autore(s)|
 | --- | --- |
 | Página de Storyboards da Equipe | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) |
+| Primeiro Storyboard | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) |
+| Segundo Storyboard | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| Terceiro Storyboard | [Philipe Amancio](https://github.com/Phill-Chill) |
+| Quarto Storyboard  | [Ingrid Alves](https://github.com/alvesingrid) |
 
 
 ## 1. Introdução
@@ -28,22 +32,26 @@ Nesta seção, apresentamos os storyboards desenvolvidos pela equipe para o Port
 ### 3.1. [Primeiro storyboard]
 >Elaborada por: Maria Laura Regis
 O Storyboard representa o fluxo do Ctt 1.1 (tarefa de agendamento de exames com dúvidas críticas de preparo).
-![Storyboard Fluxo 1](../../assets/story-maria.png)
+
+![Storyboard Fluxo 1](../../../assets/story-maria.png)
 
 ### 3.2. [Segundo storyboard]
 >Elaborada por: Hugo Freitas Silva
 O Storyboard representa o fluxo da tarefa de agendamento de exames com dúvidas críticas de preparo
-![Storyboard Fluxo 1](../../assets/storyboard-hugo.webp)
+
+![Storyboard Fluxo 1](../../../assets/storyboard-hugo.webp)
 
 ### 3.3. [Terceiro storyboard]
 >Elaborada por: Philipe Amâncio
 O Storyboard representa o fluxo da tarefa de ccesso ao resultado de imagem com visualizador DICOM
-![Storyboard Fluxo 1](../../assets/storyboard-philipe.jpg)
+
+![Storyboard Fluxo 1](../../../assets/storyboard-philipe.jpg)
 
 ### 3.4. [Quarto storyboard]
 >Elaborada por: Ingrid Alves
 O Storyboard representa o fluxo da tarefa de acompanhamento de resultados e download de laudos durante o pré-natal
-![Storyboard Fluxo 1](../../assets/storyboard-ingrid.jpeg)
+
+![Storyboard Fluxo 1](../../../assets/storyboard-inrgid.jpeg)
 
 ---
 
@@ -55,5 +63,5 @@ O Storyboard representa o fluxo da tarefa de acompanhamento de resultados e down
 ## Histórico de Versão
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
-| 1.0 | 18/05/2026 | Criação do documento | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | 1/05/2026 | Revisão da estrutura inicial e do conteúdo | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.0 | 18/05/2026 | Criação do documento | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | 1/05/2026 | Revisão da estrutura inicial e do conteúdo + adição das imagens | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 

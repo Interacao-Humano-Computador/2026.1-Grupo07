@@ -76,6 +76,9 @@ Os achados serão estruturados em um relatório com:
 | :--- | :--- | :--- | :--- | :--- |
 | Maria Laura  | Alessandra Peloso | 23/05/2026 | 12:00 - 12:40 | Sudoeste |
 
+## Referências Bibliográficas
+
+* **BARBOSA, S. D. J.; SILVA, B. S. (2011).** *Interação Humano-Computador*. Rio de Janeiro: Elsevier.
 
 ## Histórico de Versão
 

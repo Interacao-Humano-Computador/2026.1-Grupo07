@@ -159,6 +159,10 @@ Os achados finais serão estruturados em um relatório de resultados formalizado
 
 ---
 
+## Referências Bibliográficas
+
+* **BARBOSA, S. D. J.; SILVA, B. S. (2011).** *Interação Humano-Computador*. Rio de Janeiro: Elsevier.
+
 # Histórico de Versão
 
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |

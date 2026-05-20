@@ -93,6 +93,10 @@ Os achados finais serão estruturados em um relatório de resultados formalizado
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Ingrid Alves** | [Nome do Participante] | Visualização e Download de Laudo | DD/MM/AAAA | 00:00 - 00:00 | [Presencial - Local a definir] |
 
+## Referências Bibliográficas
+
+* **BARBOSA, S. D. J.; SILVA, B. S. (2011).** *Interação Humano-Computador*. Rio de Janeiro: Elsevier.
+
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |

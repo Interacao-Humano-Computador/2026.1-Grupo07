@@ -175,4 +175,14 @@ Os resultados serão organizados em um relatório padronizado contendo:
 Posteriormente, os resultados consolidados serão apresentados à equipe de desenvolvimento para apoiar as decisões de melhoria do sistema e refinamento do Storyboard.
 
 ### Link para o planejamento do relato dos resultados:
-[Planejamento do Relato dos Resultados do Storyboard](../../AvaliacaoeDesenvolvimento/Storyboard/PlanejamentoDosResultados.md)
+[Planejamento do Relato dos Resultados do Storyboard](PlanejamentoDosResultados.md)
+
+## Referências Bibliográficas
+
+* **BARBOSA, S. D. J.; SILVA, B. S. (2011).** *Interação Humano-Computador*. Rio de Janeiro: Elsevier.
+
+## Histórico de Versão
+
+| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
+| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
+| 1.0 | 19/05/2026 | Criação do documento | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 19/05/2026 | Revisão da estrutura inicial e adequação ao framework DECIDE |  [Philipe Amancio](https://github.com/Phill-Chill) e [Maria Laura Regis](https://github.com/Maria-Laura-Regis) |
