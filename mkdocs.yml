@@ -65,16 +65,16 @@ nav:
   - Design, Avaliação e Desenvolvimento:
       - Nível 1:
         - Análise de tarefas:
-          - Planejamento da Avaliação: AvaliacaoDesenvolvimento\Nivel01\AnaliseDeTarefas\PlanejamentoAvaliacao.md
-          - Planejamento do Relato dos Resultados: AvaliacaoDesenvolvimento\Nivel01\AnaliseDeTarefas\PlanejamentoDosResultados.md
+          - Planejamento da Avaliação: AvaliacaoDesenvolvimento/Nivel01/AnaliseDeTarefas/PlanejamentoAvaliacao.md
+          - Planejamento do Relato dos Resultados: AvaliacaoDesenvolvimento/Nivel01/AnaliseDeTarefas/PlanejamentoDosResultados.md
         - Storyboard:
-          - Storyboards: AvaliacaoDesenvolvimento\Nivel01\Storyboard\Storyboard.md
-          - Planejamento da Avaliação: AvaliacaoDesenvolvimento\Nivel01\Storyboard\PlanejamentoDaAvaliacao.md
-          - Planejamento do Relato dos Resultados: AvaliacaoDesenvolvimento\Nivel01\Storyboard\PlanejamentoDosResultados.md
+          - Storyboards: AvaliacaoDesenvolvimento/Nivel01/Storyboard/Storyboard.md
+          - Planejamento da Avaliação: AvaliacaoDesenvolvimento/Nivel01/Storyboard/PlanejamentoDaAvaliacao.md
+          - Planejamento do Relato dos Resultados: AvaliacaoDesenvolvimento/Nivel01/Storyboard/PlanejamentoDosResultados.md
       - Nível 2:
-        - Em breve: AvaliacaoDesenvolvimento\Nivel02\nivel2.md
+        - Em breve: AvaliacaoDesenvolvimento/Nivel02/nivel2.md
       - Nível 3:
-        - Em breve: AvaliacaoDesenvolvimento\Nivel03\nivel3.md
+        - Em breve: AvaliacaoDesenvolvimento/Nivel03/nivel3.md
   - Ferramentas: Ferramentas.md
   - Atas de reunião: 
           - Reunião 1: atasDeReuniao/reuniao1.md
