@@ -54,6 +54,7 @@ nav:
           - Roteiro da entrevista: requisitos/roteiroEntrevista.md
         # - Grupo De Foco: requisitos/grupoDeFoco.md
         - Questionário: requisitos/questionario.md
+        - Análise Documental: requisitos/analiseDeDocumentos.md
       - Análise de tarefas: requisitos/analisedetarefa.md
       - Personas: requisitos/persona.md
       - Cenário: requisitos/cenario.md

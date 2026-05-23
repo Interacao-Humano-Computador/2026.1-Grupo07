@@ -1,6 +1,6 @@
 # Planejamento do Relato dos Resultados - Análise de Tarefas
 
-## Rastreabilidade
+## Tabela de contribuição
 | Artefato(s) | Autor(es) |
 | --- | --- |
 | Página de Planejamento do Relato dos Resultados da Análise de Tarefas | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
