@@ -39,28 +39,19 @@ Para garantir a padronização e o atendimento aos critérios da disciplina, tod
 
 ### Objetivos da Avaliação
 
-A avaliação teve como objetivo verificar se a análise de tarefas elaborada para o cenário **"Cadastro de exame laboratorial com informação incompleta no sistema"** representa adequadamente o comportamento, as expectativas e as necessidades dos usuários do Portal Sabin.
-
-Buscou-se responder às seguintes questões investigativas:
-
-- O fluxo modelado corresponde à forma como os usuários esperam realizar o cadastro de um exame laboratorial?
-- Os usuários compreendem as etapas descritas na análise de tarefas?
-- Existem atividades ausentes ou desnecessárias no fluxo proposto?
-- Há pontos de dúvida, hesitação ou quebra de expectativa durante a execução da tarefa?
-- Os mecanismos de correção e tratamento de informações incompletas são claros para os usuários?
+A avaliação deve endereçar se as questões que motivaram o estudo foram respondidas ou justificar por que alguma resposta não foi encontrada. Sempre de acordo com os objetivos declarados na avaliação.
 
 ### Escopo da Avaliação
 
-A avaliação concentrou-se na análise das seguintes atividades:
+Nesta seção deve ser descrito o escopo da avaliação realizada, especificando:
 
-1. Acesso à funcionalidade de cadastro de exame laboratorial;
-2. Preenchimento das informações do exame;
-3. Identificação de campos obrigatórios não preenchidos;
-4. Interpretação das mensagens de erro ou alerta;
-5. Correção das informações faltantes;
-6. Confirmação e envio do cadastro.
+- As tarefas avaliadas;
+- Os fluxos de interação analisados;
+- Os artefatos da Análise de Tarefas utilizados na avaliação;
+- As funcionalidades ou partes do sistema contempladas pela análise;
+- As limitações ou exclusões do estudo, quando aplicável.
 
-O foco da avaliação foi a validação da estrutura da tarefa e dos fluxos de interação representados nos artefatos de Análise de Tarefas (HTA e descrição textual).
+O relato deve delimitar claramente quais aspectos do sistema foram avaliados e quais não fizeram parte da investigação conduzida.
 
 ---
 
@@ -152,7 +143,6 @@ Essa proximidade com o contexto de uso contribui para a validação dos fluxos r
 | Métrica | Resultado |
 |----------|-----------|
 | Número de participantes | XX |
-| Tempo médio de execução | XX min |
 | Quantidade de erros observados | XX |
 | Pontos de hesitação identificados | XX |
 | Interrupções da tarefa | XX |
@@ -300,4 +290,4 @@ As correções propostas deverão ser incorporadas aos artefatos e consideradas 
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
 | 1.0 | 19/05/2026 | Criação do documento | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 19/05/2026 | Revisão da estrutura inicial e adequação ao framework DECIDE | [Philipe Amâncio](https://github.com/Phill-Chill) e [Hugo Freitas Silva](https://github.com/HugoFreitass) |
-| 1.1 | 22/05/2026 | Correções gerais | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 23/05/2026 | Revisão da estrutura inicial e adequação ao framework DECIDE | [Philipe Amancio](https://github.com/Phill-Chill) |
+| 1.1 | 22/05/2026 | Correções gerais | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 23/05/2026 | - | [Philipe Amancio](https://github.com/Phill-Chill) |
