@@ -1,5 +1,12 @@
 # Planejamento da Avaliação da Análise de Tarefas - Agendamento de Exame no Site Sabin
 
+## Tabela de Contribuição
+
+|Artefato(s) | Autore(s)|
+| --- | --- |
+| Página de Planejamento da Avaliação da Tarefa de Agendamento de Exame | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+
+# Introdução
 Este documento estabelece o plano de avaliação específico para os artefatos de **Cenário**, **Análise de Tarefas (HTA e GOMS)** e o **Storyboard** associados à funcionalidade de **Agendamento de Exames Laboratoriais** do Portal Sabin. A metodologia segue a abordagem de investigação por meio de **Entrevistas**.
 
 ---
@@ -138,16 +145,10 @@ Serão propostas melhorias como:
 
 # 5. Relato dos Resultados
 
-Os achados finais serão estruturados em um relatório de resultados formalizado. Para garantir a conformidade metodológica em IHC, a estrutura do relato conterá obrigatoriamente:
+Os achados finais serão estruturados em um relatório de resultados formalizado. Para garantir a conformidade metodológica em IHC, a estrutura do relato foi definida detalhadamente e pode ser encontrada neste documento: 
 
-1. Os objetivos gerais da avaliação;
-2. A descrição detalhada do método de investigação utilizado (Entrevista baseada em Modelos);
-3. O número exato e o perfil dos avaliadores e dos participantes envolvidos;
-4. Os cenários e as tarefas apresentados aos participantes;
-5. Uma lista detalhada e hierarquizada de todos os problemas encontrados (separados por artefato: Cenário, Storyboard, HTA ou GOMS);
-6. O feedback geral e qualitativo fornecido pelos usuários;
-7. As sugestões de redesign derivadas das entrevistas;
-8. As alterações realizadas após o refinamento iterativo dos modelos.
+### Link para o planejamento do relato dos resultados:
+[Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas](../PlanejamentoDosResultados.md)
 
 ---
 
@@ -161,10 +162,11 @@ Os achados finais serão estruturados em um relatório de resultados formalizado
 
 ## Referências Bibliográficas
 
-* **BARBOSA, S. D. J.; SILVA, B. S. (2011).** *Interação Humano-Computador*. Rio de Janeiro: Elsevier.
+> BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
 
 # Histórico de Versão
 
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
 | 1.0 | 19/05/2026  | Criação do plano focado em Cenário, Storyboard, HTA e GOMS |  [Hugo Freitas Silva](https://github.com/HugoFreitass) | - | - | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) |
+| 1.1 | 23/05/2026  | Adição da tabela de contribuidores e referências para o planejamento do relato dos resultados |  [Hugo Freitas Silva](https://github.com/HugoFreitass) | 24/05/2026 | - | [Philipe Amancio](https://github.com/Phill-Chill) |
