@@ -14,7 +14,7 @@
 
 ## 1. Introdução
 
-Um **storyboard** é uma representação visual que ilustra uma narrativa, um processo ou um cenário de uso. Segundo Sherman <span class="hover-image">(StoryboardThat, 2023)<sup class="Print">[PRINT]</sup><img class="img" src="../../assets/storyboard-1.PNG" alt="Imagem 1"></span>, o layout consiste em painéis sequenciais, cada um funcionando como uma moldura dentro da narrativa. Essa estrutura permite visualizar o fluxo de interação, identificar possíveis problemas antecipadamente e garantir que a proposta seja comunicada de forma consistente aos demais membros da equipe e stakeholders.
+Um **storyboard** é uma representação visual que ilustra uma narrativa, um processo ou um cenário de uso. Segundo Sherman <span class="hover-image">(StoryboardThat, 2023)<sup class="Print">[PRINT]</sup><img class="img" src="../../../../assets/storyboard-1.PNG" alt="Imagem 1"></span>, o layout consiste em painéis sequenciais, cada um funcionando como uma moldura dentro da narrativa. Essa estrutura permite visualizar o fluxo de interação, identificar possíveis problemas antecipadamente e garantir que a proposta seja comunicada de forma consistente aos demais membros da equipe e stakeholders.
 
 Para a avaliação e o reprojeto do Portal Sabin, os storyboards foram fundamentais para modelar como os usuários interagem com as funcionalidades existentes, permitindo validar percepções e fluxos antes da transição para protótipos de alta fidelidade.
 
@@ -22,7 +22,7 @@ Para a avaliação e o reprojeto do Portal Sabin, os storyboards foram fundament
 
 ## 2. Para que serve um Storyboard?
 
-O uso de storyboards vai muito além da produção cinematográfica. De acordo com o <span class="hover-image">(StoryboardThat, 2023)<sup class="Print">[PRINT]</sup><img class="img" src="../../assets/storyboard-2.png" alt="Imagem 1"></span>, eles são ferramentas indispensáveis para planejamento, visualização e comunicação. Eles servem para:
+O uso de storyboards vai muito além da produção cinematográfica. De acordo com o <span class="hover-image">(StoryboardThat, 2023)<sup class="Print">[PRINT]</sup><img class="img" src="../../../../assets/storyboard-2.PNG" alt="Imagem 1"></span>, eles são ferramentas indispensáveis para planejamento, visualização e comunicação. Eles servem para:
 
 * **Modelar a interação:** Mostrar como os clientes ou usuários interagem com produtos existentes ou propostos.
 * **Planejar fluxos:** Criar instruções do tipo "como fazer" (passo a passo).
