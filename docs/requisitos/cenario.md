@@ -31,7 +31,7 @@ Ao localizar o exame no sistema, o laudo em PDF carrega rapidamente. No entanto,
 
 ---
 
-# Cenário 02: Agendamento de exames com dúvidas críticas de preparo {#agendamento}
+# Cenário 02: Pré-agendamento de exames com dúvidas críticas de preparo {#agendamento}
 
 **Atores:** Márcia (Mãe e Gestora da saúde familiar), Atendente Humano (Sabin)
 
