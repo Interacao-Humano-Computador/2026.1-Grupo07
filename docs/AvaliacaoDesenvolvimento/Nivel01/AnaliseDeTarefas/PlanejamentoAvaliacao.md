@@ -27,11 +27,13 @@ O planejamento da avaliação será estruturado com base no framework DECIDE, qu
 
 ## D - Objetivo da Avaliação
 
-O objetivo desta avaliação é validar a **apropriação de tecnologia pelos usuários**, e identificar eventuais **problemas na interação e na interface** na fase do modelo conceitual <span class="hover-image">(BARBOSA; SILVA, 2021, p. 294)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/DECIDE-D1.png"> </span>. Dessa forma, buscaremos validar se os artefatos produzidos na Análise de Tarefas correspondem ao contexto e às necessidades dos usuários.
+O objetivo desta avaliação é validar a apropriação de tecnologia pelos usuários, e identificar eventuais problemas no fluxo de execução e na lógica estrutural das tarefas na fase do modelo conceitual <span class="hover-image">(BARBOSA; SILVA, 2021, p. 294)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/DECIDE-D1.png"> </span>. O alcance desse objetivo será importante para a equipe de design e desenvolvimento, pois fornecerá os insumos necessários para corrigir rotas e refinar o fluxo do sistema antes do início da prototipação de alta fidelidade. Dessa forma, buscaremos validar se os artefatos produzidos na Análise de Tarefas correspondem ao contexto e às necessidades dos usuários.
 
 ## E - Perguntas Exploratórias
 
 Essas perguntas são responsáveis por operacionalizar a investigação e o julgamento de valor a serem realizados <span class="hover-image">(BARBOSA; SILVA, 2021, p. 294)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/DECIDE-E.png"> </span>. Elas devem considerar o perfil dos usuários-alvo e suas atividades.
+
+Como este artefato consolida o planejamento geral da equipe e padronizamos o método de entrevista para todas as tarefas, os roteiros de perguntas exploratórias foram elaborados individualmente para atender às especificidades de cada fluxo avaliado. Sendo assim, as perguntas exatas que guiarão a condução de cada avaliador encontram-se detalhadas nos documentos de [planejamento específicos](#planEsp) de cada integrante.
 
 ## C - Escolha do Método
 
@@ -43,22 +45,30 @@ Para atestar se a Análise de Tarefas reflete a realidade do usuário, nossa equ
 
 Nesta etapa do framework DECIDE, são definidos os procedimentos organizacionais e os recursos necessários para a execução da avaliação <span class="hover-image">(BARBOSA; SILVA, 2021, p. 294)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/DECIDE-I.png"> </span>. Para esta etapa, os participantes serão selecionados com base nas características descritas no [Perfil de Usuário](../../../requisitos/perfilDeUsuario.md) elaboradas para o projeto.
 
+A avaliação não possui orçamento financeiro alocado (sendo realizada de forma acadêmica e voluntária) e será executada dentro dos prazos estipulados, por cada integrante, no [cronograma](#crono).
+
 As entrevistas serão realizadas na modalidade **presencial**. Serão utilizados os artefatos da Análise de Tarefas (impressos ou exibidos em um Notebook/Tablet), papel e caneta para anotações, além de equipamento de vídeo. Durante as sessões, a equipe poderá assumir as seguintes responsabilidades funcionais:
 
 * **Avaliador/Condutor:** Responsável por apresentar os materiais, orientar o participante e seguir o roteiro da entrevista lado a lado com o usuário.
 * **Anotador:** Responsável por documentar comentários, dificuldades e comportamentos observados. É dever crítico do avaliador/anotador **listar todos os problemas encontrados no fluxo lógico e priorizar a correção dos problemas não resolvidos**.
 * **Cinegrafista:** Responsável por gravar toda a entrevista, documentando a sessão mediante consentimento explícito.
 
-Por fim, antes de iniciar as sessões oficiais, será conduzido um **Teste Piloto** para verificar se o roteiro, o vocabulário, o tempo estimado e os equipamentos estão adequados para a avaliação real. Fica estabelecido que **o resultado do teste piloto NÃO será apresentado no relatório final de resultados da avaliação**.
+Por fim, antes de iniciar as sessões oficiais, será conduzido um **Teste Piloto** para verificar se o roteiro, o vocabulário, o tempo estimado e os equipamentos estão adequados para a avaliação real. Fica estabelecido que **o resultado do teste piloto não será apresentado no relatório final de resultados da avaliação**.
 
-As entrevistas oficiais seguirão o cronograma abaixo:
+<a id="crono"></a>
+**Cronograma de Entrevistas**:
 
 | Responsável pela Sessão | Participante | Data | Horário | Local de Realização |
 | :--- | :--- | :--- | :--- | :--- |
-| [Hugo Freitas Silva](https://github.com/HugoFreitass) | Pedro Henrique Ferreira Xavier | 26/05/2026| 12:10 - 12:40 | UnB - FCTE (sala s9) |
+| [Hugo Freitas](https://github.com/HugoFreitass) | Pedro Henrique Ferreira Xavier | 26/05/2026| 12:10 - 12:40 | UnB - FCTE (sala s9) |
 | [Maria Laura Regis](https://github.com/Maria-Laura-Regis)  | Alessandra Peloso | 23/05/2026 | 12:00 - 12:40 | Sudoeste |
+| [Philipe Amâncio]() | - | - | - | - |
+| [Ingrid]() | - | - | - | - |
+| [Nathan]() | - | - | - | - |
 
-Os planejamento das avaliações das análises das tarefas estão abaixo:
+<a id="planEsp"></a>
+**Planejamentos Específicos**
+Os planejamentos das avaliações das análises de tarefas de cada integrante estão detalhados abaixo: 
 
 | Responsável pela Sessão | Planejamento da avaliação da análise da tarefa |
 | :--- | :--- |
@@ -78,7 +88,8 @@ Antes da realização das atividades, os participantes deverão concordar com o 
 
 Após a coleta, os dados serão interpretados para identificar quebras de expectativa, falhas de usabilidade e dificuldades de interação <span class="hover-image">(BARBOSA; SILVA, 2021, p. 294)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/DECIDE-E2.png"> </span>. 
 
-Para garantir a padronização, a **estrutura do relatório do resultado da avaliação** deverá conter:
+Para garantir a padronização, a **estrutura do relatório do resultado da avaliação** deverá conter os seguintes tópicos, os quais serão melhor abordados no [planejamento do resultado](PlanejamentoDosResultados.md):
+
 1. Os objetivos da avaliação;
 2. Uma breve descrição do método utilizado na avaliação;
 3. O número e o perfil de avaliadores e dos participantes;
@@ -89,7 +100,8 @@ Para garantir a padronização, a **estrutura do relatório do resultado da aval
 
 ## Referências Bibliográficas
 
-* **BARBOSA, S. D. J.; SILVA, B. S. (2011).** *Interação Humano-Computador*. Rio de Janeiro: Elsevier.
+> BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
+
 
 ## Histórico de Versão
 
