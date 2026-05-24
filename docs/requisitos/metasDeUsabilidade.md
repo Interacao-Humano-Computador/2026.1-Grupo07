@@ -14,7 +14,7 @@ O critério de **acessibilidade** está relacionado à remoção das barreiras q
 O critério de **comunicabilidade** chama atenção para a responsabilidade de o designer comunicar ao usuário suas intenções de design e a lógica que rege o comportamento da interface. <span class="hover-image">(BARBOSA; SILVA, 2021, p. 35)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/use-3.PNG" alt="Trecho da página 35"> </span>.
 
 ## Critério de usabilidade
-Nielsen (1994c) define o critério de usabilidade como um conjunto de fatores que qualificam quão bem uma pessoa pode interagir com um sistema interativo. Esses critérios estão relacionados com a facilidade e o esforço necessários para os usuários aprenderem e utilizarem um sistema. Desse modo, a usabilidade endereça principalmente a capacidade cognitiva, perceptiva e motora dos usuários empregada durante a interação. Os fatores de usabilidade por ele considerados são <span class="hover-image">(BARBOSA; SILVA, 2021, p. 35-36)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/use-4.PNG" alt="Trecho da página 35-36"> </span>.:
+Segundo Nielsen (1994 apud BARBOSA; SILVA, 2021, p. 35), o critério de usabilidade é definido como um conjunto de fatores que qualificam quão bem uma pessoa pode interagir com um sistema interativo. Esses critérios estão relacionados com a facilidade e o esforço necessários para os usuários aprenderem e utilizarem um sistema. Desse modo, a usabilidade endereça principalmente a capacidade cognitiva, perceptiva e motora dos usuários empregada durante a interação. Os fatores de usabilidade por ele considerados são <span class="hover-image">(BARBOSA; SILVA, 2021, p. 35-36)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/use-4.PNG" alt="Trecho da página 35-36"> </span>.:
 
 - **Facilidade de aprendizado:** Se refere ao tempo e esforço necessários para que o usuário aprenda a utilizar o sistema com determinado
 nível de competência e desempenho <span class="hover-image">(BARBOSA; SILVA, 2021, p. 36)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/use-5.PNG" alt="Trecho da página 36"> </span>.
@@ -29,43 +29,23 @@ nível de competência e desempenho <span class="hover-image">(BARBOSA; SILVA, 2
 
 ## Aplicação para o projeto
 
-### Contexto e Perfil Demográfico
+### Metas a serem alcançadas
+Baseado em evidências das entrevista, brainstorming e questionário realizados pelo grupo, foram identificadas os seguintes pontos a ter atenção sobre o site:
+- **Eficiência:** Foram evidenciados alguns pontos, como falta de clareza na vizualização do resultado e status de exames ou dificuldade em agendamento, que aumentam a carga cognitiva necessária para o uso do site
 
-Atualmente, o Grupo Sabin atende a todas as faixas etárias e não divulga uma "idade média" oficial de seu público. No entanto, a análise de seus relatórios de sustentabilidade e serviços oferecidos permite mapear os seguintes perfis predominantes:
+- **Facilidade no aprendizado :** O uso de jargões muito técnicos atualmente no site faz com que usuários tenham uma dificuldade a mais para realizar algo no site ou se preparar para o exame
 
-- **Até 29 anos:** Representa cerca de 24,53% do público, segundo levantamentos de impacto social.
+- **Satisfação do usuário:** A falta de clareza em preparações para exames e sobre o status do resultado são exemplos que causam frustração ao usuário, trazendo um potencial abandono ao site
 
-- **Entre 30 e 49 anos:** Faixa de alta expressividade, concentrando o público economicamente ativo que utiliza serviços como o Sabin Prime (focado em check-ups executivos) e programas de saúde ocupacional.
+- **Facilidade de recordação:** O acesso aos resultados dos exames exige um redirecionamento, além do site redirecionado ter um layout diferente do site anterior, dificultando o usuário caso fique muito tempo sem acessar o portal do Sabin
 
-- **50 anos ou mais:** Representa aproximadamente 75,47% da demanda em frentes específicas de atendimento, como medicina preventiva e diagnósticos crônicos.
-
-Tendo em vista que o público idoso representa uma parcela majoritária e constante nos serviços do laboratório, nosso objetivo central é otimizar o site do Sabin para garantir o melhor desempenho, acessibilidade e segurança, com foco especial nas necessidades desse grupo demográfico.
-
-### Metas a Serem Alcançadas
-
-Para garantir que as melhorias atendam a todos os usuários sem exceções, aplicaremos diretrizes consolidadas de usabilidade. O projeto tem ênfase nos seguintes pilares:
-
-- **Facilidade de Aprendizado (Learnability):** Criar interfaces intuitivas e claras, permitindo que usuários, especialmente os idosos, compreendam o funcionamento do site logo no primeiro contato.
-
-- **Visibilidade do Status do Sistema:** Garantir agilidade e transparência ao mostrar o status de exames e agendamentos, mantendo o paciente sempre informado.
-
-- **Facilidade de Recordação (Memorability):** Padronizar a navegação para que o usuário lembre facilmente como utilizar a plataforma ao retornar após um período sem acessá-la.
-
-- **Segurança e Prevenção de Erros:** Assegurar a proteção dos dados sensíveis do paciente e criar fluxos à prova de erros durante a marcação e visualização de exames.
-
-## Justificativa da Seleção
-  
-A disciplina de Interação Humano-Computador (IHC) foi fundamental para ampliar nossa compreensão sobre o desenvolvimento de produtos digitais com foco centrado no usuário. Entendemos que um software de qualidade deve entregar resultados eficientes, seguros e acessíveis para todas as pessoas. Por esse motivo, elegemos essas metas de usabilidade como prioridade para o projeto, garantindo uma entrega de alto impacto técnico e social.
+- **Segurança no uso:** O fluxo de recuperação de protocolo perdido aprensentado pelo site faz com que o usuário acabe abandonando o próprio site, tendo que ir atrás de atendimento pelo Whatsapp ou em balcão físico para resolver, apresentando uma quebra no fluxo que estava sendo seguido
 
 ___
 
 ## Referência Bibliográfica
 
 >BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
-
->NIELSEN, Jakob. 10 Usability Heuristics for User Interface Design. Nielsen Norman Group, 1994. Disponível em: https://www.nngroup.com/articles/ten-usability-heuristics/. Acesso em: 11 maio 2026.
-
->GRUPO SABIN. Relatório de Sustentabilidade [Ano do Relatório que você leu]. Brasília, [Ano de publicação]. Disponível em: [Inserir o link exato do PDF que você consultou]. Acesso em: 11 maio 2026.
 
 ___
 
@@ -77,4 +57,5 @@ ___
 | 1.1 | 11/05/2026 | Adicionando texto | [Thaiza Romualdo da Silva](https://github.com/ThaizaWeert) | - | Revisão do texto acrescentado às metas de usabilidade | - |
 | 1.2 | 12/05/2026 | Ajustes nas referências | [Nathan Pontes Romão](https://github.com/nathanpromao) | - | Conferência das referências e da formatação bibliográfica das metas de usabilidade | - |
 | 1.3 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Phill-Chill) | 15/05/2026 | Validação dos links e créditos de autoria nas metas de usabilidade | [Nathan Pontes Romão](https://github.com/nathanpromao) |
+| 1.4 | 15/05/2026 | Ajustes das metas de usabilidade | [Nathan Pontes Romão](https://github.com/nathanpromao) | 23/05/2026 |  |  |
 
