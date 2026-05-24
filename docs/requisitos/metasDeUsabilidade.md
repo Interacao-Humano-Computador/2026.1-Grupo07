@@ -57,5 +57,5 @@ ___
 | 1.1 | 11/05/2026 | Adicionando texto | [Thaiza Romualdo da Silva](https://github.com/ThaizaWeert) | - | Revisão do texto acrescentado às metas de usabilidade | - |
 | 1.2 | 12/05/2026 | Ajustes nas referências | [Nathan Pontes Romão](https://github.com/nathanpromao) | - | Conferência das referências e da formatação bibliográfica das metas de usabilidade | - |
 | 1.3 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Phill-Chill) | 15/05/2026 | Validação dos links e créditos de autoria nas metas de usabilidade | [Nathan Pontes Romão](https://github.com/nathanpromao) |
-| 1.4 | 15/05/2026 | Ajustes das metas de usabilidade | [Nathan Pontes Romão](https://github.com/nathanpromao) | 23/05/2026 |  |  |
+| 1.4 | 23/05/2026 | Ajustes das metas de usabilidade | [Nathan Pontes Romão](https://github.com/nathanpromao) | - |  |  |
 
