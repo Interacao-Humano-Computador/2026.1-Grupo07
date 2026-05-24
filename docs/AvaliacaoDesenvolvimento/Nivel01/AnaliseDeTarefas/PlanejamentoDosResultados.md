@@ -7,7 +7,7 @@
 
 ---
 
-## 1. Introdução Geral
+## 1. Introdução
 
 Este documento tem como objetivo definir o planejamento e a estrutura padronizada para o relato dos resultados da avaliação de Análise de Tarefas do Portal Sabin. O intuito é garantir que, após a coleta empírica de dados, todos os avaliadores da equipe sigam a mesma metodologia de consolidação e interpretação das informações obtidas durante as sessões de avaliação <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/topicos-relato-p279.png"> </span>
 
@@ -46,10 +46,9 @@ A avaliação deve endereçar se as questões que motivaram o estudo foram respo
 Nesta seção deve ser descrito o escopo da avaliação realizada, especificando:
 
 - As tarefas avaliadas;
-- Os fluxos de interação analisados;
+- Os fluxos analisados;
 - Os artefatos da Análise de Tarefas utilizados na avaliação;
-- As funcionalidades ou partes do sistema contempladas pela análise;
-- As limitações ou exclusões do estudo, quando aplicável.
+- Que a 
 
 O relato deve delimitar claramente quais aspectos do sistema foram avaliados e quais não fizeram parte da investigação conduzida.
 
@@ -59,7 +58,7 @@ O relato deve delimitar claramente quais aspectos do sistema foram avaliados e q
 
 ### Método Utilizado
 
-A avaliação foi conduzida utilizando a técnica de **Entrevista Presencial Semiestruturada**, complementada pela observação direta da interação dos participantes com os artefatos produzidos durante a Análise de Tarefas.
+A avaliação será conduzida utilizando a técnica de **Entrevista Presencial Semiestruturada**, complementada pela observação direta da interação dos participantes com os artefatos produzidos durante a Análise de Tarefas.
 
 Os participantes foram convidados a analisar o fluxo proposto e descrever como realizariam a tarefa em uma situação real de uso.
 
@@ -119,9 +118,7 @@ Os resultados foram analisados considerando:
 
 ### Relação com o Perfil de usuário
 
-Os participante selecionado apresenta características compatíveis com o público-alvo do Portal Sabin, utilizando regularmente plataformas digitais para acompanhamento de exames e serviços de saúde.
-
-Essa proximidade com o contexto de uso contribui para a validação dos fluxos representados nos artefatos analisados.
+Os participantes selecionados apresentam características compatíveis com os [perfil de usuário](../../../requisitos/perfilDeUsuario.md) do Portal Sabin, permitindo a validação dos fluxos representados nos artefatos analisados.
 
 ---
 
