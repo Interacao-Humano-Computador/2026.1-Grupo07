@@ -7,7 +7,7 @@
 
 ## Introdução
 
-A análise documental realizada sobre o ecossistema digital do Sabin teve como objetivo identificar características do perfil de usuário responsável pela administração e operação dos sistemas institucionais. A investigação concentrou-se em documentos públicos relacionados à privacidade de dados, governança digital, serviços corporativos e informações institucionais disponibilizadas pelo grupo <span class="hover-image">(LIMA JUNIOR et al., 2021, p. 37).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/analise-documental-p37.png"> </span>
+A análise documental realizada sobre o ecossistema digital do Sabin teve como objetivo identificar características do perfil de usuário responsável pela administração e operação dos sistemas institucionais. A investigação concentrou-se em documentos públicos relacionados à privacidade de dados, governança digital, serviços corporativos e informações institucionais disponibilizadas pelo grupo <span class="hover-image">(LIMA JUNIOR et al., 2021, p. 37).<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/analise-documental-p37.png"> </span>
 
 A leitura dos documentos evidencia que parte significativa dos serviços digitais do Sabin depende da gestão contínua de informações cadastrais, controle de acessos, integração entre sistemas e monitoramento de processos internos. Essas atividades pressupõem a existência de profissionais responsáveis pela administração da plataforma, manutenção dos serviços e suporte aos diferentes públicos atendidos pela organização.
 
