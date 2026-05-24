@@ -1,7 +1,7 @@
 # Princípios e Diretrizes Gerais do Projeto
 
-## Rastreabilidade
-|Artefato(s) | Autore(s)|
+## Tabela de contribuição
+|Artefato(s) | Autor(es)|
 | --- | --- |
 | Página de Princípios e Diretrizes Gerais do Projeto | Maria Laura |
 
@@ -21,7 +21,7 @@ Os princípios gerais de projeto são fundamentais para guiar o design de Intera
 ## Tópicos dos Princípios Gerais do Projeto
 
 Com base na literatura, o projeto adota os seguintes princípios para fundamentar as decisões de design da interface:
-
+<a id='correspondencia-expect'></a>
 ### 1. Correspondência com as expectativas dos usuários
 Devemos explorar mapeamentos naturais e certificar-nos de que o usuário consegue determinar a relação entre suas intenções e as ações possíveis. A interface deve projetar a comunicação utilizando o idioma do usuário, com palavras e conceitos que lhe são familiares <span class="hover-image">(BARBOSA et al., 2021, 2010, p. 238-239)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/cap10-2.jpeg" alt="Texto da página 238"> </span>.
 
@@ -38,7 +38,7 @@ O ambiente de trabalho "pertence" ao usuário. Devemos reduzir o número de opç
 
 **Aplicação no portal do Sabin:**
 O portal apresenta uma sobrecarga de opções na página inicial: serviços na loja virtual, banners promocionais, múltiplas categorias de exames, agendamentos, convênios, blog e outras funcionalidades são exibidos simultaneamente. Esse excesso de informação pode causar paralisia de decisão, especialmente em usuários que chegam ao site em contexto de urgência ou ansiedade — perfil comum entre os visitantes do portal. Por outro lado, o menu de navegação principal é fixo e acessível em todas as páginas, o que garante ao usuário sempre uma "saída" clara para as seções principais. 
-
+<a id='conssistencia-pad'></a>
 ### 4. Consistência e padronização; promoção da eficiência do usuário
 Ações relacionadas em situações semelhantes devem funcionar da mesma forma para facilitar o aprendizado. Além disso, o sistema deve focar na economia de tempo do usuário, mantendo-o produtivamente ocupado, fornecendo atalhos e aceleradores para usuários experientes <span class="hover-image">(BARBOSA et al., 2021, 2010, p. 242-243)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/cap10-6.jpeg" alt="Texto da página 242"> </span>.
 
@@ -57,6 +57,7 @@ O designer deve tornar as coisas visíveis, encurtando os golfos de execução e
 **Aplicação no portal do Sabin:**
 O portal apresenta uma violação clara deste princípio no fluxo de acesso a resultados: o usuário precisa memorizar — ou ter em mãos — o número do protocolo de atendimento, fornecido somente de forma física no momento da coleta. 
 
+<a id='conteudo-relevante'></a>
 ### 7. Conteúdo relevante e expressão adequada
 A interface deve seguir a máxima da quantidade ("menos é mais"), onde os diálogos não devem conter informações irrelevantes ou raramente necessárias. Mensagens devem ser concisas e a apresentação gráfica deve garantir legibilidade <span class="hover-image">(BARBOSA et al., 2021, p. 246-247)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/cap10-10.jpeg" alt="Texto da página 246"> </span>.
 

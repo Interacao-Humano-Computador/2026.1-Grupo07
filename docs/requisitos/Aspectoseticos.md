@@ -1,6 +1,6 @@
 # Aspectos Éticos
 ## Rastreabilidade
-|Artefato(s) | Autore(s)|
+|Artefato(s) | Autor(es)|
 | --- | --- |
 | Página de Aspectos Éticos | Nathan e Ingrid |
 

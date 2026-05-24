@@ -1,6 +1,12 @@
+
 # Planejamento da Avaliação da Análise de Tarefas - Visualizador DICOM
 
 Este documento estabelece o plano de avaliação específico para os artefatos de **Cenário**, **Análise de Tarefas (HTA e CTT)** e o **Storyboard** associados à funcionalidade do Visualizador DICOM web do Portal Sabin. A metodologia segue a abordagem de investigação por meio de **Entrevistas**.
+
+## Tabela de contribuição
+|Artefato(s) | Autor(es)|
+| --- | --- |
+| Página de Avaliação da Análise de Tarefas  | [Philipe Amâncio](https://github.com/Phill-Chill) |
 
 ---
 

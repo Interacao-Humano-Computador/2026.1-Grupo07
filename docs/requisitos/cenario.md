@@ -1,5 +1,5 @@
-## Rastreabilidade
-|Artefato(s) | Autore(s)|
+## Tabela de contribuição
+|Artefato(s) | Autor(es)|
 | --- | --- |
 | Página de Elenco de Personas | Philipe |
 | [Cenário: Acesso ao resultado com visualizadores de imagem (DICOM)](#dicom) | Philipe |

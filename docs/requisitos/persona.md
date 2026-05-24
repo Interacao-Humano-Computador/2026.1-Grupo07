@@ -1,7 +1,7 @@
 # Elenco de Personas
 
-## Rastreabilidade
-|Artefato(s) | Autore(s)|
+## Tabela de contribuição
+|Artefato(s) | Autor(es)|
 | --- | --- |
 | Página de elenco de personas | Philipe |
 | [Persona: Roberto](#roberto) | Philipe |

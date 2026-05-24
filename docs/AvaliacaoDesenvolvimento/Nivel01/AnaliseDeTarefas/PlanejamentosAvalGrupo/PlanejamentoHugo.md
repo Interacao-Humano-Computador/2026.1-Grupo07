@@ -2,7 +2,7 @@
 
 ## Tabela de Contribuição
 
-|Artefato(s) | Autore(s)|
+|Artefato(s) | Autor(es)|
 | --- | --- |
 | Página de Planejamento da Avaliação da Tarefa de Agendamento de Exame | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 

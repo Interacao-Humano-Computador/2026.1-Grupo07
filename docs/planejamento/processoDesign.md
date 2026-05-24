@@ -1,7 +1,7 @@
 # Processo de Design
 
-## Rastreabilidade
-|Artefato(s) | Autore(s)|
+## Tabela de contribuição
+|Artefato(s) | Autor(es)|
 | --- | --- |
 | Processo de desgin| Maria Laura e Philipe |
 

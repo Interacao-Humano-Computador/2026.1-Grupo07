@@ -1,13 +1,13 @@
 # Metas de Usabilidade do Projeto: Grupo Sabin
 
-## Rastreabilidade
-|Artefato(s) | Autore(s)|
+## Tabela de contribuição
+|Artefato(s) | Autor(es)|
 | --- | --- |
 | Página de Metas de Usabilidade do Projeto | Thaiza e Nathan |
 
 
 ## Introdução
-A **usabilidade** está relacionada com a facilidade de aprendizado e uso da interface, bem como a satisfação do usuário em decorrência desse uso (Nielsen, 1994c). Tradicionalmente, a usabilidade enfoca a maneira como o uso de um sistema interativo no ambiente de trabalho é afetado por características do usuário (sua cognição, sua capacidade de agir sobre a  interface e sua capacidade de perceber as respostas do sistema). <span class="hover-image">(BARBOSA; SILVA, 2021, p. 35)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/use-1.PNG" alt="Trecho da página 35"> </span>. 
+A **usabilidade** está relacionada com a facilidade de aprendizado e uso da interface, bem como a satisfação do usuário em decorrência desse uso. Tradicionalmente, a usabilidade enfoca a maneira como o uso de um sistema interativo no ambiente de trabalho é afetado por características do usuário (sua cognição, sua capacidade de agir sobre a  interface e sua capacidade de perceber as respostas do sistema). <span class="hover-image">(BARBOSA; SILVA, 2021, p. 35)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/use-1.PNG" alt="Trecho da página 35"> </span>. 
 
 O critério de **acessibilidade** está relacionado à remoção das barreiras que impedem mais usuários de serem capazes de acessar a interface do sistema e interagirem com ele. <span class="hover-image">(BARBOSA; SILVA, 2021, p. 35)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/use-2.PNG" alt="Trecho da página 35"> </span>.
 
@@ -30,16 +30,17 @@ nível de competência e desempenho <span class="hover-image">(BARBOSA; SILVA, 2
 ## Aplicação para o projeto
 
 ### Metas a serem alcançadas
-Baseado em evidências das entrevista, brainstorming e questionário realizados pelo grupo, foram identificadas os seguintes pontos a ter atenção sobre o site:
-- **Eficiência:** Foram evidenciados alguns pontos, como falta de clareza na vizualização do resultado e status de exames ou dificuldade em agendamento, que aumentam a carga cognitiva necessária para o uso do site
+Com base nos requisitos extraídos das técnicas de elicitação (entrevistas, brainstorming, questionários), aliados às restrições mapeadas nas [Características da Plataforma](caracteristicasDaPlataforma.md) e às diretrizes estipuladas nos [Princípios Gerais de Projeto](principios.md), o reprojeto do portal Sabin priorizará as seguintes metas de usabilidade:
 
-- **Facilidade no aprendizado :** O uso de jargões muito técnicos atualmente no site faz com que usuários tenham uma dificuldade a mais para realizar algo no site ou se preparar para o exame
+- **Segurança no uso (Safety):** A proteção do usuário é a meta crítica do sistema. Conforme mapeado nas [Características da Plataforma](caracteristicasDaPlataforma.md#ancora-seguranca), o portal lida com dados de saúde altamente sensíveis e laudos médicos. Para garantir essa meta, a interface aplicará o princípio de [Projeto para Erros](principios.md#8-projeto-para-erros), assegurando que fluxos críticos (como a recuperação de um protocolo perdido) sejam resolvidos no próprio ambiente digital, sem quebras de fluxo que exijam deslocamento físico, e evitando ações destrutivas irreversíveis.
 
-- **Satisfação do usuário:** A falta de clareza em preparações para exames e sobre o status do resultado são exemplos que causam frustração ao usuário, trazendo um potencial abandono ao site
+- **Eficiência:** O sistema deve permitir a conclusão de tarefas de forma rápida e direta. Do ponto de vista tecnológico ([Características da Plataforma](caracteristicasDaPlataforma.md#req-restri)), o acesso pode ocorrer via conexões móveis mais lentas. Portanto, a arquitetura visual adotará o princípio do [Conteúdo Relevante](principios.md#conteudo-relevante), removendo ruídos visuais e encurtando os caminhos de navegação para diminuir a carga cognitiva do paciente.
 
-- **Facilidade de recordação:** O acesso aos resultados dos exames exige um redirecionamento, além do site redirecionado ter um layout diferente do site anterior, dificultando o usuário caso fique muito tempo sem acessar o portal do Sabin
+- **Facilidade de aprendizado (Learnability):** Visando atender pacientes em situações de urgência ou com baixo letramento digital, o sistema deve ser compreensível no primeiro acesso. Para isso, aplicaremos o princípio da [Correspondência com as Expectativas](principios.md#correspondencia-expect), traduzindo os atuais jargões médico-laboratoriais por termos familiares ao usuário comum, garantindo que as instruções de preparo de exames sejam compreendidas sem esforço extra.
 
-- **Segurança no uso:** O fluxo de recuperação de protocolo perdido aprensentado pelo site faz com que o usuário acabe abandonando o próprio site, tendo que ir atrás de atendimento pelo Whatsapp ou em balcão físico para resolver, apresentando uma quebra no fluxo que estava sendo seguido
+- **Facilidade de recordação (Memorability):** Para pacientes que acessam o portal esporadicamente, a navegação deve ser dedutível. Sustentados pelo princípio de [Consistência e Padronização](principios.md#conssistencia-pad), o reprojeto evitará a desorientação causada atualmente por redirecionamentos para subdomínios com identidades visuais distintas, garantindo que o usuário sinta que permanece no mesmo ambiente durante toda a jornada.
+
+- **Satisfação do usuário:** Como consequência do cumprimento das metas anteriores, o sistema busca mitigar a frustração atual com a falta de clareza nos status de exames. O fornecimento de feedbacks claros e um modelo conceitual transparente reduzirão a taxa de abandono do portal, gerando uma percepção positiva do serviço digital do laboratório.
 
 ___
 

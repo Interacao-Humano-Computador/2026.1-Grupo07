@@ -1,5 +1,5 @@
 ## Tabela de contribuição
-|Artefato(s) | Autore(s)|
+|Artefato(s) | Autor(es)|
 | --- | --- |
 | Página de Planejamento da Avaliação da Análise de Tarefas | Philipe |
 | [Planejamento: Acesso ao resultado de imagem com visualizador DICOM](PlanejamentosAvalGrupo/PlanejamentoPhilipe.md) | Philipe |
@@ -56,7 +56,10 @@ As entrevistas serão realizadas na modalidade **presencial**. Serão utilizados
 Por fim, antes de iniciar as sessões oficiais, será conduzido um **Teste Piloto** para verificar se o roteiro, o vocabulário, o tempo estimado e os equipamentos estão adequados para a avaliação real. Fica estabelecido que **o resultado do teste piloto não será apresentado no relatório final de resultados da avaliação**.
 
 <a id="crono"></a>
-**Cronograma de Entrevistas**:
+
+**Cronograma de Entrevistas**: <br>
+O cronograma das entrevistas de cada integrante estão detalhados na **Tabela I**:
+<center>  Tabela I - Cronograma de Entrevistas </center>
 
 | Responsável pela Sessão | Participante | Data | Horário | Local de Realização |
 | :--- | :--- | :--- | :--- | :--- |
@@ -66,9 +69,13 @@ Por fim, antes de iniciar as sessões oficiais, será conduzido um **Teste Pilot
 | [Ingrid]() | - | - | - | - |
 | [Nathan]() | - | - | - | - |
 
+>Fonte: autoria própria
+
 <a id="planEsp"></a>
-**Planejamentos Específicos**
-Os planejamentos das avaliações das análises de tarefas de cada integrante estão detalhados abaixo: 
+**Planejamentos Específicos** <br>
+Os planejamentos das avaliações das análises de tarefas de cada integrante estão detalhados na **Tabela II**: 
+
+<center>  Tabela II - Planejamento esepecífico </center>
 
 | Responsável pela Sessão | Planejamento da avaliação da análise da tarefa |
 | :--- | :--- |
@@ -77,6 +84,8 @@ Os planejamentos das avaliações das análises de tarefas de cada integrante es
 | [Hugo Freitas Silva](https://github.com/HugoFreitass) | [Cadastro de exame laboratorial com informação incompleta no sistema](../AnaliseDeTarefas/PlanejamentosAvalGrupo/PlanejamentoHugo.md)|
 | Nathan | - |
 | [Ingrid Alves](https://github.com/alvesingrid)| [Acompanhamento de resultados e download de laudos durante o pré-natal](../AnaliseDeTarefas/PlanejamentosAvalGrupo/PlanejamentoIngrid.md) |
+
+>Fonte: autoria própria
 
 ---
 
@@ -108,3 +117,4 @@ Para garantir a padronização, a **estrutura do relatório do resultado da aval
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
 | 1.0 | 19/05/2026 | Criação do documento | [Philipe Amancio](https://github.com/Phill-Chill) | 19/05/2026 | Revisão da estrutura inicial e adequação ao framework DECIDE | [Hugo Freitas Silva](https://github.com/HugoFreitass) e [Maria Laura Regis](https://github.com/Maria-Laura-Regis) |
+| 1.1 | 23/05/2026 | Ajustes de estruturação e escrita | [Philipe Amancio](https://github.com/Phill-Chill) | -| - | [Hugo Freitas Silva](https://github.com/HugoFreitass) |

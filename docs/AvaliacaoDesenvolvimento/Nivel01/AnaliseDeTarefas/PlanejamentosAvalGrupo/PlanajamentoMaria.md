@@ -1,8 +1,8 @@
 # Planejamento da Avaliação - Pré-agendamento
 
 
-## Rastreabilidade
-|Artefato(s) | Autore(s)|
+## Tabela de contribuição
+|Artefato(s) | Autor(es)|
 | --- | --- |
 | Página de Avaliação da Análise de Tarefas  | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) |
 

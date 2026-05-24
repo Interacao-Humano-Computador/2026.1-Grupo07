@@ -1,10 +1,10 @@
 # Planejamento do Relato dos Resultados — Storyboard
 
-## Rastreabilidade
+## Tabela de contribuição
 
 | Artefato(s) | Autor(es) |
 | --- | --- |
-| Planejamento do Relato dos Resultados do Storyboard | Maria Laura |
+| Planejamento do Relato dos Resultados do Storyboard | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) |
 
 ---
 

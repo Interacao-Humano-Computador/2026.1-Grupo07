@@ -1,6 +1,6 @@
 # Storyboards do Projeto
 
-## Rastreabilidade
+## Tabela de contribuição
 
 | Artefato(s) | Autor(es) |
 | --- | --- |
@@ -41,11 +41,11 @@ Nesta seção, apresentamos os storyboards desenvolvidos pela equipe para o Port
 
 Este storyboard ilustra o **Cenário 02 — Pré-agendamento de exames com dúvidas críticas de preparo**, tendo como persona central **Márcia**, servidora pública de 55 anos que centraliza a rotina médica de toda a família. A narrativa representa a jornada de Márcia ao tentar agendar exames de sangue para ela e para o marido pelo portal do Sabin, deparando-se com informações genéricas de preparo que não respondem à sua dúvida específica sobre o uso de medicação contínua para hipertensão. Conforme ilustrado na Figura 1, o fluxo evidencia os pontos de fricção que levam a persona a abandonar o fluxo automatizado e recorrer ao atendimento humano via WhatsApp.
 
-**Figura 1 — Pré-agendamento de Exames com Dúvidas Críticas de Preparo (Márcia)**
+**Figura 1 — Pré-agendamento de Exames com Dúvidas Críticas de Preparo**
 
 ![Storyboard — Pré-agendamento de Exames com Dúvidas Críticas de Preparo](../../../assets/story-maria.png)
 
-*Fonte: Autoria própria (Maria Laura Regis, 2026).*
+>Fonte: Autoria própria.
 
 ---
 
@@ -55,11 +55,11 @@ Este storyboard ilustra o **Cenário 02 — Pré-agendamento de exames com dúvi
 
 Este storyboard também ilustra o **Cenário 02 — Pré-agendamento de exames com dúvidas críticas de preparo**, sob a perspectiva da persona **Márcia**. A narrativa representa a mesma jornada de agendamento, com foco nos pontos de atrito gerados pela ausência de orientações claras e personalizadas sobre preparo, reforçando os problemas identificados no fluxo automatizado do portal. Conforme ilustrado na Figura 2, o storyboard complementa a visão do Cenário 02 ao destacar aspectos da experiência que motivam o abandono do canal digital.
 
-**Figura 2 — Pré-agendamento de Exames com Dúvidas Críticas de Preparo (Márcia)**
+**Figura 2 — Pré-agendamento de Exames com Dúvidas Críticas de Preparo**
 
 ![Storyboard — Pré-agendamento de Exames com Dúvidas Críticas de Preparo](../../../assets/storyboard-hugo.webp)
 
-*Fonte: Autoria própria (Hugo Freitas Silva, 2026).*
+>Fonte: Autoria própria.
 
 ---
 
@@ -67,13 +67,12 @@ Este storyboard também ilustra o **Cenário 02 — Pré-agendamento de exames c
 
 > Elaborado por: [Philipe Amâncio](https://github.com/Phill-Chill)
 
-Este storyboard ilustra o **Cenário 01 — Acesso ao resultado com visualizador de imagem (DICOM)**, tendo como persona central **Roberto**, médico clínico geral de 36 anos com agenda intensa. A narrativa representa a tentativa de Roberto de acessar as imagens de uma ressonância magnética pelo portal do Sabin durante uma consulta de retorno, sendo impedido por barreiras técnicas do visualizador DICOM — que exige a instalação de um plugin desatualizado ou o download de um arquivo pesado em uma conexão instável. Conforme ilustrado na Figura 3, o fluxo evidencia como a limitação tecnológica do portal força o médico a tomar uma conduta clínica baseada apenas no laudo textual.
+Este storyboard ilustra o Cenário 01 — Acesso ao resultado com visualizador de imagem (DICOM), tendo como persona central Roberto, médico clínico geral. A narrativa representa a utilização da ferramenta pelo portal do Sabin durante uma consulta de retorno, onde Roberto acessa as imagens de uma ressonância magnética. Conforme ilustrado na Figura 3, o fluxo demonstra o contexto prático do visualizador, destacando como o uso de recursos de zoom e ajuste de contraste auxilia o médico na explicação do diagnóstico para o paciente.
 
-**Figura 3 — Acesso ao Resultado de Imagem com Visualizador DICOM (Roberto)**
+**Figura 3 — Acesso ao Resultado de Imagem com Visualizador DICOM**
 
 ![Storyboard — Acesso ao Resultado de Imagem com Visualizador DICOM](../../../assets/storyboard-philipe.jpg)
-
-*Fonte: Autoria própria (Philipe Amâncio, 2026).*
+>Fonte: Autoria própria.
 
 ---
 
@@ -83,11 +82,11 @@ Este storyboard ilustra o **Cenário 01 — Acesso ao resultado com visualizador
 
 Este storyboard ilustra o **Cenário 04 — Acompanhamento de resultados e download de laudos durante o pré-natal**, tendo como persona central **Camila**, professora de 29 anos grávida de 24 semanas. A narrativa representa a jornada de Camila ao tentar acessar, no intervalo de suas aulas, o resultado urgente de sua Curva Glicêmica e enviá-lo à obstetra. Conforme ilustrado na Figura 4, o fluxo evidencia como a fragmentação dos arquivos de resultado — que exige o download de três PDFs separados para um único exame seriado — gera atrito e carga de trabalho desnecessária, mesmo que a tarefa principal seja concluída com sucesso.
 
-**Figura 4 — Acompanhamento de Resultados e Download de Laudos durante o Pré-natal (Camila)**
+**Figura 4 — Acompanhamento de Resultados e Download de Laudos durante o Pré-natal**
 
 ![Storyboard — Acompanhamento de Resultados e Download de Laudos durante o Pré-natal](../../../assets/storyboard-inrgid.jpeg)
 
-*Fonte: Autoria própria (Ingrid Alves, 2026).*
+>Fonte: Autoria própria.
 
 ---
 

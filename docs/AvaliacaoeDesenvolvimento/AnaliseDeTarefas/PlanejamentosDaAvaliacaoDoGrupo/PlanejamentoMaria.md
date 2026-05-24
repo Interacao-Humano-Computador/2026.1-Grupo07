@@ -1,10 +1,10 @@
 # Planejamento da Avaliação - Pré-agendamento
 
 
-## Rastreabilidade
-|Artefato(s) | Autore(s)|
+## Tabela de contribuição
+|Artefato(s) | Autor(es)|
 | --- | --- |
-| Página de Avaliação da Análise de Tarefas  | Maria Laura |
+| Página de Avaliação da Análise de Tarefas  | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) |
 
 Este documento estabelece o plano de avaliação para os artefatos de **Cenário**, **Storyboard**, **CTT (ConcurTaskTrees)** e **Análise GOMS (KLM)** associados à funcionalidade de **Pré-agendamento** do Portal Sabin. A metodologia segue a abordagem de investigação por meio de **Entrevistas**.
 

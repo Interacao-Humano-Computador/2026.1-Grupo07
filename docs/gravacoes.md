@@ -1,5 +1,10 @@
 # Gravações das Apresentações
 
+## Tabela de contribuição
+|Artefato(s) | Autor(es)|
+| --- | --- |
+| Página de Gravações | Philipe |
+
 Este documento centraliza os links para as gravações das apresentações de cada etapa do projeto da disciplina de Interação Humano-Computador (IHC), detalhando os tópicos abordados em cada entrega.
 
 | Etapa | Tópicos Abordados | Data da Apresentação | Link da Gravação |

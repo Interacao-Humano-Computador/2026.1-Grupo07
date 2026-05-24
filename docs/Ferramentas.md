@@ -1,7 +1,7 @@
 # Ferramentas
 
-## Rastreabilidade
-|Artefato(s) | Autore(s)|
+## Tabela de contribuição
+|Artefato(s) | Autor(es)|
 | --- | --- |
 | Página de Ferramentas | Philipe |
 

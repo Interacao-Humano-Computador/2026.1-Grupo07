@@ -1,7 +1,7 @@
 # Planejamento da Avaliação da Análise de Tarefas - Acompanhamento de Resultados e Download de Laudos
 
-## Rastreabilidade
-|Artefato(s) | Autore(s)|
+## Tabela de contribuição
+|Artefato(s) | Autor(es)|
 | --- | --- |
 | Página de Avaliação da Análise de Tarefas - Download de Laudos | Ingrid |
 

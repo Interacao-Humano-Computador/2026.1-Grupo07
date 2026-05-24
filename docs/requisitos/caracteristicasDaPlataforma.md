@@ -1,7 +1,7 @@
 # Características da Plataforma
 
-## Rastreabilidade
-|Artefato(s) | Autore(s)|
+## Tabela de contribuição
+|Artefato(s) | Autor(es)|
 | --- | --- |
 | Página de Características da Plataforma | Ingrid |
 
@@ -27,12 +27,14 @@ O acesso ao portal web abrange diferentes tipos de dispositivos, devendo emprega
 - **Tablets**: Dispositivos intermediários (telas entre 768px e 1024px), utilizados tanto na orientação vertical quanto horizontal. A interface deve manter botões acessíveis ao toque (touch).
 - **Smartphones (Mobile)**: Dispositivos de telas menores (geralmente abaixo de 768px). A interface deve ser focada no acesso rápido às funcionalidades principais, como download de laudos, busca por unidades e agendamentos.
 
+<a id="req-restri"></a>
 ## 4. Requisitos e Restrições Tecnológicas
 
 ### 4.1 Conectividade
 - O sistema depende de **conexão ativa com a internet** para autenticação de usuários, carregamento de dados em tempo real (como horários disponíveis) e download de laudos médicos. 
 - O tempo de resposta para operações críticas não deve prejudicar a experiência em conexões móveis mais lentas (como 3G).
 
+<a id="ancora-seguranca"></a>
 ### 4.2 Segurança e Privacidade
 - Sendo um portal da área da saúde, a plataforma lida com dados sensíveis (informações médicas, dados pessoais).
 - Requer o uso de protocolos seguros (**HTTPS/SSL**) para tráfego de informações.

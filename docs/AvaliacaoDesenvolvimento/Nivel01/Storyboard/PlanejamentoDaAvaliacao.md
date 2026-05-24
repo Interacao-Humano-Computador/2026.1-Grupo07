@@ -1,6 +1,6 @@
 ## Tabela de Contribuição
 
-|Artefato(s) | Autore(s)|
+|Artefato(s) | Autor(es)|
 | --- | --- |
 | Página de Planejamento da Avaliação do Storyboard | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 

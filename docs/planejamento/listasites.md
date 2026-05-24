@@ -1,5 +1,5 @@
-## Rastreabilidade
-|Artefato(s) | Autore(s)|
+## Tabela de contribuição
+|Artefato(s) | Autor(es)|
 | --- | --- |
 | Página de sites avaliados | Philipe |
 | [Análise do site Beto Carrero World](#beto) | Philipe |

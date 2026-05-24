@@ -1,7 +1,7 @@
 # Brainstorming com Diagrama de Afinidade
 
-## Rastreabilidade
-|Artefato(s) | Autore(s)|
+## Tabela de contribuição
+|Artefato(s) | Autor(es)|
 | --- | --- |
 | Página de Brainstorming  | Philipe, Hugo e Maria Laura |
 

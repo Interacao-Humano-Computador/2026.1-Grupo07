@@ -1,7 +1,7 @@
 # Questionário
 
-## Rastreabilidade
-|Artefato(s) | Autore(s)|
+## Tabela de contribuição
+|Artefato(s) | Autor(es)|
 | --- | --- |
 | Página de Questinário | Philipe |
 | Construção e aplicação do questionário | Ingrid |

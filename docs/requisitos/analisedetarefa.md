@@ -1,8 +1,8 @@
 
 # Análise de Tarefas
 
-## Rastreabilidade
-|Artefato(s) | Autore(s)|
+## Tabela de contribuição
+|Artefato(s) | Autor(es)|
 | --- | --- |
 | Página de análise de tarefas | Maria LAura |
 | [Tarefa: Pré-agendamento de exames via envio de guias médicas](#pre-agendamento) | Maria Laura |
