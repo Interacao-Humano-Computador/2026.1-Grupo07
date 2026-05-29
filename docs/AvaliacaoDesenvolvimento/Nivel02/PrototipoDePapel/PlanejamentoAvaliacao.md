@@ -1,0 +1,123 @@
+## Tabela de Contribuição
+
+| Artefato(s) | Autor(es) |
+| --- | --- |
+| Página de Planejamento da Avaliação do Protótipo de Papel | [Ingrid Alves](https://github.com/alvesingrid) |
+
+# Introdução
+
+Este documento apresenta o planejamento da avaliação do Protótipo de Papel desenvolvido para o Portal Sabin. A avaliação tem como objetivo verificar se as soluções de design representadas no protótipo de baixa fidelidade atendem às necessidades e expectativas dos usuários, além de identificar problemas de usabilidade, inconsistências de navegação e oportunidades de melhoria antes da elaboração do protótipo de alta fidelidade <span class="hover-image">(BARBOSA; SILVA, 2021, p. 358)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/PlanejamentoAnalise.png"> </span>.
+
+Para conduzir essa etapa, a equipe adotou o método de **Avaliação por Observação**, especificamente por meio da técnica de **Teste de Usabilidade com Protótipo de Papel**.
+
+# Metodologia
+
+O planejamento da avaliação será estruturado com base no framework DECIDE:
+
+- **D:** determinar os objetivos da avaliação.
+- **E:** explorar perguntas a serem respondidas com a avaliação.
+- **C:** (choose) escolher os métodos de avaliação.
+- **I:** identificar e gerir as questões práticas da avaliação.
+- **D:** decidir como lidar com as questões éticas.
+- **E:** (evaluate) avaliar, interpretar e apresentar os resultados.
+
+---
+
+## D - Objetivo da Avaliação
+
+O objetivo desta avaliação é identificar **problemas de usabilidade** nas soluções propostas pelo Protótipo de Papel, verificando se as telas e fluxos de navegação permitem que os usuários concluam suas tarefas de forma eficaz, eficiente e satisfatória <span class="hover-image">(BARBOSA; SILVA, 2021, p. 294)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/DECIDE-D1.png"> </span>. Especificamente, a avaliação buscará:
+
+- Verificar se os fluxos de navegação do protótipo são intuitivos e correspondem ao modelo mental dos usuários;
+- Identificar telas, elementos ou rótulos que causem confusão ou hesitação;
+- Avaliar se as soluções propostas resolvem os problemas identificados na Análise de Tarefas e no Storyboard;
+- Coletar sugestões de melhoria diretamente dos usuários.
+
+## E - Perguntas Exploratórias
+
+Essas perguntas operacionalizam a investigação e o julgamento de valor a serem realizados <span class="hover-image">(BARBOSA; SILVA, 2021, p. 294)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/DECIDE-E.png"> </span>.
+
+1. O usuário conseguiu concluir a tarefa proposta sem auxílio do avaliador?
+2. Em quais momentos o usuário demonstrou hesitação ou confusão?
+3. Os rótulos, botões e elementos de navegação foram compreendidos intuitivamente?
+4. O fluxo de telas corresponde à sequência esperada pelo usuário para realizar a tarefa?
+5. Houve alguma etapa que o usuário tentou realizar de forma diferente da prevista no protótipo?
+6. O usuário conseguiu identificar onde estava no sistema a qualquer momento da navegação?
+7. Alguma informação necessária para a conclusão da tarefa estava ausente ou difícil de encontrar?
+8. O usuário expressou satisfação ou frustração em algum momento específico?
+9. Há alguma funcionalidade que o usuário esperava encontrar e não estava presente no protótipo?
+10. O usuário conseguiu recuperar-se de eventuais erros de navegação sem auxílio?
+
+## C - Escolha do Método
+
+Para avaliar o Protótipo de Papel, a equipe optou pela técnica de **Avaliação por Observação** com **Teste de Usabilidade** <span class="hover-image">(BARBOSA; SILVA, 2021, p. 294)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/DECIDE-C.png"> </span>. Nessa técnica, o avaliador assume o papel de "computador humano" (*human computer*), manipulando as telas do protótipo conforme as ações do participante.
+
+Essa abordagem foi escolhida por permitir:
+
+- **Observação direta** das dificuldades de interação sem influenciar as ações do usuário;
+- **Feedback imediato** sobre problemas de navegação e rótulos;
+- **Custo-benefício**: alta geração de insights com baixo investimento de tempo e recursos;
+- **Iteração rápida**: os problemas identificados podem ser corrigidos no protótipo antes da próxima sessão.
+
+---
+
+## I - Identificar as Questões Práticas
+
+Nesta etapa do framework DECIDE, são definidos os procedimentos organizacionais e os recursos necessários para a execução da avaliação <span class="hover-image">(BARBOSA; SILVA, 2021, p. 294)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/DECIDE-I.png"> </span>. Os participantes serão selecionados com base nas características descritas no [Perfil de Usuário](../../../requisitos/perfilDeUsuario.md).
+
+As sessões serão realizadas na modalidade **presencial**. Serão utilizados os protótipos de papel, papel e caneta para anotações, e equipamento de vídeo. Durante as sessões, a equipe assumirá as seguintes responsabilidades:
+
+* **Avaliador/Facilitador:** Responsável por apresentar a tarefa ao participante, simular o comportamento do sistema (*human computer*) trocando as telas do protótipo conforme as ações do usuário.
+* **Anotador:** Responsável por documentar os erros, momentos de hesitação e dificuldades observadas.
+* **Cinegrafista:** Responsável por gravar a sessão mediante consentimento explícito do participante.
+
+Antes das sessões oficiais, será conduzido um **Teste Piloto**. O resultado do teste piloto **não será incluído no relatório final de resultados**.
+
+<a id="crono"></a>
+
+**Cronograma de Sessões**: <br>
+O cronograma das sessões está detalhado na **Tabela I**:
+<center>  Tabela I - Cronograma de Sessões </center>
+
+| Responsável pela Sessão | Participante | Data | Horário | Local de Realização |
+| :--- | :--- | :--- | :--- | :--- |
+| [Ingrid Alves](https://github.com/alvesingrid) | - | - | - | - |
+| [Hugo Freitas Silva](https://github.com/HugoFreitass) | - | - | - | - |
+| [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | - | - | - | - |
+| [Philipe Amancio](https://github.com/Phill-Chill) | - | - | - | - |
+| [Nathan]() | - | - | - | - |
+
+>Fonte: autoria própria
+
+---
+
+## D - Questões Éticas
+
+Antes da realização das atividades, os participantes deverão concordar com o [Termo de Consentimento](../../../requisitos/Aspectoseticos.md). Asseguramos que **os participantes da avaliação serão respeitados e não podem ser prejudicados direta ou indiretamente, nem durante os experimentos, nem após a divulgação dos resultados** <span class="hover-image">(BARBOSA; SILVA, 2021, p. 294)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/DECIDE-D2.png"> </span>. Todo o procedimento preservará o anonimato e a privacidade dos dados coletados.
+
+## E - Avaliar, Interpretar e Apresentar os Resultados
+
+Após a coleta, os dados serão interpretados para identificar problemas de usabilidade, dificuldades de navegação e oportunidades de melhoria no protótipo <span class="hover-image">(BARBOSA; SILVA, 2021, p. 294)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/DECIDE-E2.png"> </span>.
+
+Para garantir a padronização, a **estrutura do relatório do resultado da avaliação** deverá conter os seguintes tópicos, os quais serão melhor abordados no [planejamento do resultado](PlanejamentoDosResultados.md):
+
+1. Os objetivos e o escopo da avaliação;
+2. O método de avaliação empregado;
+3. O número e o perfil dos avaliadores e dos participantes;
+4. Um sumário dos dados coletados (tarefas executadas, erros, hesitações);
+5. A interpretação e análise dos dados;
+6. Uma lista detalhada dos problemas encontrados;
+7. O planejamento para o reprojeto do protótipo.
+
+
+## Referências Bibliográficas
+
+> BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
+
+> SNYDER, C. **Paper Prototyping: The Fast and Easy Way to Design and Refine User Interfaces.** San Francisco: Morgan Kaufmann, 2003.
+
+
+## Histórico de Versão
+
+| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
+| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
+| 1.0 | 29/05/2026 | Criação do documento | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - |

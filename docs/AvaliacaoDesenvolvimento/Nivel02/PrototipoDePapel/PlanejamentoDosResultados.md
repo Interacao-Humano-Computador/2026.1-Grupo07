@@ -1,0 +1,204 @@
+# Planejamento do Relato dos Resultados — Protótipo de Papel
+
+## Tabela de Contribuição
+
+| Artefato(s) | Autor(es) |
+| --- | --- |
+| Planejamento do Relato dos Resultados do Protótipo de Papel | [Ingrid Alves](https://github.com/alvesingrid) |
+
+---
+
+## 1. Introdução
+
+Este documento tem como objetivo definir o planejamento e a estrutura padronizada para o relato dos resultados da avaliação do Protótipo de Papel do Portal Sabin. O intuito é garantir que, após a coleta empírica de dados por meio do Teste de Usabilidade com Protótipo de Papel, todos os avaliadores da equipe sigam a mesma metodologia de consolidação e interpretação dos dados obtidos nas sessões <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/topicos-relato-p279.png"> </span>.
+
+Este artefato corresponde à etapa **"E": Avaliar (Evaluate), interpretar e apresentar os dados** do framework DECIDE <span class="hover-image">(BARBOSA; SILVA, 2021, p. 280)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/DECIDE-E2.png"> </span>, definindo como os dados serão avaliados, interpretados e apresentados.
+
+---
+
+## 2. Metodologia de Consolidação dos Dados
+
+Após a conclusão das sessões individuais, os resultados serão consolidados por meio de uma **análise intersujeito** <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/analise-intersujeito.png"> </span>. Nesta etapa, a equipe deverá:
+
+* Buscar **recorrências** nos dados: padrões de comportamento, erros e dificuldades comuns entre participantes.
+* Diferenciar problemas representativos de idiossincrasias: separar dificuldades recorrentes de problemas particulares de um único participante.
+* Relacionar os resultados obtidos com os objetivos definidos no [Planejamento da Avaliação](PlanejamentoAvaliacao.md).
+* Evitar generalizações indevidas: os resultados representam tendências observadas e não conclusões absolutas.
+* **Atenção:** o resultado do Teste Piloto não será incluído no relato oficial da avaliação.
+
+---
+
+## 3. Tópicos do Relato de Resultados
+
+Para garantir a padronização, todos os documentos de Relato de Resultados produzidos pela equipe deverão conter obrigatoriamente a seguinte estrutura:
+
+### 3.1. Objetivos e Escopo da Avaliação
+
+O relato deverá apresentar os objetivos da avaliação e descrever quais tarefas e telas do protótipo foram avaliadas. Deverá também justificar se os objetivos foram atingidos ou indicar por que alguma questão não pôde ser respondida.
+
+**Escopo mínimo a descrever:**
+
+- As tarefas avaliadas e as telas do protótipo utilizadas;
+- Os fluxos de navegação analisados;
+- Os problemas previamente identificados na Análise de Tarefas que motivaram o design proposto.
+
+---
+
+### 3.2. Método de Avaliação Empregado
+
+O documento deverá registrar como o Teste de Usabilidade com Protótipo de Papel foi conduzido, especificando:
+
+- Como o avaliador assumiu o papel de *human computer*;
+- Como as telas foram apresentadas e trocadas durante a sessão;
+- As estratégias de coleta de dados utilizadas:
+  - Observação direta das ações do participante;
+  - Protocolo *Think Aloud* (verbalização dos pensamentos, se aplicado);
+  - Registro audiovisual da sessão (mediante consentimento);
+  - Anotações do avaliador/anotador.
+
+---
+
+### 3.3. Perfil de Usuários e Avaliadores
+
+#### Participantes
+
+| Participante | Perfil |
+|------------|---------|
+| [Nome] | [Perfil de usuário correspondente](../../../requisitos/perfilDeUsuario.md) |
+
+#### Avaliadores
+
+| Avaliador | Papel |
+|------------|---------|
+| [Ingrid Alves](https://github.com/alvesingrid) | Facilitador / Human Computer |
+| [Hugo Freitas Silva](https://github.com/HugoFreitass) | Anotador |
+| [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | Cinegrafista |
+
+#### Relação com o Perfil de Usuário
+
+Os participantes selecionados apresentam características compatíveis com o [perfil de usuário](../../../requisitos/perfilDeUsuario.md) do Portal Sabin, garantindo a validade externa dos resultados obtidos.
+
+---
+
+### 3.4. Tarefas Executadas e Sumário dos Dados
+
+#### Tarefas Avaliadas
+
+| ID | Tarefa |
+|----|--------|
+| T1 | Acompanhamento de resultados e download de laudos durante o pré-natal |
+| T2 | Cadastro de exame laboratorial com informação incompleta no sistema |
+| T3 | Acesso ao resultado de imagem com visualizador DICOM |
+| T4 | Agendamento de exames com dúvidas críticas de preparo |
+| T5 | [Tarefa do Nathan] |
+
+#### Sumário Quantitativo dos Dados
+
+| Métrica | Resultado |
+|----------|-----------| 
+| Número de participantes | XX |
+| Tarefas concluídas sem auxílio | XX |
+| Tarefas concluídas com auxílio | XX |
+| Tarefas não concluídas | XX |
+| Total de erros observados | XX |
+| Pontos de hesitação identificados | XX |
+| Comentários relevantes registrados | XX |
+
+#### Dificuldades Observadas por Tarefa
+
+| Tarefa | Dificuldade Observada |
+|--------|-----------------------|
+| T1 | |
+| T2 | |
+| T3 | |
+| T4 | |
+| T5 | |
+
+---
+
+### 3.5. Relato da Interpretação e Análise dos Dados
+
+Nesta seção devem ser apresentados os resultados obtidos e sua relação com os objetivos definidos no planejamento.
+
+#### Análise das Perguntas Exploratórias
+
+| Pergunta Exploratória | Evidências Observadas | Conclusão |
+|----------------------|----------------------|------------|
+| O usuário concluiu a tarefa sem auxílio? | [Observações] | [Respondida / Parcialmente / Não respondida] |
+| Houve hesitação ou confusão? | [Observações] | [Respondida / Parcialmente / Não respondida] |
+| Os rótulos foram compreendidos? | [Observações] | [Respondida / Parcialmente / Não respondida] |
+
+#### Principais Achados
+
+**Aspectos Positivos:**
+
+- [Aspecto positivo identificado]
+- [Aspecto positivo identificado]
+
+**Dificuldades Encontradas:**
+
+- [Dificuldade observada]
+- [Dificuldade observada]
+
+**Quebras de Expectativa:**
+
+- [Quebra de expectativa observada]
+- [Quebra de expectativa observada]
+
+---
+
+### 3.6. Lista dos Problemas Encontrados
+
+| ID | Descrição do Problema | Tarefa | Frequência | Severidade | Impacto | Possível Causa | Prioridade |
+|----|----------------------|--------|------------|------------|---------|----------------|------------|
+| P01 | [Descrição] | T1 | [N participantes] | Alta | [Impacto] | [Causa] | Alta |
+| P02 | [Descrição] | T2 | [N participantes] | Média | [Impacto] | [Causa] | Média |
+| P03 | [Descrição] | T3 | Ocasional | Baixa | [Impacto] | [Causa] | Baixa |
+
+#### Critérios de Severidade
+
+Os problemas serão classificados de acordo com a escala de severidade <span class="hover-image">(BARBOSA; SILVA, 2021, p. 284).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/escala-severidade.png"> </span>:
+
+| Nível | Descrição |
+|---------|------------|
+| Cosmético | Pequeno desconforto sem impedir a realização da tarefa |
+| Pequeno | Dificulta significativamente a execução da tarefa |
+| Grande | Impede ou compromete fortemente a realização da tarefa |
+| Catastrófico | Impede completamente a conclusão da atividade |
+
+---
+
+### 3.7. Planejamento para o Reprojeto do Protótipo
+
+Nesta seção deverão ser apresentadas propostas de melhoria para o protótipo com base nos problemas identificados durante a avaliação <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/reprojeto-p279.png"> </span>.
+
+#### Recomendações de Melhoria
+
+| Problema Relacionado | Proposta de Melhoria | Justificativa |
+|---------------------|---------------------|--------------|
+| [ID do problema] | [Descrição da melhoria] | [Justificativa] |
+| [ID do problema] | [Descrição da melhoria] | [Justificativa] |
+
+#### Priorização das Alterações
+
+| Prioridade | Alteração Proposta | Problema Relacionado |
+|------------|-------------------|---------------------|
+| Alta | [Alteração] | [ID do problema] |
+| Média | [Alteração] | [ID do problema] |
+| Baixa | [Alteração] | [ID do problema] |
+
+---
+
+## Referência Bibliográfica
+
+> BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
+
+> SNYDER, C. **Paper Prototyping: The Fast and Easy Way to Design and Refine User Interfaces.** San Francisco: Morgan Kaufmann, 2003.
+
+---
+
+## Histórico de Versão
+
+| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
+| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
+| 1.0 | 29/05/2026 | Criação do documento | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - |

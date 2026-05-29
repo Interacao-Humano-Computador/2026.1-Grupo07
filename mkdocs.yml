@@ -73,7 +73,10 @@ nav:
           - Planejamento da Avaliação: AvaliacaoDesenvolvimento/Nivel01/Storyboard/PlanejamentoDaAvaliacao.md
           - Planejamento do Relato dos Resultados: AvaliacaoDesenvolvimento/Nivel01/Storyboard/PlanejamentoDosResultados.md
       - Nível 2:
-        - Em breve: AvaliacaoDesenvolvimento/Nivel02/nivel2.md
+        - Protótipo de Papel:
+          - Protótipo de Papel: AvaliacaoDesenvolvimento/Nivel02/PrototipoDePapel/PrototipoDePapel.md
+          - Planejamento da Avaliação: AvaliacaoDesenvolvimento/Nivel02/PrototipoDePapel/PlanejamentoAvaliacao.md
+          - Planejamento do Relato dos Resultados: AvaliacaoDesenvolvimento/Nivel02/PrototipoDePapel/PlanejamentoDosResultados.md
       - Nível 3:
         - Em breve: AvaliacaoDesenvolvimento/Nivel03/nivel3.md
   - Ferramentas: Ferramentas.md
