@@ -23,11 +23,17 @@ Para assegurar que o conjunto de cenários seja verdadeiramente representativo d
 
 # Cenário 01: Acesso ao resultado com visualizadores de imagem (DICOM) {#dicom}
 
-**Atores:** Roberto (Médico Clínico Geral), Paciente
+**Ator:** Jorge
 
-Durante um atendimento de retorno em seu consultório, Roberto, um médico clínico geral de 36 anos com a agenda sempre lotada, recebe um paciente que havia se queixado de dores e realizado uma ressonância magnética do ombro direito no laboratório Sabin. O paciente informa que os resultados já estão disponíveis no portal. Para otimizar o tempo da consulta e evitar analisar imagens detalhadas na tela pequena do celular do paciente, Roberto solicita os dados de login dele e acessa o portal do laboratório diretamente de seu computador de última geração. 
+Jorge, 32 anos, realizou uma ressonância magnética do ombro direito no laboratório Sabin após semanas de dor. Faltando alguns dias para sua consulta de retorno, ele está em casa quando recebe uma notificação informando que seus resultados já estão disponíveis no portal.
 
-Ao localizar o exame no sistema, o laudo em PDF carrega rapidamente. No entanto, para definir com precisão se a conduta médica será um encaminhamento para cirurgia ou apenas sessões de fisioterapia, Roberto precisa visualizar a imagem exata da lesão. Ao clicar para abrir o visualizador de imagens (DICOM) integrado à plataforma, o sistema apresenta uma barreira técnica: exige a instalação de um plugin desatualizado no navegador ou o download de um arquivo ".zip" excessivamente pesado. Como a conexão de internet da clínica apresenta leve instabilidade no momento e ele não tem tempo hábil para acionar o suporte de TI durante a consulta, Roberto é forçado a desistir de carregar as imagens em alta resolução. Frustrado com a ineficiência tecnológica do portal e pressionado pelo próximo paciente que já aguarda na recepção, ele baseia seu diagnóstico provisório apenas no laudo textual, prescreve um anti-inflamatório paliativo e orienta sua secretária a ligar para o laboratório para providenciar o acesso médico adequado para uma análise posterior.
+Curioso e com vontade de se preparar para a consulta, Jorge acessa o portal do Sabin pelo computador. Ao localizar o exame, ele abre primeiramente o laudo em PDF, mas se depara com termos técnicos complexos e jargões médicos incompreensíveis para um leigo. Para tentar compreender o quadro, ele copia o texto do laudo e o envia para uma ferramenta de Inteligência Artificial, pedindo um resumo em linguagem simples.
+
+A IA traduz o jargão de forma didática, explicando que ele possui uma inflamação na região superior do ombro, e descreve onde ele pode tentar identificar o problema visualmente. Motivado pela explicação, Jorge volta ao portal do Sabin e clica para abrir o visualizador de imagens (DICOM). A ferramenta web carrega fluidamente no navegador.
+
+Acompanhando mentalmente a explicação da IA, ele utiliza as ferramentas do portal para explorar a imagem: primeiro, aciona o recurso de Contraste para realçar a diferença entre o osso e o tecido muscular; em seguida, utiliza a ferramenta de Zoom na área superior do ombro, conseguindo identificar exatamente a região inflamada descrita no resumo.
+
+Jorge encerra a visualização e fecha o sistema. Em vez de ansiedade, ele agora sente segurança por ter compreendido o próprio corpo. Ele comparece à consulta de retorno com dúvidas mais objetivas, acompanhando perfeitamente a explicação do seu médico e o encaminhamento para a fisioterapia.
 
 ---
 

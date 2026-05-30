@@ -23,25 +23,25 @@ Na técnica de eleco de personas, é essencial que os integrantes da equipe de d
 
 ## Persona 1: 
 
-> ### Roberto (Médico Clínico Geral) {#roberto}
+> ### Jorge (Paciente) {#jorge}
 > Elaborada por: Philipe Amâncio
 
 | Categoria | Detalhes do Perfil |
 | :--- | :--- |
 |**Foto**| ![alt text](../assets/image-28.png){width="600"}|
-| **Identidade** | **Nome:** Roberto <br> **Idade:** 36 anos <br> **Sexo:** Masculino <br> **Localização:** Brasília, DF <br> **Status Socioeconômico:** Classe Alta <br> **Status na Pesquisa:** Persona Primária |
-| **Perfil Geral** | Médico clínico geral extremamente ocupado (atende 1 paciente a cada 20/30 min). Acessa o sistema durante a consulta, com o paciente à frente, para verificar exames e decidir a conduta médica de forma ágil e segura. |
-| **Educação e Aprendizado** | **Formação:** Graduação em Medicina <br> **Nível de Leitura / Digital:** Alto / Alta facilidade <br> **Preferência de Aprendizado:** Explorar sozinho (Prático). <br> **Observação:** Exige sistemas intuitivos; delega o uso de manuais à secretária. |
-| **Experiência Profissional** | **Cargo:** Clínico Geral (12 anos na área, 8 anos na clínica atual). <br> **Responsabilidades:** Diagnóstico, prescrição e acompanhamento de crônicos. <br> **Plano de Carreira:** Expandir pacientes particulares e focar em medicina preventiva. |
-| **Relação com Tecnologia** | **Nível:** Médio a Alto (>10 anos de uso no trabalho). <br> **Dispositivos:** Smartphone, Notebook e Desktop de última geração. <br> **Sistemas:** Prontuário eletrônico, prescrição digital, WhatsApp. <br> **Conexão:** Wi-Fi de alta velocidade na clínica (não tem tempo para acionar suporte TI). |
-| **Experiência com Sistemas** | **Uso Atual:** Acessa portais de laboratórios periodicamente ao longo do dia. <br> **Pontos Positivos:** Visualizadores DICOM rápidos direto no navegador. <br> **Frustrações:** Falta de responsividade celular, múltiplos cliques, reautenticação constante. <br> **Preferência:** Autenticação biométrica (FaceID) e botões de ação (ex: "Baixar Laudo") em destaque. |
-| **Objetivos** | **Finais:** Acessar laudos 100% digitais, ver imagens em alta resolução e tomar decisões precisas. <br> **De Experiência:** Sentir-se ágil, moderno e sem estresse tecnológico (luta contra interface). <br> **De Vida:** Ser reconhecido como resolutivo e manter equilíbrio pessoal/profissional (não sair tarde do consultório por atrasos no sistema). |
-| **Habilidades e Tarefas** | **Competências:** Interpretação clínica, patologia, radiologia e farmacologia (Autonomia Total). <br> **Tarefas Críticas:** Buscar pacientes por CPF/lista (Alta frequência) e analisar gráficos de evolução. <br> **Tarefas Secundárias:** Imprimir 2ª via de laudo. |
-| **Relacionamentos** | **Interações:** Pacientes, especialistas e secretárias. <br> **Influência:** É um grande influenciador (Stakeholder indireto), pois indica aos pacientes o laboratório que possui o portal mais fácil para ele utilizar. |
-| **Requisitos e Expectativas** | **Necessidades:** Acesso rápido, histórico do paciente, visualizador integrado e comparação lado a lado. <br> **Modelo Mental:** O sistema deve ser organizado na hierarquia *"Paciente > Histórico de Exames"* de carregamento instantâneo. |
-| **Atitudes e Tolerância** | **Perfil:** Aberto a novas tecnologias, prefere simplicidade e controle avançado. <br> **Tolerância a falhas:** Baixíssima (Zero tolerância para inoperância comercial). <br> **Comportamento no Erro:** Impaciente. Se demorar, desiste e manda a secretária ligar para cobrar. |
-| **Domínio e Vocabulário** | **Domínio do Tema:** Altíssimo (é a autoridade máxima na consulta). <br> **Idiomas:** Português nativo, Inglês técnico. <br> **Jargões:** CID-10, termos anatômicos, VHS, TGO, TGP. |
-| **Citação Representativa** | *"Eu só preciso ver o resultado do hemograma e a imagem da ressonância agora. Se o sistema me pedir para trocar a senha ou preencher um formulário longo, eu perco o tempo da consulta."* |
+| **Identidade** | **Nome:** Jorge <br> **Idade:** 32 anos <br> **Sexo:** Masculino <br> **Localização:** Brasília, DF <br> **Status Socioeconômico:** Classe Média Alta <br> **Status na Pesquisa:** Persona Primária |
+| **Perfil Geral** | Paciente proativo e investigativo. Não gosta de esperar passivamente pelo médico para saber o que tem de errado com seu corpo. Busca acessar resultados antecipadamente e utiliza a tecnologia para se preparar para as consultas. |
+| **Educação e Aprendizado** | **Formação:** Ensino Superior Completo <br> **Nível de Leitura / Digital:** Alto / Alta facilidade <br> **Preferência de Aprendizado:** Curioso, pesquisa no Google, assiste a vídeos explicativos e usa ferramentas de IA generativa para tirar dúvidas. |
+| **Experiência Profissional** | **Cargo:** Administrador / Analista de Sistemas. <br> **Responsabilidades:** Trabalho de escritório, passa grande parte do dia no computador. <br> **Plano de Saúde:** Utiliza plano de saúde corporativo para consultas e exames de imagem. |
+| **Relação com Tecnologia** | **Nível:** Alto. <br> **Dispositivos:** Smartphone moderno e Notebook pessoal. <br> **Sistemas:** Aplicativos de banco, portais de saúde, ChatGPT (ou similares). <br> **Conexão:** Wi-Fi em casa e 4G/5G constante. |
+| **Experiência com Sistemas** | **Uso Atual:** Acessa portais de laboratórios esporadicamente, apenas quando recebe a notificação de que um exame está pronto. <br> **Pontos Positivos:** Interfaces limpas que carregam direto no navegador web. <br> **Frustrações:** Laudos 100% técnicos sem explicação para leigos, exigência de baixar plugins ou arquivos em formato `.zip` pesados. <br> **Preferência:** Fluxos intuitivos e sem barreiras tecnológicas. |
+| **Objetivos** | **Finais:** Visualizar seu laudo e suas imagens DICOM para entender sua dor antes da consulta médica de retorno. <br> **De Experiência:** Sentir-se no controle da própria saúde, utilizando ferramentas web para investigar seu próprio exame. <br> **De Vida:** Tratar a dor no ombro, recuperar sua qualidade de vida e ter diálogos produtivos com seus médicos. |
+| **Habilidades e Tarefas** | **Competências:** Navegação web avançada, uso de IAs para simplificar textos complexos. <br> **Tarefas Críticas:** Acessar o exame via link de notificação e abrir o visualizador de imagens. <br> **Tarefas Secundárias:** Fazer download do PDF para levar impresso (se necessário) ou compartilhar o link com o médico. |
+| **Relacionamentos** | **Interações:** Atendentes de laboratório e Médicos. <br> **Influência:** Consumidor final. Tem o poder de escolher o laboratório onde fará o exame baseado na qualidade do aplicativo e na facilidade de acesso aos resultados online. |
+| **Requisitos e Expectativas** | **Necessidades:** Notificações em tempo real, acesso rápido sem precisar caçar a senha antiga, visualizador de imagens que funcione no clique, sem instalações adicionais. <br> **Modelo Mental:** "Receber Notificação > Clicar > Ler o Laudo > Abrir a Imagem > Entender o problema". |
+| **Atitudes e Tolerância** | **Perfil:** Quer resolver sozinho. <br> **Tolerância a falhas:** Média. Se o sistema der erro, tenta atualizar a página. Se continuar não funcionando, desiste e aguarda o dia da consulta. <br> **Comportamento no Erro:** Fica ansioso e frustrado por ter a informação bloqueada. |
+| **Domínio e Vocabulário** | **Domínio do Tema Médico:** Leigo. <br> **Idiomas:** Português nativo. <br> **Jargões:** Não domina. Precisa que a Inteligência Artificial traduza termos como "tendinopatia" ou "espaço subacromial" para linguagem cotidiana. |
+| **Citação Representativa** | *"Quero entender exatamente o problema e como a solução irá recolver"* |
 
 
 ## Persona 2: 

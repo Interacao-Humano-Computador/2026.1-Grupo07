@@ -1,106 +1,78 @@
-
 # Planejamento da Avaliação da Análise de Tarefas - Visualizador DICOM
 
-Este documento estabelece o plano de avaliação específico para os artefatos de **Cenário**, **Análise de Tarefas (HTA e CTT)** e o **Storyboard** associados à funcionalidade do Visualizador DICOM web do Portal Sabin. A metodologia segue a abordagem de investigação por meio de **Entrevistas**.
+Este documento estabelece o plano de avaliação específico para os artefatos de Cenário, Análise de Tarefas (HTA e CTT) e o Storyboard associados à funcionalidade do Visualizador DICOM web do Portal Sabin. A metodologia segue a abordagem de investigação por meio de Entrevistas.
 
 ## Tabela de contribuição
-|Artefato(s) | Autor(es)|
-| --- | --- |
-| Página de Avaliação da Análise de Tarefas  | [Philipe Amâncio](https://github.com/Phill-Chill) |
-
----
+| Artefato(s) | Autor(es) |
+| :--- | :--- |
+| Página de Avaliação da Análise de Tarefas | Philipe Amâncio |
 
 ## 1. Preparação
-
 Nesta etapa inicial, definem-se os elementos organizacionais, perfis e materiais necessários para a realização das sessões de avaliação.
 
-* **Definição da Tarefa:** Utilizar o Visualizador DICOM web de forma fluida no Portal Sabin (caminho feliz / fluxo de sucesso), realizando a manipulação básica de imagens médicas (como rolagem de fatias e ajuste de contraste) para apoiar a tomada de decisão clínica.
-* **Definição do Perfil dos Participantes:** Médicos clínicos ou especialistas que utilizem exames de imagem de alta resolução (Ressonância Magnética ou Tomografia Computadorizada) para fechar diagnósticos.
-* **Preparação dos Artefatos:** Consolidação impressa ou digital dos seguintes modelos estruturais e conceituais para apresentação ao usuário:
-    * *Cenário:* Descrição textual narrativa detalhada que contextualiza o ambiente, os atores, os objetivos e as motivações do mundo real que disparam o uso da funcionalidade.
-    * *Storyboard:* Sequência em quadrinhos ilustrando visualmente o fluxo de uso do DICOM pelo médico durante a consulta.
-    * *HTA (Análise Hierárquica de Tarefas):* Diagrama com objetivos, subobjetivos e planos de execução sequenciais da tarefa.
-    * *CTT (ConcurTaskTrees):* Diagrama detalhando a concorrência e a distribuição de tarefas lógicas entre o médico e o sistema.
-* **Execução do Teste-Piloto:** Será conduzida uma simulação completa da entrevista com um membro da equipe antes das sessões oficiais. Esta etapa serve para validar a clareza de todos os artefatos (incluindo a narrativa do cenário), o vocabulário técnico e o tempo de resposta do roteiro. *O resultado do teste-piloto não será incorporado ao relatório final de resultados.*
-
----
+* **Definição da Tarefa:** Utilizar o Visualizador DICOM web de forma fluida no Portal Sabin, acessando as imagens do próprio exame para visualização pessoal utilizando navegação básica (como rolagem e zoom).
+* **Definição do Perfil dos Participantes:** Pacientes (usuários leigos) que já realizaram exames de imagem de alta complexidade (Ressonância Magnética ou Tomografia Computadorizada) e possuem o hábito de acessar resultados online.
+* **Preparação dos Artefatos:** Consolidação impressa ou digital dos modelos para apresentação ao usuário:
+    * **Cenário:**Descrição textual focada na jornada do paciente em casa. Abordará a curiosidade ao receber a notificação de que o exame está pronto e a vontade de se informar melhor para a consulta de retorno. O foco será no novo comportamento de acessar os resultados completos (o laudo em texto e as imagens) para submetê-los a ferramentas de Inteligência Artificial, buscando um pré-entendimento para acompanhar e compreender com clareza as explicações que o médico dará.
+    * **Storyboard:** Ilustrando visualmente a curiosidade do paciente ao tentar visualizar a imagem do exame após ler o pré-diagnóstico.
+    * **HTA e CTT:** Diagramas detalhando a interação direta do usuário com a interface do visualizador, mapeando a alternância entre as tarefas de análise e a utilização concorrente das ferramentas de manipulação em tela.
+* **Execução do Teste-Piloto:** Será conduzida uma simulação completa da entrevista com um membro da equipe antes das sessões oficiais. Esta etapa serve para validar a clareza de todos os artefatos, garantir que a linguagem não está técnica demais para um leigo e cronometrar o roteiro. O resultado não será incorporado ao relatório final.
 
 ## 2. Coleta de Dados
+A coleta de dados será realizada de forma **presencial**. Durante a sessão, o participante analisará os artefatos de forma sequencial enquanto responde a uma entrevista semiestruturada.
 
-A coleta de dados será realizada de forma **presencial**, em ambiente reservado para o profissional de saúde. Durante a sessão, o participante analisará os artefatos de forma sequencial enquanto responde a uma entrevista semiestruturada.
+**Organização e Papéis da Equipe**
 
-### Organização e Papéis da Equipe
-* **Avaliador/Condutor:** Philipe Amancio 
-* **Anotador:** [?]
-* **Cinegrafista:** [?] 
+* **Avaliador/Condutor:** Philipe Amancio
 
-### Roteiro de Entrevista para a Coleta
+**Roteiro de Entrevista para a Coleta**
 
-#### Fase A: Perfil e Aquecimento
-1. Qual é o seu nome, idade e especialidade médica atual?
-2. Como você avalia a sua experiência com prontuários eletrônicos e sistemas hospitalares no seu dia a dia clínico?
-3. Com qual frequência você precisa analisar exames de imagem diretamente em portais de laboratórios durante seus atendimentos?
+**Fase A: Perfil e Aquecimento**
 
-#### Fase B: Validação do Cenário
-4. Ao ler a descrição em texto deste cenário de uso, essa situação de atendimento, o ambiente da clínica e a pressão de tempo do médico retratam com fidelidade a realidade da sua rotina de trabalho?
-5. As motivações e necessidades descritas para o ator (Dr. Roberto) ao buscar as imagens condizem com os gatilhos reais que fazem você abrir um exame DICOM no meio de uma consulta?
+* Qual é o seu nome, idade e profissão?
+* Como você avalia a sua facilidade no uso de tecnologia, sites e aplicativos de saúde no seu dia a dia?
+* Quando você faz um exame, você costuma acessar o portal do laboratório para ver o resultado antes de voltar ao médico, ou prefere esperar a consulta?
 
-#### Fase C: Validação do Storyboard
-6. Ao observar esta história em quadrinhos que ilustra graficamente a utilização do visualizador DICOM, reflete o fluxo ideal para as suas consultas?
-7. A forma como o médico interage visualmente com a interface do portal e com o paciente, mostrando o exame diretamente na tela do computador, condiz com o que você espera na prática?
+**Fase B: Validação do Cenário**
 
-#### Fase D: Validação de HTA
-8. Analisando a divisão do objetivo "Utilizar o DICOM" nestes subpassos e planos sequenciais, essa decomposição hierárquica reflete a sua linha de raciocínio clínico?
-9. Há alguma ação apresentada nesta hierarquia que você considera redundante, burocrática ou desnecessária?
-10. Sente falta de algum passo ou verificação intermediária essencial que esquecemos de incluir no fluxo lógico?
+* Ao ler a descrição em texto deste cenário, a situação descrita retrata a realidade da sua rotina?
+* O cenário cita o uso de Inteligência Artificial para ajudar a "traduzir" o laudo. Esse novo comportamento de usar a IA incentiva você a acessar suas próprias imagens e resultados antes de falar com o médico? 
 
-#### Fase E: Validação de CTT
-11. Neste modelo CTT, indicamos que você pode alternar livremente entre "Ler Laudo" e "Visualização da imagem" a qualquer momento (representado pelo símbolo |||). Na sua rotina diagnóstica, você costuma analisar ambos simultaneamente/alternadamente ou prefere focar em um de cada vez?
-12. Mapeamos que, após "Ativar o DICOM", você pode usar as ferramentas de "Ajustar Contraste", "Dar zoom" e "Realizar Medições" em qualquer ordem e de forma livre. Na prática, existe alguma dessas ações que você faz obrigatoriamente antes das outras (ex: sempre ajustar o contraste primeiro), ou o uso é realmente independente?
-13. Nós colocamos a ação de "Encerrar" podendo interromper a visualização dos dados a qualquer momento. Você sente falta de alguma ação que devesse acontecer antes de fechar a tela, como salvar as medições realizadas ou exportar uma imagem?
+**Fase C: Validação do Storyboard**
 
----
+* Ao observar esta história em quadrinhos que ilustra o paciente acessando e tentando entender a imagem do exame, ela reflete o que você faria na prática?
+* A forma como o personagem interage com o portal para baixar ou salvar a imagem para levar na próxima consulta condiz com a sua expectativa?
+
+**Fase D: Validação de HTA (Análise Hierárquica de Tarefas)**
+
+* Analisando o passo a passo que desenhamos para "Acessar a Imagem do Exame", essa sequência lógica parece natural para você como paciente?
+* Há alguma etapa, como "instalar plugin" ou "ajustar configurações avançadas", que você acharia muito complicada ou desnecessária para o seu uso?
+* Você sente falta de algum passo essencial?
+
+**Fase E: Validação de CTT (ConcurTaskTrees)**
+
+* Neste diagrama, indicamos que você pode alternar entre "Ler o Laudo (texto)" e "Visualizar a Imagem" a qualquer momento. Na prática, você costuma ler o laudo primeiro para tentar entender, ou vai direto olhar a imagem?
+* Mapeamos que ferramentas como "Dar zoom" e "Ajustar Contraste" estão disponíveis. Como paciente, você usaria essas ferramentas por curiosidade, ou acha que elas deveriam ficar escondidas apenas para o médico usar?
+* Ao terminar de ver a imagem, nós colocamos a ação de simplesmente "Fechar". Você sentiria a necessidade de um aviso confirmando que "O arquivo já está salvo no seu histórico"?
 
 ## 3. Interpretação
+Logo após a realização de cada entrevista, os dados brutos coletados (anotações de campo e vídeos gravados) serão analisados pela equipe.
 
-Logo após a realização de cada entrevista, os dados brutos coletados (anotações de campo e vídeos gravados) serão analisados de forma qualitativa pela equipe.
-
-* **Listagem de Problemas:** O avaliador e o anotador devem compilar todas as quebras de expectativa identificadas pelo médico (ex: inadequações no contexto do cenário, termos clínicos ambíguos, passos invertidos na árvore HTA ou lógica de concorrência falha no CTT).
-* **Refinamento dos Modelos:** Caso o participante apresente uma crítica estrutural clara ou sugira uma melhoria óbvia, o texto do Cenário, os quadrinhos do Storyboard e os diagramas HTA e CTT serão refinados de maneira imediata e iterativa pela equipe no papel antes da consolidação final.
-
----
+* **Listagem de Problemas:** O avaliador e o anotador devem compilar todas as quebras de expectativa identificadas pelo paciente (ex: jargões médicos incompreensíveis, excesso de opções técnicas na tela que geram confusão, passos invertidos no HTA).
+* **Refinamento dos Modelos:** Caso o participante apresente uma crítica clara (ex: "eu não sei o que é DICOM, deveria se chamar 'Ver Imagem'"), o texto do Cenário, o Storyboard e os diagramas HTA/CTT serão refinados de maneira iterativa.
 
 ## 4. Consolidação dos Resultados
+Nesta etapa, as observações são unificadas para gerar insumos acionáveis focados em acessibilidade leiga.
 
-Nesta etapa, as observações individuais coletadas nas entrevistas são unificadas para gerar insumos acionáveis direcionados ao time de engenharia de software e design de interface (UI).
-
-* **Priorização das Correções:** Todos os problemas de usabilidade, inadequações de contexto do cenário ou falhas na lógica de tarefas encontrados serão tabulados e classificados por severidade. É dever crítico da equipe **priorizar a correção dos problemas que não foram resolvidos** durante a fase de refinamento imediato.
-* **Sugestão de Correções:** Proposição de modificações claras na narrativa do cenário ou na estrutura de tarefas (ex: agrupar ferramentas de manipulação afins, simplificar os cliques necessários para entrar em modo tela cheia) com base nas evidências empíricas coletadas.
-
----
+* **Priorização das Correções:** Todos os problemas de usabilidade, como barreiras de entendimento técnico ou falhas na lógica de navegação do paciente, serão tabulados e classificados por severidade.
+* **Sugestão de Correções:** Proposição de modificações claras na estrutura, como ocultar ferramentas clínicas complexas (medição, densidade) do perfil de paciente e destacar botões úteis (como "Download PDF" ou "Compartilhar").
 
 ## 5. Relato dos Resultados
+Os achados finais serão estruturados em um relatório de resultados formalizado, contendo obrigatoriamente:
 
-Os achados finais serão estruturados em um relatório de resultados formalizado. Para garantir a conformidade metodológica em IHC, a estrutura do relato conterá obrigatoriamente:
-
-1. Os objetivos gerais da avaliação;
-2. A descrição detalhada do método de investigação utilizado (Entrevista baseada em Modelos);
-3. O número exato e o perfil dos avaliadores e dos participantes clínicos envolvidos;
-4. Os cenários e as tarefas apresentados aos participantes;
-5. Uma lista detalhada e hierarquizada de todos os problemas encontrados (separados por artefato: Cenário, Storyboard, HTA ou CTT);
-6. O feedback geral e qualitativo fornecido pelos usuários.
-
-## Cronograma das Sessões Oficiais
-| Responsável pela Sessão | Participante | Tarefa | Data | Horário | Local de Realização |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Philipe Amancio** | [Nome do Médico] | Utilizar o Visualizador DICOM | DD/MM/AAAA | 00:00 - 00:00 | [Ex: Consultório do Participante] |
-
-## Referências Bibliográficas
-
-* **BARBOSA, S. D. J.; SILVA, B. S. (2011).** *Interação Humano-Computador*. Rio de Janeiro: Elsevier.
-
-## Histórico de Versão
-
-| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
-| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
-| 1.0 | 19/05/2026 | Criação do plano específico com validação de cenário | [Philipe Amancio](https://github.com/Phill-Chill) | 19/05/2026 | Revisão da estrutura inicial e adequação ao framework DECIDE | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+* Os objetivos gerais da avaliação focada no paciente;
+* A descrição detalhada do método de investigação utilizado;
+* O número exato e o perfil dos pacientes participantes;
+* Os cenários e as tarefas apresentados;
+* Uma lista detalhada de todos os problemas encontrados (separados por artefato);
+* O feedback geral sobre a curva de aprendizado da ferramenta pelo leigo.

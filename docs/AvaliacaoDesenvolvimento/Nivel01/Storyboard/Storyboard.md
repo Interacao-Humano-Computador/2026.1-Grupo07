@@ -67,11 +67,15 @@ Este storyboard também ilustra o **Cenário 02 — Pré-agendamento de exames c
 
 > Elaborado por: [Philipe Amâncio](https://github.com/Phill-Chill)
 
-Este storyboard ilustra o Cenário 01 — Acesso ao resultado com visualizador de imagem (DICOM), tendo como persona central Roberto, médico clínico geral. A narrativa representa a utilização da ferramenta pelo portal do Sabin durante uma consulta de retorno, onde Roberto acessa as imagens de uma ressonância magnética. Conforme ilustrado na Figura 3, o fluxo demonstra o contexto prático do visualizador, destacando como o uso de recursos de zoom e ajuste de contraste auxilia o médico na explicação do diagnóstico para o paciente.
+Este storyboard narra a experiência de Jorge ao receber uma notificação informando que seus resultados estão disponíveis no portal do Sabin. A história começa com a motivação de Jorge para se preparar para a consulta de retorno e a barreira inicial que ele encontra: um laudo médico repleto de termos técnicos incompreensíveis.
+
+A narrativa ilustra a solução de Jorge para essa frustração: o uso de Inteligência Artificial para traduzir o jargão para uma linguagem simples. Em seguida, o storyboard foca na interação de Jorge com as ferramentas digitais do portal do Sabin. Motivado pela explicação da IA, ele utiliza o visualizador de imagens DICOM e aplica, de forma intuitiva, as ferramentas de Contraste e Zoom para identificar visualmente a inflamação em seu ombro.
+
+O storyboard encerra na consulta de retorno, demonstrando o resultado desejado: Jorge comparece seguro, com dúvidas objetivas e preparado para compreender perfeitamente o diagnóstico e o plano de tratamento do seu médico
 
 **Figura 3 — Acesso ao Resultado de Imagem com Visualizador DICOM**
 
-![Storyboard — Acesso ao Resultado de Imagem com Visualizador DICOM](../../../assets/storyboard-philipe.jpg)
+![Storyboard — Acesso ao Resultado de Imagem com Visualizador DICOM](../../../assets/storyboard-philipe.png)
 >Fonte: Autoria própria.
 
 ---
