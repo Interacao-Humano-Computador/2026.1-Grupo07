@@ -1,4 +1,4 @@
-# Planejamento do Relato dos Resultados - Análise de Tarefas
+# Planejamento do Relato dos Resultados
 
 ## Tabela de contribuição
 | Artefato(s) | Autor(es) |
@@ -9,10 +9,9 @@
 
 ## 1. Introdução
 
-Este documento tem como objetivo definir o planejamento e a estrutura padronizada para o relato dos resultados da avaliação de Análise de Tarefas do Portal Sabin. O intuito é garantir que, após a coleta empírica de dados, todos os avaliadores da equipe sigam a mesma metodologia de consolidação e interpretação das informações obtidas durante as sessões de avaliação <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/topicos-relato-p279.png"> </span>
+Este documento tem como objetivo definir o planejamento e a estrutura padronizada para o relato dos resultados da avaliação conceitual dos artefatos do Portal Sabin (Cenários, Análise de Tarefas e Storyboards). O intuito é garantir que, após a coleta empírica de dados, todos os avaliadores da equipe sigam a mesma metodologia de consolidação e interpretação das informações obtidas durante as sessões de avaliação <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/topicos-relato-p279.png"> </span>
 
-
-Este artefato corresponde à etapa **"E": Avaliar (Evaluate), interpretar e apresentar os dados** do framework DECIDE <span class="hover-image">(BARBOSA; SILVA, 2021, p. 280)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/DECIDE-E2.png"> </span> , definindo como os dados serão avaliados, interpretados e apresentados.
+Este artefato corresponde à etapa **"E": Avaliar (Evaluate), interpretar e apresentar os dados** do framework DECIDE <span class="hover-image">(BARBOSA; SILVA, 2021, p. 280)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/DECIDE-E2.png"> </span> , definindo como os dados serão avaliados, interpretados e apresentados para validar se os modelos propostos refletem a realidade dos usuários.
 
 ---
 
@@ -22,8 +21,8 @@ Após a conclusão da coleta de dados e da interpretação individual realizada 
 
 Nesta etapa, a equipe deverá:
 
-* Buscar **recorrências** nos resultados: padrões de comportamento, dificuldades e estratégias comuns entre os participantes.
-* Diferenciar problemas representativos de idiossincrasias: separar dificuldades recorrentes de problemas particulares apresentados por apenas um participante.
+* Buscar **recorrências** nos resultados: padrões de comportamento, divergências na ordem das tarefas e estratégias comuns relatadas pelos participantes que não estavam previstas nos modelos.
+* Diferenciar problemas representativos de idiossincrasias: separar fluxos alternativos reais de comportamentos altamente específicos e isolados de um único participante.
 * Relacionar os resultados obtidos com os objetivos definidos no planejamento da avaliação.
 * Evitar generalizações indevidas: os resultados obtidos representam tendências observadas durante a avaliação e não conclusões absolutas.
 * Consolidar os dados qualitativos e quantitativos de forma organizada e rastreável.
@@ -39,18 +38,17 @@ Para garantir a padronização e o atendimento aos critérios da disciplina, tod
 
 ### Objetivos da Avaliação
 
-A avaliação deve endereçar se as questões que motivaram o estudo foram respondidas ou justificar por que alguma resposta não foi encontrada. Sempre de acordo com os objetivos declarados na avaliação.
+A avaliação deve endereçar se as questões que motivaram o estudo foram respondidas ou justificar por que alguma resposta não foi encontrada. Sempre de acordo com os objetivos declarados na avaliação, focando em validar se os diagramas e narrativas construídas correspondem às expectativas e comportamentos reais dos usuários.
 
 ### Escopo da Avaliação
 
 Nesta seção deve ser descrito o escopo da avaliação realizada, especificando:
 
-- As tarefas avaliadas;
-- Os fluxos analisados;
-- Os artefatos da Análise de Tarefas utilizados na avaliação;
-- Que a 
+- As tarefas e fluxos modelados analisados;
+- Os artefatos conceituais submetidos à validação (Análise de tarefas, Cenários e Storyboards);
+- Que a avaliação ocorreu de forma conceitual, sem o uso de um protótipo de alta fidelidade ou sistema funcional.
 
-O relato deve delimitar claramente quais aspectos do sistema foram avaliados e quais não fizeram parte da investigação conduzida.
+O relato deve delimitar claramente quais aspectos da jornada foram validados e quais não fizeram parte da investigação conduzida.
 
 ---
 
@@ -58,19 +56,19 @@ O relato deve delimitar claramente quais aspectos do sistema foram avaliados e q
 
 ### Método Utilizado
 
-A avaliação será conduzida utilizando a técnica de **Entrevista Presencial Semiestruturada**, complementada pela observação direta da interação dos participantes com os artefatos produzidos durante a Análise de Tarefas.
+A avaliação será conduzida utilizando a técnica de **Entrevista Presencial Semiestruturada**, complementada pela apresentação dos artefatos produzidos (Cenários, Storyboards e Diagramas) aos participantes. 
 
-Os participantes foram convidados a analisar o fluxo proposto e descrever como realizariam a tarefa em uma situação real de uso.
+Os participantes foram convidados a analisar o fluxo proposto e descrever como eles realizariam a mesma tarefa em uma situação real, apontando concordâncias ou discordâncias com os modelos da equipe.
 
 ### Estratégias de Coleta de Dados
 
 Foram utilizadas as seguintes estratégias:
 
 - Entrevista guiada por roteiro previamente elaborado;
-- Observação direta das reações dos participantes;
-- Questionamentos sobre compreensão das etapas do fluxo;
-- Registro de comentários espontâneos;
-- Identificação de dificuldades e ambiguidades.
+- Observação direta das reações dos participantes ao consumirem as narrativas (Cenários/Storyboards);
+- Questionamentos sobre a clareza e verossimilhança das etapas do fluxo (Fluxo descrito na análise de tarefas);
+- Registro de comentários espontâneos e sugestões de novos passos na tarefa;
+- Identificação de ações omitidas pela equipe ou modeladas fora de ordem.
 
 ### Forma de Registro
 
@@ -82,197 +80,205 @@ Os dados foram registrados por meio de:
 
 ### Instrumentos Utilizados
 
-- Artefatos da Análise de Tarefas (HTA e descrição da tarefa);
-- Notebook ou tablet para apresentação dos diagramas;
+- Artefatos (Cenários, Storyboards, artefatos da análise de tarefas);
+- Notebook ou tablet para apresentação visual dos modelos;
 - Papel e caneta para anotações;
-- Equipamento de gravação de vídeo.
+- Equipamento de gravação de áudio/vídeo.
 
 ### Critérios de Interpretação
 
 Os resultados foram analisados considerando:
 
-- Frequência de ocorrência dos problemas;
-- Impacto da dificuldade na realização da tarefa;
-- Grau de compreensão do fluxo pelo participante;
-- Evidências de quebra de expectativa;
-- Consistência dos comentários entre diferentes participantes.
+- Nível de concordância do usuário com o fluxo mapeado pela equipe;
+- Frequência em que etapas extras foram sugeridas pelos participantes;
+- Evidências de quebra de expectativa em relação à narrativa do cenário;
+- Consistência dos comentários e correções apontadas entre diferentes participantes.
 
 ---
 
-## 3.3. Perfil de Usuários e Avaliadores
+## 3.3. Perfil de Usuários e Relatos do resultado da entrevista
 
 ### Participantes
+A **Tabela I** apresenta os participantes entrevistados e os respectivos perfis de usuário nos quais eles se enquadram:
 
-| Participante | Perfil |
+Tabela I - Entrevistados
+
+| Entrevistado | Perfil |
 |------------|---------|
-| Pedro Henrique Ferreira Xavier | [Perfil de usuário 1](../../../requisitos/perfilDeUsuario.md) |
-| ...... | [Perfil de usuário X](../../../requisitos/perfilDeUsuario.md) |
+| Pedro Henrique | [Perfil de usuário 1](../../../requisitos/perfilDeUsuario.md) |
+| Juliana | [Perfil de usuário 1](../../../requisitos/perfilDeUsuario.md) |
+| - | |
 
-### Avaliadores
+### Relatos do resultado da entrevista
 
-| Avaliador | Papel |
+A **Tabela II** apresenta os avaliadores responsáveis pela condução de cada entrevista, juntamente com seus respectivos relatos seguindo a estrutura disposta a partir dos tópicos 3.4 adiante:
+
+Tabela II - Autores dos relatos dos resultados das entrevistas
+
+| Avaliador | Relatos dos resultados das entrevistas |
 |------------|---------|
-| [Hugo Freitas Silva](https://github.com/HugoFreitass) | Condutor da entrevista |
-| [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | Observador e responsável pelos registros |
-| [Philipe Amancio](https://github.com/Phill-Chill) | Consolidação e análise dos resultados |
+| [Hugo Freitas Silva](https://github.com/HugoFreitass) |  [Relato do resultado: Cadastro de exame laboratorial com informação incompleta](#hugo)  |
+| [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | [Relato do resultado: Agendamento de exames com dúvidas críticas de preparo](#maria) |
+| [Philipe Amancio](https://github.com/Phill-Chill) |  [Relato do resultado: Acesso ao resultado de imagem com visualizador DICOM](PlanejamentosAvalGrupo/PlanejamentoPhilipe.md)|
+| [Ingrid](https://github.com/alvesingrid) | [Relato do resultado: Acompanhamento de resultados e download de laudos](PlanejamentosAvalGrupo/PlanejamentoIngrid.md) |
 
 ### Relação com o Perfil de usuário
 
-Os participantes selecionados apresentam características compatíveis com os [perfil de usuário](../../../requisitos/perfilDeUsuario.md) do Portal Sabin, permitindo a validação dos fluxos representados nos artefatos analisados.
+Os participantes selecionados apresentam características compatíveis com os [perfis de usuário](../../../requisitos/perfilDeUsuario.md) do Portal Sabin, garantindo que a validação dos fluxos e narrativas seja feita com o público-alvo correto.
 
 ---
 
-## 3.4. Tarefas Executadas e Sumário dos Dados
+## 3.4 Tarefas Executadas e Sumário dos Dados
+
+[Introdução dessa tarefa e sobre os cenários, análise de tarefas e storyboard]
 
 ### Tarefas Avaliadas
+A **Tabela III** detalha a decomposição do objetivo principal da avaliação em tarefas menores. Esses passos representam as ações sequenciais modeladas pela equipe para serem validadas com o usuário:
 
-| ID | Tarefa |
+Tabela III - Decomposição do objetivo em tarefas
+
+| ID | Tarefa Mapeada (Artefato) |
 |----|---------|
-| T1 | Localizar a funcionalidade de cadastro de exame laboratorial |
-| T2 | Iniciar o cadastro de um exame |
-| T3 | Preencher as informações disponíveis |
-| T4 | Identificar campos obrigatórios não preenchidos |
-| T5 | Corrigir informações incompletas |
-| T6 | Finalizar o cadastro do exame |
+| TH1 | Localizar a funcionalidade de cadastro de exame laboratorial |
+| TH2 | Iniciar o cadastro de um exame |
+| TH3 | Preencher as informações disponíveis |
+| TH4 | Identificar campos obrigatórios não preenchidos |
+| TH5 | Corrigir informações incompletas |
+| TH6 | Finalizar o cadastro do exame |
 
 ### Sumário Quantitativo dos Dados
+A **Tabela IV** apresenta o sumário quantitativo dos dados consolidados a partir das sessões de avaliação. Essas métricas fornecem uma visão objetiva sobre a precisão dos modelos construídos, quantificando divergências, sugestões de adição e níveis de concordância:
+
+Tabela IV - Sumário da Validação dos Artefatos
 
 | Métrica | Resultado |
 |----------|-----------|
 | Número de participantes | XX |
-| Quantidade de erros observados | XX |
-| Pontos de hesitação identificados | XX |
-| Interrupções da tarefa | XX |
+| Passos sugeridos pelos usuários não previstos no modelo | XX |
+| Tarefas mapeadas consideradas irreais/desnecessárias pelos usuários | XX |
+| Inconsistências apontadas no Storyboard/Cenário | XX |
 | Comentários relevantes registrados | XX |
 
-### Dificuldades Observadas
+### Divergências e Inconsistências Observadas
+A **Tabela V** detalha os pontos em que o fluxo desenhado pela equipe divergiu da realidade do usuário. As inconsistências estão mapeadas de acordo com o momento da narrativa ou da árvore de tarefas em que ocorreram:
 
-| Momento da Tarefa | Dificuldade Observada |
+Tabela V - Inconsistências encontradas por tarefa/momento
+
+| Momento da Tarefa (ID) | Divergência Apontada pelo Usuário |
 |------------------|-----------------------|
-| T3 | |
-| T4 | |
-| T5 | |
+| TH3 | |
+| TH4 | |
+| TH5 | |
 
 ### Comentários Relevantes dos Participantes
+A **Tabela VI** reúne as citações diretas e os comentários mais expressivos feitos pelos participantes durante a validação. Esses relatos complementam as métricas, evidenciando como o usuário realmente pensa em comparação a como o sistema foi idealizado:
+
+Tabela VI - Comentários do entrevistado
 
 | Participante | Comentário |
 |-------------|------------|
-| Pedro Henrique Ferreira Xavier | "..." |
-| Pedro Henrique Ferreira Xavier | "..." |
+| Pedro Henrique | "..." |
+| Pedro Henrique| "..." |
 
 ---
+
 
 ## 3.5. Relato da Interpretação e Análise dos Dados
 
-Nesta seção devem ser apresentados os resultados obtidos durante a avaliação e sua relação com os objetivos definidos no planejamento.
+Nesta seção devem ser apresentados os resultados obtidos durante a avaliação conceitual e sua relação com os objetivos definidos no planejamento.
 
 ### Análise das Perguntas Exploratórias
 
-| Pergunta Exploratória | Evidências Observadas | Conclusão |
+| Pergunta Exploratória | Evidências Observadas na Entrevista | Conclusão |
 |----------------------|----------------------|------------|
 | [Pergunta 1] | [Observações e comentários dos participantes] | [Respondida parcialmente/respondida/não respondida] |
 | [Pergunta 2] | [Observações e comentários dos participantes] | [Respondida parcialmente/respondida/não respondida] |
-| [Pergunta 3] | [Observações e comentários dos participantes] | [Respondida parcialmente/respondida/não respondida] |
 
 ### Principais Achados
 
-#### Aspectos Positivos
+#### Aspectos Positivos (Validados)
 
-- [Aspecto positivo identificado]
-- [Aspecto positivo identificado]
-- [Aspecto positivo identificado]
+- [Ação modelada que se provou altamente realista]
+- [Cenário ou Storyboard que gerou forte identificação]
 
-#### Dificuldades Encontradas
+#### Divergências Encontradas (Refutações)
 
-- [Dificuldade observada]
-- [Dificuldade observada]
-- [Dificuldade observada]
+- [Passo do HTA/CTT que não condiz com a prática do usuário]
+- [Ordem de ações que o usuário realizaria diferente do mapeado]
 
-#### Quebras de Expectativa
+#### Novos Descobrimentos (Omissões)
 
-- [Quebra de expectativa observada]
-- [Quebra de expectativa observada]
+- [Tarefa intermediária crucial citada pelo usuário, mas esquecida no modelo]
 
 ### Considerações Gerais
 
-Descrever de forma resumida como os resultados obtidos contribuem para validar ou revisar os artefatos da Análise de Tarefas, indicando os principais pontos que deverão ser mantidos ou ajustados no projeto.
+Descrever de forma resumida como os resultados obtidos contribuem para validar ou revisar os artefatos da Análise de Tarefas e Cenários, indicando os principais pontos que deverão ser mantidos ou refeitos.
 
 ---
 
-## 3.6. Lista dos Problemas Encontrados
+## 3.6. Lista de Problemas de Modelagem Encontrados
 
-| ID | Descrição do Problema | Contexto de Ocorrência | Frequência | Severidade | Impacto na Experiência do Usuário | Possível Causa | Prioridade |
+| ID | Descrição da Inconsistência | Artefato Afetado | Frequência | Severidade | Impacto na Modelagem | Possível Causa | Prioridade |
 |----|----------------------|------------------------|------------|------------|----------------------------------|----------------|------------|
-| P01 | Descrição do problema identificado | Durante a etapa T3 | 1 participante | Alta | Impede a conclusão adequada da tarefa | Falta de feedback visual adequado | Alta |
-| P02 | Descrição do problema identificado | Durante a etapa T4 | 1 participante | Média | Aumenta o tempo de execução da tarefa | Nomenclatura pouco intuitiva | Média |
-| P03 | Descrição do problema identificado | Durante a etapa T5 | Ocasional | Baixa | Gera pequena hesitação | Organização da interface | Baixa |
+| P01 | Falta de passo intermediário de revisão de dados | Diagrama HTA (TH3) | 2 participantes | Alta | Fluxo irreal; omite passo de segurança vital | Desconhecimento do domínio pela equipe | Alta |
+| P02 | Uso de jargão técnico no balão de fala do paciente | Storyboard - Quadro 2 | 1 participante | Baixa | Quebra de verossimilhança da persona | Falha na escrita do roteiro | Baixa |
 
-### Critérios de Severidade
+### Critérios de Severidade (Adaptados para Validação de Artefatos)
 
-Os problemas serão classificados de acordo com a escala de severidade <span class="hover-image">(BARBOSA; SILVA, 2021, p. 284).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/escala-severidade.png"> </span>
+Os problemas encontrados nos modelos serão classificados adaptando a escala de severidade para o contexto de validação conceitual <span class="hover-image">(BARBOSA; SILVA, 2021, p. 284).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/escala-severidade.png"> </span>
 
-| Nível | Descrição |
+| Nível | Descrição no contexto de Artefatos |
 |---------|------------|
-| Cosmético | Pequeno desconforto sem impedir a realização da tarefa |
-| Pequeno | Dificulta significativamente a execução da tarefa |
-| Grande | Impede ou compromete fortemente a realização da tarefa |
-| Catastrófico | Impede completamente a conclusão da atividade |
+| Cosmético | Erro de digitação, falha visual no storyboard ou nomenclatura estranha que não invalida o fluxo. |
+| Pequeno | Omissão de um detalhe menor ou passo opcional na árvore de tarefas. |
+| Grande | Omissão de um passo fundamental, ordem incorreta de execução, ou cenário que reflete mal o contexto de uso real. |
+| Catastrófico | O diagrama ou narrativa não representa em absolutamente nada a forma como o usuário realiza a tarefa na vida real. Artefato inválido. |
 
-### Priorização dos Problemas
+### Priorização das Correções
 
-1. Problemas classificados como **Grande** ou **Catastrófico**;
-2. Problemas recorrentes observados em múltiplas etapas;
-3. Problemas relacionados à compreensão do fluxo principal;
-4. Problemas de menor impacto e ocorrência isolada.
+1. Inconsistências classificadas como **Grande** ou **Catastrófico** (Artefatos que exigem refatoração urgente);
+2. Tarefas vitais apontadas pelos usuários, mas totalmente ausentes no HTA/CTT;
+3. Problemas de adequação de perfil no Cenário/Storyboard;
+4. Ajustes cosméticos e nomenclaturas.
 
 ---
 
-## 3.7. Planejamento para o Reprojeto do Sistema
+## 3.7. Planejamento para o Refinamento dos Artefatos
 
-Nesta seção deverão ser apresentadas propostas de melhoria para o sistema com base nos problemas identificados durante a avaliação <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/reprojeto-p279.png"> </span>
+Nesta seção deverão ser apresentadas propostas de correção e atualização dos documentos conceituais (Análise de Tarefas, Cenários e Storyboards) com base nas validações feitas pelos usuários <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/reprojeto-p279.png"> </span>
 
-As recomendações devem estar relacionadas aos resultados apresentados anteriormente e buscar solucionar as dificuldades observadas pelos participantes.
+### Recomendações de Ajuste
 
-### Recomendações de Melhoria
-
-| Problema Relacionado | Proposta de Melhoria | Justificativa |
+| Inconsistência Relacionada | Refinamento Proposto | Justificativa |
 |---------------------|---------------------|--------------|
-| [ID do problema] | [Descrição da melhoria proposta] | [Justificativa baseada nos resultados] |
-| [ID do problema] | [Descrição da melhoria proposta] | [Justificativa baseada nos resultados] |
-| [ID do problema] | [Descrição da melhoria proposta] | [Justificativa baseada nos resultados] |
+| [ID do problema] | [Descrição de como o artefato será refeito] | [Justificativa baseada nas falas dos usuários] |
 
-### Ajustes de Navegação e Interface
+### Ajustes nos Modelos de Tarefas (HTA/CTT)
 
-Descrever as alterações sugeridas para melhorar a navegação, a organização da interface e a execução das tarefas pelos usuários.
+Descrever as alterações sugeridas para reorganizar a hierarquia de tarefas, incluir passos omitidos ou remover tarefas desnecessárias dos diagramas.
 
-- [Ajuste proposto]
-- [Ajuste proposto]
-- [Ajuste proposto]
+- [Ajuste no diagrama HTA proposto]
+- [Ajuste no diagrama CTT proposto]
 
-### Melhorias de Feedback ao Usuário
+### Ajustes nos Cenários e Storyboards
 
-Descrever melhorias relacionadas à comunicação do sistema com o usuário durante a interação.
+Descrever melhorias para tornar as narrativas mais coerentes com o contexto, motivação e reações reais observadas nas entrevistas.
 
-- [Melhoria proposta]
-- [Melhoria proposta]
-- [Melhoria proposta]
+- [Melhoria na redação do cenário]
+- [Ajuste no roteiro ou nos quadros do storyboard]
 
-### Priorização das Alterações
+### Priorização das Refatorações
 
-| Prioridade | Alteração Proposta | Problema Relacionado |
+| Prioridade | Artefato a ser Atualizado | Problema Relacionado |
 |------------|-------------------|---------------------|
-| Alta | [Alteração] | [ID do problema] |
-| Média | [Alteração] | [ID do problema] |
-| Baixa | [Alteração] | [ID do problema] |
+| Alta | [Ex: Refazer Árvore HTA do cadastro] | [ID do problema] |
+| Média | [Ex: Reescrever Desfecho do Cenário 2] | [ID do problema] |
 
-### Considerações para o Reprojeto
-
-Apresentar observações gerais sobre as melhorias propostas e sua contribuição para a experiência do usuário e para o atendimento dos objetivos do sistema.
 ### Considerações Finais
 
-Os resultados obtidos demonstram que a análise de tarefas representa adequadamente o fluxo principal de cadastro de exames laboratoriais, porém foram identificadas oportunidades de melhoria relacionadas principalmente à comunicação de erros, identificação de campos obrigatórios e feedback ao usuário.
+Os resultados obtidos demonstram o nível de fidelidade dos artefatos construídos em relação ao fluxo real executado pelos usuários. 
 
-As correções propostas deverão ser incorporadas aos artefatos e consideradas nas próximas etapas de projeto, contribuindo para uma experiência mais intuitiva e alinhada às expectativas dos usuários do Portal Sabin.
+As correções propostas deverão ser obrigatoriamente incorporadas aos documentos de Análise de Tarefas (HTA, CTT), Cenários e Storyboards antes que a equipe avance para as fases de prototipação, garantindo que o design futuro seja baseado em um entendimento correto e validado empiricamente sobre os usuários do Portal Sabin.
 
 ---
 
@@ -287,4 +293,5 @@ As correções propostas deverão ser incorporadas aos artefatos e consideradas 
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
 | 1.0 | 19/05/2026 | Criação do documento | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 19/05/2026 | Revisão da estrutura inicial e adequação ao framework DECIDE | [Philipe Amâncio](https://github.com/Phill-Chill) e [Hugo Freitas Silva](https://github.com/HugoFreitass) |
-| 1.1 | 22/05/2026 | Correções gerais | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 23/05/2026 | - | [Philipe Amancio](https://github.com/Phill-Chill) |
+| 1.1 | 22/05/2026 | Correções gerais | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 23/05/2026 | Estruturação e escrita do planejamento | [Philipe Amancio](https://github.com/Phill-Chill) |
+| 1.2 | 30/05/2026 | Refatoração de métricas e estrutura para focar na validação conceitual de artefatos | [Philipe Amâncio](https://github.com/Phill-Chill) | 30/05/2026 | - |[Hugo Freitas Silva](https://github.com/HugoFreitass)|

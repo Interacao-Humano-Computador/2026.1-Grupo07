@@ -1,3 +1,5 @@
+# Planejamento da Avaliação
+
 ## Tabela de contribuição
 |Artefato(s) | Autor(es)|
 | --- | --- |
@@ -7,12 +9,12 @@
 | [Planejamento: Cadastro de exame laboratorial com informação incompleta](PlanejamentosAvalGrupo/PlanejamentoHugo.md) | Hugo |
 | [Planejamento: Acompanhamento de resultados e download de laudos](PlanejamentosAvalGrupo/PlanejamentoIngrid.md) | Ingrid |
 
-# Introdução
+## Introdução
 A análise de Tarefas é um passo crucial para compreender como os usuários organizam e executam suas atividades no mundo real. Este documento detalha o planejamento da avaliação dos diagramas e especificações produzidos na etapa de Análise de Tarefas do Portal Sabin, artefatos estes que representam os fluxos e as ações necessárias para o usuário atingir seus objetivos no sistema. O propósito primordial de avaliar este escopo é validar se os modelos de tarefas criados pela equipe — como os diagramas HTA (Análise Hierárquica de Tarefas) — correspondem à realidade, ao contexto e ao modelo mental dos usuários. Com isso, busca-se identificar passos ausentes, fluxos incorretos ou gargalos na interação precocemente, ainda na fase do modelo conceitual <span class="hover-image">(BARBOSA; SILVA, 2021, p. 275)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/PlanejamentoAnalise.png"> </span>.
 
  Para conduzir essa etapa, a equipe optou por adotar o método de investigação, especificamente por meio da condução de **Entrevistas**. Essa escolha metodológica justifica-se por permitir uma exploração aprofundada das opiniões, rotinas e expectativas dos participantes, validando os fluxos desenhados de forma direta e garantindo que o sistema seja moldado pelas reais necessidades do público-alvo.
 
-# Metodologia
+## Metodologia
 
 O planejamento da avaliação será estruturado com base no framework DECIDE, que define o processo de uma avaliação de IHC se baseando nos seguintes passos:
 
