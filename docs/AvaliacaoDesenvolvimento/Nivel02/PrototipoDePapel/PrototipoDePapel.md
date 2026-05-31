@@ -80,7 +80,7 @@ Este protótipo representa o fluxo de cadastro de um exame laboratorial no siste
 
 > Elaborado por: [Philipe Amancio](https://github.com/Phill-Chill)
 
-Este protótipo representa o fluxo de acesso ao visualizador de imagens DICOM do Portal Sabin, tendo como persona central **Roberto**, médico clínico geral. O protótipo mapeia a navegação desde a lista de resultados até a utilização das ferramentas de zoom e ajuste de contraste da imagem.
+Este protótipo representado na **Figura 3** foca na experiência direta dentro do visualizador de imagens DICOM do Portal Sabin. O fluxo tem início já na interface de visualização, mapeando a utilização manual das ferramentas de zoom e ajuste de profundidade. O diferencial é o apoio de um modelo de Inteligência Artificial educacional integrado, que orienta o paciente no entendimento anatômico da imagem de forma visual, didática e segura, sem emitir diagnósticos clínicos.
 
 **Figura 3 — Protótipo de Papel: Acesso ao Resultado de Imagem com Visualizador DICOM**
 

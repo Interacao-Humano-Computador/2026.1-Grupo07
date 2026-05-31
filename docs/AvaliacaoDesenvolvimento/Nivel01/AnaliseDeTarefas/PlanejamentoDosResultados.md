@@ -17,14 +17,14 @@ Este artefato corresponde à etapa **"E": Avaliar (Evaluate), interpretar e apre
 
 ## 2. Metodologia de Consolidação dos Dados
 
-Após a conclusão da coleta de dados e da interpretação individual realizada pelos avaliadores, os resultados serão consolidados e analisados coletivamente por meio de uma **análise intersujeito** <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/analise-intersujeito.png"> </span>
+Após a conclusão da coleta de dados, os resultados serão consolidados e analisados individualmente por meio de uma **análise intrasujeito** <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/analise-intersujeito.png"> </span> 
 
-Nesta etapa, a equipe deverá:
+Diferente de comparar vários usuários em uma mesma tarefa, nesta abordagem a equipe deverá focar no comportamento e nas respostas de cada participante de forma individualizada ao longo de sua interação com os modelos. O avaliador deverá:
 
-* Buscar **recorrências** nos resultados: padrões de comportamento, divergências na ordem das tarefas e estratégias comuns relatadas pelos participantes que não estavam previstas nos modelos.
-* Diferenciar problemas representativos de idiossincrasias: separar fluxos alternativos reais de comportamentos altamente específicos e isolados de um único participante.
+* Buscar **padrões individuais**: compreender o comportamento e as dificuldades pelo participante ao longo da leitura dos cenários e execução lógica das tarefas.
+* Identificar divergências na ordem das ações: mapear etapas executadas pelo participante que não estavam previstas ou que foram feitas em uma ordem diferente da modelada.
 * Relacionar os resultados obtidos com os objetivos definidos no planejamento da avaliação.
-* Evitar generalizações indevidas: os resultados obtidos representam tendências observadas durante a avaliação e não conclusões absolutas.
+* Evitar generalizações indevidas: os resultados obtidos representam o modelo mental do indivíduo observado e devem fundamentar melhorias nos modelos para esse perfil específico.
 * Consolidar os dados qualitativos e quantitativos de forma organizada e rastreável.
 * **Atenção:** O resultado do teste piloto não será apresentado no resultado oficial da avaliação.
 
@@ -45,7 +45,7 @@ A avaliação deve endereçar se as questões que motivaram o estudo foram respo
 Nesta seção deve ser descrito o escopo da avaliação realizada, especificando:
 
 - As tarefas e fluxos modelados analisados;
-- Os artefatos conceituais submetidos à validação (Análise de tarefas, Cenários e Storyboards);
+- Os artefatos conceituais submetidos à validação (Modelos de Análise de tarefas, Cenários e Storyboards);
 - Que a avaliação ocorreu de forma conceitual, sem o uso de um protótipo de alta fidelidade ou sistema funcional.
 
 O relato deve delimitar claramente quais aspectos da jornada foram validados e quais não fizeram parte da investigação conduzida.
@@ -56,7 +56,7 @@ O relato deve delimitar claramente quais aspectos da jornada foram validados e q
 
 ### Método Utilizado
 
-A avaliação será conduzida utilizando a técnica de **Entrevista Presencial Semiestruturada**, complementada pela apresentação dos artefatos produzidos (Cenários, Storyboards e Diagramas) aos participantes. 
+A avaliação será conduzida utilizando a técnica de **Entrevista Presencial Semiestruturada**, complementada pela apresentação dos artefatos produzidos (Cenários, Storyboards e Diagramas de Tarefas) aos participantes. 
 
 Os participantes foram convidados a analisar o fluxo proposto e descrever como eles realizariam a mesma tarefa em uma situação real, apontando concordâncias ou discordâncias com os modelos da equipe.
 
@@ -90,9 +90,9 @@ Os dados foram registrados por meio de:
 Os resultados foram analisados considerando:
 
 - Nível de concordância do usuário com o fluxo mapeado pela equipe;
-- Frequência em que etapas extras foram sugeridas pelos participantes;
+- Frequência em que etapas extras foram sugeridas pelo participante;
 - Evidências de quebra de expectativa em relação à narrativa do cenário;
-- Consistência dos comentários e correções apontadas entre diferentes participantes.
+- Consistência dos comentários e correções apontadas pelo participante ao longo da sessão.
 
 ---
 
@@ -119,8 +119,8 @@ Tabela II - Autores dos relatos dos resultados das entrevistas
 |------------|---------|
 | [Hugo Freitas Silva](https://github.com/HugoFreitass) |  [Relato do resultado: Cadastro de exame laboratorial com informação incompleta](#hugo)  |
 | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | [Relato do resultado: Agendamento de exames com dúvidas críticas de preparo](#maria) |
-| [Philipe Amancio](https://github.com/Phill-Chill) |  [Relato do resultado: Acesso ao resultado de imagem com visualizador DICOM](PlanejamentosAvalGrupo/PlanejamentoPhilipe.md)|
-| [Ingrid](https://github.com/alvesingrid) | [Relato do resultado: Acompanhamento de resultados e download de laudos](PlanejamentosAvalGrupo/PlanejamentoIngrid.md) |
+| [Philipe Amancio](https://github.com/Phill-Chill) |  [Relato do resultado: Acesso ao resultado de imagem com visualizador DICOM](./ExecDoPlanejamentoDoRelGrupo/RelatoPhilipe.md)|
+| [Ingrid](https://github.com/alvesingrid) | [Relato do resultado: Acompanhamento de resultados e download de laudos](#ingrid) |
 
 ### Relação com o Perfil de usuário
 
@@ -160,7 +160,7 @@ Tabela IV - Sumário da Validação dos Artefatos
 | Comentários relevantes registrados | XX |
 
 ### Divergências e Inconsistências Observadas
-A **Tabela V** detalha os pontos em que o fluxo desenhado pela equipe divergiu da realidade do usuário. As inconsistências estão mapeadas de acordo com o momento da narrativa ou da árvore de tarefas em que ocorreram:
+A **Tabela V** detalha os pontos em que o fluxo desenhado pela equipe divergiu da realidade do usuário. As inconsistências estão mapeadas de acordo com o momento da narrativa ou do modelo de tarefas em que ocorreram:
 
 Tabela V - Inconsistências encontradas por tarefa/momento
 
@@ -171,7 +171,7 @@ Tabela V - Inconsistências encontradas por tarefa/momento
 | TH5 | |
 
 ### Comentários Relevantes dos Participantes
-A **Tabela VI** reúne as citações diretas e os comentários mais expressivos feitos pelos participantes durante a validação. Esses relatos complementam as métricas, evidenciando como o usuário realmente pensa em comparação a como o sistema foi idealizado:
+A **Tabela VI** reúne as citações diretas e os comentários mais expressivos feitos pelo participante durante a validação. Esses relatos complementam as métricas, evidenciando como o usuário realmente pensa em comparação a como o sistema foi idealizado:
 
 Tabela VI - Comentários do entrevistado
 
@@ -181,7 +181,6 @@ Tabela VI - Comentários do entrevistado
 | Pedro Henrique| "..." |
 
 ---
-
 
 ## 3.5. Relato da Interpretação e Análise dos Dados
 
@@ -203,7 +202,7 @@ Nesta seção devem ser apresentados os resultados obtidos durante a avaliação
 
 #### Divergências Encontradas (Refutações)
 
-- [Passo do HTA/CTT que não condiz com a prática do usuário]
+- [Passo do modelo de tarefas que não condiz com a prática do usuário]
 - [Ordem de ações que o usuário realizaria diferente do mapeado]
 
 #### Novos Descobrimentos (Omissões)
@@ -212,7 +211,7 @@ Nesta seção devem ser apresentados os resultados obtidos durante a avaliação
 
 ### Considerações Gerais
 
-Descrever de forma resumida como os resultados obtidos contribuem para validar ou revisar os artefatos da Análise de Tarefas e Cenários, indicando os principais pontos que deverão ser mantidos ou refeitos.
+Descrever de forma resumida como os resultados obtidos contribuem para validar ou revisar os artefatos de Análise de Tarefas e Cenários, indicando os principais pontos que deverão ser mantidos ou refeitos.
 
 ---
 
@@ -220,7 +219,7 @@ Descrever de forma resumida como os resultados obtidos contribuem para validar o
 
 | ID | Descrição da Inconsistência | Artefato Afetado | Frequência | Severidade | Impacto na Modelagem | Possível Causa | Prioridade |
 |----|----------------------|------------------------|------------|------------|----------------------------------|----------------|------------|
-| P01 | Falta de passo intermediário de revisão de dados | Diagrama HTA (TH3) | 2 participantes | Alta | Fluxo irreal; omite passo de segurança vital | Desconhecimento do domínio pela equipe | Alta |
+| P01 | Falta de passo intermediário de revisão de dados | Diagramas de Tarefas (TH3) | 2 participantes | Alta | Fluxo irreal; omite passo de segurança vital | Desconhecimento do domínio pela equipe | Alta |
 | P02 | Uso de jargão técnico no balão de fala do paciente | Storyboard - Quadro 2 | 1 participante | Baixa | Quebra de verossimilhança da persona | Falha na escrita do roteiro | Baixa |
 
 ### Critérios de Severidade (Adaptados para Validação de Artefatos)
@@ -230,14 +229,14 @@ Os problemas encontrados nos modelos serão classificados adaptando a escala de 
 | Nível | Descrição no contexto de Artefatos |
 |---------|------------|
 | Cosmético | Erro de digitação, falha visual no storyboard ou nomenclatura estranha que não invalida o fluxo. |
-| Pequeno | Omissão de um detalhe menor ou passo opcional na árvore de tarefas. |
+| Pequeno | Omissão de um detalhe menor ou passo opcional na decomposição da tarefa. |
 | Grande | Omissão de um passo fundamental, ordem incorreta de execução, ou cenário que reflete mal o contexto de uso real. |
 | Catastrófico | O diagrama ou narrativa não representa em absolutamente nada a forma como o usuário realiza a tarefa na vida real. Artefato inválido. |
 
 ### Priorização das Correções
 
 1. Inconsistências classificadas como **Grande** ou **Catastrófico** (Artefatos que exigem refatoração urgente);
-2. Tarefas vitais apontadas pelos usuários, mas totalmente ausentes no HTA/CTT;
+2. Tarefas vitais apontadas pelos usuários, mas totalmente ausentes nos modelos de tarefas;
 3. Problemas de adequação de perfil no Cenário/Storyboard;
 4. Ajustes cosméticos e nomenclaturas.
 
@@ -253,12 +252,12 @@ Nesta seção deverão ser apresentadas propostas de correção e atualização 
 |---------------------|---------------------|--------------|
 | [ID do problema] | [Descrição de como o artefato será refeito] | [Justificativa baseada nas falas dos usuários] |
 
-### Ajustes nos Modelos de Tarefas (HTA/CTT)
+### Ajustes nos Modelos de Tarefas
 
 Descrever as alterações sugeridas para reorganizar a hierarquia de tarefas, incluir passos omitidos ou remover tarefas desnecessárias dos diagramas.
 
-- [Ajuste no diagrama HTA proposto]
-- [Ajuste no diagrama CTT proposto]
+- [Ajuste nos diagramas de tarefas propostos]
+- [Adequação de escopo ou remoção de etapas inválidas]
 
 ### Ajustes nos Cenários e Storyboards
 
@@ -271,14 +270,14 @@ Descrever melhorias para tornar as narrativas mais coerentes com o contexto, mot
 
 | Prioridade | Artefato a ser Atualizado | Problema Relacionado |
 |------------|-------------------|---------------------|
-| Alta | [Ex: Refazer Árvore HTA do cadastro] | [ID do problema] |
+| Alta | [Ex: Refazer diagrama de tarefas do cadastro] | [ID do problema] |
 | Média | [Ex: Reescrever Desfecho do Cenário 2] | [ID do problema] |
 
 ### Considerações Finais
 
 Os resultados obtidos demonstram o nível de fidelidade dos artefatos construídos em relação ao fluxo real executado pelos usuários. 
 
-As correções propostas deverão ser obrigatoriamente incorporadas aos documentos de Análise de Tarefas (HTA, CTT), Cenários e Storyboards antes que a equipe avance para as fases de prototipação, garantindo que o design futuro seja baseado em um entendimento correto e validado empiricamente sobre os usuários do Portal Sabin.
+As correções propostas deverão ser obrigatoriamente incorporadas aos documentos de Análise de Tarefas, Cenários e Storyboards antes que a equipe avance para as fases de prototipação, garantindo que o design futuro seja baseado em um entendimento correto e validado empiricamente sobre os usuários do Portal Sabin.
 
 ---
 
@@ -294,4 +293,4 @@ As correções propostas deverão ser obrigatoriamente incorporadas aos document
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
 | 1.0 | 19/05/2026 | Criação do documento | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 19/05/2026 | Revisão da estrutura inicial e adequação ao framework DECIDE | [Philipe Amâncio](https://github.com/Phill-Chill) e [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 | 1.1 | 22/05/2026 | Correções gerais | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 23/05/2026 | Estruturação e escrita do planejamento | [Philipe Amancio](https://github.com/Phill-Chill) |
-| 1.2 | 30/05/2026 | Refatoração de métricas e estrutura para focar na validação conceitual de artefatos | [Philipe Amâncio](https://github.com/Phill-Chill) | 30/05/2026 | - |[Hugo Freitas Silva](https://github.com/HugoFreitass)|
+| 1.2 | 30/05/2026 | Refatoração de métricas e estrutura para focar na validação conceitual de artefatos; Adequação para análise intrasujeito e generalização de modelos de tarefas | [Philipe Amâncio](https://github.com/Phill-Chill) | 30/05/2026 | - |[Hugo Freitas Silva](https://github.com/HugoFreitass)|
