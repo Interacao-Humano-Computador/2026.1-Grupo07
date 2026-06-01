@@ -16,7 +16,7 @@ O cenário avaliado descreve a jornada de um usuário que tenta realizar o pré-
 ### 1.2 Entrevista
 A seguir está a gravação da entrevista:
 <div align="center">
-  [![Assistir Gravação da Entrevista](https://img.youtube.com/vi/CBj7lopsQX4/0.jpg)](https://www.youtube.com/watch?v=CBj7lopsQX4)
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/CBj7lopsQX4" title="Gravação da Entrevista" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ---
