@@ -156,6 +156,7 @@ Este protótipo representado na **Figura 3** foca na experiência direta dentro 
 ![](../../../../assets/tarefaPhilipeE5.JPG)
 
 > Fonte: Autoria própria.
+
 ---
 
 ### 4.4. Tarefa 4 — Agendamento de Exames com Dúvidas Críticas de Preparo
