@@ -72,6 +72,40 @@ As sessões serão realizadas na modalidade **presencial**. Serão utilizados os
 
 Antes das sessões oficiais, será conduzido um **Teste Piloto**. O resultado do teste piloto **não será incluído no relatório final de resultados**.
 
+### Teste Piloto
+
+O teste piloto tem como objetivo verificar se o planejamento da avaliação está adequado, garantindo que o roteiro de tarefas, o ambiente, os materiais (protótipo de papel, termo de consentimento e roteiro de perguntas) e os equipamentos de gravação funcionem corretamente antes da execução das sessões com os participantes reais <span class="hover-image">(BARBOSA; SILVA, 2021, p. 276).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/TestePiloto.png"> </span>.
+
+#### Objetivos do Teste Piloto
+
+- Verificar se o roteiro de tarefas é claro e executável dentro do tempo previsto;
+- Confirmar que o avaliador (papel de *human computer*) consegue simular o sistema de forma fluida;
+- Identificar possíveis problemas no ambiente, nos materiais ou nos equipamentos de gravação;
+- Calibrar o papel do anotador para garantir que as observações relevantes sejam registradas corretamente;
+- Validar se o protótipo de papel possui todas as telas necessárias para a execução das tarefas previstas.
+
+#### Metodologia do Teste Piloto
+
+O teste piloto seguirá o mesmo procedimento das sessões oficiais, porém será conduzido com **um integrante da própria equipe** no papel de participante simulado. O avaliador desempenhará o papel de *human computer* e o anotador registrará as observações. Eventuais problemas identificados serão corrigidos antes das sessões reais.
+
+#### Cronograma do Teste Piloto
+
+<center> Tabela TP - Cronograma do Teste Piloto </center>
+
+| Avaliador | Participante (Membro da equipe) | Data | Horário | Local |
+| :--- | :--- | :--- | :--- | :--- |
+| [Ingrid Alves](https://github.com/alvesingrid) | A definir | A definir | A definir | A definir |
+
+>Fonte: autoria própria
+
+#### Gravação do Teste Piloto
+
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/" title="Teste Piloto - Protótipo de Papel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+
 <a id="crono"></a>
 
 **Cronograma de Sessões**: <br>
