@@ -127,10 +127,35 @@ Este protótipo representado na **Figura 3** foca na experiência direta dentro 
 
 **Figura 3 — Protótipo de Papel: Acesso ao Resultado de Imagem com Visualizador DICOM**
 
-> [INSERIR IMAGEM DO PROTÓTIPO DE PAPEL — TAREFA 3]
+<div align="center">Imagem - Visualizador DICOM com pronfundidade superficial Etapa 1</div>
+
+![](../../../../assets/tarefaPhilipeE1.JPG)
 
 > Fonte: Autoria própria.
 
+<div align="center">Imagem - Visualizador DICOM com pronfundidade máxima Etapa 2</div>
+
+![](../../../../assets/tarefaPhilipeE2.JPG)
+
+> Fonte: Autoria própria.
+
+<div align="center">Imagem - Visualizador DICOM com zoom no ombro direito e pronfundidade superficial Etapa 3</div>
+
+![](../../../../assets/tarefaPhilipeE3.JPG)
+
+> Fonte: Autoria própria.
+
+<div align="center">Imagem - Visualizador DICOM com zoom no ombro direito e pronfundidade intermediária Etapa 4</div>
+
+![](../../../../assets/tarefaPhilipeE4.JPG)
+
+> Fonte: Autoria própria.
+
+<div align="center">Imagem - Visualizador DICOM com zoom no ombro direito e pronfundidade máxima Etapa 5</div>
+
+![](../../../../assets/tarefaPhilipeE5.JPG)
+
+> Fonte: Autoria própria.
 ---
 
 ### 4.4. Tarefa 4 — Agendamento de Exames com Dúvidas Críticas de Preparo
