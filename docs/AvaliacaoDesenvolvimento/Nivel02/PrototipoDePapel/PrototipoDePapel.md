@@ -62,17 +62,60 @@ Este protótipo representa o fluxo da persona **Camila**, professora de 29 anos 
 
 ---
 
-### 4.2. Tarefa 2 — Cadastro de Exame Laboratorial com Informação Incompleta
+### 4.2. Tarefa 2 — Cadastro de Exame Laboratorial
 
 > Elaborado por: [Hugo Freitas Silva](https://github.com/HugoFreitass)
 
 Este protótipo representa o fluxo de cadastro de um exame laboratorial no sistema do Portal Sabin em um cenário onde informações obrigatórias estão faltando, avaliando como o sistema comunica os campos ausentes e orienta o usuário para a correção.
 
-**Figura 2 — Protótipo de Papel: Cadastro de Exame Laboratorial com Informação Incompleta**
-
-> [INSERIR IMAGEM DO PROTÓTIPO DE PAPEL — TAREFA 2]
-
-> Fonte: Autoria própria.
+<div align="center">Imagem - Agendamento de Exame Etapa 1</div>
+![](../../../../assets/tarefaHugoE1.jpeg)
+<div align="center">Fonte: autoria própria.</div>
+<br>
+<div align="center">Imagem - Agendamento de Exame Etapa 2</div>
+![](../../../../assets/tarefaHugoE2.jpeg)
+<div align="center">Fonte: autoria própria.</div>
+<br>
+<div align="center">Imagem - Agendamento de Exame Etapa 3</div>
+![](../../../../assets/tarefaHugoE3.jpeg)
+<div align="center">Fonte: autoria própria.</div>
+<br>
+<div align="center">Imagem - Agendamento de Exame Etapa 4</div>
+![](../../../../assets/tarefaHugoE4.jpeg)
+<div align="center">Fonte: autoria própria.</div>
+<br>
+<div align="center">Imagem - Agendamento de Exame Etapa 5</div>
+![](../../../../assets/tarefaHugoE5.jpeg)
+<div align="center">Fonte: autoria própria.</div>
+<br>
+<div align="center">Imagem - Agendamento de Exame Etapa 6</div>
+![](../../../../assets/tarefaHugoE6.jpeg)
+<div align="center">Fonte: autoria própria.</div>
+<br>
+<div align="center">Imagem - Agendamento de Exame Etapa 7</div>
+![](../../../../assets/tarefaHugoE7.jpeg)
+<div align="center">Fonte: autoria própria.</div>
+<br>
+<div align="center">Imagem - Agendamento de Exame Etapa 8</div>
+![](../../../../assets/tarefaHugoE8.jpeg)
+<div align="center">Fonte: autoria própria.</div>
+<br>
+<div align="center">Imagem - Agendamento de Exame Etapa 9</div>
+![](../../../../assets/tarefaHugoE9.jpeg)
+<div align="center">Fonte: autoria própria.</div>
+<br>
+<div align="center">Imagem - Agendamento de Exame Etapa 10</div>
+![](../../../../assets/tarefaHugoE10.jpeg)
+<div align="center">Fonte: autoria própria.</div>
+<br>
+<div align="center">Imagem - Agendamento de Exame Etapa 11</div>
+![](../../../../assets/tarefaHugoE11.jpeg)
+<div align="center">Fonte: autoria própria.</div>
+<br>
+<div align="center">Imagem - Agendamento de Exame Etapa 12</div>
+![](../../../../assets/tarefaHugoE12.jpeg)
+<div align="center">Fonte: autoria própria.</div>
+<br>
 
 ---
 

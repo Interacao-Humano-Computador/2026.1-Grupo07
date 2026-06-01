@@ -13,7 +13,7 @@ Este documento apresenta os resultados da avaliação conceitual referente à ta
 
 O escopo desta avaliação focou no cenário em que o usuário (representado pela persona do paciente proativo), após receber a notificação de resultados, acessa o portal do Sabin. O fluxo validado abrange a tentativa inicial de ler o laudo em PDF, a transição para o visualizador de imagens DICOM web e a utilização intuitiva de ferramentas de manipulação de imagem (como *Contraste* e *Zoom*) para compreender visualmente o laudo antes da consulta de retorno.
 
-### 1.2 Entrevista
+### 1.1 Entrevista
 A seguir está a gravação da entrevista:
 <div align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/8siYAwGelU0" title="Gravação da Entrevista" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
