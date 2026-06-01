@@ -17,7 +17,7 @@ O escopo desta avaliação focou no cenário em que o usuário acessa o portal a
 ### 1.1 Entrevista
 A seguir está a gravação da entrevista realizada com a participante Yara Xavier de Sousa:
 <div align="center">
-  <iframe width="560" height="315" src="https://youtu.be/9Svhsyt_IJI?si=wt2_w5ko6bAKf0Ke" title="Gravação da Entrevista" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/9Svhsyt_IJI" title="Gravação da Entrevista" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ---
