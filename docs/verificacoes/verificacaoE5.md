@@ -1,6 +1,6 @@
 # Lista de verificação da Entrega 5
 
-### Link da reunião de verificação: [Video]()
+### Link da reunião de verificação: [Video](https://youtu.be/rumG3G_uEdA)
 
 **Fase:** Avaliação e Desenvolvimento (Relato dos Resultados da Análise de Tarefas e Storyboard, Planejamento da Avaliação do Protótipo de Papel e Planejamento do Relato dos Resultados)
 
