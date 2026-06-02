@@ -5,11 +5,11 @@
 | Artefato(s) | Autor(es) |
 | --- | --- |
 | Página de Protótipo de Papel | [Ingrid Alves](https://github.com/alvesingrid) |
-| Protótipo de Papel — Tarefa 1 | [Ingrid Alves](https://github.com/alvesingrid) |
-| Protótipo de Papel — Tarefa 2 | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
-| Protótipo de Papel — Tarefa 3 | [Philipe Amancio](https://github.com/Phill-Chill) |
-| Protótipo de Papel — Tarefa 4 | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) |
-| Protótipo de Papel — Tarefa 5 | [Nathan]() |
+| [Protótipo de Papel — Acompanhamento de Resultados e Download de Laudos](#41-tarefa-1-acompanhamento-de-resultados-e-download-de-laudos) | [Ingrid Alves](https://github.com/alvesingrid) |
+| [Protótipo de Papel — Cadastro de Exame Laboratorial](#42-tarefa-2-cadastro-de-exame-laboratorial) | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| [Protótipo de Papel — Acesso ao Resultado de Imagem com Visualizador DICOM](#43-tarefa-3-acesso-ao-resultado-de-imagem-com-visualizador-dicom) | [Philipe Amancio](https://github.com/Phill-Chill) |
+| [Protótipo de Papel — Agendamento de Exames com Dúvidas Críticas de Preparo](#44-tarefa-4-agendamento-de-exames-com-duvidas-criticas-de-preparo) | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) |
+| [Protótipo de Papel — [Tarefa do Nathan]](#45-tarefa-5-tarefa-do-nathan) | [Nathan]() |
 
 ---
 
@@ -48,7 +48,7 @@ Os protótipos de papel desenvolvidos pela equipe representam os seguintes fluxo
 
 ## 4. Protótipos de Papel da Equipe
 
-### 4.1. Tarefa 1 — Acompanhamento de Resultados e Download de Laudos durante o Pré-natal
+### 4.1. Tarefa 1 — Acompanhamento de Resultados e Download de Laudos 
 
 > Elaborado por: [Ingrid Alves](https://github.com/alvesingrid)
 
@@ -200,3 +200,5 @@ Este protótipo representa o fluxo de agendamento de exames de sangue pelo Porta
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
 | 1.0 | 29/05/2026 | Criação do documento | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - |
+| 2.0 | 02/06/2026 | Adição do hiperlink dos protótipos de papel de todas as tarefas | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - |
+
