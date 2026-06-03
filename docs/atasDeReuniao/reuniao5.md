@@ -82,3 +82,11 @@ Foi decidido em conjunto que o grupo coordenará uma sessão formal de Brainstor
 ---
 
 <br>
+
+---
+
+## Histórico de Versão
+
+| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
+| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
+| 1.0 | 29/04/2026 | Criação da ata da reunião | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | - | - | - |

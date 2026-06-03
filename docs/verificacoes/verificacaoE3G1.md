@@ -21,3 +21,11 @@
 | 12 | **Item do conteúdo da disciplina** | O guia de estilo trata sobre todos os tópicos:  layout, tipografia, simbolismo, cores, visualização de informação, design de telas e elementos de interface? <span class="hover-image"> (BARBOSA et al., 2021, p. 257) <sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/verificacao-6.PNG" alt="Print"> </span> | Incompleto | Falta design de telas e visualização da interface | Hugo Freitas |
 | 13 |**Item do conteúdo da disciplina** | Existe uma justificativa fundamentada na literatura para a escolha ou relevância de cada princípio no contexto do sistema analisado? <span class="hover-image"> (BARBOSA et al., 2021, p. 280) <sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/DECIDE-completo.png" alt="Print"> </span> | Incompleto | Não possui para todos | Ingrid Alves |
 | 14 | **Item do conteúdo da disciplina** | As metas de usabilidade tratam dos fatores de usabilidade de Nielsen: facilidade de aprendizado , facilidade de recordação , eficiência , segurança de uso  e satisfação do usuário? <span class="hover-image"> (BARBOSA et al., 2021, p. 35-36) <sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/verificacao-7.PNG" alt="Print"> </span>  | Sim | - | Nathan |
+
+---
+
+## Histórico de Versão
+
+| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
+| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
+| 1.0 | 01/06/2026 | Criação do documento | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - |

@@ -76,3 +76,11 @@ Nenhuma pendência registrada.
 ---
 
 <br>
+
+---
+
+## Histórico de Versão
+
+| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
+| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
+| 1.0 | 23/04/2026 | Criação da ata da reunião | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | - | - | - |

@@ -82,6 +82,13 @@ nav:
           - Protótipo de Papel: AvaliacaoDesenvolvimento/Nivel02/PrototipoDePapel/PrototipoDePapel.md
           - Planejamento da Avaliação: AvaliacaoDesenvolvimento/Nivel02/PrototipoDePapel/PlanejamentoAvaliacao.md
           - Planejamento do Relato dos Resultados: AvaliacaoDesenvolvimento/Nivel02/PrototipoDePapel/PlanejamentoDosResultados.md
+          - Relatos dos Resultados:
+            - Visão Geral: AvaliacaoDesenvolvimento/Nivel02/PrototipoDePapel/RelatosDosResultados/index.md
+            - Relato dos resultados [Hugo]: AvaliacaoDesenvolvimento/Nivel02/PrototipoDePapel/RelatosDosResultados/RelatoHugo.md
+            - Relato dos resultados [Maria]: AvaliacaoDesenvolvimento/Nivel02/PrototipoDePapel/RelatosDosResultados/RelatoMaria.md
+            - Relato dos resultados [Philipe]: AvaliacaoDesenvolvimento/Nivel02/PrototipoDePapel/RelatosDosResultados/RelatoPhilipe.md
+            - Relato dos resultados [Ingrid]: AvaliacaoDesenvolvimento/Nivel02/PrototipoDePapel/RelatosDosResultados/RelatoIngrid.md
+            - Relato dos resultados [Nathan]: AvaliacaoDesenvolvimento/Nivel02/PrototipoDePapel/RelatosDosResultados/RelatoNathan.md
       - Nível 3:
         - Em breve: AvaliacaoDesenvolvimento/Nivel03/nivel3.md
   - Ferramentas: Ferramentas.md

@@ -78,3 +78,12 @@ Como o foco principal foi a gravação da apresentação, a equipe dividiu os mo
 ## 7. Próxima Reunião
 - *Data/Previsão:* 06/05/2026  
 - *Objetivo:* Planejamento da Etapa 3 (Modelagem de Tarefas e Design de Interação).
+
+---
+
+## Histórico de Versão
+
+| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
+| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
+| 1.0 | 03/05/2026 | Criação da ata da reunião | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | - | - | - |
+

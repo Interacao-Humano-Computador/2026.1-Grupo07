@@ -27,3 +27,11 @@
 | 19 | **Item do Desenvolvimento do projeto** | Rastreabilidade: As tarefas escolhidas para a modelagem correspondem diretamente às necessidades, dores ou ações principais mapeadas no Perfil do Usuário?  | Sim | - | Philipe |
 | 20 | **Item do Desenvolvimento do projeto** | Apresentação Visual: A formatação visual do GitHub Pages do grupo facilita a leitura dos diagramas e a rápida identificação do autor responsável por cada modelagem? | Incompleto | Dois métodos de analise de tarefas não seguem a padronização de autores abaixo. | Nathan|
 | 21 | **Item do conteúdo da disciplina** | Considera aspectos Éticos de Pesquisas Envolvendo Pessoas? Adicionar referência bibliográfica da fonte e foto do texto da referência explicando aspectos éticos. <span class="hover-image"> (BARBOSA et al., 2021, p. 117) <sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/Aspectos éticos-2.PNG" alt="Print"> </span>  | Não | Faltam a explicação dos aspectos éticos e referência bibliográfica. | Ingrid |
+
+---
+
+## Histórico de Versão
+
+| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
+| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
+| 1.0 | 01/06/2026 | Criação do documento | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - |

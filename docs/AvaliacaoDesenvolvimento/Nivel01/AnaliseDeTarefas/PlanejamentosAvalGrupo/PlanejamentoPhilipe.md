@@ -77,3 +77,11 @@ Os achados finais serão estruturados em um relatório de resultados formalizado
 * Os cenários e as tarefas apresentados;
 * Uma lista detalhada de todos os problemas encontrados (separados por artefato);
 * O feedback geral sobre a curva de aprendizado da ferramenta pelo leigo.
+
+---
+
+## Histórico de Versão
+
+| Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
+| :---: | :---: | :--- | :--- | :---: | :--- | :--- |
+| 1.0 | 15/05/2026 | Criação do documento | [Philipe Amancio](https://github.com/Phill-Chill) | - | - | - |

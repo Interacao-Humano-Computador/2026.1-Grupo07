@@ -54,11 +54,42 @@ Os protótipos de papel desenvolvidos pela equipe representam os seguintes fluxo
 
 Este protótipo representa o fluxo da persona **Camila**, professora de 29 anos grávida de 24 semanas, ao acessar o resultado de sua Curva Glicêmica e enviá-lo à obstetra pelo portal do Sabin. O protótipo mapeia as telas de login, listagem de resultados, seleção de exame, visualização de laudo e download de PDF.
 
-**Figura 1 — Protótipo de Papel: Acompanhamento de Resultados e Download de Laudos**
+**Figura 1 — Protótipo de Papel: Acompanhamento de Resultados e Download de Laudos — Etapa 1**
 
-> [INSERIR IMAGEM DO PROTÓTIPO DE PAPEL — TAREFA 1]
+<div align="center">Imagem - Tela de login no Portal Sabin</div>
 
-> Fonte: Autoria própria.
+![](../../../../assets/tarefaIngridE1.jpeg)
+
+<div align="center">Fonte: autoria própria.</div>
+<br>
+
+**Figura 2 — Protótipo de Papel: Acompanhamento de Resultados e Download de Laudos — Etapa 2**
+
+<div align="center">Imagem - Listagem de resultados recentes</div>
+
+![](../../../../assets/tarefaIngridE2.jpeg)
+
+<div align="center">Fonte: autoria própria.</div>
+<br>
+
+**Figura 3 — Protótipo de Papel: Acompanhamento de Resultados e Download de Laudos — Etapa 3**
+
+<div align="center">Imagem - Detalhes do exame (Curva Glicêmica)</div>
+
+![](../../../../assets/tarefaIngridE3.jpeg)
+
+<div align="center">Fonte: autoria própria.</div>
+<br>
+
+**Figura 4 — Protótipo de Papel: Acompanhamento de Resultados e Download de Laudos — Etapa 4**
+
+<div align="center">Imagem - Download e compartilhamento do laudo</div>
+
+![](../../../../assets/tarefaIngridE4.jpeg)
+
+<div align="center">Fonte: autoria própria.</div>
+
+
 
 ---
 
