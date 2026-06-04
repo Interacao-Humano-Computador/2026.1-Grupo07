@@ -32,14 +32,13 @@ Tabela 1 - Decomposição do objetivo em tarefas
 
 | ID | Tarefa Mapeada (Artefato) |
 |----|---------|
-| T1 | Acessar o site do Sabin |
-| T2 | Iniciar o processo de agendamento |
-| T3 | Buscar exame pelo nome |
-| T4 | Selecionar exame correto |
-| T5 | Selecionar unidade |
-| T6 | Selecionar horário |
-| T7 | Informar dados pessoais |
-| T8 | Confirmar agendamento |
+| T1 | Iniciar o processo de agendamento |
+| T2 | Buscar exame pelo nome |
+| T3 | Selecionar exame correto |
+| T4 | Selecionar unidade |
+| T5 | Selecionar horário |
+| T6 | Informar dados pessoais |
+| T7 | Confirmar agendamento |
 
 ### 2.2. Sumário Quantitativo dos Dados
 A **Tabela 2** apresenta o sumário quantitativo dos dados consolidados a partir das sessões de avaliação. Essas métricas fornecem uma visão objetiva sobre a precisão dos modelos construídos, quantificando divergências, sugestões de adição e níveis de concordância:

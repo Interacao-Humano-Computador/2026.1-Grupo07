@@ -139,12 +139,9 @@ Tabela III - Decomposição do objetivo em tarefas
 
 | ID | Tarefa Mapeada (Artefato) |
 |----|---------|
-| TH1 | Localizar a funcionalidade de cadastro de exame laboratorial |
-| TH2 | Iniciar o cadastro de um exame |
-| TH3 | Preencher as informações disponíveis |
-| TH4 | Identificar campos obrigatórios não preenchidos |
-| TH5 | Corrigir informações incompletas |
-| TH6 | Finalizar o cadastro do exame |
+| T1 | - |
+| T2 | - |
+| T3 | - |
 
 ### Sumário Quantitativo dos Dados
 A **Tabela IV** apresenta o sumário quantitativo dos dados consolidados a partir das sessões de avaliação. Essas métricas fornecem uma visão objetiva sobre a precisão dos modelos construídos, quantificando divergências, sugestões de adição e níveis de concordância:
@@ -293,4 +290,4 @@ As correções propostas deverão ser obrigatoriamente incorporadas aos document
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
 | 1.0 | 19/05/2026 | Criação do documento | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 19/05/2026 | Revisão da estrutura inicial e adequação ao framework DECIDE | [Philipe Amâncio](https://github.com/Phill-Chill) e [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 | 1.1 | 22/05/2026 | Correções gerais | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 23/05/2026 | Estruturação e escrita do planejamento | [Philipe Amancio](https://github.com/Phill-Chill) |
-| 1.2 | 30/05/2026 | Refatoração de métricas e estrutura para focar na validação conceitual de artefatos; Adequação para análise intrasujeito e generalização de modelos de tarefas | [Philipe Amâncio](https://github.com/Phill-Chill) | 30/05/2026 | - |[Hugo Freitas Silva](https://github.com/HugoFreitass)|
+| 1.2 | 30/05/2026 | Refatoração de métricas e estrutura para focar na validação conceitual de artefatos; Adequação para análise intrasujeito e generalização de modelos de tarefas | [Philipe Amâncio](https://github.com/Phill-Chill) | 30/05/2026 | Adequação da tabela de decomposição das tarefas |[Hugo Freitas Silva](https://github.com/HugoFreitass)|

@@ -154,4 +154,4 @@ Para garantir a padronização, a **estrutura do relatório do resultado da aval
 
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
-| 1.0 | 29/05/2026 | Criação do documento | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - |
+| 1.0 | 29/05/2026 | Criação do documento | [Ingrid Alves](https://github.com/alvesingrid) | 29/06/2026 | Revisão de estrutura e embasamento teórico | [Hugo Freitas Silva](https://github.com/HugoFreitass) |

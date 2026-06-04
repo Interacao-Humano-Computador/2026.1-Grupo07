@@ -18,7 +18,7 @@ Este artefato corresponde à etapa **"E": Avaliar (Evaluate), interpretar e apre
 
 ## 2. Metodologia de Consolidação dos Dados
 
-Após a conclusão das sessões individuais, os resultados serão consolidados por meio de uma **análise intersujeito** <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/analise-intersujeito.png"> </span>. Nesta etapa, a equipe deverá:
+Após a conclusão das sessões individuais, os resultados serão consolidados por meio de uma **análise intrasujeito** <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/analise-intersujeito.png"> </span>. Nesta etapa, a equipe deverá:
 
 * Buscar **recorrências** nos dados: padrões de comportamento, erros e dificuldades comuns entre participantes.
 * Diferenciar problemas representativos de idiossincrasias: separar dificuldades recorrentes de problemas particulares de um único participante.
@@ -32,7 +32,7 @@ Após a conclusão das sessões individuais, os resultados serão consolidados p
 
 Para garantir a padronização, todos os documentos de Relato de Resultados produzidos pela equipe deverão conter obrigatoriamente a seguinte estrutura:
 
-### 3.1. Objetivos e Escopo da Avaliação
+## 3.1. Objetivos e Escopo da Avaliação
 
 O relato deverá apresentar os objetivos da avaliação e descrever quais tarefas e telas do protótipo foram avaliadas. Deverá também justificar se os objetivos foram atingidos ou indicar por que alguma questão não pôde ser respondida.
 
@@ -44,7 +44,7 @@ O relato deverá apresentar os objetivos da avaliação e descrever quais tarefa
 
 ---
 
-### 3.2. Método de Avaliação Empregado
+## 3.2. Método de Avaliação Empregado
 
 O documento deverá registrar como o Teste de Usabilidade com Protótipo de Papel foi conduzido, especificando:
 
@@ -58,15 +58,15 @@ O documento deverá registrar como o Teste de Usabilidade com Protótipo de Pape
 
 ---
 
-### 3.3. Perfil de Usuários e Avaliadores
+## 3.3. Perfil de Usuários e Avaliadores
 
-#### Participantes
+### Participantes
 
 | Participante | Perfil |
 |------------|---------|
 | [Nome] | [Perfil de usuário correspondente](../../../requisitos/perfilDeUsuario.md) |
 
-#### Avaliadores
+### Avaliadores
 
 | Avaliador | Papel |
 |------------|---------|
@@ -74,25 +74,25 @@ O documento deverá registrar como o Teste de Usabilidade com Protótipo de Pape
 | [Hugo Freitas Silva](https://github.com/HugoFreitass) | Anotador |
 | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | Cinegrafista |
 
-#### Relação com o Perfil de Usuário
+### Relação com o Perfil de Usuário
 
 Os participantes selecionados apresentam características compatíveis com o [perfil de usuário](../../../requisitos/perfilDeUsuario.md) do Portal Sabin, garantindo a validade externa dos resultados obtidos.
 
 ---
 
-### 3.4. Tarefas Executadas e Sumário dos Dados
+## 3.4. Tarefas Executadas e Sumário dos Dados
 
-#### Tarefas Avaliadas
+A **Tabela** detalha a decomposição do objetivo principal da avaliação em tarefas menores. Esses passos representam as ações sequenciais modeladas pela equipe para serem validadas com o usuário:
 
-| ID | Tarefa |
-|----|--------|
-| T1 | Acompanhamento de resultados e download de laudos durante o pré-natal |
-| T2 | Cadastro de exame laboratorial com informação incompleta no sistema |
-| T3 | Acesso ao resultado de imagem com visualizador DICOM |
-| T4 | Agendamento de exames com dúvidas críticas de preparo |
-| T5 | [Tarefa do Nathan] |
+### Tabela - Decomposição do objetivo em tarefas
 
-#### Sumário Quantitativo dos Dados
+| ID | Tarefa Mapeada (Artefato) |
+|----|---------|
+| T1 | - |
+| T2 | - |
+| T3 | - |
+
+### Sumário Quantitativo dos Dados
 
 | Métrica | Resultado |
 |----------|-----------| 
@@ -104,7 +104,7 @@ Os participantes selecionados apresentam características compatíveis com o [pe
 | Pontos de hesitação identificados | XX |
 | Comentários relevantes registrados | XX |
 
-#### Dificuldades Observadas por Tarefa
+### Dificuldades Observadas por Tarefa
 
 | Tarefa | Dificuldade Observada |
 |--------|-----------------------|
@@ -114,13 +114,24 @@ Os participantes selecionados apresentam características compatíveis com o [pe
 | T4 | |
 | T5 | |
 
+### Comentários Relevantes dos Participantes
+A **Tabela** reúne as citações diretas e os comentários mais expressivos feitos pelo participante durante a validação. Esses relatos complementam as métricas, evidenciando como o usuário realmente pensa em comparação a como o sistema foi idealizado:
+
+Tabela - Comentários do entrevistado
+
+| Participante | Comentário |
+|-------------|------------|
+| Pedro Henrique | "..." |
+| Pedro Henrique| "..." |
+
+
 ---
 
-### 3.5. Relato da Interpretação e Análise dos Dados
+## 3.5. Relato da Interpretação e Análise dos Dados
 
 Nesta seção devem ser apresentados os resultados obtidos e sua relação com os objetivos definidos no planejamento.
 
-#### Análise das Perguntas Exploratórias
+### Análise das Perguntas Exploratórias
 
 | Pergunta Exploratória | Evidências Observadas | Conclusão |
 |----------------------|----------------------|------------|
@@ -128,7 +139,7 @@ Nesta seção devem ser apresentados os resultados obtidos e sua relação com o
 | Houve hesitação ou confusão? | [Observações] | [Respondida / Parcialmente / Não respondida] |
 | Os rótulos foram compreendidos? | [Observações] | [Respondida / Parcialmente / Não respondida] |
 
-#### Principais Achados
+### Principais Achados
 
 **Aspectos Positivos:**
 
@@ -147,7 +158,7 @@ Nesta seção devem ser apresentados os resultados obtidos e sua relação com o
 
 ---
 
-### 3.6. Lista dos Problemas Encontrados
+## 3.6. Lista dos Problemas Encontrados
 
 | ID | Descrição do Problema | Tarefa | Frequência | Severidade | Impacto | Possível Causa | Prioridade |
 |----|----------------------|--------|------------|------------|---------|----------------|------------|
@@ -155,7 +166,7 @@ Nesta seção devem ser apresentados os resultados obtidos e sua relação com o
 | P02 | [Descrição] | T2 | [N participantes] | Média | [Impacto] | [Causa] | Média |
 | P03 | [Descrição] | T3 | Ocasional | Baixa | [Impacto] | [Causa] | Baixa |
 
-#### Critérios de Severidade
+### Critérios de Severidade
 
 Os problemas serão classificados de acordo com a escala de severidade <span class="hover-image">(BARBOSA; SILVA, 2021, p. 284).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/escala-severidade.png"> </span>:
 
@@ -168,18 +179,18 @@ Os problemas serão classificados de acordo com a escala de severidade <span cla
 
 ---
 
-### 3.7. Planejamento para o Reprojeto do Protótipo
+## 3.7. Planejamento para o Reprojeto do Protótipo
 
 Nesta seção deverão ser apresentadas propostas de melhoria para o protótipo com base nos problemas identificados durante a avaliação <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/reprojeto-p279.png"> </span>.
 
-#### Recomendações de Melhoria
+### Recomendações de Melhoria
 
 | Problema Relacionado | Proposta de Melhoria | Justificativa |
 |---------------------|---------------------|--------------|
 | [ID do problema] | [Descrição da melhoria] | [Justificativa] |
 | [ID do problema] | [Descrição da melhoria] | [Justificativa] |
 
-#### Priorização das Alterações
+### Priorização das Alterações
 
 | Prioridade | Alteração Proposta | Problema Relacionado |
 |------------|-------------------|---------------------|
@@ -201,4 +212,4 @@ Nesta seção deverão ser apresentadas propostas de melhoria para o protótipo 
 
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
-| 1.0 | 29/05/2026 | Criação do documento | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - |
+| 1.0 | 29/05/2026 | Criação do documento | [Ingrid Alves](https://github.com/alvesingrid) | 29/05/2026 | Revisão de estrutura e teoria | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
