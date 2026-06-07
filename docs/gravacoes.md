@@ -14,6 +14,7 @@ Este documento centraliza os links para as gravações das apresentações de ca
 | **Entrega 3** | Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo.  | 11/05/2026 | [Vídeo](https://youtu.be/Ctijk0oHOZc) |
 | **Entrega 4** | Planejamento da Avaliação  do Storyboard, o Planejamento do relato dos resultados da avaliação do Storyboard, Planejamento da Avaliação  do Análise de tarefas e o planejamento do relato dos resultados da avaliação do Análise de tarefas. | 19/05/2026 | [Vídeo](https://www.youtube.com/watch?v=D_tcsPvoBX0) |
 | **Entrega 5** | Relato dos Resultados da Análise de Tarefas e Storyboard, Planejamento da Avaliação do Protótipo de Papel e Planejamento do Relato dos Resultados. | 31/05/2026 | [Vídeo](https://youtu.be/ypBOI3RQ0YU?si=Td77gffUbceSbuj-) |
+| **Entrega 6** | Relato dos Resultados da Avaliação do Protótipo de Papel e Planejamento da Avaliação e do Relato dos Resultados do Protótipo de Alta Fidelidade | 07/06/2026 | [Vídeo](https://youtu.be/2YHk_HBnI6s) |
 
 
 ---
