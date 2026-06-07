@@ -14,6 +14,13 @@ Este documento tem como objetivo relatar os resultados da avaliação do Protót
 
 Este artefato corresponde à etapa **"E": Avaliar (Evaluate), interpretar e apresentar os dados** do framework DECIDE <span class="hover-image">(BARBOSA; SILVA, 2021, p. 280)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/DECIDE-E2.png"> </span>, definindo como os dados serão avaliados, interpretados e apresentados.
 
+### 1.1 Avaliação
+A seguir está a gravação da entrevista:
+
+<div align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/LrYkfT_LG1A" title="ProtPapelHugo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## 2. Metodologia de Consolidação dos Dados
@@ -205,4 +212,4 @@ Nesta seção deverão ser apresentadas propostas de melhoria para o protótipo 
 
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
-| 1.0 | 03/06/2026 | Criação do documento | [Hugo Freitas Silva](https://github.com/HugoFreitass) | - | - | [Philipe Amâncio](https://github.com/Phill-Chill) |
+| 1.0 | 03/06/2026 | Criação do documento | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 07/06/2026 | Estrutura e detalhes de preenchimento | [Philipe Amâncio](https://github.com/Phill-Chill) |
