@@ -13,7 +13,7 @@ Este documento apresenta os resultados da avaliação conceitual referente à ta
 
 O cenário avaliado descreve a jornada de um usuário que tenta realizar o pré-agendamento de forma automatizada, enfrentando desafios na leitura das instruções de preparo, o que o leva a considerar o atendimento humano. Foram apresentados à entrevistada o Cenário narrativo, o Storyboard visual, o diagrama CTT e a análise quantitativa GOMS para avaliação qualitativa e lógica.
 
-### 1.2 Entrevista
+### 1.1 Entrevista
 A seguir está a gravação da entrevista:
 <div align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/CBj7lopsQX4" title="Gravação da Entrevista" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -15,6 +15,12 @@ Este documento tem como objetivo relatar os resultados da avaliação do Protót
 
 Este artefato corresponde à etapa **"E": Avaliar (Evaluate), interpretar e apresentar os dados** do framework DECIDE <span class="hover-image">(BARBOSA; SILVA, 2021, p. 280)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/DECIDE-E2.png"> </span>, definindo como os dados serão avaliados, interpretados e apresentados.
 
+### 1.1 Avaliação
+A seguir está a gravação da entrevista:
+<div align="center">
+  <iframe width="560" height="315" src="https://youtu.be/embed/j_I7y8EiVuI?si=fN6NmtfsbsmOE2XV" title="Gravação da Avaliação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## 2. Metodologia de Consolidação dos Dados
