@@ -190,15 +190,65 @@ Este protótipo representado na **Figura 3** foca na experiência direta dentro 
 
 ---
 
-### 4.4. Tarefa 4 — Agendamento de Exames com Dúvidas Críticas de Preparo
+### 4.4. Tarefa 4 — Pré-Agendamento de Exames com Dúvidas Críticas de Preparo
 
 > Elaborado por: [Maria Laura Regis](https://github.com/Maria-Laura-Regis)
 
 Este protótipo representa o fluxo de agendamento de exames de sangue pelo Portal Sabin, tendo como persona central **Márcia**, servidora pública de 55 anos. O protótipo mapeia as telas de busca de exame, seleção de unidade, escolha de horário e verificação das instruções de preparo.
+**Figura 4 — Protótipo de Papel: Pré-Agendamento de Exames com Dúvidas Críticas de Preparo**
 
-**Figura 4 — Protótipo de Papel: Agendamento de Exames com Dúvidas Críticas de Preparo**
 
-> [INSERIR IMAGEM DO PROTÓTIPO DE PAPEL — TAREFA 4]
+<div align="center">Imagem - Pré-Agendamento de Exame Etapa 1</div>
+![](../../../../assets/papelmaria1.jpeg)
+<div align="center">Fonte: autoria própria.</div>
+<br>
+<div align="center">Imagem - Pré-Agendamento de Exame Etapa 2</div>
+![](../../../../assets/papelmaria2.jpeg)
+<div align="center">Fonte: autoria própria.</div>
+<br>
+<div align="center">Imagem - Pré-Agendamento de Exame Etapa 3</div>
+![](../../../../assets/papelmaria3.jpeg)
+<div align="center">Fonte: autoria própria.</div>
+<br>
+<div align="center">Imagem - Pré-Agendamento de Exame Etapa 4</div>
+![](../../../../assets/papelmaria4.jpeg)
+<div align="center">Fonte: autoria própria.</div>
+<br>
+<div align="center">Imagem - Pré-Agendamento de Exame Etapa 5</div>
+![](../../../../assets/papelmaria5.jpeg)
+<div align="center">Fonte: autoria própria.</div>
+<br>
+<div align="center">Imagem - Pré-Agendamento de Exame Etapa 6</div>
+![](../../../../assets/papelmaria6.jpeg)
+<div align="center">Fonte: autoria própria.</div>
+<br>
+<div align="center">Imagem - Pré-Agendamento de Exame Etapa 7</div>
+![](../../../../assets/papelmaria7.jpeg)
+<div align="center">Fonte: autoria própria.</div>
+<br>
+<div align="center">Imagem - Pré-Agendamento de Exame Etapa 8</div>
+![](../../../../assets/papelmaria8.jpeg)
+<div align="center">Fonte: autoria própria.</div>
+<br>
+<div align="center">Imagem - Pré-Agendamento de Exame Etapa 9</div>
+![](../../../../assets/papelmaria9.jpeg)
+<div align="center">Fonte: autoria própria.</div>
+<br>
+<div align="center">Imagem - Pré-Agendamento de Exame Etapa 10</div>
+![](../../../../assets/papelmaria10.jpeg)
+<div align="center">Fonte: autoria própria.</div>
+<br>
+<div align="center">Imagem - Pré-Agendamento de Exame Etapa 11</div>
+![](../../../../assets/papelmaria11.jpeg)
+<div align="center">Fonte: autoria própria.</div>
+<br>
+<div align="center">Imagem - Pré-Agendamento de Exame Etapa 12</div>
+![](../../../../assets/papelmaria12.jpeg)
+<div align="center">Fonte: autoria própria.</div>
+<br>
+
+
+
 
 > Fonte: Autoria própria.
 
