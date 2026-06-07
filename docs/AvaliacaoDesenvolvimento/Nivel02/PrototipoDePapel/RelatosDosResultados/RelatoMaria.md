@@ -186,4 +186,4 @@ Os problemas serão classificados de acordo com a escala de severidade <span cla
 
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
-| 1.0 | 03/06/2026 | Criação do documento | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | - | - | - |
+| 1.0 | 03/06/2026 | Criação do documento | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | 07/06/2026 | Revisão da estrutura e conteúdo | [Hugo Freitas Silva](https://github.com/HugoFreitass) |

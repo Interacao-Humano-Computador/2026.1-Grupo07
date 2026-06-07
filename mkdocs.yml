@@ -111,9 +111,13 @@ nav:
           - Entrega 02 - Grupo 01: verificacoes/verificacaoE2G1.md
           - Entrega 03 - Grupo 01: verificacoes/verificacaoE3G1.md
           - Entrega 04 - Grupo 06: verificacoes/verificacaoE4G6.md
-          - Entrega 05 - Grupo 01:
+          - Entrega 05:
               - Lista de Verificação: verificacoes/listaVerificacaoE5.md
-              - Inspeção: verificacoes/verificacaoE5.md
+              - Inspeção - Grupo 01: verificacoes/verificacaoE5.md
+          - Entrega 06:
+              - Lista de Verificação: verificacoes/listaVerificacaoE6.md
+              - Inspeção - Grupo 06: verificacoes/verificacaoE6G6.md
+              - Inspeção do Nosso Grupo (Grupo 07): verificacoes/verificacaoNossaE6.md
   - Gravações: gravacoes.md
 
 plugins:

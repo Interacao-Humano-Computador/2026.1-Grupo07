@@ -25,4 +25,5 @@ Este documento centraliza os links para as gravações das apresentações de ca
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
 | 1.0 | 15/05/2026 | Criação do documento de registro de apresentações | [Philipe Amancio](https://github.com/Phill-Chill) | 17/05/2026 | Revisão da estrutura inicial e do conteúdo base do registro de gravações |  [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 | 1.1 | 19/05/2026 | Adição da gravação da entrega 4 | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 17/05/2026 | Checagem dos dados entrega 4 | [Philipe Amancio](https://github.com/Phill-Chill) |
-| 1.2 | 03/06/2026 | Adição da gravação da entrega 5 | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - |
+| 1.2 | 31/05/2026 | Adição da gravação da entrega 5 | [Ingrid Alves](https://github.com/alvesingrid) | 31/05/2026 | Verificação dos dados da entrega 5 | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.3 | 07/06/2026 | Adição da gravação da entrega 6 | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 07/06/2026 | Verificação dos dados da entrega 6 | [Philipe Amâncio](https://github.com/Phill-Chill) |

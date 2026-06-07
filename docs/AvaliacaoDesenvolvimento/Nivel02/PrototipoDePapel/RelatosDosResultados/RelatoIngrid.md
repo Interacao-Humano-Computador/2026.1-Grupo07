@@ -186,5 +186,5 @@ Com base nos problemas identificados, as seguintes melhorias são recomendadas p
 
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
-| 1.0 | 03/06/2026 | Criação do documento | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - |
-| 1.1 | 03/06/2026 | Estruturação completa do relato e adição da gravação da avaliação | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - |
+| 1.0 | 03/06/2026 | Criação do documento | [Ingrid Alves](https://github.com/alvesingrid) | 03/06/2026 | Revisão da estrutura | [Hugo Freitas Silva](https://github.com/HugoFreitass)|
+| 1.1 | 03/06/2026 | Estruturação completa do relato e adição da gravação da avaliação | [Ingrid Alves](https://github.com/alvesingrid) | 07/06/2026 | Revisão dos dados relatados | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
