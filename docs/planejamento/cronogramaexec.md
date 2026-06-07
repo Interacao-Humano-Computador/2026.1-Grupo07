@@ -91,9 +91,55 @@
 
 ***
 
+## Entrega 5: Relato (Storyboard/Tarefas) e Planejamento (Protótipo de Papel)
+
+### Cronograma de Atividades
+
+| Atividade | Descrição | Período de Desenvolvimento | Responsáveis | Período de Revisão | Revisores |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Relatos de Resultados | Documentar resultados da avaliação do Storyboard e Análise de Tarefas. | 30/05/2026 - 31/05/2026 | Maria Laura, Hugo, Philipe, Ingrid| 30/05/2026 - 31/05/2026 | Philipe e Hugo |
+| [Planejamento Avaliação (Papel)](../AvaliacaoDesenvolvimento/Nivel02/PrototipoDePapel/PlanejamentoAvaliacao.md) | Planejar a avaliação do Protótipo de Papel via Framework DECIDE. | 28/05/2026 - 29/05/2026 |  Ingrid | 27/05/2026 - 27/05/2026 | Philipe |
+| [Planejamento Relato (Papel)](../AvaliacaoDesenvolvimento/Nivel02/PrototipoDePapel/PlanejamentoDosResultados.md) | Estruturar como os dados da avaliação do Protótipo serão reportados. | 28/05/2026 - 29/05/2026 | Ingrid | 28/05/2026 - 28/05/2026 | Nathan |
+| Montagem do GitPages | Organização final da etapa 5 na documentação online. | 29/05/2026 - 31/05/2026 | Maria Laura, Hugo, Philipe, Ingrid  | 29/05/2026 - 29/05/2026 | Maria Laura, Hugo, Philipe, Ingrid, Nathan |
+
+### Cronograma de Reuniões e Gravações
+
+| Evento | Descrição | Data / Período | Responsáveis |
+|:---:|:---:|:---:|:---:|
+| Reunião Semanal | Acompanhamento do andamento dos relatos e planejamentos. | 27/05/2026 | Maria Laura, Hugo, Philipe, Ingrid, Nathan |
+| Reunião Específica | Reunião agendada para organização das atividades subsequentes de prototipação. | 31/05/2026 | Maria Laura, Hugo, Philipe, Ingrid, Nathan |
+| Reunião de Revisão e Gravação | Revisão dos artefatos da etapa 5 e gravação da apresentação. | 31/05/2026 | Maria Laura, Hugo, Philipe, Ingrid, Nathan |
+| [Vídeo da apresentação](../gravacoes.md) | Entrega do vídeo  | 31/05/2026 | Maria Laura, Hugo, Philipe, Ingrid, Nathan |
+| **Entrega 5** | **Data oficial da entrega da etapa 5 no Aprender3**. | **31/05/2026** | **Maria Laura, Hugo, Philipe, Ingrid, Nathan** |
+| [Gravação da inspeção do Grupo +1](../verificacoes/verificacaoE5.md) | Gravação da avaliação sobre o Grupo +1 (no dia da entrega). | 01/06/2026 | Maria Laura, Hugo, Philipe, Ingrid, Nathan |
+
+***
+
+## Entrega 6: Relato (Protótipo de Papel) e Planejamento (Alta Fidelidade)
+
+### Cronograma de Atividades
+
+| Atividade | Descrição | Período de Desenvolvimento | Responsáveis | Período de Revisão | Revisores |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Relato Resultados (Papel) | Consolidar o relatório com os resultados da avaliação do Protótipo de Papel. | 03/06/2026 - 06/06/2026 | Maria Laura, Hugo, Philipe, Ingrid| -|Maria Laura, Hugo, Philipe, Ingrid, Nathan |
+| [Planejamento Avaliação (Alta F.)](../AvaliacaoDesenvolvimento/Nivel03/PlanejamentoAvaliacao.md) | Estruturar o planejamento para testar o protótipo de alta fidelidade. | 05/06/2026 - 06/06/2026 | Philipe | - | Maria Laura |
+| Planejamento Relato (Alta F.) | Definir modelo de relatório para consolidação dos testes no protótipo final. | 06/06/2026 - 07/06/2026 | - | - |  - |
+| Montagem do GitPages | Integração dos relatórios e planejamentos da etapa 6 no site. | 03/06/2026 - 07/06/2026 | Hugo, Philipe, Ingrid | 05/06/2026 - 05/06/2026 | Maria Laura, Hugo, Philipe, Ingrid, Nathan |
+
+### Cronograma de Reuniões e Gravações
+
+| Evento | Descrição | Data / Período | Responsáveis |
+|:---:|:---:|:---:|:---:|
+| Reunião Semanal | Alinhamento do relatório do protótipo de papel e do planejamento de alta fidelidade. | 02/06/2026 | Maria Laura, Hugo, Philipe, Ingrid, Nathan |
+| Reunião de Revisão e Gravação | Leitura final dos documentos e gravação em grupo. | - | Maria Laura, Hugo, Philipe, Ingrid, Nathan |
+| Vídeo da apresentação | Entrega do vídeo. | 07/06/2026 | Maria Laura, Hugo, Philipe, Ingrid, Nathan |
+| **Entrega 6** | **Data oficial da entrega da etapa 6 no Aprender3**. | **07/06/2026** | **Maria Laura, Hugo, Philipe, Ingrid, Nathan** |
+| Gravação da inspeção do Grupo +1 | Análise e gravação dos artefatos da entrega 6 do Grupo +1 (no dia da entrega). | 08/06/2026 | Maria Laura, Hugo, Philipe, Ingrid, Nathan |
+
 ## Histórico de Versão
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
 | 1.0 | 11/04/2026 | Criação do documento | [Philipe Amancio](https://github.com/Phill-Chill) | 11/04/2026 | Revisão da estrutura inicial e do conteúdo base do cronograma executado | [Vitor Evangelista](https://github.com/SemC0ndicao) |
 | 1.1 | 22/04/2026 | Adição do historico de versão | [Ingrid Alves](https://github.com/alvesingrid) | 22/04/2026 | Checagem da tabela de versões e da ordem dos registros no cronograma executado | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 | 1.2 | 05/04/2026 | Adição do cronograma exacutado da entrega 03 | [Philipe Amancio](https://github.com/Phill-Chill) | 05/04/2026 | Conferência da atualização do cronograma executado da entrega 03 | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) |
+| 1.3 | 06/06/2026 | Adição do cronograma exacutado da entrega 05 e 06 | [Philipe Amancio](https://github.com/Phill-Chill) | - | - | [Hugo Freitas Silva](https://github.com/HugoFreitass) |

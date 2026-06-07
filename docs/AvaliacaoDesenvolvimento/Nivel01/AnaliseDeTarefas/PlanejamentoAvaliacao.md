@@ -110,6 +110,10 @@ Para garantir a padronização, a **estrutura do relatório do resultado da aval
 5. Uma lista detalhada das inconsistências encontradas nos modelos (priorizando a refatoração);
 6. O feedback geral dos usuários frente aos artefatos.
 
+## Agradecimentos à IA
+
+Gostaríamos de registrar nossos agradecimentos ao modelo de Inteligência Artificial Generativa Gemini, desenvolvido pelo Google, pelo auxílio na estruturação, revisão gramatical e padronização da formatação em Markdown dos artefatos deste projeto. A ferramenta foi utilizada estritamente como suporte técnico e operacional para refinar a apresentação da documentação. Ressaltamos que todo o planejamento, execução das metodologias, análise crítica de dados e tomadas de decisão descritas neste documento são de autoria e responsabilidade exclusiva dos membros da equipe.
+
 ## Referências Bibliográficas
 
 > BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.

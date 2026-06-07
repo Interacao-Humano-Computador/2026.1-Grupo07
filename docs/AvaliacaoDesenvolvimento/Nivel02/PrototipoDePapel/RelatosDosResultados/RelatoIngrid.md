@@ -180,8 +180,6 @@ Com base nos problemas identificados, as seguintes melhorias são recomendadas p
 
 > BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
 
-> SNYDER, C. **Paper Prototyping: The Fast and Easy Way to Design and Refine User Interfaces.** San Francisco: Morgan Kaufmann, 2003.
-
 ---
 
 ## Histórico de Versão

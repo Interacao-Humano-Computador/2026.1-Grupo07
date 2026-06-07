@@ -18,12 +18,12 @@ Este artefato corresponde à etapa **"E": Avaliar (Evaluate), interpretar e apre
 
 ## 2. Metodologia de Consolidação dos Dados
 
-Após a conclusão das sessões individuais, os resultados serão consolidados por meio de uma **análise intrasujeito** <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/analise-intersujeito.png"> </span>. Nesta etapa, a equipe deverá:
+Após a conclusão da sessão de teste, os resultados serão consolidados por meio de uma **análise intrasujeito** <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/analise-intrasujeito.png"> </span>. Como o teste é focado em um único participante por avaliador, a equipe deverá:
 
-* Buscar **recorrências** nos dados: padrões de comportamento, erros e dificuldades comuns entre participantes.
-* Diferenciar problemas representativos de idiossincrasias: separar dificuldades recorrentes de problemas particulares de um único participante.
-* Relacionar os resultados obtidos com os objetivos definidos no [Planejamento da Avaliação](PlanejamentoAvaliacao.md).
-* Evitar generalizações indevidas: os resultados representam tendências observadas e não conclusões absolutas.
+* Buscar **recorrências** no comportamento do usuário: observar como o participante age, evolui e reage ao longo da execução das diferentes tarefas propostas.
+* Identificar padrões individuais: mapear erros consistentes, pontos de hesitação repetidos e a curva de aprendizado do próprio participante durante a interação com o protótipo.
+* Relacionar os resultados e as atitudes observadas com os objetivos definidos no [Planejamento da Avaliação](PlanejamentoAvaliacao.md).
+* Evitar generalizações indevidas: reconhecer que os dados refletem as particularidades e o modelo mental de um único indivíduo, servindo como indícios fortes de problemas reais de usabilidade, mas não como métricas estatísticas de uma população.
 * **Atenção:** o resultado do Teste Piloto não será incluído no relato oficial da avaliação.
 
 ---
@@ -70,13 +70,13 @@ O documento deverá registrar como o Teste de Usabilidade com Protótipo de Pape
 
 | Avaliador | Papel |
 |------------|---------|
-| [Ingrid Alves](https://github.com/alvesingrid) | Facilitador / Human Computer |
-| [Hugo Freitas Silva](https://github.com/HugoFreitass) | Anotador |
-| [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | Cinegrafista |
+| [Nome]  | Facilitador / Human Computer |
+| [Nome]  | Anotador |
+| [Nome]  | Cinegrafista |
 
 ### Relação com o Perfil de Usuário
 
-Os participantes selecionados apresentam características compatíveis com o [perfil de usuário](../../../requisitos/perfilDeUsuario.md) do Portal Sabin, garantindo a validade externa dos resultados obtidos.
+O participante selecionado apresenta características compatíveis com o [perfil de usuário](../../../requisitos/perfilDeUsuario.md) do Portal Sabin, garantindo a validade externa dos resultados obtidos.
 
 ---
 
@@ -96,7 +96,7 @@ A **Tabela** detalha a decomposição do objetivo principal da avaliação em ta
 
 | Métrica | Resultado |
 |----------|-----------| 
-| Número de participantes | XX |
+| Número de participantes | 1 |
 | Tarefas concluídas sem auxílio | XX |
 | Tarefas concluídas com auxílio | XX |
 | Tarefas não concluídas | XX |
@@ -123,7 +123,6 @@ Tabela - Comentários do entrevistado
 |-------------|------------|
 | Pedro Henrique | "..." |
 | Pedro Henrique| "..." |
-
 
 ---
 
@@ -162,8 +161,8 @@ Nesta seção devem ser apresentados os resultados obtidos e sua relação com o
 
 | ID | Descrição do Problema | Tarefa | Frequência | Severidade | Impacto | Possível Causa | Prioridade |
 |----|----------------------|--------|------------|------------|---------|----------------|------------|
-| P01 | [Descrição] | T1 | [N participantes] | Alta | [Impacto] | [Causa] | Alta |
-| P02 | [Descrição] | T2 | [N participantes] | Média | [Impacto] | [Causa] | Média |
+| P01 | [Descrição] | T1 | [Nº de Ocorrências] | Alta | [Impacto] | [Causa] | Alta |
+| P02 | [Descrição] | T2 | [Nº de Ocorrências] | Média | [Impacto] | [Causa] | Média |
 | P03 | [Descrição] | T3 | Ocasional | Baixa | [Impacto] | [Causa] | Baixa |
 
 ### Critérios de Severidade
@@ -200,11 +199,15 @@ Nesta seção deverão ser apresentadas propostas de melhoria para o protótipo 
 
 ---
 
+## Agradecimentos à IA
+
+Gostaríamos de registrar nossos agradecimentos ao modelo de Inteligência Artificial Generativa Gemini, desenvolvido pelo Google, pelo auxílio na estruturação, revisão gramatical e padronização da formatação em Markdown dos artefatos deste projeto. A ferramenta foi utilizada estritamente como suporte técnico e operacional para refinar a apresentação da documentação. Ressaltamos que todo o planejamento, execução das metodologias, análise crítica de dados e tomadas de decisão descritas neste documento são de autoria e responsabilidade exclusiva dos membros da equipe.
+
+---
+
 ## Referência Bibliográfica
 
 > BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
-
-> SNYDER, C. **Paper Prototyping: The Fast and Easy Way to Design and Refine User Interfaces.** San Francisco: Morgan Kaufmann, 2003.
 
 ---
 
@@ -213,3 +216,4 @@ Nesta seção deverão ser apresentadas propostas de melhoria para o protótipo 
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
 | 1.0 | 29/05/2026 | Criação do documento | [Ingrid Alves](https://github.com/alvesingrid) | 29/05/2026 | Revisão de estrutura e teoria | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.2 | 06/06/2026 | Ajustes estruturais e adequação de conteúdo | [Philipe Amancio](https://github.com/Phill-Chill) | 29/05/2026 | - | [Hugo Freitas Silva](https://github.com/HugoFreitass) |

@@ -1,16 +1,18 @@
+# Planejamento da avaliação do Protótipo de Papel
+
 ## Tabela de Contribuição
 
 | Artefato(s) | Autor(es) |
 | --- | --- |
 | Página de Planejamento da Avaliação do Protótipo de Papel | [Ingrid Alves](https://github.com/alvesingrid) |
 
-# Introdução
+## Introdução
 
 Este documento apresenta o planejamento da avaliação do Protótipo de Papel desenvolvido para o Portal Sabin. A avaliação tem como objetivo verificar se as soluções de design representadas no protótipo de baixa fidelidade atendem às necessidades e expectativas dos usuários, além de identificar problemas de usabilidade, inconsistências de navegação e oportunidades de melhoria antes da elaboração do protótipo de alta fidelidade <span class="hover-image">(BARBOSA; SILVA, 2021, p. 358)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/PlanejamentoAnalise.png"> </span>.
 
 Para conduzir essa etapa, a equipe adotou o método de **Avaliação por Observação**, especificamente por meio da técnica de **Teste de Usabilidade com Protótipo de Papel**.
 
-# Metodologia
+## Metodologia
 
 O planejamento da avaliação será estruturado com base no framework DECIDE:
 
@@ -92,16 +94,16 @@ O teste piloto seguirá o mesmo procedimento das sessões oficiais, porém será
 
 <center> Tabela TP - Cronograma do Teste Piloto </center>
 
-| Avaliador | Participante (Membro da equipe) | Data | Horário | Local |
+| Avaliador | Membro da equipe em papel de entrevistado | Data | Horário | Local |
 | :--- | :--- | :--- | :--- | :--- |
-| [Ingrid Alves](https://github.com/alvesingrid) | A definir | A definir | A definir | A definir |
+| [Hugo Freitas Silva](https://github.com/HugoFreitass) |[Philipe Amancio](https://github.com/Phill-Chill)| 02/06/2026 | 12:40 - 13:00 | FCTE - Campus UnB Gama |
 
 >Fonte: autoria própria
 
 #### Gravação do Teste Piloto
 
 <div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/" title="Teste Piloto - Protótipo de Papel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/sxQ42T0tc1E " title="Teste Piloto - Protótipo de Papel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
@@ -115,9 +117,9 @@ O cronograma das sessões está detalhado na **Tabela I**:
 | Responsável pela Sessão | Participante | Data | Horário | Local de Realização |
 | :--- | :--- | :--- | :--- | :--- |
 | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - | - |
-| [Hugo Freitas Silva](https://github.com/HugoFreitass) | - | - | - | - |
-| [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | - | - | - | - |
-| [Philipe Amancio](https://github.com/Phill-Chill) | - | - | - | - |
+| [Hugo Freitas Silva](https://github.com/HugoFreitass) | Eduardo Lobo | - | - | FCTE - Campus UnB Gama |
+| [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | - | - | - | -|
+| [Philipe Amancio](https://github.com/Phill-Chill) | Eduardo Lobo  | - | - | FCTE - Campus UnB Gama |
 | [Nathan]() | - | - | - | - |
 
 >Fonte: autoria própria
@@ -143,15 +145,16 @@ Para garantir a padronização, a **estrutura do relatório do resultado da aval
 7. O planejamento para o reprojeto do protótipo.
 
 
+## Agradecimentos à IA
+
+Gostaríamos de registrar nossos agradecimentos ao modelo de Inteligência Artificial Generativa Gemini, desenvolvido pelo Google, pelo auxílio na estruturação, revisão gramatical e padronização da formatação em Markdown dos artefatos deste projeto. A ferramenta foi utilizada estritamente como suporte técnico e operacional para refinar a apresentação da documentação. Ressaltamos que todo o planejamento, execução das metodologias, análise crítica de dados e tomadas de decisão descritas neste documento são de autoria e responsabilidade exclusiva dos membros da equipe.
+
 ## Referências Bibliográficas
 
 > BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
-
-> SNYDER, C. **Paper Prototyping: The Fast and Easy Way to Design and Refine User Interfaces.** San Francisco: Morgan Kaufmann, 2003.
-
 
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
-| 1.0 | 29/05/2026 | Criação do documento | [Ingrid Alves](https://github.com/alvesingrid) | 29/06/2026 | Revisão de estrutura e embasamento teórico | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.0 | 29/05/2026 | Criação do documento | [Ingrid Alves](https://github.com/alvesingrid) | 29/05/2026 | Revisão de estrutura e embasamento teórico | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
