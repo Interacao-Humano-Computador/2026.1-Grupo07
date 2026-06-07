@@ -131,7 +131,7 @@
 | Evento | Descrição | Data / Período | Responsáveis |
 |:---:|:---:|:---:|:---:|
 | Reunião Semanal | Alinhamento do relatório do protótipo de papel e do planejamento de alta fidelidade. | 02/06/2026 | Maria Laura, Hugo, Philipe, Ingrid, Nathan |
-| Reunião de Revisão e Gravação | Leitura final dos documentos e gravação em grupo. | - | Maria Laura, Hugo, Philipe, Ingrid, Nathan |
+| Reunião de Revisão e Gravação | Leitura final dos documentos e gravação em grupo. | 07/06/2026 | Maria Laura, Hugo, Philipe, Ingrid, Nathan |
 | Vídeo da apresentação | Entrega do vídeo. | 07/06/2026 | Maria Laura, Hugo, Philipe, Ingrid, Nathan |
 | **Entrega 6** | **Data oficial da entrega da etapa 6 no Aprender3**. | **07/06/2026** | **Maria Laura, Hugo, Philipe, Ingrid, Nathan** |
 | Gravação da inspeção do Grupo +1 | Análise e gravação dos artefatos da entrega 6 do Grupo +1 (no dia da entrega). | 08/06/2026 | Maria Laura, Hugo, Philipe, Ingrid, Nathan |

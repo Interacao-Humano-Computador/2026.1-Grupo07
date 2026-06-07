@@ -117,9 +117,9 @@ O cronograma das sessões está detalhado na **Tabela I**:
 | Responsável pela Sessão | Participante | Data | Horário | Local de Realização |
 | :--- | :--- | :--- | :--- | :--- |
 | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - | - |
-| [Hugo Freitas Silva](https://github.com/HugoFreitass) | Eduardo Lobo | - | - | FCTE - Campus UnB Gama |
+| [Hugo Freitas Silva](https://github.com/HugoFreitass) | Eduardo Lobo | 02/06/2026 | 13:00 - 13:10 | FCTE - Campus UnB Gama |
 | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | - | - | - | -|
-| [Philipe Amancio](https://github.com/Phill-Chill) | Eduardo Lobo  | - | - | FCTE - Campus UnB Gama |
+| [Philipe Amancio](https://github.com/Phill-Chill) | Eduardo Lobo  |  02/06/2026 | 13:20 - 13:30 | FCTE - Campus UnB Gama |
 | [Nathan]() | - | - | - | - |
 
 >Fonte: autoria própria

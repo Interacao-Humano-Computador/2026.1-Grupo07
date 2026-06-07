@@ -1,16 +1,16 @@
-# Planejamento do Relato dos Resultados — Protótipo de Papel
+# Planejamento do Relato dos Resultados — Protótipo de Alta Fidelidade
 
 ## Tabela de Contribuição
 
 | Artefato(s) | Autor(es) |
 | --- | --- |
-| Planejamento do Relato dos Resultados do Protótipo de Papel | [Ingrid Alves](https://github.com/alvesingrid) |
+| Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade | [Philipe Amancio](https://github.com/Phill-Chill) |
 
 ---
 
 ## 1. Introdução
 
-Este documento tem como objetivo definir o planejamento e a estrutura padronizada para o relato dos resultados da avaliação do Protótipo de Papel do Portal Sabin. O intuito é garantir que, após a coleta empírica de dados por meio do Teste de Usabilidade com Protótipo de Papel, todos os avaliadores da equipe sigam a mesma metodologia de consolidação e interpretação dos dados obtidos nas sessões <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/topicos-relato-p279.png"> </span>.
+Este documento tem como objetivo definir o planejamento e a estrutura padronizada para o relato dos resultados da avaliação do Protótipo de Alta Fidelidade do Portal Sabin. O intuito é garantir que, após a coleta empírica de dados por meio do Teste de Usabilidade com Protótipo Interativo, todos os avaliadores da equipe sigam a mesma metodologia de consolidação e interpretação dos dados obtidos nas sessões <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/topicos-relato-p279.png"> </span>.
 
 Este artefato corresponde à etapa **"E": Avaliar (Evaluate), interpretar e apresentar os dados** do framework DECIDE <span class="hover-image">(BARBOSA; SILVA, 2021, p. 280)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/DECIDE-E2.png"> </span>, definindo como os dados serão avaliados, interpretados e apresentados.
 
@@ -20,10 +20,10 @@ Este artefato corresponde à etapa **"E": Avaliar (Evaluate), interpretar e apre
 
 Após a conclusão da sessão de teste, os resultados serão consolidados por meio de uma **análise intrasujeito** <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/analise-intrasujeito.png"> </span>. Como o teste é focado em um único participante por avaliador, a equipe deverá:
 
-* Buscar **recorrências** no comportamento do usuário: observar como o participante age, evolui e reage ao longo da execução das diferentes tarefas propostas.
-* Identificar padrões individuais: mapear erros consistentes, pontos de hesitação repetidos e a curva de aprendizado do próprio participante durante a interação com o protótipo.
+* Buscar **recorrências** no comportamento do usuário: observar como o participante age, evolui e reage ao longo da execução das diferentes tarefas propostas na interface digital.
+* Identificar padrões individuais: mapear erros consistentes de clique, pontos de hesitação repetidos e a curva de aprendizado do próprio participante durante a interação com o protótipo.
 * Relacionar os resultados e as atitudes observadas com os objetivos definidos no [Planejamento da Avaliação](PlanejamentoAvaliacao.md).
-* Evitar generalizações indevidas: reconhecer que os dados refletem as particularidades e o modelo mental de um único indivíduo, servindo como indícios fortes de problemas reais de usabilidade, mas não como métricas estatísticas de uma população.
+* Evitar generalizações indevidas: reconhecer que os dados refletem as particularidades e o modelo mental de um único indivíduo, servindo como indícios fortes de problemas reais de usabilidade e interface, mas não como métricas estatísticas de uma população.
 * **Atenção:** o resultado do Teste Piloto não será incluído no relato oficial da avaliação.
 
 ---
@@ -34,27 +34,28 @@ Para garantir a padronização, todos os documentos de Relato de Resultados prod
 
 ## 3.1. Objetivos e Escopo da Avaliação
 
-O relato deverá apresentar os objetivos da avaliação e descrever quais tarefas e telas do protótipo foram avaliadas. Deverá também justificar se os objetivos foram atingidos ou indicar por que alguma questão não pôde ser respondida.
+O relato deverá apresentar os objetivos da avaliação e descrever quais tarefas e telas iterativas do protótipo de alta fidelidade foram avaliadas. Deverá também justificar se os objetivos foram atingidos ou indicar por que alguma questão não pôde ser respondida.
 
 **Escopo mínimo a descrever:**
 
-- As tarefas avaliadas e as telas do protótipo utilizadas;
-- Os fluxos de navegação analisados;
-- Os problemas previamente identificados na Análise de Tarefas que motivaram o design proposto.
+- As tarefas avaliadas e as interfaces/telas digitais utilizadas;
+- Os fluxos de navegação interativos analisados;
+- Os problemas previamente identificados na avaliação do Protótipo de Papel que motivaram as melhorias de design aplicadas nesta versão de alta fidelidade.
 
 ---
 
 ## 3.2. Método de Avaliação Empregado
 
-O documento deverá registrar como o Teste de Usabilidade com Protótipo de Papel foi conduzido, especificando:
+O documento deverá registrar como o Teste de Usabilidade com Protótipo de Alta Fidelidade foi conduzido, especificando:
 
-- Como o avaliador assumiu o papel de *human computer*;
-- Como as telas foram apresentadas e trocadas durante a sessão;
+- O dispositivo e ambiente utilizados para a simulação (ex: computador desktop presencial acessando o link do Figma);
+- Como o participante interagiu com o protótipo digital;
 - As estratégias de coleta de dados utilizadas:
-  - Observação direta das ações do participante;
+  - Observação direta das ações do participante e interações com a UI (Interface de Usuário);
+  - Captura de tela e gravação da interação digital (screen recording);
   - Protocolo *Think Aloud* (verbalização dos pensamentos, se aplicado);
-  - Registro audiovisual da sessão (mediante consentimento);
-  - Anotações do avaliador/anotador.
+  - Registro audiovisual do rosto/comportamento da sessão (mediante consentimento);
+  - Anotações do avaliador/anotador sobre cliques errados ou hesitações em componentes.
 
 ---
 
@@ -70,9 +71,9 @@ O documento deverá registrar como o Teste de Usabilidade com Protótipo de Pape
 
 | Avaliador | Papel |
 |------------|---------|
-| [Nome]  | Facilitador / Human Computer |
-| [Nome]  | Anotador |
-| [Nome]  | Cinegrafista |
+| [Nome]  | Facilitador |
+| [Nome]  | Anotador / Observador |
+| [Nome]  | Cinegrafista / Gestor de Gravação |
 
 ### Relação com o Perfil de Usuário
 
@@ -82,7 +83,7 @@ O participante selecionado apresenta características compatíveis com o [perfil
 
 ## 3.4. Tarefas Executadas e Sumário dos Dados
 
-A **Tabela** detalha a decomposição do objetivo principal da avaliação em tarefas menores. Esses passos representam as ações sequenciais modeladas pela equipe para serem validadas com o usuário:
+A **Tabela** detalha a decomposição do objetivo principal da avaliação em tarefas menores. Esses passos representam as ações sequenciais modeladas pela equipe para serem validadas com o usuário no sistema digital:
 
 ### Tabela - Decomposição do objetivo em tarefas
 
@@ -100,7 +101,7 @@ A **Tabela** detalha a decomposição do objetivo principal da avaliação em ta
 | Tarefas concluídas sem auxílio | XX |
 | Tarefas concluídas com auxílio | XX |
 | Tarefas não concluídas | XX |
-| Total de erros observados | XX |
+| Total de erros (cliques falhos/caminhos errados) | XX |
 | Pontos de hesitação identificados | XX |
 | Comentários relevantes registrados | XX |
 
@@ -115,14 +116,14 @@ A **Tabela** detalha a decomposição do objetivo principal da avaliação em ta
 | T5 | |
 
 ### Comentários Relevantes dos Participantes
-A **Tabela** reúne as citações diretas e os comentários mais expressivos feitos pelo participante durante a validação. Esses relatos complementam as métricas, evidenciando como o usuário realmente pensa em comparação a como o sistema foi idealizado:
+A **Tabela** reúne as citações diretas e os comentários mais expressivos feitos pelo participante durante a validação. Esses relatos complementam as métricas, evidenciando como o usuário realmente pensa sobre a estética, cores, rótulos e feedback do sistema:
 
 Tabela - Comentários do entrevistado
 
 | Participante | Comentário |
 |-------------|------------|
-| Participante | "..." |
-| Participante | "..." |
+| [Nome] | "..." |
+| [Nome] | "..." |
 
 ---
 
@@ -134,25 +135,26 @@ Nesta seção devem ser apresentados os resultados obtidos e sua relação com o
 
 | Pergunta Exploratória | Evidências Observadas | Conclusão |
 |----------------------|----------------------|------------|
-| O usuário concluiu a tarefa sem auxílio? | [Observações] | [Respondida / Parcialmente / Não respondida] |
-| Houve hesitação ou confusão? | [Observações] | [Respondida / Parcialmente / Não respondida] |
-| Os rótulos foram compreendidos? | [Observações] | [Respondida / Parcialmente / Não respondida] |
+| O usuário concluiu a tarefa interagindo com o protótipo digital sem auxílio? | [Observações] | [Respondida / Parcialmente / Não respondida] |
+| A identidade visual, os ícones e as cores ajudaram na identificação das ações? | [Observações] | [Respondida / Parcialmente / Não respondida] |
+| O feedback visual do sistema foi claro? | [Observações] | [Respondida / Parcialmente / Não respondida] |
+| Houve hesitação ou cliques errados? | [Observações] | [Respondida / Parcialmente / Não respondida] |
 
 ### Principais Achados
 
 **Aspectos Positivos:**
 
-- [Aspecto positivo identificado]
+- [Aspecto positivo identificado, ex: clareza visual, facilidade no fluxo]
 - [Aspecto positivo identificado]
 
 **Dificuldades Encontradas:**
 
-- [Dificuldade observada]
+- [Dificuldade observada, ex: botão pouco visível, contraste ruim]
 - [Dificuldade observada]
 
 **Quebras de Expectativa:**
 
-- [Quebra de expectativa observada]
+- [Quebra de expectativa observada, ex: link que não leva a onde o usuário esperava]
 - [Quebra de expectativa observada]
 
 ---
@@ -161,9 +163,9 @@ Nesta seção devem ser apresentados os resultados obtidos e sua relação com o
 
 | ID | Descrição do Problema | Tarefa | Frequência | Severidade | Impacto | Possível Causa | Prioridade |
 |----|----------------------|--------|------------|------------|---------|----------------|------------|
-| P01 | [Descrição] | T1 | [Nº de Ocorrências] | Alta | [Impacto] | [Causa] | Alta |
-| P02 | [Descrição] | T2 | [Nº de Ocorrências] | Média | [Impacto] | [Causa] | Média |
-| P03 | [Descrição] | T3 | Ocasional | Baixa | [Impacto] | [Causa] | Baixa |
+| P01 | [Descrição] | T1 | [Nº de Ocorrências] | Alta | [Impacto] | [Causa ligada a UI/UX] | Alta |
+| P02 | [Descrição] | T2 | [Nº de Ocorrências] | Média | [Impacto] | [Causa ligada a UI/UX] | Média |
+| P03 | [Descrição] | T3 | Ocasional | Baixa | [Impacto] | [Causa ligada a UI/UX] | Baixa |
 
 ### Critérios de Severidade
 
@@ -178,16 +180,16 @@ Os problemas serão classificados de acordo com a escala de severidade <span cla
 
 ---
 
-## 3.7. Planejamento para o Reprojeto do Protótipo
+## 3.7. Planejamento para o Reprojeto Final
 
-Nesta seção deverão ser apresentadas propostas de melhoria para o protótipo com base nos problemas identificados durante a avaliação <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/reprojeto-p279.png"> </span>.
+Nesta seção deverão ser apresentadas propostas de melhoria (ajustes de UI, tipografia, cores, interatividade ou fluxos) com base nos problemas identificados durante a avaliação, visando a consolidação final do projeto antes de um eventual desenvolvimento <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/reprojeto-p279.png"> </span>.
 
 ### Recomendações de Melhoria
 
 | Problema Relacionado | Proposta de Melhoria | Justificativa |
 |---------------------|---------------------|--------------|
-| [ID do problema] | [Descrição da melhoria] | [Justificativa] |
-| [ID do problema] | [Descrição da melhoria] | [Justificativa] |
+| [ID do problema] | [Descrição da melhoria visual/interativa] | [Justificativa técnica] |
+| [ID do problema] | [Descrição da melhoria visual/interativa] | [Justificativa técnica] |
 
 ### Priorização das Alterações
 
@@ -215,5 +217,4 @@ Gostaríamos de registrar nossos agradecimentos ao modelo de Inteligência Artif
 
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
-| 1.0 | 29/05/2026 | Criação do documento | [Ingrid Alves](https://github.com/alvesingrid) | 29/05/2026 | Revisão de estrutura e teoria | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
-| 1.2 | 06/06/2026 | Ajustes estruturais e adequação de conteúdo | [Philipe Amancio](https://github.com/Phill-Chill) | 29/05/2026 | - | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.0 | 06/06/2026 | Criação do documento | [Philipe Amancio](https://github.com/Phill-Chill) | | Revisão de estrutura e teoria | [Hugo Freitas Silva](https://github.com/HugoFreitass) |

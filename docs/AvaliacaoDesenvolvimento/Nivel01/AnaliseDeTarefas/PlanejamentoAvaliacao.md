@@ -1,4 +1,4 @@
-# Planejamento da Avaliação de Storyboards, Cenários e Análise de Tarefas
+# Planejamento da Avaliação de Cenários, Storyboard e Análise de Tarefas
 
 ## Tabela de contribuição
 |Artefato(s) | Autor(es)|
@@ -31,7 +31,7 @@ O planejamento da avaliação será estruturado com base no framework DECIDE, qu
 
 ## D - Objetivo da Avaliação
 
-O objetivo desta avaliação é validar a apropriação de tecnologia pelos usuários, e identificar eventuais problemas no fluxo de execução, na verossimilhança das narrativas e na lógica estrutural das tarefas na fase do modelo conceitual <span class="hover-image">(BARBOSA; SILVA, 2021, p. 294)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/DECIDE-D1.png"> </span>. O alcance desse objetivo será importante para a equipe de design e desenvolvimento, pois fornecerá os insumos necessários para corrigir rotas e refinar o fluxo do sistema antes do início da prototipação de alta fidelidade. Dessa forma, buscaremos validar se os artefatos produzidos (Storyboards, Cenários e Análise de Tarefas) correspondem ao contexto e às necessidades dos usuários.
+O objetivo desta avaliação é validar a apropriação de tecnologia pelos usuários, e identificar eventuais problemas no fluxo de execução, na verossimilhança das narrativas e na lógica estrutural das tarefas na fase do modelo conceitual <span class="hover-image">(BARBOSA; SILVA, 2021, p. 294)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/DECIDE-D1.png"> </span>. O alcance desse objetivo será importante para a equipe de design e desenvolvimento, pois fornecerá os insumos necessários para corrigir rotas e refinar o fluxo do sistema antes do início da prototipação de alta fidelidade. Dessa forma, buscaremos validar se os artefatos produzidos (Cenários, Storyboard e Análise de Tarefas) correspondem ao contexto e às necessidades dos usuários.
 
 ## E - Perguntas Exploratórias
 
@@ -41,7 +41,7 @@ Como este artefato consolida o planejamento geral da equipe e padronizamos o mé
 
 ## C - Escolha do Método
 
-Para atestar se a Análise de Tarefas, os Cenários e os Storyboards refletem a realidade do usuário, nossa equipe optou pela técnica de **Entrevista**<span class="hover-image">(BARBOSA; SILVA, 2021, p. 294)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/DECIDE-C.png"> </span>. Esse método investigativo servirá como ferramenta de validação com o entrevistado, permitindo capturar suas expectativas, opiniões e padrões de comportamento frente aos modelos apresentados. Com esse formato, asseguramos que a validação dos artefatos seja guiada por evidências reais do usuário.
+Para atestar se os Cenários, os Storyboards e Análise de tarefas refletem a realidade do usuário, nossa equipe optou pela técnica de **Entrevista**<span class="hover-image">(BARBOSA; SILVA, 2021, p. 294)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/DECIDE-C.png"> </span>. Esse método investigativo servirá como ferramenta de validação com o entrevistado, permitindo capturar suas expectativas, opiniões e padrões de comportamento frente aos modelos apresentados. Com esse formato, asseguramos que a validação dos artefatos seja guiada por evidências reais do usuário.
 
 ---
 
@@ -51,7 +51,7 @@ Nesta etapa do framework DECIDE, são definidos os procedimentos organizacionais
 
 A avaliação não possui orçamento financeiro alocado (sendo realizada de forma acadêmica e voluntária) e será executada dentro dos prazos estipulados, por cada integrante, no [cronograma](#crono).
 
-As entrevistas serão realizadas na modalidade **presencial**. Serão utilizados os artefatos conceituais (Storyboards, descrições de Cenários e diagramas de Análise de Tarefas impressos ou exibidos em um Notebook/Tablet), papel e caneta para anotações, além de equipamento de gravação audiovisual. Durante as sessões, a equipe poderá assumir as seguintes responsabilidades funcionais:
+As entrevistas serão realizadas na modalidade **presencial**. Serão utilizados os artefatos conceituais (descrições de Cenários, Storyboard e diagramas de Análise de Tarefas impressos ou exibidos em um Notebook/Tablet), papel e caneta para anotações, além de equipamento de gravação audiovisual. Durante as sessões, a equipe poderá assumir as seguintes responsabilidades funcionais:
 
 * **Avaliador/Condutor:** Responsável por apresentar os materiais (narrativas e diagramas), orientar o participante e seguir o roteiro da entrevista lado a lado com o usuário.
 * **Anotador:** Responsável por documentar comentários, dificuldades, quebras de expectativa e comportamentos observados. É dever crítico do avaliador/anotador **listar todos os problemas encontrados no fluxo lógico ou na verossimilhança das narrativas e priorizar as correções**.
