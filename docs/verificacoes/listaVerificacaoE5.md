@@ -1,6 +1,18 @@
 # Lista de Verificação da Entrega 5
 
+## Introdução
+
+Este documento contém itens de verificação sobre a entrega 05. 
+
 **Fase:** Avaliação e Desenvolvimento (Relato dos Resultados da Análise de Tarefas e Storyboard, Planejamento da Avaliação do Protótipo de Papel e Planejamento do Relato dos Resultados)
+
+## Tabela de contribuição
+
+|Artefato(s) | Autor(es)|
+| --- | --- |
+| Lista de verificação sobre a entrega 05 | [Hugo Freitas Silva](https://github.com/HugoFreitass), [Ingrid Alves](https://github.com/alvesingrid), [Maria Laura Regis](https://github.com/Maria-Laura-Regis), [Nathan Pontes](https://github.com/nathanpromao) e [Philipe Amancio](https://github.com/Phill-Chill) |
+
+## Lista de Verificação
 
 A **Tabela 1** apresenta os itens elaborados pelos integrantes do grupo para guiar a inspeção da entrega 5.
 
@@ -51,4 +63,4 @@ A **Tabela 1** apresenta os itens elaborados pelos integrantes do grupo para gui
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
 | 1.0 | 02/06/2026 | Criação do documento | [Ingrid Alves](https://github.com/alvesingrid) | 06/06/2026 | Estruração da tabela | [Philipe Amancio](https://github.com/Phill-Chill) |
-| 1.2 | 06/06/2026 | Adição da coluna "Aplicáve"l e "Fonte" | [Philipe Amancio](https://github.com/Phill-Chill) |- | -|  -|
+| 1.2 | 06/06/2026 | Adição da coluna "Aplicáve"l e "Fonte" | [Philipe Amancio](https://github.com/Phill-Chill) | 07/06/2026 | Adição da tabela de contribuição | [Hugo Freitas Silva](https://github.com/HugoFreitass) |

@@ -3,7 +3,7 @@
 ## Tabela de contribuição
 |Artefato(s) | Autor(es)|
 | --- | --- |
-| Página de Ferramentas | Philipe |
+| Página de Ferramentas | [Hugo Freitas Silva](https://github.com/HugoFreitass) e [Philipe Amancio](https://github.com/Phill-Chill) |
 
 
 ## Introdução
@@ -38,12 +38,18 @@ Os recursos descritos a seguir, apresentados na Tabela I, foram selecionados pel
 | ![alt text](assets/image-1.png){ width="100" } | GitHub | Repositório utilizado para armazenar, organizar e versionar os artefatos produzidos no projeto. | Será usado durante todo o período de desenvolvimento desse projeto. |
 | ![alt text](assets/image-4.png){ width="100" } | Visual Studio Code | Ambiente de desenvolvimento (IDE) utilizado para a criação do GitHub Pages e redação da documentação em Markdown. | Será usado durante todo o período de desenvolvimento desse projeto. |
 
-### Persona
+### Personas
 
 | Imagem | Nome | Finalidade | Fase(s) de utilização|
 | :---: | :---: | --- | ---|
-| ![alt text](){ width="100" } | ThisPersonDoesNotExits | Gerador de faces sintéticas utilizado para ilustrar o elenco de personas| Utilizado na atividade de análise de identificação de necessidades dos usuários e requisitos de IHC |
+| ![alt text](assets/logo-this-person.png){ width="100" } | This Person Does Not Exist | Gerador de faces sintéticas utilizado para ilustrar o elenco de personas| Utilizado na atividade de análise de identificação de necessidades dos usuários e requisitos de IHC |
 
+
+### Protótipos
+
+| Imagem | Nome | Finalidade | Fase(s) de utilização|
+| :---: | :---: | --- | ---|
+| ![alt text](assets/logo-figma.png){ width="90" } | Figma | Plataforma de construção de modelos gráficos |
 
 
 ### Publicação da apresentação
@@ -61,6 +67,7 @@ Os recursos descritos a seguir, apresentados na Tabela I, foram selecionados pel
 | 1.0 | 11/04/2026 | Criação do documento | [Philipe Amancio](https://github.com/Phill-Chill) | 11/04/2026 | Revisão da estrutura inicial e do conteúdo base do documento de ferramentas | [Ingrid Alves](https://github.com/alvesingrid) |
 | 1.1 | 22/04/2026 | Adição do historico de versão | [Ingrid Alves](https://github.com/alvesingrid) | 22/04/2026 | Checagem da tabela de versões e da ordem dos registros no documento de ferramentas | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 | 1.2 | 24/04/2026 | Adequação da página ao feedback do professor | [Philipe Amancio](https://github.com/Phill-Chill) | - | Conferência dos ajustes do documento de ferramentas conforme o feedback recebido | - |
-| 1.3 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Phill-Chill) | 15/05/2026 | Validação dos links e créditos de autoria no documento de ferramentas | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.3 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Phill-Chill) | 15/05/2026 | Validação dos links e créditos de autoria no documento de ferramentas | C |
+| 1.4 | 07/06/2026 | Adição da ferramenta "Figma" e da foto da ferramenta "This Person Does Not Exist" | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 07/06/2026 | Verificação geral das ferramentas descritas | [Philipe Amancio](https://github.com/Phill-Chill) |
 
 

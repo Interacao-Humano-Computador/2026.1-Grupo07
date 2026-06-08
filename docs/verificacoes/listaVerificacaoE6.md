@@ -1,6 +1,18 @@
 # Lista de Verificação da Entrega 6
 
+## Introdução
+
+Este documento contém itens de verificação sobre a entrega 06. 
+
 **Fase:** Avaliação e Desenvolvimento (Relato dos Resultados da Avaliação do Protótipo de Papel e Planejamento da Avaliação e do Relato dos Resultados do Protótipo de Alta Fidelidade)
+
+## Tabela de contribuição
+
+|Artefato(s) | Autor(es)|
+| --- | --- |
+| Lista de verificação sobre a entrega 06 | [Hugo Freitas Silva](https://github.com/HugoFreitass), [Ingrid Alves](https://github.com/alvesingrid), [Maria Laura Regis](https://github.com/Maria-Laura-Regis), [Nathan Pontes](https://github.com/nathanpromao) e [Philipe Amancio](https://github.com/Phill-Chill) |
+
+## Lista de Verificação
 
 A **Tabela 1** apresenta os itens elaborados pelos integrantes do grupo para guiar a inspeção da entrega 6.
 

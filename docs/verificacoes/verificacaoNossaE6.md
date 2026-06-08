@@ -1,8 +1,21 @@
 # Inspeção da Entrega 6
 
+## Introdução
+
+Este documento registra a realização da autoinspeção acerca da entrega 06.
+
 **Fase:** Avaliação e Desenvolvimento (Relato dos Resultados da Avaliação do Protótipo de Papel e Planejamento da Avaliação e do Relato dos Resultados do Protótipo de Alta Fidelidade)
 
-A tabela abaixo apresenta o resultado da inspeção realizada pelo grupo com base na [lista de verificação](listaVerificacaoE6.md).
+## Tabela de contribuição
+|Artefato(s) | Autor(es)|
+| --- | --- |
+| Autoinspeção da entrega 06 | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+
+## Resultado da Inspeção
+
+A tabela 1 apresenta o resultado da inspeção realizada pelo grupo com base na [lista de verificação](listaVerificacaoE6.md).
+
+<center>Tabela 1 - Lista de verificação com os resultados da inspeção</center>
 
 | Nº | Categoria                                                                 | Pergunta                                                                                                                                                                   | Avaliação  | Observações                                                     |
 | -- | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------------------------------------------------------- |
