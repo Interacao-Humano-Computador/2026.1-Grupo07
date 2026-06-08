@@ -3,7 +3,7 @@
 ## Tabela de contribuição
 |Artefato(s) | Autor(es)|
 | --- | --- |
-| Página de Gravações | Philipe |
+| Página de Gravações | [Hugo Freitas Silva](https://github.com/HugoFreitass), [Ingrid Alves](https://github.com/alvesingrid) e [Philipe Amancio](https://github.com/Phill-Chill)|
 
 Este documento centraliza os links para as gravações das apresentações de cada etapa do projeto da disciplina de Interação Humano-Computador (IHC), detalhando os tópicos abordados em cada entrega.
 
