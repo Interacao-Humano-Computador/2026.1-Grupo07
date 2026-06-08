@@ -49,7 +49,7 @@ Os recursos descritos a seguir, apresentados na Tabela I, foram selecionados pel
 
 | Imagem | Nome | Finalidade | Fase(s) de utilização|
 | :---: | :---: | --- | ---|
-| ![alt text](assets/logo-figma.png){ width="90" } | Figma | Plataforma de construção de modelos gráficos |
+| ![alt text](assets/logo-figma.png){ width="90" } | Figma | Plataforma de construção de modelos gráficos | Utilizada no guia de estilo e no protótipo de alta fidelidade |
 
 
 ### Publicação da apresentação
