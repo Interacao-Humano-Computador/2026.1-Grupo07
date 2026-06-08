@@ -25,7 +25,7 @@ A tabela 1 apresenta o resultado da inspeção realizada pelo grupo com base na 
 | 4  | **Itens do Desenvolvimento do projeto** | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro do texto? | Incompleto | Algumas imagens não possuem chamada no texto. |
 | 5  | **Itens do Desenvolvimento do projeto** | Um texto fazendo uma introdução dos artefatos? | Sim | - |
 | 6  | **Itens do Desenvolvimento do projeto** | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade. | Sim | - |
-| 7  | **Itens do Desenvolvimento do projeto** | Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). | Incompleto | Faltam algumas atas das última reuniões |
+| 7  | **Itens do Desenvolvimento do projeto** | Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). | Sim | - |
 | 8  | **Itens do Desenvolvimento do projeto** | A gravação da reunião do grupo. | Sim | Disponível no Git Pages. |
 | 9  | **Itens do Desenvolvimento do projeto** | Vídeo de apresentação na categoria "não listado" no youtube? | Sim | - |
 | 10 | **Itens do Desenvolvimento do projeto** | Tabela de contribuição no início do artefato com o nome de todos os integrantes com a contribuição de cada integrante com hiperligação atividade e da gravação, se houver. | Sim | - |
@@ -52,9 +52,9 @@ A tabela 1 apresenta o resultado da inspeção realizada pelo grupo com base na 
 
 | Avaliação  | Quantidade |
 | ---------- | ---------- |
-| Sim        | 25         |
+| Sim        | 26         |
 | Não        | 0          |
-| Incompleto | 3          |
+| Incompleto | 2          |
 | **Total**  | **28**     |
 
 ## Histórico de Versão
