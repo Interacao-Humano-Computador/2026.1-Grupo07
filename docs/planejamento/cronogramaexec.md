@@ -121,10 +121,10 @@
 
 | Atividade | Descrição | Período de Desenvolvimento | Responsáveis | Período de Revisão | Revisores |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| Relato Resultados (Papel) | Consolidar o relatório com os resultados da avaliação do Protótipo de Papel. | 03/06/2026 - 06/06/2026 | Maria Laura, Hugo, Philipe, Ingrid| -|Maria Laura, Hugo, Philipe, Ingrid, Nathan |
-| [Planejamento Avaliação (Alta F.)](../AvaliacaoDesenvolvimento/Nivel03/PlanejamentoAvaliacao.md) | Estruturar o planejamento para testar o protótipo de alta fidelidade. | 05/06/2026 - 06/06/2026 | Philipe | - | Maria Laura |
-| Planejamento Relato (Alta F.) | Definir modelo de relatório para consolidação dos testes no protótipo final. | 06/06/2026 - 07/06/2026 | - | - |  - |
-| Montagem do GitPages | Integração dos relatórios e planejamentos da etapa 6 no site. | 03/06/2026 - 07/06/2026 | Hugo, Philipe, Ingrid | 05/06/2026 - 05/06/2026 | Maria Laura, Hugo, Philipe, Ingrid, Nathan |
+| Relato Resultados (Papel) | Consolidar o relatório com os resultados da avaliação do Protótipo de Papel. | 03/06/2026 - 06/06/2026 | Maria Laura, Hugo, Philipe, Ingrid| 07/06/2026 |Maria Laura, Hugo, Philipe, Ingrid, Nathan |
+| [Planejamento Avaliação (Alta F.)](../AvaliacaoDesenvolvimento/Nivel03/PlanejamentoAvaliacao.md) | Estruturar o planejamento para testar o protótipo de alta fidelidade. | 05/06/2026 - 06/06/2026 | Philipe | 07/06/2026 | Maria Laura |
+| Planejamento Relato (Alta F.) | Definir modelo de relatório para consolidação dos testes no protótipo final. | 06/06/2026 - 07/06/2026 | Philipe |07/06/2026|  Hugo |
+| Montagem do GitPages | Integração dos relatórios e planejamentos da etapa 6 no site. | 03/06/2026 - 07/06/2026 | Hugo, Philipe, Ingrid, Maria Laura | 05/06/2026 - 05/06/2026 | Maria Laura, Hugo, Philipe, Ingrid, Nathan |
 
 ### Cronograma de Reuniões e Gravações
 
