@@ -76,7 +76,7 @@ Antes das sessões oficiais, será conduzido um **Teste Piloto**. O resultado do
 
 ### Teste Piloto
 
-O teste piloto tem como objetivo verificar se o planejamento da avaliação está adequado, garantindo que o roteiro de tarefas, o ambiente, os materiais (protótipo de papel, termo de consentimento e roteiro de perguntas) e os equipamentos de gravação funcionem corretamente antes da execução das sessões com os participantes reais <span class="hover-image">(BARBOSA; SILVA, 2021, p. 276).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/TestePiloto.png"> </span>.
+O teste piloto tem como objetivo verificar se o planejamento da avaliação está adequado, garantindo que o roteiro de tarefas, o ambiente, os materiais (protótipo de papel, termo de consentimento e roteiro de perguntas) e os equipamentos de gravação funcionem corretamente antes da execução das sessões com os participantes reais <span class="hover-image">(BARBOSA; SILVA, 2021, p. 276).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/TestePiloto-02.png"> </span>.
 
 #### Objetivos do Teste Piloto
 

@@ -128,7 +128,7 @@ Os resultados corroboram a estabilidade do fluxo de tarefas (HTA). As divergênc
 | P04 | Omissão de ferramenta de compartilhamento nativa no escopo | HTA | 2 participantes | Pequeno | Dependência do SO e aumento de passos fora do portal | Escopo contido | Média |
 
 ### 4.1. Critérios de Severidade (Adaptados para Validação de Artefatos)
-Os problemas encontrados nos modelos foram classificados adaptando a escala de severidade para o contexto de validação conceitual <span class="hover-image">(BARBOSA; SILVA, 2021, p. 284).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/escala-severidade.png"> </span>
+Os problemas encontrados nos modelos foram classificados adaptando a escala de severidade para o contexto de validação conceitual <span class="hover-image">(BARBOSA; SILVA, 2021, p. 284).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../../assets/escala-severidade.png"> </span>
 
 * **Cosmético:** Erro de digitação, falha visual no storyboard ou nomenclatura estranha que não invalida o fluxo.
 * **Pequeno:** Omissão de um detalhe menor ou passo opcional na árvore de tarefas.
@@ -147,7 +147,7 @@ Com base na severidade e no impacto na modelagem, as ações de correção foram
 
 ## 5. Planejamento para o Refinamento dos Artefatos
 
-Nesta seção são apresentadas as propostas de correção e atualização dos documentos conceituais (Análise de Tarefas, Cenários e Storyboards) com base nas validações feitas pelos usuários <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/reprojeto-p279.png"> </span>
+Nesta seção são apresentadas as propostas de correção e atualização dos documentos conceituais (Análise de Tarefas, Cenários e Storyboards) com base nas validações feitas pelos usuários <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../../assets/reprojeto-p279.png"> </span>
 
 ### 5.1. Recomendações de Ajuste
 

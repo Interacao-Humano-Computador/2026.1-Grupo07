@@ -17,7 +17,7 @@ Este artefato corresponde à etapa **"E": Avaliar (Evaluate), interpretar e apre
 
 ## 2. Metodologia de Consolidação dos Dados
 
-Após a conclusão da coleta de dados, os resultados serão consolidados e analisados individualmente por meio de uma **análise intrasujeito** <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/analise-intersujeito.png"> </span> 
+Após a conclusão da coleta de dados, os resultados serão consolidados e analisados individualmente por meio de uma **análise intrasujeito** <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/analise-intrasujeito.png"> </span> 
 
 Diferente de comparar vários usuários em uma mesma tarefa, nesta abordagem a equipe deverá focar no comportamento e nas respostas de cada participante de forma individualizada ao longo de sua interação com os modelos. O avaliador deverá:
 

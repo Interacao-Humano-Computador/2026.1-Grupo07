@@ -51,7 +51,7 @@ A avaliação foi conduzida por meio de **Teste de Usabilidade com Protótipo de
 
 | Participante | Perfil |
 |------------|---------|
-| A definir | [Perfil de usuário correspondente](../../../requisitos/perfilDeUsuario.md) |
+| A definir | [Perfil de usuário correspondente](../../../../requisitos/perfilDeUsuario.md) |
 
 ### Avaliadores
 
@@ -63,7 +63,7 @@ A avaliação foi conduzida por meio de **Teste de Usabilidade com Protótipo de
 
 ### Relação com o Perfil de Usuário
 
-Os participantes selecionados apresentam características compatíveis com o [perfil de usuário](../../../requisitos/perfilDeUsuario.md) do Portal Sabin, garantindo a validade externa dos resultados obtidos.
+Os participantes selecionados apresentam características compatíveis com o [perfil de usuário](../../../../requisitos/perfilDeUsuario.md) do Portal Sabin, garantindo a validade externa dos resultados obtidos.
 
 ---
 
@@ -147,7 +147,7 @@ Tabela 4 — Problemas de usabilidade identificados
 
 ### 6.1. Critérios de Severidade
 
-Os problemas foram classificados de acordo com a escala de severidade <span class="hover-image">(BARBOSA; SILVA, 2021, p. 284).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/escala-severidade.png"> </span>:
+Os problemas foram classificados de acordo com a escala de severidade <span class="hover-image">(BARBOSA; SILVA, 2021, p. 284).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../../assets/escala-severidade.png"> </span>:
 
 | Nível | Descrição |
 |---------|------------|
@@ -160,7 +160,7 @@ Os problemas foram classificados de acordo com a escala de severidade <span clas
 
 ## 7. Planejamento para o Reprojeto do Protótipo
 
-Com base nos problemas identificados, as seguintes melhorias são recomendadas para o protótipo <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/reprojeto-p279.png"> </span>:
+Com base nos problemas identificados, as seguintes melhorias são recomendadas para o protótipo <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../../assets/reprojeto-p279.png"> </span>:
 
 ### 7.1. Recomendações de Melhoria
 
