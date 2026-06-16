@@ -218,3 +218,4 @@ Gostaríamos de registrar nossos agradecimentos ao modelo de Inteligência Artif
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
 | 1.0 | 06/06/2026 | Criação do documento | [Philipe Amancio](https://github.com/Phill-Chill) | | Revisão de estrutura e teoria | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.1 | 16/06/2026 | Ajustes de caminhos quebrados| [Nathan Pontes Romão](https://github.com/nathanpromao) | - |  |  |

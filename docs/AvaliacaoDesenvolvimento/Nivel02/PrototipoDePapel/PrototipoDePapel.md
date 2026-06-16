@@ -288,4 +288,5 @@ Gostaríamos de registrar nossos agradecimentos ao modelo de Inteligência Artif
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
 | 1.0 | 29/05/2026 | Criação do documento | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - |
 | 2.0 | 02/06/2026 | Adição do hiperlink dos protótipos de papel de todas as tarefas | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - |
+| 2.1 | 16/06/2026 | Enumeração das imagens do artefato| [Nathan Pontes Romão](https://github.com/nathanpromao) | - |  |  |
 

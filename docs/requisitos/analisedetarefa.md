@@ -563,5 +563,6 @@ ___
 | 1.0 | 1/05/2026 | Criação do documento | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | 1/05/2026 | Revisão da estrutura inicial e do conteúdo base da análise de tarefa | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 | 1.1 | 4/05/2026 | Ajustes no documento | [Ingrid Alves](https://github.com/alvesingrid) | - | Conferência dos ajustes pontuais realizados na análise de tarefa | - |
 | 1.2 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Phill-Chill) | 15/05/2026 | Validação dos links e créditos de autoria na análise de tarefa | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) / [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.3 | 16/06/2026 | Adição da seção de agradecimentos da IA| [Nathan Pontes Romão](https://github.com/nathanpromao) | - |  |  |
 
 ___

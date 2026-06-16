@@ -184,4 +184,4 @@ ___
 | 1.4 | 04/05/2026 | Adição da persona "Agnes" | [Thaiza Romualdo da Silva](https://github.com/ThaizaWeert) | 04/05/2026 | Verificação da persona Agnes e da coerência dos atributos documentados | [Philipe Amancio](https://github.com/Phill-Chill) |
 | 1.5 | 06/05/2026 | Adição dos autores de cada persona e modificações na introdução | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 06/05/2026 | Conferência dos créditos por persona e dos ajustes realizados na introdução | [Philipe Amancio](https://github.com/Phill-Chill) |
 | 1.6 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Phill-Chill) | 15/05/2026 | Validação da rastreabilidade dos autores vinculada às personas | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) |
-
+| 1.7 | 16/06/2026 | Adição da seção de agradecimentos da IA| [Nathan Pontes Romão](https://github.com/nathanpromao) | - |  |  |

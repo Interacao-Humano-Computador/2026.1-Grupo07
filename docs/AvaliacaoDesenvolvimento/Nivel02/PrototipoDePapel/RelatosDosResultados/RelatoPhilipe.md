@@ -203,3 +203,4 @@ Nesta seção deverão ser apresentadas propostas de melhoria para o protótipo 
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
 | 1.0 | 05/06/2026 | Criação do relato sobre Visualizador de imagem DICOM | [Philipe Amancio](https://github.com/Phill-Chill) | 07/06/2026 | Revisão do conteúdo relatado | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.1 | 16/06/2026 | Ajustes de caminhos quebrados| [Nathan Pontes Romão](https://github.com/nathanpromao) | - |  |  |

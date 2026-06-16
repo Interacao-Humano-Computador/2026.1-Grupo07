@@ -89,6 +89,7 @@ ___
 | 1.0 | 09/05/2026 | Criação do documento | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | 09/05/2026 | Revisão da estrutura inicial e do conteúdo base dos princípios e diretrizes gerais | [Philipe Amancio](https://github.com/Phill-Chill) |
 | 1.1 | 11/05/2026 | Remocção da seção de características da plataforma (informação duplicada) | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 11/05/2026 | Checagem da remoção de conteúdo duplicado e da manutenção da coerência do documento | [Philipe Amancio](https://github.com/Phill-Chill) |
 | 1.2 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Phill-Chill) | 15/05/2026 | Validação dos links e créditos de autoria nos princípios e diretrizes gerais | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) |
+| 1.3 | 16/06/2026 | Adição da seção de agradecimentos da IA| [Nathan Pontes Romão](https://github.com/nathanpromao) | - |  |  |
 
 ---
 

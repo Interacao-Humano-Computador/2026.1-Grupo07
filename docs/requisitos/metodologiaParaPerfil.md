@@ -109,3 +109,4 @@ ____
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
 | 1.0 | 1/05/2026 | Criação do documento e abordagens das ferramentas selecionadas | [Philipe Amancio](https://github.com/Phill-Chill) | 1/05/2026 | Revisão da estrutura inicial e do conteúdo base da metodologia para definição do perfil | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.1 | 16/06/2026 | Adição da seção de agradecimentos da IA| [Nathan Pontes Romão](https://github.com/nathanpromao) | - |  |  |

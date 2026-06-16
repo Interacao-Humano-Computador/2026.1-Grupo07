@@ -133,5 +133,6 @@ ____
 | 1.3 | 04/05/2026 | Adição do cenário 4 | [Ingrid Alves](https://github.com/alvesingrid) | - | Checagem do cenário 4 e da padronização da descrição de uso | - |
 | 1.4 | 04/05/2026 | Adição do cenário 5 | [Thaiza Romualdo da Silva](https://github.com/ThaizaWeert) | - | Revisão do cenário 5 e da consistência com o elenco de situações mapeadas | - |
 | 1.5 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Phill-Chill) | 15/05/2026 | Conferência dos vínculos de autoria adicionados aos cenários | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.6 | 16/06/2026 | Adição da seção de agradecimentos da IA| [Nathan Pontes Romão](https://github.com/nathanpromao) | - |  |  |
 
 

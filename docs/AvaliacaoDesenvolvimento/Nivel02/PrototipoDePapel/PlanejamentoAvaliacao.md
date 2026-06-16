@@ -158,3 +158,4 @@ Gostaríamos de registrar nossos agradecimentos ao modelo de Inteligência Artif
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
 | 1.0 | 29/05/2026 | Criação do documento | [Ingrid Alves](https://github.com/alvesingrid) | 29/05/2026 | Revisão de estrutura e embasamento teórico | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.1 | 16/06/2026 | Ajustes de caminhos quebrados| [Nathan Pontes Romão](https://github.com/nathanpromao) | - |  |  |

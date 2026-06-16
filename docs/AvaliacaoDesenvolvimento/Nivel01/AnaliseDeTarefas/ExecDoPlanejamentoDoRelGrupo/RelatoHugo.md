@@ -182,3 +182,4 @@ Os resultados obtidos demonstram o nível de fidelidade dos artefatos construíd
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
 | 1.0 | [30/05/2026] | Criação do relato sobre Agendamento de Exame | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 31/05/2026 | Revisão do relato | [Philipe Amâncio](https://github.com/Phill-Chill) |
+| 1.1 | 16/06/2026 | Ajustes de caminhos quebrados| [Nathan Pontes Romão](https://github.com/nathanpromao) | - |  |  |

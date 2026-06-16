@@ -62,3 +62,4 @@ ____
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
 | 1.0 | 11/05/2026 | Criação do documento de características da plataforma | [Ingrid Alves](https://github.com/alvesingrid) | 11/05/2026 | Revisão da estrutura inicial e do conteúdo base das características da plataforma | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 | 1.1 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Phill-Chill) | 15/05/2026 | Validação dos links e créditos de autoria nas características da plataforma | [Ingrid Alves](https://github.com/alvesingrid) |
+| 1.2 | 16/06/2026 | Adição da seção de agradecimentos da IA| [Nathan Pontes Romão](https://github.com/nathanpromao) | - |  |  |

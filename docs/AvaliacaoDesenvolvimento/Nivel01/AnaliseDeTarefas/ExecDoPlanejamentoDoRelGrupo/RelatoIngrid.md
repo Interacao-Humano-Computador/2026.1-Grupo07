@@ -194,3 +194,4 @@ As três entrevistas confirmaram que o modelo primário proposto na Análise de 
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
 | 1.0 | 31/05/2026 | Criação do relato sobre obtenção de laudo de exame online contemplando três participantes | Ingrid Alves Rocha | - | Revisão do relato | - |
+| 1.1 | 16/06/2026 | Ajustes de caminhos quebrados| [Nathan Pontes Romão](https://github.com/nathanpromao) | - |  |  |

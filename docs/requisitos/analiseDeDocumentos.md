@@ -80,3 +80,4 @@ ___
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
 | 1.0 | 23/05/2026 | Criação do documento | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 24/05/2026 | - | [Philipe Amâncio](https://github.com/Phill-Chill) |
+| 1.1 | 16/06/2026 | Adição da seção de agradecimentos da IA| [Nathan Pontes Romão](https://github.com/nathanpromao) | - |  |  |

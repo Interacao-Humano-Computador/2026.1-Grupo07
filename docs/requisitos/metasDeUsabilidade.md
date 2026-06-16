@@ -65,4 +65,4 @@ ___
 | 1.2 | 12/05/2026 | Ajustes nas referências | [Nathan Pontes Romão](https://github.com/nathanpromao) | - | Conferência das referências e da formatação bibliográfica das metas de usabilidade | - |
 | 1.3 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Phill-Chill) | 15/05/2026 | Validação dos links e créditos de autoria nas metas de usabilidade | [Nathan Pontes Romão](https://github.com/nathanpromao) |
 | 1.4 | 23/05/2026 | Ajustes das metas de usabilidade | [Nathan Pontes Romão](https://github.com/nathanpromao) | - |  |  |
-
+| 1.5 | 16/06/2026 | Adição da seção de agradecimentos da IA| [Nathan Pontes Romão](https://github.com/nathanpromao) | - |  |  |

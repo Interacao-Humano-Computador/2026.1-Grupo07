@@ -158,3 +158,4 @@ Gostaríamos de registrar nossos agradecimentos ao modelo de Inteligência Artif
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
 | 1.0 | 06/06/2026 | Elaboração do Planejamento de Alta Fidelidade | [Philipe Amancio](https://github.com/Phill-Chill) | - | - | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) |
+| 1.1 | 16/06/2026 | Ajustes de caminhos quebrados| [Nathan Pontes Romão](https://github.com/nathanpromao) | - |  |  |

@@ -180,3 +180,4 @@ Os resultados obtidos demonstram o nível de fidelidade dos artefatos construíd
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
 | 1.0 | 30/05/2026 | Elaboração do relato sobre Visualizador de imagem DICOM | Philipe | - | Revisão do relato | - |
+| 1.1 | 16/06/2026 | Ajustes de caminhos quebrados| [Nathan Pontes Romão](https://github.com/nathanpromao) | - |  |  |

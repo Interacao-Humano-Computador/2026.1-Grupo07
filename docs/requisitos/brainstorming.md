@@ -121,3 +121,4 @@ ____
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
 | 1.0 | 1/05/2026 | Criação do documento | [Philipe Amancio](https://github.com/Phill-Chill) | 1/05/2026 | Revisão da estrutura inicial e do conteúdo base do brainstorming | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 | 1.1 | 15/05/2026 | Adição da rastreabilidade dos autores dos artefatos | [Philipe Amancio](https://github.com/Phill-Chill) | 15/05/2026 | Validação dos links e créditos de autoria no brainstorming | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) / [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.2 | 16/06/2026 | Adição da seção de agradecimentos da IA| [Nathan Pontes Romão](https://github.com/nathanpromao) | - |  |  |

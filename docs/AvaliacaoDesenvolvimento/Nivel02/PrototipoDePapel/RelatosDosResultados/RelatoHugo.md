@@ -29,7 +29,7 @@ Após a conclusão das sessões individuais, os resultados serão consolidados p
 
 * Buscar **recorrências** nos dados: padrões de comportamento, erros e dificuldades comuns entre participantes.
 * Diferenciar problemas representativos de idiossincrasias: separar dificuldades recorrentes de problemas particulares de um único participante.
-* Relacionar os resultados obtidos com os objetivos definidos no [Planejamento da Avaliação](../PlanejamentoAvaliacao.md).
+* Relacionar os resultados obtidos com os objetivos definidos no [Planejamento da Avaliação](../../PlanejamentoAvaliacao.md).
 * Evitar generalizações indevidas: os resultados representam tendências observadas e não conclusões absolutas.
 * **Atenção:** o resultado do Teste Piloto não será incluído no relato oficial da avaliação.
 
@@ -213,3 +213,4 @@ Nesta seção deverão ser apresentadas propostas de melhoria para o protótipo 
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
 | 1.0 | 03/06/2026 | Criação do documento | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 07/06/2026 | Estrutura e detalhes de preenchimento | [Philipe Amâncio](https://github.com/Phill-Chill) |
+| 1.1 | 16/06/2026 | Ajustes de caminhos quebrados| [Nathan Pontes Romão](https://github.com/nathanpromao) | - |  |  |
