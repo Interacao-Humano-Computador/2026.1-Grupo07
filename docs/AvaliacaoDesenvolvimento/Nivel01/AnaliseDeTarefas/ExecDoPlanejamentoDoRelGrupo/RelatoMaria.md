@@ -106,6 +106,8 @@ A avaliação validou a estrutura lógica dos artefatos. No entanto, o feedback 
 | [P02] | Redundância de passos | CTT | 1 | Baixa | Burocracia no fluxo | Excesso de passos sequenciais | Média |
 
 ### 4.1. Critérios de Severidade
+Os problemas encontrados nos modelos foram classificados adaptando a escala de severidade para o contexto de validação conceitual <span class="hover-image">(BARBOSA; SILVA, 2021, p. 284).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../../assets/escala-severidade.png"> </span>
+
 * **Cosmético:** ...
 * **Pequeno:** ...
 * **Grande:** Omissão de passo fundamental (Triagem).
