@@ -7,7 +7,7 @@
 
 ## Introdução
 
-Este documento apresenta o planejamento da avaliação do Protótipo de Alta Fidelidade desenvolvido para o Portal Sabin. A avaliação tem como objetivo verificar se as soluções de design interativas, estéticas e funcionais atendem às necessidades e expectativas dos usuários, além de identificar problemas de usabilidade avançados, inconsistências de navegação e oportunidades de refinamento antes do desenvolvimento (codificação) do sistema <span class="hover-image">(BARBOSA; SILVA, 2021, p. 358)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/PlanejamentoAnalise.png"> </span>.
+Este documento apresenta o planejamento da avaliação do Protótipo de Alta Fidelidade desenvolvido para o Portal Sabin. A avaliação tem como objetivo verificar se as soluções de design interativas, estéticas e funcionais atendem às necessidades e expectativas dos usuários, além de identificar problemas de usabilidade avançados, inconsistências de navegação e oportunidades de refinamento antes do desenvolvimento (codificação) do sistema <span class="hover-image">(BARBOSA; SILVA, 2021, p. 358)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../assets/PlanejamentoAnalise.png"> </span>.
 
 Para conduzir essa etapa, a equipe adotou o método de **Avaliação por Observação**, especificamente por meio da técnica de **Teste de Usabilidade com Protótipo de Alta Fidelidade**.
 
@@ -26,7 +26,7 @@ O planejamento da avaliação será estruturado com base no framework DECIDE:
 
 ## D - Objetivo da Avaliação
 
-O objetivo desta avaliação é identificar **problemas de usabilidade** na interface quase final (alta fidelidade), verificando se a disposição visual, as interações, a hierarquia de informações e os fluxos permitem que os usuários concluam suas tarefas de forma eficaz, eficiente e satisfatória <span class="hover-image">(BARBOSA; SILVA, 2021, p. 294)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/DECIDE-D1.png"> </span>. Especificamente, a avaliação buscará:
+O objetivo desta avaliação é identificar **problemas de usabilidade** na interface quase final (alta fidelidade), verificando se a disposição visual, as interações, a hierarquia de informações e os fluxos permitem que os usuários concluam suas tarefas de forma eficaz, eficiente e satisfatória <span class="hover-image">(BARBOSA; SILVA, 2021, p. 294)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../assets/DECIDE-D1.png"> </span>. Especificamente, a avaliação buscará:
 
 - Verificar se a identidade visual, os ícones e os feedbacks do sistema (cores, estados de botões) são compreendidos adequadamente;
 - Avaliar se a navegação interativa (cliques, rolagens, transições de tela) ocorre de forma fluida e sem quebra de expectativa;
@@ -35,7 +35,7 @@ O objetivo desta avaliação é identificar **problemas de usabilidade** na inte
 
 ## E - Perguntas Exploratórias
 
-Essas perguntas operacionalizam a investigação e o julgamento de valor a serem realizados <span class="hover-image">(BARBOSA; SILVA, 2021, p. 294)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/DECIDE-E.png"> </span>.
+Essas perguntas operacionalizam a investigação e o julgamento de valor a serem realizados <span class="hover-image">(BARBOSA; SILVA, 2021, p. 294)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../assets/DECIDE-E.png"> </span>.
 
 1. O usuário conseguiu concluir a tarefa proposta interagindo diretamente com o protótipo digital sem auxílio?
 2. A identidade visual, os ícones e as cores ajudaram ou atrapalharam a identificação das ações?
@@ -50,7 +50,7 @@ Essas perguntas operacionalizam a investigação e o julgamento de valor a serem
 
 ## C - Escolha do Método
 
-Para avaliar o Protótipo de Alta Fidelidade, a equipe optou pela técnica de **Avaliação por Observação** com **Teste de Usabilidade** <span class="hover-image">(BARBOSA; SILVA, 2021, p. 294)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/DECIDE-C.png"> </span>. Nessa técnica, o participante interage de forma autônoma e direta com um protótipo digital navegável (desenvolvido em ferramentas como Figma), simulando o uso do software real<span class="hover-image">(BARBOSA; SILVA, 2021, p. 301)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/TestePilotoProQ.png"> </span>.
+Para avaliar o Protótipo de Alta Fidelidade, a equipe optou pela técnica de **Avaliação por Observação** com **Teste de Usabilidade** <span class="hover-image">(BARBOSA; SILVA, 2021, p. 294)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../assets/DECIDE-C.png"> </span>. Nessa técnica, o participante interage de forma autônoma e direta com um protótipo digital navegável (desenvolvido em ferramentas como Figma), simulando o uso do software real<span class="hover-image">(BARBOSA; SILVA, 2021, p. 301)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../assets/TestePilotoProQ.png"> </span>.
 
 
 Essa abordagem foi escolhida por permitir:
@@ -64,9 +64,9 @@ Essa abordagem foi escolhida por permitir:
 
 ## I - Identificar as Questões Práticas
 
-Nesta etapa do framework DECIDE, são definidos os procedimentos organizacionais e os recursos necessários para a execução da avaliação <span class="hover-image">(BARBOSA; SILVA, 2021, p. 294)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/DECIDE-I.png"> </span>. Os participantes serão selecionados com base nas características descritas no [Perfil de Usuário](../../../requisitos/perfilDeUsuario.md).
+Nesta etapa do framework DECIDE, são definidos os procedimentos organizacionais e os recursos necessários para a execução da avaliação <span class="hover-image">(BARBOSA; SILVA, 2021, p. 294)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../assets/DECIDE-I.png"> </span>. Os participantes serão selecionados com base nas características descritas no [Perfil de Usuário](../../requisitos/perfilDeUsuario.md).
 
-As sessões serão realizadas na modalidade presencial, simulando um ambiente controlado para a execução das tarefas <span class="hover-image">(BARBOSA; SILVA, 2021, p. 301).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/TestePiloto-01.png"> </span>.
+As sessões serão realizadas na modalidade presencial, simulando um ambiente controlado para a execução das tarefas <span class="hover-image">(BARBOSA; SILVA, 2021, p. 301).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../assets/TestePiloto-01.png"> </span>.
 
 Durante as sessões, a equipe assumirá as seguintes responsabilidades:
 
@@ -78,7 +78,7 @@ Antes das sessões oficiais, será conduzido um **Teste Piloto**. O resultado do
 
 ### Teste Piloto
 
-O teste piloto tem como objetivo verificar se o planejamento da avaliação está adequado, garantindo que o protótipo digital (links, botões, transições), o ambiente e os softwares de gravação de tela funcionem perfeitamente antes da execução com os participantes reais <span class="hover-image">(BARBOSA; SILVA, 2021, p. 276).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/TestePiloto-02.png"> </span>.
+O teste piloto tem como objetivo verificar se o planejamento da avaliação está adequado, garantindo que o protótipo digital (links, botões, transições), o ambiente e os softwares de gravação de tela funcionem perfeitamente antes da execução com os participantes reais <span class="hover-image">(BARBOSA; SILVA, 2021, p. 276).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../assets/TestePiloto-02.png"> </span>.
 
 #### Objetivos do Teste Piloto
 
@@ -128,11 +128,11 @@ O cronograma das sessões está detalhado na **Tabela I**:
 
 ## D - Questões Éticas
 
-Antes da realização das atividades, os participantes deverão concordar com o [Termo de Consentimento](../../../requisitos/Aspectoseticos.md). Asseguramos que **os participantes da avaliação serão respeitados e não podem ser prejudicados direta ou indiretamente, nem durante os experimentos, nem após a divulgação dos resultados** <span class="hover-image">(BARBOSA; SILVA, 2021, p. 294)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/DECIDE-D2.png"> </span>. Todo o procedimento preservará o anonimato e a privacidade dos dados coletados.
+Antes da realização das atividades, os participantes deverão concordar com o [Termo de Consentimento](../../requisitos/Aspectoseticos.md). Asseguramos que **os participantes da avaliação serão respeitados e não podem ser prejudicados direta ou indiretamente, nem durante os experimentos, nem após a divulgação dos resultados** <span class="hover-image">(BARBOSA; SILVA, 2021, p. 294)<sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/DECIDE-D2.png"> </span>. Todo o procedimento preservará o anonimato e a privacidade dos dados coletados.
 
 ## E - Avaliar, Interpretar e Apresentar os Resultados
 
-Após a coleta, os dados serão interpretados para identificar problemas avançados de usabilidade, falhas no feedback visual e oportunidades de refinamento de UI (Interface de Usuário) <span class="hover-image">(BARBOSA; SILVA, 2021, p. 294)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/DECIDE-E2.png"> </span>.
+Após a coleta, os dados serão interpretados para identificar problemas avançados de usabilidade, falhas no feedback visual e oportunidades de refinamento de UI (Interface de Usuário) <span class="hover-image">(BARBOSA; SILVA, 2021, p. 294)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../assets/DECIDE-E2.png"> </span>.
 
 Para garantir a padronização, a **estrutura do relatório do resultado da avaliação** deverá conter os seguintes tópicos, os quais serão melhor abordados no [planejamento do resultado](PlanejamentoDosResultados.md):
 
