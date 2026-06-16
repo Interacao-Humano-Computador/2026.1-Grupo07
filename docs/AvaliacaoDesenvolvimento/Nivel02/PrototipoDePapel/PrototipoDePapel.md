@@ -56,7 +56,7 @@ Este protótipo representa o fluxo da persona **Camila**, professora de 29 anos 
 
 **Figura 1 — Protótipo de Papel: Acompanhamento de Resultados e Download de Laudos — Etapa 1**
 
-<div align="center">Imagem - Tela de login no Portal Sabin</div>
+<div align="center">Imagem 1 - Tela de login no Portal Sabin</div>
 
 ![](../../../../assets/tarefaIngridE1.jpeg)
 
@@ -65,7 +65,7 @@ Este protótipo representa o fluxo da persona **Camila**, professora de 29 anos 
 
 **Figura 2 — Protótipo de Papel: Acompanhamento de Resultados e Download de Laudos — Etapa 2**
 
-<div align="center">Imagem - Listagem de resultados recentes</div>
+<div align="center">Imagem 2 - Listagem de resultados recentes</div>
 
 ![](../../../../assets/tarefaIngridE2.jpeg)
 
@@ -74,7 +74,7 @@ Este protótipo representa o fluxo da persona **Camila**, professora de 29 anos 
 
 **Figura 3 — Protótipo de Papel: Acompanhamento de Resultados e Download de Laudos — Etapa 3**
 
-<div align="center">Imagem - Detalhes do exame (Curva Glicêmica)</div>
+<div align="center">Imagem 3 - Detalhes do exame (Curva Glicêmica)</div>
 
 ![](../../../../assets/tarefaIngridE3.jpeg)
 
@@ -83,7 +83,7 @@ Este protótipo representa o fluxo da persona **Camila**, professora de 29 anos 
 
 **Figura 4 — Protótipo de Papel: Acompanhamento de Resultados e Download de Laudos — Etapa 4**
 
-<div align="center">Imagem - Download e compartilhamento do laudo</div>
+<div align="center">Imagem 4 - Download e compartilhamento do laudo</div>
 
 ![](../../../../assets/tarefaIngridE4.jpeg)
 
@@ -99,51 +99,51 @@ Este protótipo representa o fluxo da persona **Camila**, professora de 29 anos 
 
 Este protótipo representa o fluxo de cadastro de um exame laboratorial no sistema do Portal Sabin em um cenário onde informações obrigatórias estão faltando, avaliando como o sistema comunica os campos ausentes e orienta o usuário para a correção.
 
-<div align="center">Imagem - Agendamento de Exame Etapa 1</div>
+<div align="center">Imagem 5 - Agendamento de Exame Etapa 1</div>
 ![](../../../../assets/tarefaHugoE1.jpeg)
 <div align="center">Fonte: autoria própria.</div>
 <br>
-<div align="center">Imagem - Agendamento de Exame Etapa 2</div>
+<div align="center">Imagem 6 - Agendamento de Exame Etapa 2</div>
 ![](../../../../assets/tarefaHugoE2.jpeg)
 <div align="center">Fonte: autoria própria.</div>
 <br>
-<div align="center">Imagem - Agendamento de Exame Etapa 3</div>
+<div align="center">Imagem 7 - Agendamento de Exame Etapa 3</div>
 ![](../../../../assets/tarefaHugoE3.jpeg)
 <div align="center">Fonte: autoria própria.</div>
 <br>
-<div align="center">Imagem - Agendamento de Exame Etapa 4</div>
+<div align="center">Imagem 8 - Agendamento de Exame Etapa 4</div>
 ![](../../../../assets/tarefaHugoE4.jpeg)
 <div align="center">Fonte: autoria própria.</div>
 <br>
-<div align="center">Imagem - Agendamento de Exame Etapa 5</div>
+<div align="center">Imagem 9 - Agendamento de Exame Etapa 5</div>
 ![](../../../../assets/tarefaHugoE5.jpeg)
 <div align="center">Fonte: autoria própria.</div>
 <br>
-<div align="center">Imagem - Agendamento de Exame Etapa 6</div>
+<div align="center">Imagem 10 - Agendamento de Exame Etapa 6</div>
 ![](../../../../assets/tarefaHugoE6.jpeg)
 <div align="center">Fonte: autoria própria.</div>
 <br>
-<div align="center">Imagem - Agendamento de Exame Etapa 7</div>
+<div align="center">Imagem 11 - Agendamento de Exame Etapa 7</div>
 ![](../../../../assets/tarefaHugoE7.jpeg)
 <div align="center">Fonte: autoria própria.</div>
 <br>
-<div align="center">Imagem - Agendamento de Exame Etapa 8</div>
+<div align="center">Imagem 12 - Agendamento de Exame Etapa 8</div>
 ![](../../../../assets/tarefaHugoE8.jpeg)
 <div align="center">Fonte: autoria própria.</div>
 <br>
-<div align="center">Imagem - Agendamento de Exame Etapa 9</div>
+<div align="center">Imagem 13 - Agendamento de Exame Etapa 9</div>
 ![](../../../../assets/tarefaHugoE9.jpeg)
 <div align="center">Fonte: autoria própria.</div>
 <br>
-<div align="center">Imagem - Agendamento de Exame Etapa 10</div>
+<div align="center">Imagem 14 - Agendamento de Exame Etapa 10</div>
 ![](../../../../assets/tarefaHugoE10.jpeg)
 <div align="center">Fonte: autoria própria.</div>
 <br>
-<div align="center">Imagem - Agendamento de Exame Etapa 11</div>
+<div align="center">Imagem 15 - Agendamento de Exame Etapa 11</div>
 ![](../../../../assets/tarefaHugoE11.jpeg)
 <div align="center">Fonte: autoria própria.</div>
 <br>
-<div align="center">Imagem - Agendamento de Exame Etapa 12</div>
+<div align="center">Imagem 16 - Agendamento de Exame Etapa 12</div>
 ![](../../../../assets/tarefaHugoE12.jpeg)
 <div align="center">Fonte: autoria própria.</div>
 <br>
@@ -158,31 +158,31 @@ Este protótipo representado na **Figura 3** foca na experiência direta dentro 
 
 **Figura 3 — Protótipo de Papel: Acesso ao Resultado de Imagem com Visualizador DICOM**
 
-<div align="center">Imagem - Visualizador DICOM com pronfundidade superficial Etapa 1</div>
+<div align="center">Imagem 17 - Visualizador DICOM com pronfundidade superficial Etapa 1</div>
 
 ![](../../../../assets/tarefaPhilipeE1.JPG)
 
 > Fonte: Autoria própria.
 
-<div align="center">Imagem - Visualizador DICOM com pronfundidade máxima Etapa 2</div>
+<div align="center">Imagem 18 - Visualizador DICOM com pronfundidade máxima Etapa 2</div>
 
 ![](../../../../assets/tarefaPhilipeE2.JPG)
 
 > Fonte: Autoria própria.
 
-<div align="center">Imagem - Visualizador DICOM com zoom no ombro direito e pronfundidade superficial Etapa 3</div>
+<div align="center">Imagem 19 - Visualizador DICOM com zoom no ombro direito e pronfundidade superficial Etapa 3</div>
 
 ![](../../../../assets/tarefaPhilipeE3.JPG)
 
 > Fonte: Autoria própria.
 
-<div align="center">Imagem - Visualizador DICOM com zoom no ombro direito e pronfundidade intermediária Etapa 4</div>
+<div align="center">Imagem 20 - Visualizador DICOM com zoom no ombro direito e pronfundidade intermediária Etapa 4</div>
 
 ![](../../../../assets/tarefaPhilipeE4.JPG)
 
 > Fonte: Autoria própria.
 
-<div align="center">Imagem - Visualizador DICOM com zoom no ombro direito e pronfundidade máxima Etapa 5</div>
+<div align="center">Imagem 21 - Visualizador DICOM com zoom no ombro direito e pronfundidade máxima Etapa 5</div>
 
 ![](../../../../assets/tarefaPhilipeE5.JPG)
 
@@ -198,51 +198,51 @@ Este protótipo representa o fluxo de agendamento de exames de sangue pelo Porta
 **Figura 4 — Protótipo de Papel: Pré-Agendamento de Exames com Dúvidas Críticas de Preparo**
 
 
-<div align="center">Imagem - Pré-Agendamento de Exame Etapa 1</div>
+<div align="center">Imagem 22 - Pré-Agendamento de Exame Etapa 1</div>
 ![](../../../../assets/papelmaria1.jpeg)
 <div align="center">Fonte: autoria própria.</div>
 <br>
-<div align="center">Imagem - Pré-Agendamento de Exame Etapa 2</div>
+<div align="center">Imagem 23 - Pré-Agendamento de Exame Etapa 2</div>
 ![](../../../../assets/papelmaria2.jpeg)
 <div align="center">Fonte: autoria própria.</div>
 <br>
-<div align="center">Imagem - Pré-Agendamento de Exame Etapa 3</div>
+<div align="center">Imagem 24 - Pré-Agendamento de Exame Etapa 3</div>
 ![](../../../../assets/papelmaria3.jpeg)
 <div align="center">Fonte: autoria própria.</div>
 <br>
-<div align="center">Imagem - Pré-Agendamento de Exame Etapa 4</div>
+<div align="center">Imagem 25 - Pré-Agendamento de Exame Etapa 4</div>
 ![](../../../../assets/papelmaria4.jpeg)
 <div align="center">Fonte: autoria própria.</div>
 <br>
-<div align="center">Imagem - Pré-Agendamento de Exame Etapa 5</div>
+<div align="center">Imagem 26 - Pré-Agendamento de Exame Etapa 5</div>
 ![](../../../../assets/papelmaria5.jpeg)
 <div align="center">Fonte: autoria própria.</div>
 <br>
-<div align="center">Imagem - Pré-Agendamento de Exame Etapa 6</div>
+<div align="center">Imagem 27 - Pré-Agendamento de Exame Etapa 6</div>
 ![](../../../../assets/papelmaria6.jpeg)
 <div align="center">Fonte: autoria própria.</div>
 <br>
-<div align="center">Imagem - Pré-Agendamento de Exame Etapa 7</div>
+<div align="center">Imagem 28 - Pré-Agendamento de Exame Etapa 7</div>
 ![](../../../../assets/papelmaria7.jpeg)
 <div align="center">Fonte: autoria própria.</div>
 <br>
-<div align="center">Imagem - Pré-Agendamento de Exame Etapa 8</div>
+<div align="center">Imagem 29 - Pré-Agendamento de Exame Etapa 8</div>
 ![](../../../../assets/papelmaria8.jpeg)
 <div align="center">Fonte: autoria própria.</div>
 <br>
-<div align="center">Imagem - Pré-Agendamento de Exame Etapa 9</div>
+<div align="center">Imagem 30 - Pré-Agendamento de Exame Etapa 9</div>
 ![](../../../../assets/papelmaria9.jpeg)
 <div align="center">Fonte: autoria própria.</div>
 <br>
-<div align="center">Imagem - Pré-Agendamento de Exame Etapa 10</div>
+<div align="center">Imagem 31 - Pré-Agendamento de Exame Etapa 10</div>
 ![](../../../../assets/papelmaria10.jpeg)
 <div align="center">Fonte: autoria própria.</div>
 <br>
-<div align="center">Imagem - Pré-Agendamento de Exame Etapa 11</div>
+<div align="center">Imagem 32 - Pré-Agendamento de Exame Etapa 11</div>
 ![](../../../../assets/papelmaria11.jpeg)
 <div align="center">Fonte: autoria própria.</div>
 <br>
-<div align="center">Imagem - Pré-Agendamento de Exame Etapa 12</div>
+<div align="center">Imagem 33 - Pré-Agendamento de Exame Etapa 12</div>
 ![](../../../../assets/papelmaria12.jpeg)
 <div align="center">Fonte: autoria própria.</div>
 <br>

@@ -111,6 +111,11 @@ Por fim, os próprios usuários indicaram oportunidades de inovação e melhoria
 *   Um usuário sugeriu a implementação de alertas automáticos caso o resultado de um exame apresente alterações fora dos padrões normais.
 *   Foi recomendada a criação de um recurso que reporte ao paciente a evolução do seu histórico de resultados ao longo do tempo.
 *   Houve também o pedido pela inclusão de uma funcionalidade que permita agendar a realização de exames em residência dentro de um prazo de 24 horas.
+___
+
+## Agradecimentos à IA
+
+Gostaríamos de registrar nossos agradecimentos ao modelo de Inteligência Artificial Generativa Gemini, desenvolvido pelo Google, pelo auxílio na estruturação, revisão gramatical e padronização da formatação em Markdown dos artefatos deste projeto. A ferramenta foi utilizada estritamente como suporte técnico e operacional para refinar a apresentação da documentação. Ressaltamos que todo o planejamento, execução das metodologias, análise crítica de dados e tomadas de decisão descritas neste documento são de autoria e responsabilidade exclusiva dos membros da equipe.
 
 ___
 

@@ -174,6 +174,11 @@ Embora o site mantenha elementos recorrentes como menu principal e identidade vi
 Como consequência, a experiência do usuário pode variar dependendo da seção acessada. Isso sugere que o site ainda possui oportunidades de melhoria relacionadas à padronização de interface e consolidação de um guia de estilo mais rígido.
 ___
 
+## Agradecimentos à IA
+
+Gostaríamos de registrar nossos agradecimentos ao modelo de Inteligência Artificial Generativa Gemini, desenvolvido pelo Google, pelo auxílio na estruturação, revisão gramatical e padronização da formatação em Markdown dos artefatos deste projeto. A ferramenta foi utilizada estritamente como suporte técnico e operacional para refinar a apresentação da documentação. Ressaltamos que todo o planejamento, execução das metodologias, análise crítica de dados e tomadas de decisão descritas neste documento são de autoria e responsabilidade exclusiva dos membros da equipe.
+___
+
 ## Referência Bibliográfica
 
 > BARBOSA, S. D. J. et al. **Interação Humano-Computador e Experiência do Usuário**. 1. ed. Rio de Janeiro: Autopublicação, 2021.

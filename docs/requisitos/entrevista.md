@@ -41,6 +41,11 @@ O roteiro intercala dois tipos fundamentais de perguntas para otimizar o tempo e
 
 O entrevistado atua como profissional da área de saúde, possui nível superior (graduação) e encontra-se dentro da faixa etária estipulada para a pesquisa. Inserido em uma rotina de trabalho de alta demanda, o uso constante de sistemas laboratoriais — acessados majoritariamente através dos desktops da empresa — é essencial para o gerenciamento dos dados e suporte direto às suas consultas. Durante a entrevista, ele relatou que, de maneira geral, os portais desse nicho poderiam ser mais bem adaptados ao modelo mental e às necessidades dos profissionais de saúde, priorizando a eficiência operacional. Como forte oportunidade de melhoria para o sistema, o usuário levantou a ideia de que a plataforma não apenas exiba os dados brutos, mas já forneça uma pré-avaliação ou destaque visual das alterações nos exames de sangue, com o objetivo de agilizar a tomada de decisão e a precisão do diagnóstico clínico.
 > Link da gravação da entrevista: [Vídeo](https://youtu.be/l79ZLvNdzws)
+___
+
+## Agradecimentos à IA
+
+Gostaríamos de registrar nossos agradecimentos ao modelo de Inteligência Artificial Generativa Gemini, desenvolvido pelo Google, pelo auxílio na estruturação, revisão gramatical e padronização da formatação em Markdown dos artefatos deste projeto. A ferramenta foi utilizada estritamente como suporte técnico e operacional para refinar a apresentação da documentação. Ressaltamos que todo o planejamento, execução das metodologias, análise crítica de dados e tomadas de decisão descritas neste documento são de autoria e responsabilidade exclusiva dos membros da equipe.
 
 ___
 

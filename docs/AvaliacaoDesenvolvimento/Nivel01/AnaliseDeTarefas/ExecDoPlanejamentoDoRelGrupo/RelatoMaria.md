@@ -119,6 +119,8 @@ A avaliação validou a estrutura lógica dos artefatos. No entanto, o feedback 
 
 ## 5. Planejamento para o Refinamento dos Artefatos
 
+Nesta seção são apresentadas as propostas de correção e atualização dos documentos conceituais (Análise de Tarefas, Cenários e Storyboards) com base nas validações feitas pelos usuários <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../../assets/reprojeto-p279.png"> </span>
+
 ### 5.1. Recomendações de Ajuste
 
 | Inconsistência Relacionada | Refinamento Proposto | Justificativa |

@@ -43,7 +43,11 @@ O acesso ao portal web abrange diferentes tipos de dispositivos, devendo emprega
 ### 4.3 Tecnologias Adicionais
 - **Visualizador de PDF**: Para o acesso aos laudos, o usuário deve ter um visualizador de PDF no navegador ou instalado no dispositivo.
 - **JavaScript**: A plataforma requer a ativação de JavaScript no navegador para o funcionamento de componentes interativos da interface (validação de formulários, menus suspensos, carregamento dinâmico).
+___
 
+## Agradecimentos à IA
+
+Gostaríamos de registrar nossos agradecimentos ao modelo de Inteligência Artificial Generativa Gemini, desenvolvido pelo Google, pelo auxílio na estruturação, revisão gramatical e padronização da formatação em Markdown dos artefatos deste projeto. A ferramenta foi utilizada estritamente como suporte técnico e operacional para refinar a apresentação da documentação. Ressaltamos que todo o planejamento, execução das metodologias, análise crítica de dados e tomadas de decisão descritas neste documento são de autoria e responsabilidade exclusiva dos membros da equipe.
 
 ---
 ## Referência Bibliográfica

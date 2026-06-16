@@ -63,6 +63,12 @@ O perfil identificado está descrito no perfil 2 na página de [perfis de usuár
 - SABIN. Portal Institucional. Disponível em: <https://www.sabin.com.br>. Acesso em: maio 2026.
 - Documentação institucional e informações corporativas disponibilizadas nos canais digitais do Grupo Sabin.
 
+## Agradecimentos à IA
+
+Gostaríamos de registrar nossos agradecimentos ao modelo de Inteligência Artificial Generativa Gemini, desenvolvido pelo Google, pelo auxílio na estruturação, revisão gramatical e padronização da formatação em Markdown dos artefatos deste projeto. A ferramenta foi utilizada estritamente como suporte técnico e operacional para refinar a apresentação da documentação. Ressaltamos que todo o planejamento, execução das metodologias, análise crítica de dados e tomadas de decisão descritas neste documento são de autoria e responsabilidade exclusiva dos membros da equipe.
+
+___
+
 ## Referência Bibliográfica
 
 > LIMA JUNIOR, Eduardo Brandão; OLIVEIRA, Guilherme Saramago de; SANTOS, Adriana Cristina Omena dos; SCHNEKENBERG, Guilherme Fernando. Análise documental como percurso metodológico na pesquisa qualitativa. Cadernos da FUCAMP, Monte Carmelo, v. 20, n. 44, p. 36–51, 2021. Disponível em: https://revistas.fucamp.edu.br/index.php/cadernos/article/download/2356/1451. Acesso em: 23 maio 2026.
