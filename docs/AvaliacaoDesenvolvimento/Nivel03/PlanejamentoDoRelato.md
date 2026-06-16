@@ -10,15 +10,15 @@
 
 ## 1. Introdução
 
-Este documento tem como objetivo definir o planejamento e a estrutura padronizada para o relato dos resultados da avaliação do Protótipo de Alta Fidelidade do Portal Sabin. O intuito é garantir que, após a coleta empírica de dados por meio do Teste de Usabilidade com Protótipo Interativo, todos os avaliadores da equipe sigam a mesma metodologia de consolidação e interpretação dos dados obtidos nas sessões <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/topicos-relato-p279.png"> </span>.
+Este documento tem como objetivo definir o planejamento e a estrutura padronizada para o relato dos resultados da avaliação do Protótipo de Alta Fidelidade do Portal Sabin. O intuito é garantir que, após a coleta empírica de dados por meio do Teste de Usabilidade com Protótipo Interativo, todos os avaliadores da equipe sigam a mesma metodologia de consolidação e interpretação dos dados obtidos nas sessões <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../assets/topicos-relato-p279.png"> </span>.
 
-Este artefato corresponde à etapa **"E": Avaliar (Evaluate), interpretar e apresentar os dados** do framework DECIDE <span class="hover-image">(BARBOSA; SILVA, 2021, p. 280)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/DECIDE-E2.png"> </span>, definindo como os dados serão avaliados, interpretados e apresentados.
+Este artefato corresponde à etapa **"E": Avaliar (Evaluate), interpretar e apresentar os dados** do framework DECIDE <span class="hover-image">(BARBOSA; SILVA, 2021, p. 280)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../assets/DECIDE-E2.png"> </span>, definindo como os dados serão avaliados, interpretados e apresentados.
 
 ---
 
 ## 2. Metodologia de Consolidação dos Dados
 
-Após a conclusão da sessão de teste, os resultados serão consolidados por meio de uma **análise intrasujeito** <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/analise-intrasujeito.png"> </span>. Como o teste é focado em um único participante por avaliador, a equipe deverá:
+Após a conclusão da sessão de teste, os resultados serão consolidados por meio de uma **análise intrasujeito** <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../assets/analise-intrasujeito.png"> </span>. Como o teste é focado em um único participante por avaliador, a equipe deverá:
 
 * Buscar **recorrências** no comportamento do usuário: observar como o participante age, evolui e reage ao longo da execução das diferentes tarefas propostas na interface digital.
 * Identificar padrões individuais: mapear erros consistentes de clique, pontos de hesitação repetidos e a curva de aprendizado do próprio participante durante a interação com o protótipo.
@@ -65,7 +65,7 @@ O documento deverá registrar como o Teste de Usabilidade com Protótipo de Alta
 
 | Participante | Perfil |
 |------------|---------|
-| [Nome] | [Perfil de usuário correspondente](../../../requisitos/perfilDeUsuario.md) |
+| [Nome] | [Perfil de usuário correspondente](../../requisitos/perfilDeUsuario.md) |
 
 ### Avaliadores
 
@@ -77,7 +77,7 @@ O documento deverá registrar como o Teste de Usabilidade com Protótipo de Alta
 
 ### Relação com o Perfil de Usuário
 
-O participante selecionado apresenta características compatíveis com o [perfil de usuário](../../../requisitos/perfilDeUsuario.md) do Portal Sabin, garantindo a validade externa dos resultados obtidos.
+O participante selecionado apresenta características compatíveis com o [perfil de usuário](../../requisitos/perfilDeUsuario.md) do Portal Sabin, garantindo a validade externa dos resultados obtidos.
 
 ---
 
@@ -169,7 +169,7 @@ Nesta seção devem ser apresentados os resultados obtidos e sua relação com o
 
 ### Critérios de Severidade
 
-Os problemas serão classificados de acordo com a escala de severidade <span class="hover-image">(BARBOSA; SILVA, 2021, p. 284).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/escala-severidade.png"> </span>:
+Os problemas serão classificados de acordo com a escala de severidade <span class="hover-image">(BARBOSA; SILVA, 2021, p. 284).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../assets/escala-severidade.png"> </span>:
 
 | Nível | Descrição |
 |---------|------------|
@@ -182,7 +182,7 @@ Os problemas serão classificados de acordo com a escala de severidade <span cla
 
 ## 3.7. Planejamento para o Reprojeto Final
 
-Nesta seção deverão ser apresentadas propostas de melhoria (ajustes de UI, tipografia, cores, interatividade ou fluxos) com base nos problemas identificados durante a avaliação, visando a consolidação final do projeto antes de um eventual desenvolvimento <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/reprojeto-p279.png"> </span>.
+Nesta seção deverão ser apresentadas propostas de melhoria (ajustes de UI, tipografia, cores, interatividade ou fluxos) com base nos problemas identificados durante a avaliação, visando a consolidação final do projeto antes de um eventual desenvolvimento <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../assets/reprojeto-p279.png"> </span>.
 
 ### Recomendações de Melhoria
 
