@@ -119,7 +119,11 @@ O cronograma das sessões está detalhado na **Tabela I**:
 | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - | - |
 | [Hugo Freitas Silva](https://github.com/HugoFreitass) | Eduardo Lobo | 02/06/2026 | 13:00 - 13:10 | FCTE - Campus UnB Gama |
 | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | - | - | - | -|
-| [Philipe Amancio](https://github.com/Phill-Chill) | Eduardo Lobo  |  02/06/2026 | 13:20 - 13:30 | FCTE - Campus UnB Gama |
+| [Philipe Amancio](https://github.com/Phill-Chill) | Pedro Henrique |  02/06/2026 | 13:20 - 13:30 | FCTE - Campus UnB Gama |
+| [Philipe Amancio](https://github.com/Phill-Chill) | Eduardo Lobo  |  16/06/2026 | 13:00 - 13:15 | FCTE - Campus UnB Gama |
+| [Philipe Amancio](https://github.com/Phill-Chill) | Lucas Andrade  |  16/06/2026 | 13:20 - 13:35 | FCTE - Campus UnB Gama |
+| [Hugo Freitas Silva](https://github.com/HugoFreitass) | Daniel Torquato | 16/06/2026 | 13:40 - 13:55 | FCTE - Campus UnB Gama |
+| [Hugo Freitas Silva](https://github.com/HugoFreitass) | Lucas Andrade | 16/06/2026 | 15:45 - 16:00 | FCTE - Campus UnB Gama |
 | [Nathan]() | - | - | - | - |
 
 >Fonte: autoria própria
@@ -158,4 +162,5 @@ Gostaríamos de registrar nossos agradecimentos ao modelo de Inteligência Artif
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
 | 1.0 | 29/05/2026 | Criação do documento | [Ingrid Alves](https://github.com/alvesingrid) | 29/05/2026 | Revisão de estrutura e embasamento teórico | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
-| 1.1 | 16/06/2026 | Ajustes de caminhos quebrados| [Nathan Pontes Romão](https://github.com/nathanpromao) | - |  |  |
+| 1.1 | 16/06/2026 | Ajustes de caminhos quebrados| [Nathan Pontes Romão](https://github.com/nathanpromao) | Verificando se as imagens aparecem | 16/06/2026 | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 1.1 | 16/06/2026 | Atualização do cronograma de sessões | [Nathan Pontes Romão](https://github.com/nathanpromao) | Verificação do novo cronograma | 16/06/2026 | [Philipe Amancio](https://github.com/Phill-Chill) |
