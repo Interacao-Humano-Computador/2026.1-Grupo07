@@ -154,8 +154,7 @@ A participante Helena Calegaro apresenta características compatíveis com o Per
 
 ### Visualização do Protótipo de Alta Fidelidade
 
-<iframe src="../../assets/sabin-pre-cadastro.html" width="100%" height="800px" style="border:1px solid #ccc; border-radius:8px;"></iframe>
-
+<iframe src="https://interacao-humano-computador.github.io/2026.1-Grupo07/assets/sabin-pre-cadastro.html" width="100%" height="800px" style="border:1px solid #ccc; border-radius:8px;"></iframe>
 ---
 
 ### Análise das Perguntas Exploratórias
