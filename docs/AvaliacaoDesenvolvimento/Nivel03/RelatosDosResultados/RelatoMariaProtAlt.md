@@ -157,7 +157,7 @@ A participante Helena Calegaro apresenta características compatíveis com o Per
 > *[INCORPORAR PROTOTIPO HTML AQUI]*
 
 
-<iframe src="docs/assets/sabin-pre-cadastro.html" width="100%" height="800px" style="border:1px solid #ccc; border-radius:8px;"></iframe>
+<iframe src="/home/laura/2026.1-Grupo07/docs/assets/sabin-pre-cadastro.html" width="100%" height="800px" style="border:1px solid #ccc; border-radius:8px;"></iframe>
 
 
 ---
