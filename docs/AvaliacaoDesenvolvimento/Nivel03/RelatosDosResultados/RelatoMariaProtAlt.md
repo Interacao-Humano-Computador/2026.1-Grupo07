@@ -136,19 +136,16 @@ A participante Helena Calegaro apresenta características compatíveis com o Per
 
 **Gravação de tela (screen recording) da interação com o protótipo:**
 
-> *[EMBED YOUTUBE — Gravação de tela da avaliação]*
-> `https://www.youtube.com/embed/yl3eMS7qDRc`
 
-<!--
+
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yl3eMS7qDRc" frameborder="0" allowfullscreen></iframe>
--->
 
 ---
 
 **Gravação audiovisual da sessão (câmera — rosto e voz da participante):**
 
-> *[EMBED YOUTUBE — Gravação audiovisual da sessão]*
-> `https://www.youtube.com/embed/wINWnKFYYm4`
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wINWnKFYYm4" frameborder="0" allowfullscreen></iframe>
