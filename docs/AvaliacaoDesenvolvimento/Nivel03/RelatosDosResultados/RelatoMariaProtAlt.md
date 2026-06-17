@@ -4,7 +4,7 @@
 
 | Artefato(s) | Autor(es) |
 | --- | --- |
-| Relato dos resultados da avaliação do protótipo de alta fidelidade da tarefa de **Pré-Cadastro de Exames** | Maria Laura — [@MariaLauraRegis](https://github.com/MariaLauraRegis) |
+| Relato dos resultados da avaliação do protótipo de alta fidelidade da tarefa de **Pré-Cadastro de Exames** | [Maria Laura](https://github.com/Maria-Laura-Regis) |
 
 ---
 

@@ -29,6 +29,7 @@ A tabela abaixo apresenta os relatos individuais de cada avaliador, organizados 
 | --- | --- | --- |
 | Tarefa: Agendamento de Exame Laboratorial | [Hugo Freitas Silva](https://github.com/HugoFreitass) | [Acessar relato](./RelatoHugoProtAlt.md) |
 | Tarefa: Acesso ao Resultado de Imagem com Visualizador DICOM | [Philipe Amancio](https://github.com/Phill-Chill) | [Acessar relato](./RelatoPhilipeProtAlt.md) |
+| Tarefa: Pré-Cadastro de Exames | [Maria Laura](https://github.com/Maria-Laura-Regis) |
 
 
 ---
