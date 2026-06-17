@@ -97,7 +97,7 @@ Este protótipo representa o fluxo da persona **Camila**, professora de 29 anos 
 
 > Elaborado por: [Hugo Freitas Silva](https://github.com/HugoFreitass)
 
-Este protótipo representa o fluxo de cadastro de um exame laboratorial no sistema do Portal Sabin em um cenário onde informações obrigatórias estão faltando, avaliando como o sistema comunica os campos ausentes e orienta o usuário para a correção.
+Este protótipo representa o fluxo de agendamento de um exame laboratorial no sistema do Portal Sabin, avaliando qual o fluxo do usuário durante a execução desta atividade.
 
 <div align="center">Imagem 5 - Agendamento de Exame Etapa 1</div>
 ![](../../../../assets/tarefaHugoE1.jpeg)
@@ -286,7 +286,8 @@ Gostaríamos de registrar nossos agradecimentos ao modelo de Inteligência Artif
 
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
-| 1.0 | 29/05/2026 | Criação do documento | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - |
-| 2.0 | 02/06/2026 | Adição do hiperlink dos protótipos de papel de todas as tarefas | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - |
-| 2.1 | 16/06/2026 | Enumeração das imagens do artefato| [Nathan Pontes Romão](https://github.com/nathanpromao) | - |  |  |
+| 1.0 | 29/05/2026 | Criação do documento | [Ingrid Alves](https://github.com/alvesingrid) |29/05/2026 | Revisão de estrutura | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 2.0 | 02/06/2026 | Adição do hiperlink dos protótipos de papel de todas as tarefas | [Ingrid Alves](https://github.com/alvesingrid) | 02/06/2026 | Verificação dos links | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 2.1 | 16/06/2026 | Enumeração das imagens do artefato| [Nathan Pontes Romão](https://github.com/nathanpromao) | 16/06/2026 | Conferindo numeração  | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| 2.1 | 16/06/2026 | Ajuste na descrição da tarefa de agendamento de exame | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 16/06/2026 | Verificação do novo fluxo | [Philipe Amancio](https://github.com/Phill-Chill)|
 

@@ -10,18 +10,39 @@
 
 ## 1. Introdução
 
-Este documento tem como objetivo definir o planejamento e a estrutura padronizada para o relato dos resultados da avaliação do Protótipo de Alta Fidelidade do Portal Sabin. O intuito é garantir que, após a coleta empírica de dados por meio do Teste de Usabilidade com Protótipo Interativo, todos os avaliadores da equipe sigam a mesma metodologia de consolidação e interpretação dos dados obtidos nas sessões <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../assets/topicos-relato-p279.png"> </span>.
+Este documento tem como objetivo relatar os resultados da avaliação do Protótipo de Papel do Portal Sabin. O intuito é garantir que, após a coleta empírica de dados por meio do **Teste de Usabilidade** com **Protótipo de Alta Fidelidade**, todos os avaliadores da equipe sigam a mesma metodologia de consolidação e interpretação dos dados obtidos nas sessões <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/topicos-relato-p279.png"> </span>.
 
-Este artefato corresponde à etapa **"E": Avaliar (Evaluate), interpretar e apresentar os dados** do framework DECIDE <span class="hover-image">(BARBOSA; SILVA, 2021, p. 280)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../assets/DECIDE-E2.png"> </span>, definindo como os dados serão avaliados, interpretados e apresentados.
+Este artefato corresponde à etapa **"E": Avaliar (Evaluate), interpretar e apresentar os dados** do framework DECIDE <span class="hover-image">(BARBOSA; SILVA, 2021, p. 280)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/DECIDE-E2.png"> </span>, definindo como os dados serão avaliados, interpretados e apresentados.
+
+### 1.1 Avaliação
+A seguir estão as gravações das avaliações:
+
+#### Avaliação Protótipo de Alta Fidelidade com o participante Daniel:
+
+<div align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/FWnmEVY7Nb8" title="Avaliação Protótipo de Alta Fidelidade Daniel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+#### Avaliação Protótipo de Alta Fidelidade com o participante Eduardo:
+
+<div align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Wc4pi1Bm8hk" title="Avaliação Protótipo de Alta Fidelidade Eduardo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+#### Avaliação Protótipo de Alta Fidelidade com o participante Lucas:
+
+<div align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/dH8__vz5cGw" title="Avaliação Protótipo de Alta Fidelidade Lucas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 ---
 
 ## 2. Metodologia de Consolidação dos Dados
 
-Após a conclusão da sessão de teste, os resultados serão consolidados por meio de uma **análise intrasujeito** <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../assets/analise-intrasujeito.png"> </span>. Como o teste é focado em um único participante por avaliador, a equipe deverá:
+Os resultados serão consolidados por meio de uma **análise intersujeito** <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/analise-intrasujeito.png"> </span>. Como o teste é focado na análise intersujeito, a equipe irá:
 
 * Buscar **recorrências** no comportamento do usuário: observar como o participante age, evolui e reage ao longo da execução das diferentes tarefas propostas na interface digital.
-* Identificar padrões individuais: mapear erros consistentes de clique, pontos de hesitação repetidos e a curva de aprendizado do próprio participante durante a interação com o protótipo.
+* Identificar padrões individuais e coletivos: mapear erros consistentes de clique, pontos de hesitação repetidos e a curva de aprendizado do próprio participante durante a interação com o protótipo.
 * Relacionar os resultados e as atitudes observadas com os objetivos definidos no [Planejamento da Avaliação](PlanejamentoAvaliacao.md).
 * Evitar generalizações indevidas: reconhecer que os dados refletem as particularidades e o modelo mental de um único indivíduo, servindo como indícios fortes de problemas reais de usabilidade e interface, mas não como métricas estatísticas de uma população.
 * **Atenção:** o resultado do Teste Piloto não será incluído no relato oficial da avaliação.
@@ -30,32 +51,26 @@ Após a conclusão da sessão de teste, os resultados serão consolidados por me
 
 ## 3. Tópicos do Relato de Resultados
 
-Para garantir a padronização, todos os documentos de Relato de Resultados produzidos pela equipe deverão conter obrigatoriamente a seguinte estrutura:
+Para garantir a padronização, todos os documentos de Relato de Resultados produzidos pela equipe seguem a seguinte estrutura:
 
 ## 3.1. Objetivos e Escopo da Avaliação
 
-O relato deverá apresentar os objetivos da avaliação e descrever quais tarefas e telas iterativas do protótipo de alta fidelidade foram avaliadas. Deverá também justificar se os objetivos foram atingidos ou indicar por que alguma questão não pôde ser respondida.
-
-**Escopo mínimo a descrever:**
-
-- As tarefas avaliadas e as interfaces/telas digitais utilizadas;
-- Os fluxos de navegação interativos analisados;
-- Os problemas previamente identificados na avaliação do Protótipo de Papel que motivaram as melhorias de design aplicadas nesta versão de alta fidelidade.
+Esta é uma **avaliação somativa** com o principal objetivo de validar uma alternativa de design. <span class="hover-image">(BARBOSA; SILVA, 2021, p. 294).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/avaliacao-somativa.png"> </span>.
 
 ---
 
 ## 3.2. Método de Avaliação Empregado
 
-O documento deverá registrar como o Teste de Usabilidade com Protótipo de Alta Fidelidade foi conduzido, especificando:
+O Teste de Usabilidade com Protótipo de Alta Fidelidade foi conduzido, seguindo:
 
-- O dispositivo e ambiente utilizados para a simulação (ex: computador desktop presencial acessando o link do Figma);
-- Como o participante interagiu com o protótipo digital;
+- O dispositivo e ambiente utilizados para a simulação: computador desktop presencial acessando o link do Figma;
 - As estratégias de coleta de dados utilizadas:
-  - Observação direta das ações do participante e interações com a UI (Interface de Usuário);
+  - Observação direta das ações do participante e interações com a UI (Interface de Usuário): [Site do Sabin]() e [Protótipo de Alta Fidelidade]() <span class="hover-image">(BARBOSA; SILVA, 2021, p. 294).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/avaliacao-implementado.png"> </span>;
   - Captura de tela e gravação da interação digital (screen recording);
   - Protocolo *Think Aloud* (verbalização dos pensamentos, se aplicado);
   - Registro audiovisual do rosto/comportamento da sessão (mediante consentimento);
   - Anotações do avaliador/anotador sobre cliques errados ou hesitações em componentes.
+
 
 ---
 
@@ -65,19 +80,21 @@ O documento deverá registrar como o Teste de Usabilidade com Protótipo de Alta
 
 | Participante | Perfil |
 |------------|---------|
-| [Nome] | [Perfil de usuário correspondente](../../requisitos/perfilDeUsuario.md) |
+| Daniel Torquato | [Perfil de usuário 1 - Paciente do Sabin](../../../../requisitos/perfilDeUsuario.md) |
+| Eduardo Lobo | [Perfil de usuário 1 - Paciente do Sabin](../../../../requisitos/perfilDeUsuario.md) |
+| Lucas Andrade | [Perfil de usuário 1 - Paciente do Sabin](../../../../requisitos/perfilDeUsuario.md) |
 
 ### Avaliadores
 
 | Avaliador | Papel |
 |------------|---------|
-| [Nome]  | Facilitador |
-| [Nome]  | Anotador / Observador |
-| [Nome]  | Cinegrafista / Gestor de Gravação |
+| [Hugo Freitas Silva](https://github.com/HugoFreitass) | Facilitador |
+| [Hugo Freitas Silva](https://github.com/HugoFreitass) | Anotador / Observador |
+| [Philipe Amancio](https://github.com/Phill-Chill) | Cinegrafista / Gestor de Gravação |
 
 ### Relação com o Perfil de Usuário
 
-O participante selecionado apresenta características compatíveis com o [perfil de usuário](../../requisitos/perfilDeUsuario.md) do Portal Sabin, garantindo a validade externa dos resultados obtidos.
+Os participante selecionados apresentam características compatíveis com o [Perfil de usuário 1 - Paciente do Sabin](../../requisitos/perfilDeUsuario.md) do Portal Sabin, garantindo a validade externa dos resultados obtidos.
 
 ---
 
@@ -89,115 +106,196 @@ A **Tabela** detalha a decomposição do objetivo principal da avaliação em ta
 
 | ID | Tarefa Mapeada (Artefato) |
 |----|---------|
-| T1 | - |
-| T2 | - |
-| T3 | - |
+| T1 | Iniciar o processo de agendamento |
+| T2 | Buscar exame pelo nome |
+| T3 | Selecionar exame correto |
+| T4 | Selecionar unidade |
+| T5 | Selecionar horário |
+| T6 | Informar dados pessoais |
+| T7 | Confirmar agendamento |
 
-### Sumário Quantitativo dos Dados
+
+### Design Vigente (Portal Sabin Atual)
+
+#### Sumário Quantitativo dos Dados
 
 | Métrica | Resultado |
-|----------|-----------| 
-| Número de participantes | 1 |
-| Tarefas concluídas sem auxílio | XX |
-| Tarefas concluídas com auxílio | XX |
-| Tarefas não concluídas | XX |
-| Total de erros (cliques falhos/caminhos errados) | XX |
-| Pontos de hesitação identificados | XX |
-| Comentários relevantes registrados | XX |
+|----------|-----------|
+| Número de participantes | 3 |
+| Tarefas concluídas sem auxílio | 12 |
+| Tarefas concluídas com auxílio | 9 |
+| Tarefas não concluídas | 0 |
+| Total de erros (cliques falhos/caminhos errados) | 9 |
+| Pontos de hesitação identificados | 9 |
+| Comentários relevantes registrados | 6 |
 
-### Dificuldades Observadas por Tarefa
+#### Dificuldades Observadas por Tarefa
 
 | Tarefa | Dificuldade Observada |
 |--------|-----------------------|
-| T1 | |
-| T2 | |
-| T3 | |
-| T4 | |
-| T5 | |
+| T1 | Identificar qual opção inicia o processo de agendamento |
+| T2 | Encontrar o exame sem utilizar nomenclatura técnica |
+| T3 | Não houve dificuldades significativas |
+| T4 | Identificar corretamente a opção de seleção de unidade |
+| T5 | Não existe uma etapa clara para seleção de horário |
+| T6 | Não houve dificuldades significativas |
+| T7 | Alguns participantes não compreenderam imediatamente a ação necessária para concluir o fluxo |
 
-### Comentários Relevantes dos Participantes
-A **Tabela** reúne as citações diretas e os comentários mais expressivos feitos pelo participante durante a validação. Esses relatos complementam as métricas, evidenciando como o usuário realmente pensa sobre a estética, cores, rótulos e feedback do sistema:
-
-Tabela - Comentários do entrevistado
+#### Comentários Relevantes dos Participantes
 
 | Participante | Comentário |
 |-------------|------------|
-| [Nome] | "..." |
-| [Nome] | "..." |
+| Eduardo Lobo | "A etapa de selecionar o agendamento de exames é muito confusa." |
+| Eduardo Lobo | "A etapa de selecionar as unidades é confusa, não sabia qual opção selecionar." |
+| Daniel Torquato | "Demorei para entender por onde começava o agendamento." |
+| Daniel Torquato | "Achei estranho não conseguir escolher o horário." |
+| Lucas Andrade | "O fluxo funciona, mas algumas opções não são muito claras." |
+| Lucas Andrade | "Eu esperava um caminho mais direto para agendar o exame." |
+
+---
+
+### Design Alternativo (Protótipo de Alta Fidelidade)
+
+#### Sumário Quantitativo dos Dados
+
+| Métrica | Resultado |
+|----------|-----------|
+| Número de participantes | 3 |
+| Tarefas concluídas sem auxílio | 19 |
+| Tarefas concluídas com auxílio | 2 |
+| Tarefas não concluídas | 0 |
+| Total de erros (cliques falhos/caminhos errados) | 3 |
+| Pontos de hesitação identificados | 2 |
+| Comentários relevantes registrados | 6 |
+
+#### Dificuldades Observadas por Tarefa
+
+| Tarefa | Dificuldade Observada |
+|--------|-----------------------|
+| T1 | Pequena hesitação inicial para localizar o agendamento |
+| T2 | Alguns usuários tentaram procurar o exame sem digitar o nome |
+| T3 | Não houve dificuldades observadas |
+| T4 | Persistiram dúvidas pontuais na escolha da unidade |
+| T5 | Participantes sentiram falta da visualização da disponibilidade dos horários |
+| T6 | Não houve dificuldades observadas |
+| T7 | Não houve dificuldades observadas |
+
+#### Comentários Relevantes dos Participantes
+
+| Participante | Comentário |
+|-------------|------------|
+| Eduardo Lobo | "Agora ficou mais fácil entender onde devo clicar para agendar." |
+| Eduardo Lobo | "As opções estão mais claras do que no site atual." |
+| Daniel Torquato | "O fluxo ficou mais intuitivo." |
+| Daniel Torquato | "O visual ajuda bastante a entender o que fazer."  |
+| Lucas Andrade | "Senti falta de ver as disponibilidades de horário antes de selecionar um horário específico."|
+| Lucas Andrade | "A navegação ficou mais direta e organizada." |
 
 ---
 
 ## 3.5. Relato da Interpretação e Análise dos Dados
 
-Nesta seção devem ser apresentados os resultados obtidos e sua relação com os objetivos definidos no planejamento.
+### Design Vigente (Portal Sabin Atual)
 
-### Análise das Perguntas Exploratórias
+#### Análise das Perguntas Exploratórias
 
 | Pergunta Exploratória | Evidências Observadas | Conclusão |
 |----------------------|----------------------|------------|
-| O usuário concluiu a tarefa interagindo com o protótipo digital sem auxílio? | [Observações] | [Respondida / Parcialmente / Não respondida] |
-| A identidade visual, os ícones e as cores ajudaram na identificação das ações? | [Observações] | [Respondida / Parcialmente / Não respondida] |
-| O feedback visual do sistema foi claro? | [Observações] | [Respondida / Parcialmente / Não respondida] |
-| Houve hesitação ou cliques errados? | [Observações] | [Respondida / Parcialmente / Não respondida] |
+| O usuário concluiu a tarefa interagindo com o protótipo digital sem auxílio? | Houve necessidade de auxílio em etapas relacionadas ao início do agendamento e seleção da unidade. | Parcialmente respondida |
+| A identidade visual, os ícones e as cores ajudaram na identificação das ações? | A identidade visual foi considerada adequada, porém os rótulos e opções disponíveis geraram dúvidas. | Parcialmente respondida |
+| O feedback visual do sistema foi claro? | Os participantes compreenderam as transições de tela, mas relataram dificuldades para entender algumas decisões do fluxo. | Parcialmente respondida |
+| Houve hesitação ou cliques errados? | Foram observadas hesitações frequentes e alguns caminhos incorretos durante a navegação. | Respondida |
 
-### Principais Achados
+#### Principais Achados
 
 **Aspectos Positivos:**
 
-- [Aspecto positivo identificado, ex: clareza visual, facilidade no fluxo]
-- [Aspecto positivo identificado]
+- Processo de agendamento pode ser concluído após certo esforço para compreender o fluxo.
 
 **Dificuldades Encontradas:**
 
-- [Dificuldade observada, ex: botão pouco visível, contraste ruim]
-- [Dificuldade observada]
+- Dificuldade para localizar o início do processo de agendamento.
+- Problemas de compreensão na seleção da unidade.
+- Busca de exames dependente de nomenclaturas específicas.
 
 **Quebras de Expectativa:**
 
-- [Quebra de expectativa observada, ex: link que não leva a onde o usuário esperava]
-- [Quebra de expectativa observada]
+- Usuários esperavam encontrar uma opção mais explícita para agendamento.
+- Ausência da seleção de horário durante o fluxo.
+- Algumas nomenclaturas não correspondiam ao modelo mental dos participantes.
+
+---
+
+### Design Alternativo (Protótipo de Alta Fidelidade)
+
+#### Análise das Perguntas Exploratórias
+
+| Pergunta Exploratória | Evidências Observadas | Conclusão |
+|----------------------|----------------------|------------|
+| O usuário concluiu a tarefa interagindo com o protótipo digital sem auxílio? | A maioria dos participantes concluiu o fluxo sem necessidade de intervenção. | Respondida |
+| A identidade visual, os ícones e as cores ajudaram na identificação das ações? | Os participantes relataram maior facilidade para identificar opções e compreender a navegação. | Respondida |
+| O feedback visual do sistema foi claro? | Os usuários compreenderam facilmente o avanço entre as etapas do processo. | Respondida |
+| Houve hesitação ou cliques errados? | Houve poucas hesitações, concentradas principalmente na busca do exame e seleção da unidade. | Respondida |
+
+#### Principais Achados
+
+**Aspectos Positivos:**
+
+- Melhor clareza dos rótulos e opções de navegação.
+- Fluxo mais intuitivo e alinhado ao modelo mental dos usuários.
+- Redução significativa de erros e pedidos de auxílio.
+
+**Dificuldades Encontradas:**
+
+- Busca de exames ainda pode ser melhorada com termos alternativos.
+- Seleção da unidade continua sendo um ponto de atenção.
+
+**Quebras de Expectativa:**
+
+- Usuários continuam esperando uma etapa explícita de seleção de horário.
+- Alguns participantes esperavam recursos adicionais de filtragem de exames.
 
 ---
 
 ## 3.6. Lista dos Problemas Encontrados
 
+### Design Vigente (Portal Sabin Atual)
+
 | ID | Descrição do Problema | Tarefa | Frequência | Severidade | Impacto | Possível Causa | Prioridade |
 |----|----------------------|--------|------------|------------|---------|----------------|------------|
-| P01 | [Descrição] | T1 | [Nº de Ocorrências] | Alta | [Impacto] | [Causa ligada a UI/UX] | Alta |
-| P02 | [Descrição] | T2 | [Nº de Ocorrências] | Média | [Impacto] | [Causa ligada a UI/UX] | Média |
-| P03 | [Descrição] | T3 | Ocasional | Baixa | [Impacto] | [Causa ligada a UI/UX] | Baixa |
+| P01 | Opção para iniciar o agendamento não é facilmente identificada | T1 | Frequente | Grande | Aumenta o tempo de execução e gera confusão | Nomenclatura pouco intuitiva | Alta |
+| P02 | Dificuldade para compreender qual opção representa a seleção da unidade | T4 | Frequente | Grande | Gera erros de navegação e necessidade de auxílio | Organização da informação inadequada | Alta |
+| P03 | Ausência de seleção explícita de horário | T5 | Frequente | Grande | Quebra de expectativa e sensação de fluxo incompleto | Limitação do fluxo atual | Alta |
+| P04 | Busca de exames exige conhecimento técnico do nome do exame | T2 | Moderada | Pequeno | Dificulta a localização de exames específicos | Sistema de busca pouco flexível | Média |
 
-### Critérios de Severidade
+---
 
-Os problemas serão classificados de acordo com a escala de severidade <span class="hover-image">(BARBOSA; SILVA, 2021, p. 284).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../assets/escala-severidade.png"> </span>:
+### Design Alternativo (Protótipo de Alta Fidelidade)
 
-| Nível | Descrição |
-|---------|------------|
-| Cosmético | Pequeno desconforto sem impedir a realização da tarefa |
-| Pequeno | Dificulta significativamente a execução da tarefa |
-| Grande | Impede ou compromete fortemente a realização da tarefa |
-| Catastrófico | Impede completamente a conclusão da atividade |
+| ID | Descrição do Problema | Tarefa | Frequência | Severidade | Impacto | Possível Causa | Prioridade |
+|----|----------------------|--------|------------|------------|---------|----------------|------------|
+| P01 | Busca de exames ainda depende parcialmente de nomenclaturas específicas | T2 | Ocasional | Pequeno | Aumenta o tempo de busca | Falta de sinônimos e termos populares | Média |
+| P02 | Seleção de horário e data gera incerteza | T4 | Ocasional | Pequeno | Pequenas hesitações durante a navegação | Hierarquia visual insuficiente | Média |
 
 ---
 
 ## 3.7. Planejamento para o Reprojeto Final
 
-Nesta seção deverão ser apresentadas propostas de melhoria (ajustes de UI, tipografia, cores, interatividade ou fluxos) com base nos problemas identificados durante a avaliação, visando a consolidação final do projeto antes de um eventual desenvolvimento <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../assets/reprojeto-p279.png"> </span>.
+Nesta seção deverão ser apresentadas propostas de melhoria (ajustes de UI, tipografia, cores, interatividade ou fluxos) com base nos problemas identificados durante a avaliação, visando a consolidação final do projeto antes de um eventual desenvolvimento <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/reprojeto-p279.png"> </span>.
 
 ### Recomendações de Melhoria
 
 | Problema Relacionado | Proposta de Melhoria | Justificativa |
 |---------------------|---------------------|--------------|
-| [ID do problema] | [Descrição da melhoria visual/interativa] | [Justificativa técnica] |
-| [ID do problema] | [Descrição da melhoria visual/interativa] | [Justificativa técnica] |
+| P01 | Implementar busca inteligente com sugestões automáticas, sinônimos e termos populares para exames. | Permite que usuários encontrem exames mesmo sem conhecer a nomenclatura técnica utilizada pelo laboratório, reduzindo o tempo de busca e a taxa de erros. |
+| P02 | Reorganizar a interface de seleção de data e horário, destacando visualmente a sequência das etapas e os elementos selecionáveis. | Uma hierarquia visual mais clara facilita a identificação das ações disponíveis, reduzindo hesitações e aumentando a confiança do usuário durante o agendamento. |
 
 ### Priorização das Alterações
 
 | Prioridade | Alteração Proposta | Problema Relacionado |
 |------------|-------------------|---------------------|
-| Alta | [Alteração] | [ID do problema] |
-| Média | [Alteração] | [ID do problema] |
-| Baixa | [Alteração] | [ID do problema] |
+| Média | Implementar busca com sinônimos, sugestões automáticas e suporte a nomenclaturas populares dos exames. | P01 |
+| Média | Melhorar a hierarquia visual da seleção de data e horário, destacando os elementos interativos e o progresso da tarefa. | P02 |
 
 ---
 
@@ -217,4 +315,4 @@ Gostaríamos de registrar nossos agradecimentos ao modelo de Inteligência Artif
 
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
-| 1.0 | 16/06/2026 | - | - | - | - | - |
+| 1.0 | 16/06/2026 | Adição do relato dos resultados da avaliação doprotótipo de alta fidelidade | [Hugo Freitas Silva](https://github.com/HugoFreitass)| 16/06/2026 | Revisão do relato no geral | [Philipe Amancio](https://github.com/Phill-Chill) |
