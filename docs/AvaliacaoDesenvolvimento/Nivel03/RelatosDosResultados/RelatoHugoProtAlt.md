@@ -65,7 +65,7 @@ O Teste de Usabilidade com Protótipo de Alta Fidelidade foi conduzido, seguindo
 
 - O dispositivo e ambiente utilizados para a simulação: computador desktop presencial acessando o link do Figma;
 - As estratégias de coleta de dados utilizadas:
-  - Observação direta das ações do participante e interações com a UI (Interface de Usuário): [Site do Sabin]() e [Protótipo de Alta Fidelidade]() <span class="hover-image">(BARBOSA; SILVA, 2021, p. 294).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/avaliacao-implementado.png"> </span>;
+  - Observação direta das ações do participante e interações com a UI (Interface de Usuário): [Site do Sabin](https://sabin.com.br/unidades/brasilia-df/) e [Protótipo de Alta Fidelidade](../PrototiposAltaFidelidade.md) <span class="hover-image">(BARBOSA; SILVA, 2021, p. 294).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../../assets/avaliacao-implementado.png"> </span>;
   - Captura de tela e gravação da interação digital (screen recording);
   - Protocolo *Think Aloud* (verbalização dos pensamentos, se aplicado);
   - Registro audiovisual do rosto/comportamento da sessão (mediante consentimento);
