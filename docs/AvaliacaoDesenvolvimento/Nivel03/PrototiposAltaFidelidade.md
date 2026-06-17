@@ -78,7 +78,7 @@ Este protótipo representa o fluxo de agendamento de exames de sangue pelo Porta
 
 Este protótipo foca na experiência direta dentro do visualizador de imagens DICOM do Portal Sabin. O fluxo tem início já na interface de visualização, mapeando a utilização manual das ferramentas de zoom e ajuste de profundidade. O diferencial é o apoio de um modelo de Inteligência Artificial educacional integrado, que orienta o paciente no entendimento anatômico da imagem de forma visual, didática e segura, sem emitir diagnósticos clínicos.
 
-<iframe src="https://interacao-humano-computador.github.io/2026.1-Grupo07/assets/visualizador-dicom.md" width="100%" height="800px" style="border:1px solid #ccc; border-radius:8px;"></iframe>
+<iframe src="https://interacao-humano-computador.github.io/2026.1-Grupo07/assets/visualizador-dicom.html" width="100%" height="800px" style="border:1px solid #ccc; border-radius:8px;"></iframe>
 
 
 > Fonte: Autoria própria.
