@@ -1,0 +1,1240 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sabin Diagnóstico e Saúde – Pré-Cadastro de Exames</title>
+<style>
+  /* ── Reset & base ── */
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --red:      #C8102E;
+    --red-dark: #A00D24;
+    --red-light:#FDEAEA;
+    --gray-50:  #F9F9F9;
+    --gray-100: #F2F2F2;
+    --gray-200: #E0E0E0;
+    --gray-400: #9E9E9E;
+    --gray-600: #616161;
+    --gray-800: #212121;
+    --white:    #FFFFFF;
+    --radius:   8px;
+    --shadow:   0 2px 8px rgba(0,0,0,.10);
+    --font:     'Segoe UI', Arial, sans-serif;
+  }
+
+  body {
+    font-family: var(--font);
+    background: var(--gray-100);
+    color: var(--gray-800);
+    min-height: 100vh;
+  }
+
+  /* ── Utility ── */
+  .hidden { display: none !important; }
+
+  /* ══════════════════════════════════════════
+     SCREEN WRAPPER – simulates a mobile frame
+  ══════════════════════════════════════════ */
+  .device-frame {
+    max-width: 420px;
+    margin: 0 auto;
+    background: var(--white);
+    min-height: 100vh;
+    position: relative;
+    box-shadow: 0 0 40px rgba(0,0,0,.18);
+  }
+
+  /* ── Top bar (header) ── */
+  .top-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 16px;
+    background: var(--white);
+    border-bottom: 1px solid var(--gray-200);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  .logo {
+    display: flex; flex-direction: column; line-height: 1.1;
+  }
+  .logo-name { font-size: 22px; font-weight: 700; color: var(--red); letter-spacing: -.5px; }
+  .logo-sub  { font-size: 10px; color: var(--red); font-weight: 400; letter-spacing: .3px; }
+  .top-bar-icons { display: flex; gap: 12px; }
+  .icon-btn {
+    width: 36px; height: 36px; border-radius: 50%;
+    border: 2px solid var(--red);
+    background: none; cursor: pointer;
+    display: flex; align-items: center; justify-content: center;
+    color: var(--red); font-size: 16px;
+  }
+  .icon-btn:hover { background: var(--red-light); }
+
+  /* ── Address bar (screen 1 only) ── */
+  .address-bar {
+    display: flex; align-items: center;
+    background: var(--gray-100);
+    border: 1px solid var(--gray-200);
+    border-radius: 20px;
+    padding: 6px 14px;
+    font-size: 13px; color: var(--gray-600);
+    margin: 8px 16px 0;
+  }
+  .address-bar span { flex: 1; }
+
+  /* ── Screens ── */
+  .screen { display: none; }
+  .screen.active { display: block; }
+
+  /* ── Hero banner ── */
+  .hero-banner {
+    margin: 16px;
+    background: linear-gradient(135deg, var(--red) 0%, #8B0000 100%);
+    border-radius: var(--radius);
+    padding: 18px 20px;
+    color: var(--white);
+    display: flex; align-items: center; gap: 16px;
+    position: relative; overflow: hidden;
+  }
+  .hero-banner::after {
+    content: '';
+    position: absolute; right: -20px; top: -20px;
+    width: 120px; height: 120px;
+    border-radius: 50%; background: rgba(255,255,255,.07);
+  }
+  .hero-icon { font-size: 44px; flex-shrink: 0; }
+  .hero-text h2 { font-size: 16px; font-weight: 700; }
+  .hero-text p  { font-size: 13px; opacity: .85; margin-top: 4px; }
+  .hero-dots {
+    display: flex; gap: 6px; margin: 4px 16px 16px;
+  }
+  .hero-dots span {
+    width: 8px; height: 8px; border-radius: 50%;
+    background: var(--gray-200);
+  }
+  .hero-dots span:first-child { background: var(--red); }
+
+  /* ── Section heading ── */
+  .section-title {
+    font-size: 15px; font-weight: 700;
+    padding: 4px 16px 12px;
+    color: var(--gray-800);
+  }
+
+  /* ── Card grid (mais buscados) ── */
+  .card-grid {
+    display: grid; grid-template-columns: 1fr 1fr;
+    gap: 10px; padding: 0 16px 24px;
+  }
+  .card {
+    background: var(--gray-50);
+    border: 1px solid var(--gray-200);
+    border-radius: var(--radius);
+    padding: 16px 12px;
+    min-height: 90px;
+    display: flex; flex-direction: column;
+    align-items: flex-start; justify-content: flex-end;
+    cursor: pointer; transition: border-color .2s, box-shadow .2s;
+  }
+  .card:hover { border-color: var(--red); box-shadow: var(--shadow); }
+  .card-icon { font-size: 22px; margin-bottom: 6px; }
+  .card-label { font-size: 13px; font-weight: 600; color: var(--gray-800); }
+
+  /* ── Serviços Digitais section ── */
+  .dig-header {
+    background: var(--gray-100);
+    padding: 20px 16px 14px;
+    border-top: 1px solid var(--gray-200);
+  }
+  .dig-header h3 { font-size: 16px; font-weight: 700; color: var(--gray-800); }
+  .dig-cards {
+    display: grid; grid-template-columns: 1fr 1fr;
+    gap: 10px; padding: 0 16px 12px;
+    background: var(--gray-100);
+  }
+  .dig-card {
+    background: var(--white);
+    border: 1px solid var(--gray-200);
+    border-radius: var(--radius);
+    padding: 14px 12px;
+    cursor: pointer; transition: border-color .2s, box-shadow .2s;
+  }
+  .dig-card:hover { border-color: var(--red); box-shadow: var(--shadow); }
+  .dig-card-icon { font-size: 20px; margin-bottom: 6px; }
+  .dig-card-title { font-size: 12px; font-weight: 700; color: var(--gray-800); line-height: 1.3; }
+  .dig-card-cta   { font-size: 11px; color: var(--red); font-weight: 600; margin-top: 4px; }
+
+  .dig-list { background: var(--gray-100); padding: 0 16px 24px; }
+  .dig-list-item {
+    background: var(--white);
+    border: 1px solid var(--gray-200);
+    border-radius: var(--radius);
+    padding: 14px 16px;
+    margin-bottom: 10px;
+    display: flex; align-items: center; justify-content: space-between;
+    cursor: pointer; transition: border-color .2s, box-shadow .2s;
+  }
+  .dig-list-item:hover { border-color: var(--red); box-shadow: var(--shadow); }
+  .dig-list-item-left { display: flex; flex-direction: column; gap: 2px; }
+  .dig-list-title { font-size: 13px; font-weight: 700; color: var(--gray-800); }
+  .dig-list-cta   { font-size: 12px; color: var(--red); font-weight: 600; }
+  .dig-chevron    { color: var(--gray-400); font-size: 18px; }
+
+  .location-bar {
+    background: var(--white);
+    border-top: 1px solid var(--gray-200);
+    padding: 10px 16px;
+    display: flex; align-items: center; gap: 6px;
+    font-size: 13px; color: var(--gray-600);
+  }
+  .location-bar span:first-child { color: var(--red); }
+  .location-caret { color: var(--gray-400); margin-left: 2px; }
+
+  /* ── Page 2: Menu drawer ── */
+  .menu-screen { background: var(--white); min-height: 100vh; }
+  .menu-search-bar {
+    display: flex; align-items: center; gap: 10px;
+    padding: 14px 16px; border-bottom: 1px solid var(--gray-200);
+  }
+  .menu-search-bar input {
+    flex: 1; border: 1px solid var(--gray-200); border-radius: 20px;
+    padding: 8px 14px; font-size: 14px; outline: none;
+  }
+  .menu-search-bar input:focus { border-color: var(--red); }
+  .close-btn {
+    color: var(--red); font-size: 22px; font-weight: 700;
+    background: none; border: none; cursor: pointer; padding: 0 4px;
+  }
+  .menu-quick {
+    display: flex; gap: 10px; padding: 12px 16px;
+    border-bottom: 1px solid var(--gray-100);
+  }
+  .quick-btn {
+    border: 1.5px solid var(--gray-200); border-radius: 6px;
+    padding: 6px 10px; font-size: 12px; font-weight: 600;
+    background: none; cursor: pointer; color: var(--gray-800);
+    white-space: nowrap;
+  }
+  .quick-btn:hover { border-color: var(--red); color: var(--red); }
+
+  .menu-list { list-style: none; }
+  .menu-list li {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 16px 16px;
+    border-bottom: 1px solid var(--gray-100);
+    cursor: pointer; font-size: 15px; font-weight: 500;
+    transition: background .15s;
+  }
+  .menu-list li:hover { background: var(--gray-50); }
+  .menu-list li .caret { color: var(--red); font-size: 14px; }
+
+  .menu-footer {
+    margin: 0 16px 24px;
+    border: 1.5px solid var(--gray-200);
+    border-radius: 24px;
+    padding: 12px 20px;
+    display: flex; align-items: center; gap: 10px;
+    font-size: 13px; color: var(--gray-800);
+  }
+  .phone-icon { color: var(--red); font-size: 18px; }
+
+  /* ── Page 3: Serviços Digitais standalone ── */
+  .page-hero {
+    background: linear-gradient(135deg, var(--red) 0%, #8B0000 100%);
+    padding: 28px 20px 24px;
+    color: var(--white);
+  }
+  .page-hero h2 { font-size: 22px; font-weight: 700; }
+
+  .service-cards {
+    display: grid; grid-template-columns: 1fr 1fr;
+    gap: 12px; padding: 20px 16px;
+  }
+  .service-card {
+    border: 1px solid var(--gray-200);
+    border-radius: var(--radius);
+    padding: 16px 14px;
+    cursor: pointer; transition: border-color .2s, box-shadow .2s;
+    background: var(--white);
+  }
+  .service-card:hover { border-color: var(--red); box-shadow: var(--shadow); }
+  .service-card-icon { font-size: 28px; margin-bottom: 8px; }
+  .service-card-title { font-size: 13px; font-weight: 700; line-height: 1.3; color: var(--gray-800); }
+  .service-card-cta { font-size: 12px; color: var(--red); font-weight: 600; margin-top: 4px; }
+
+  /* BIG PRE-CADASTRO BUTTON */
+  .pre-cadastro-btn {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 16px 14px;
+    padding: 22px 20px;
+    background: var(--red);
+    color: var(--white);
+    border-radius: var(--radius);
+    cursor: pointer;
+    border: none;
+    width: calc(100% - 32px);
+    text-align: left;
+    transition: background .2s, box-shadow .2s;
+    box-shadow: 0 4px 14px rgba(200,16,46,.35);
+  }
+  .pre-cadastro-btn:hover { background: var(--red-dark); box-shadow: 0 6px 18px rgba(200,16,46,.45); }
+  .pre-cadastro-btn-left { display: flex; flex-direction: column; gap: 2px; }
+  .pre-cadastro-btn-icon { font-size: 30px; margin-bottom: 6px; }
+  .pre-cadastro-btn-title { font-size: 17px; font-weight: 700; }
+  .pre-cadastro-btn-sub   { font-size: 12px; opacity: .85; }
+  .pre-cadastro-btn .arrow { font-size: 24px; opacity: .8; }
+
+  .service-list { padding: 0 16px 16px; }
+  .service-list-item {
+    background: var(--white);
+    border: 1px solid var(--gray-200);
+    border-radius: var(--radius);
+    padding: 16px;
+    margin-bottom: 10px;
+    display: flex; align-items: center; justify-content: space-between;
+    cursor: pointer; transition: border-color .2s, box-shadow .2s;
+  }
+  .service-list-item:hover { border-color: var(--red); box-shadow: var(--shadow); }
+  .sli-icon { font-size: 22px; margin-right: 12px; }
+  .sli-left { display: flex; align-items: center; }
+  .sli-text .sli-title { font-size: 13px; font-weight: 700; color: var(--gray-800); }
+  .sli-text .sli-cta   { font-size: 12px; color: var(--red); font-weight: 600; margin-top: 2px; }
+  .sli-chevron { color: var(--gray-400); font-size: 18px; }
+
+  /* ── Page 4: Pré-Cadastro hub ── */
+  .sub-hero {
+    background: linear-gradient(135deg, var(--red) 0%, #8B0000 100%);
+    padding: 28px 20px 22px;
+    color: var(--white);
+  }
+  .sub-hero h2 { font-size: 20px; font-weight: 700; }
+  .sub-hero p  { font-size: 13px; opacity: .85; margin-top: 6px; }
+
+  .hub-options { padding: 24px 16px; display: flex; flex-direction: column; gap: 14px; }
+  .hub-btn {
+    display: flex; align-items: center; gap: 14px;
+    border: 2px solid var(--gray-200); border-radius: var(--radius);
+    padding: 18px 16px; background: var(--white); cursor: pointer;
+    transition: border-color .2s, box-shadow .2s;
+    text-align: left; width: 100%;
+  }
+  .hub-btn:hover { border-color: var(--red); box-shadow: var(--shadow); }
+  .hub-btn-icon { font-size: 30px; flex-shrink: 0; }
+  .hub-btn-label { font-size: 15px; font-weight: 700; color: var(--gray-800); }
+  .hub-btn-sub   { font-size: 12px; color: var(--gray-600); margin-top: 2px; }
+
+  /* ── Form screens ── */
+  .form-hero {
+    background: linear-gradient(135deg, var(--red) 0%, #8B0000 100%);
+    padding: 20px 16px;
+    color: var(--white);
+  }
+  .form-hero h2 { font-size: 19px; font-weight: 700; }
+
+  .form-body { padding: 20px 16px 80px; }
+
+  /* Steps indicator */
+  .step-indicator {
+    display: flex; gap: 6px; margin-bottom: 20px;
+  }
+  .step-dot {
+    height: 4px; flex: 1; border-radius: 2px;
+    background: var(--gray-200); transition: background .3s;
+  }
+  .step-dot.done  { background: var(--red); }
+  .step-dot.active{ background: var(--red); opacity: .6; }
+
+  .step-label {
+    font-size: 11px; color: var(--gray-400); margin-bottom: 16px; font-weight: 600; text-transform: uppercase; letter-spacing: .5px;
+  }
+
+  .info-box {
+    background: var(--red-light); border-left: 4px solid var(--red);
+    border-radius: 4px; padding: 12px 14px; margin-bottom: 20px;
+    font-size: 13px; line-height: 1.55; color: var(--gray-800);
+  }
+  .info-box strong { color: var(--red); }
+
+  .warning-box {
+    background: #FFF8E1; border-left: 4px solid #F9A825;
+    border-radius: 4px; padding: 10px 14px; margin-bottom: 16px;
+    font-size: 12px; color: #5D4037; line-height: 1.5;
+  }
+
+  /* Field groups */
+  .field-group { margin-bottom: 18px; }
+  .field-label {
+    display: block; font-size: 13px; font-weight: 600;
+    color: var(--gray-800); margin-bottom: 6px;
+  }
+  .field-label .req { color: var(--red); margin-left: 2px; }
+
+  .field-hint { font-size: 11px; color: var(--gray-400); margin-top: 4px; }
+
+  input[type="text"], input[type="email"], input[type="tel"],
+  input[type="date"], input[type="number"], select, textarea {
+    width: 100%; border: 1.5px solid var(--gray-200);
+    border-radius: var(--radius); padding: 10px 12px;
+    font-size: 14px; color: var(--gray-800);
+    background: var(--white); outline: none;
+    transition: border-color .2s;
+    font-family: var(--font);
+  }
+  input:focus, select:focus, textarea:focus { border-color: var(--red); }
+
+  .input-icon-wrap { position: relative; }
+  .input-icon-wrap input { padding-left: 38px; }
+  .input-icon {
+    position: absolute; left: 11px; top: 50%; transform: translateY(-50%);
+    color: var(--gray-400); font-size: 16px;
+  }
+
+  .radio-group, .checkbox-group {
+    display: flex; flex-direction: column; gap: 10px; margin-top: 4px;
+  }
+  .radio-item, .checkbox-item {
+    display: flex; align-items: center; gap: 10px;
+    font-size: 14px; cursor: pointer;
+  }
+  .radio-item input, .checkbox-item input { width: auto; margin: 0; accent-color: var(--red); }
+  .radio-row { flex-direction: row; gap: 20px; }
+
+  .checkbox-item-lg {
+    border: 1.5px solid var(--gray-200); border-radius: var(--radius);
+    padding: 12px 14px; display: flex; align-items: flex-start; gap: 10px;
+    cursor: pointer; font-size: 13px; transition: border-color .2s;
+  }
+  .checkbox-item-lg:hover { border-color: var(--red); }
+  .checkbox-item-lg input { width: auto; margin: 0; margin-top: 2px; accent-color: var(--red); flex-shrink: 0; }
+
+  /* Upload button */
+  .upload-btn {
+    display: flex; align-items: center; gap: 10px;
+    border: 2px dashed var(--red); border-radius: var(--radius);
+    padding: 12px 16px; background: var(--red-light);
+    color: var(--red); font-size: 13px; font-weight: 600;
+    cursor: pointer; width: 100%; transition: background .2s;
+    margin-top: 6px;
+  }
+  .upload-btn:hover { background: #f9d0d7; }
+  .upload-btn span { font-size: 20px; }
+
+  .section-separator {
+    height: 1px; background: var(--gray-200);
+    margin: 20px 0; border: none;
+  }
+
+  .section-header {
+    font-size: 15px; font-weight: 700; color: var(--red);
+    margin-bottom: 14px; display: flex; align-items: center; gap: 8px;
+  }
+  .section-header span { font-size: 18px; }
+
+  /* Bottom action bar */
+  .bottom-bar {
+    position: fixed; bottom: 0; left: 50%; transform: translateX(-50%);
+    width: 420px; max-width: 100%;
+    background: var(--white); border-top: 1px solid var(--gray-200);
+    padding: 12px 16px; display: flex; gap: 10px; z-index: 200;
+  }
+  .btn-primary {
+    flex: 1; background: var(--red); color: var(--white);
+    border: none; border-radius: var(--radius);
+    padding: 14px; font-size: 15px; font-weight: 700;
+    cursor: pointer; transition: background .2s;
+  }
+  .btn-primary:hover { background: var(--red-dark); }
+  .btn-secondary {
+    flex: 0 0 auto; background: none; color: var(--gray-600);
+    border: 1.5px solid var(--gray-200); border-radius: var(--radius);
+    padding: 14px 20px; font-size: 15px; font-weight: 600;
+    cursor: pointer; transition: border-color .2s;
+  }
+  .btn-secondary:hover { border-color: var(--red); color: var(--red); }
+
+  /* ── Success screen ── */
+  .success-screen { text-align: center; padding: 60px 24px; }
+  .success-icon { font-size: 72px; margin-bottom: 20px; }
+  .success-screen h2 { font-size: 22px; font-weight: 700; color: var(--gray-800); margin-bottom: 10px; }
+  .success-screen p  { font-size: 14px; color: var(--gray-600); line-height: 1.6; margin-bottom: 8px; }
+  .status-badge {
+    display: inline-block; background: var(--red-light); color: var(--red);
+    font-size: 12px; font-weight: 700; padding: 6px 14px; border-radius: 20px;
+    margin: 14px 0;
+  }
+  .info-card {
+    background: var(--gray-50); border: 1px solid var(--gray-200);
+    border-radius: var(--radius); padding: 16px; text-align: left;
+    margin: 20px 0; font-size: 13px; line-height: 1.7; color: var(--gray-800);
+  }
+  .info-card strong { color: var(--red); }
+
+  /* ── Tracking screen ── */
+  .tracking-body { padding: 24px 16px 80px; }
+  .tracking-body p.desc { font-size: 14px; color: var(--gray-600); margin-bottom: 24px; line-height: 1.55; }
+
+  /* ── Breadcrumb ── */
+  .breadcrumb {
+    display: flex; align-items: center; gap: 6px;
+    padding: 10px 16px; font-size: 12px; color: var(--gray-400);
+    border-bottom: 1px solid var(--gray-100);
+  }
+  .breadcrumb .bc-sep { color: var(--gray-300); }
+  .breadcrumb .bc-current { color: var(--red); font-weight: 600; }
+  .bc-back {
+    background: none; border: none; cursor: pointer;
+    color: var(--gray-600); font-size: 18px; padding: 0; margin-right: 4px;
+  }
+
+  @media (max-width: 440px) {
+    .bottom-bar { width: 100%; }
+  }
+</style>
+</head>
+<body>
+<div class="device-frame">
+
+<!-- ════════════════════ SCREEN 1: HOME ════════════════════ -->
+<div id="screen-home" class="screen active">
+
+  <div class="address-bar">
+    <span>sabin.com.br</span>
+  </div>
+
+  <div class="top-bar">
+    <div class="logo">
+      <span class="logo-name">Sabin</span>
+      <span class="logo-sub">Diagnóstico e Saúde</span>
+    </div>
+    <div class="top-bar-icons">
+      <button class="icon-btn" title="Buscar">🔍</button>
+      <button class="icon-btn" title="Menu" onclick="goto('screen-menu')">☰</button>
+    </div>
+  </div>
+
+  <div style="padding: 16px 16px 8px;">
+    <h1 style="font-size:18px; font-weight:700; color:var(--gray-800); line-height:1.3;">
+      Seja bem-vindo(a) ao<br>Sabin Diagnóstico e Saúde
+    </h1>
+  </div>
+
+  <!-- Banner -->
+  <div class="hero-banner">
+    <div class="hero-icon">💉</div>
+    <div class="hero-text">
+      <h2>HPV – Garanta sua dose</h2>
+      <p>Vacina disponível em todas as unidades Sabin</p>
+    </div>
+  </div>
+  <div class="hero-dots">
+    <span></span><span></span><span></span>
+  </div>
+
+  <!-- Mais buscados -->
+  <p class="section-title">Mais buscados</p>
+  <div class="card-grid">
+    <div class="card" onclick="goto('screen-services')">
+      <div class="card-icon">🧪</div>
+      <div class="card-label">Exames laboratoriais</div>
+    </div>
+    <div class="card" onclick="goto('screen-services')">
+      <div class="card-icon">🩻</div>
+      <div class="card-label">Exames de imagem</div>
+    </div>
+    <div class="card" onclick="goto('screen-services')">
+      <div class="card-icon">💉</div>
+      <div class="card-label">Vacinas</div>
+    </div>
+    <div class="card" onclick="goto('screen-services')">
+      <div class="card-icon">📋</div>
+      <div class="card-label">Pré-cadastro</div>
+    </div>
+    <div class="card" onclick="goto('screen-services')">
+      <div class="card-icon">📍</div>
+      <div class="card-label">Unidades</div>
+    </div>
+    <div class="card" onclick="goto('screen-services')">
+      <div class="card-icon">🤝</div>
+      <div class="card-label">Convênios</div>
+    </div>
+  </div>
+
+  <!-- Serviços Digitais teaser -->
+  <div class="dig-header">
+    <h3>Serviços Digitais</h3>
+  </div>
+  <div class="dig-cards">
+    <div class="dig-card" onclick="goto('screen-services')">
+      <div class="dig-card-icon">🩺</div>
+      <div class="dig-card-title">Solicitar Atendimento</div>
+      <div class="dig-card-cta">Vem Sabin ›</div>
+    </div>
+    <div class="dig-card" onclick="goto('screen-services')">
+      <div class="dig-card-icon">💊</div>
+      <div class="dig-card-title">Infusão de Medicamentos?</div>
+      <div class="dig-card-cta">Agende Agora ›</div>
+    </div>
+  </div>
+  <div class="dig-list">
+    <div class="dig-list-item" onclick="goto('screen-precadastro-hub')">
+      <div class="dig-list-item-left">
+        <div class="dig-list-title">Agilizar exames de Análises</div>
+        <div class="dig-list-cta">Pré-Cadastro de Exames</div>
+      </div>
+      <div class="dig-chevron">›</div>
+    </div>
+    <div class="dig-list-item" onclick="goto('screen-services')">
+      <div class="dig-list-item-left">
+        <div class="dig-list-title">Marcar seus exames de imagem</div>
+        <div class="dig-list-cta">Agende Agora</div>
+      </div>
+      <div class="dig-chevron">›</div>
+    </div>
+    <div class="dig-list-item" onclick="goto('screen-services')">
+      <div class="dig-list-item-left">
+        <div class="dig-list-title">Unidade Digital</div>
+        <div class="dig-list-cta">Agende Agora</div>
+      </div>
+      <div class="dig-chevron">›</div>
+    </div>
+  </div>
+
+  <div class="location-bar">
+    <span>📍</span>
+    <span>Brasília – DF</span>
+    <span class="location-caret">▾</span>
+  </div>
+
+</div><!-- /screen-home -->
+
+
+<!-- ════════════════════ SCREEN 2: MENU ════════════════════ -->
+<div id="screen-menu" class="screen">
+  <div class="menu-search-bar">
+    <span style="font-size:18px; color:var(--red);">🔍</span>
+    <input type="text" placeholder="Pesquisar…">
+    <button class="close-btn" onclick="goto('screen-home')">✕</button>
+  </div>
+  <div class="menu-quick">
+    <button class="quick-btn" onclick="goto('screen-home')">Loja Virtual</button>
+    <button class="quick-btn" onclick="goto('screen-home')">Blog Sabin</button>
+    <button class="quick-btn" onclick="goto('screen-home')">Portal dos Médicos</button>
+  </div>
+  <ul class="menu-list">
+    <li onclick="goto('screen-home')">Exames <span class="caret">▾</span></li>
+    <li onclick="goto('screen-home')">Vacinas <span class="caret">▾</span></li>
+    <li onclick="goto('screen-services')">Serviços Digitais</li>
+    <li onclick="goto('screen-home')">Unidades</li>
+    <li onclick="goto('screen-home')">Convênios</li>
+    <li onclick="goto('screen-home')">Fale conosco <span class="caret">▾</span></li>
+  </ul>
+  <div style="padding: 24px 16px 0;">
+    <div class="menu-footer">
+      <span class="phone-icon">📞</span>
+      <div>
+        <div style="font-size:11px; color:var(--gray-400); font-weight:600;">TELEFONE</div>
+        <div style="font-weight:700;">(61) 3329-8000</div>
+      </div>
+    </div>
+  </div>
+</div><!-- /screen-menu -->
+
+
+<!-- ════════════════════ SCREEN 3: SERVIÇOS DIGITAIS ════════════════════ -->
+<div id="screen-services" class="screen">
+  <div class="top-bar">
+    <div class="logo">
+      <span class="logo-name">Sabin</span>
+    </div>
+    <div class="top-bar-icons">
+      <button class="icon-btn">🔍</button>
+      <button class="icon-btn" onclick="goto('screen-menu')">☰</button>
+    </div>
+  </div>
+
+  <div class="breadcrumb">
+    <button class="bc-back" onclick="goto('screen-home')">‹</button>
+    <span onclick="goto('screen-home')" style="cursor:pointer;">Início</span>
+    <span class="bc-sep">›</span>
+    <span class="bc-current">Serviços Digitais</span>
+  </div>
+
+  <div class="page-hero">
+    <h2>Serviços Digitais</h2>
+  </div>
+
+  <!-- BIG PRE-CADASTRO BUTTON -->
+  <div style="padding: 20px 0 6px;">
+    <button class="pre-cadastro-btn" onclick="goto('screen-precadastro-hub')">
+      <div class="pre-cadastro-btn-left">
+        <div class="pre-cadastro-btn-icon">📋</div>
+        <div class="pre-cadastro-btn-title">Pré-Cadastro de Exames</div>
+        <div class="pre-cadastro-btn-sub">Agilize sua chegada na unidade</div>
+      </div>
+      <span class="arrow">›</span>
+    </button>
+  </div>
+
+  <div class="service-cards">
+    <div class="service-card" onclick="goto('screen-home')">
+      <div class="service-card-icon">🩺</div>
+      <div class="service-card-title">Solicitar Atendimento</div>
+      <div class="service-card-cta">Vem Sabin ›</div>
+    </div>
+    <div class="service-card" onclick="goto('screen-home')">
+      <div class="service-card-icon">💊</div>
+      <div class="service-card-title">Infusão de Medicamentos</div>
+      <div class="service-card-cta">Agende Agora ›</div>
+    </div>
+  </div>
+
+  <div class="service-list">
+    <div class="service-list-item" onclick="goto('screen-home')">
+      <div class="sli-left">
+        <div class="sli-icon">📅</div>
+        <div class="sli-text">
+          <div class="sli-title">Marcar exames de imagem</div>
+          <div class="sli-cta">Agende Agora</div>
+        </div>
+      </div>
+      <span class="sli-chevron">›</span>
+    </div>
+    <div class="service-list-item" onclick="goto('screen-home')">
+      <div class="sli-left">
+        <div class="sli-icon">🏥</div>
+        <div class="sli-text">
+          <div class="sli-title">Unidade Digital</div>
+          <div class="sli-cta">Agende Agora</div>
+        </div>
+      </div>
+      <span class="sli-chevron">›</span>
+    </div>
+  </div>
+
+  <div class="location-bar">
+    <span>📍</span>
+    <span>Brasília – DF</span>
+    <span class="location-caret">▾</span>
+  </div>
+</div><!-- /screen-services -->
+
+
+<!-- ════════════════════ SCREEN 4: PRÉ-CADASTRO HUB ════════════════════ -->
+<div id="screen-precadastro-hub" class="screen">
+  <div class="top-bar">
+    <div class="logo"><span class="logo-name">Sabin</span></div>
+    <div class="top-bar-icons">
+      <button class="icon-btn">🔍</button>
+      <button class="icon-btn" onclick="goto('screen-menu')">☰</button>
+    </div>
+  </div>
+
+  <div class="breadcrumb">
+    <button class="bc-back" onclick="goto('screen-services')">‹</button>
+    <span onclick="goto('screen-services')" style="cursor:pointer;">Serviços Digitais</span>
+    <span class="bc-sep">›</span>
+    <span class="bc-current">Pré-Cadastro de Exames</span>
+  </div>
+
+  <div class="sub-hero">
+    <h2>Pré-Cadastro de Exames</h2>
+    <p>Agilize seu atendimento realizando o pré-cadastro antes de chegar à unidade.</p>
+  </div>
+
+  <div class="hub-options">
+    <button class="hub-btn" onclick="goto('screen-form-intro')">
+      <span class="hub-btn-icon">📝</span>
+      <div>
+        <div class="hub-btn-label">Realizar Pré-Cadastro</div>
+        <div class="hub-btn-sub">Preencha o formulário para agilizar seu atendimento</div>
+      </div>
+    </button>
+    <button class="hub-btn" onclick="goto('screen-tracking')">
+      <span class="hub-btn-icon">🔎</span>
+      <div>
+        <div class="hub-btn-label">Acompanhar Solicitação</div>
+        <div class="hub-btn-sub">Consulte o status de uma solicitação já enviada</div>
+      </div>
+    </button>
+  </div>
+</div><!-- /screen-precadastro-hub -->
+
+
+<!-- ════════════════════ SCREEN 5: FORM INTRO ════════════════════ -->
+<div id="screen-form-intro" class="screen">
+  <div class="top-bar">
+    <div class="logo"><span class="logo-name">Sabin</span></div>
+    <div class="top-bar-icons">
+      <button class="icon-btn">🔍</button>
+      <button class="icon-btn" onclick="goto('screen-menu')">☰</button>
+    </div>
+  </div>
+
+  <div class="breadcrumb">
+    <button class="bc-back" onclick="goto('screen-precadastro-hub')">‹</button>
+    <span onclick="goto('screen-precadastro-hub')" style="cursor:pointer;">Pré-Cadastro</span>
+    <span class="bc-sep">›</span>
+    <span class="bc-current">Novo Pré-Cadastro</span>
+  </div>
+
+  <div class="form-hero" style="background:linear-gradient(135deg,var(--red) 0%,#8B0000 100%);">
+    <h2>PRÉ-CADASTRO</h2>
+  </div>
+
+  <div class="form-body">
+    <div class="info-box">
+      <strong>Prezado cliente,</strong><br><br>
+      Bem-vindo(a) à solicitação para Pré-Cadastro de Exames Sabin!<br><br>
+      Tenha em mãos os documentos pessoais, pedido médico e carteirinha do convênio de quem realizará o(s) exame(s).<br><br>
+      <strong>⚠ Não esqueça de clicar em "Enviar Solicitação" ao final.</strong>
+    </div>
+
+    <div style="font-size:14px; font-weight:700; color:var(--red); margin-bottom:14px;">
+      Preencha o formulário com os dados da pessoa que será atendida
+    </div>
+
+    <div class="field-group">
+      <label class="field-label">Qual(is) serviço(s) deseja solicitar?<span class="req">*</span></label>
+      <div class="checkbox-group">
+        <label class="checkbox-item"><input type="checkbox"> Exames laboratoriais</label>
+        <label class="checkbox-item"><input type="checkbox"> Exames de imagem</label>
+        <label class="checkbox-item"><input type="checkbox"> Vacinas</label>
+      </div>
+    </div>
+
+    <div class="field-group">
+      <label class="field-label">Nacionalidade do paciente<span class="req">*</span></label>
+      <div class="radio-group radio-row">
+        <label class="radio-item"><input type="radio" name="nac"> Brasileira</label>
+        <label class="radio-item"><input type="radio" name="nac"> Estrangeira</label>
+      </div>
+    </div>
+
+    <div class="field-group">
+      <label class="field-label">Paciente<span class="req">*</span></label>
+      <input type="text" placeholder="Insira o nome completo">
+    </div>
+
+    <div class="field-group">
+      <label class="field-label">CPF<span class="req">*</span></label>
+      <div class="input-icon-wrap">
+        <span class="input-icon">🪪</span>
+        <input type="text" placeholder="000.000.000-00">
+      </div>
+    </div>
+
+    <hr class="section-separator">
+    <div class="section-header"><span>📬</span> Contato</div>
+    <p style="font-size:12px; color:var(--gray-600); margin-bottom:14px;">Os dados abaixo serão utilizados apenas para comunicarmos o estado da solicitação.</p>
+
+    <div class="field-group">
+      <label class="field-label">E-mail<span class="req">*</span></label>
+      <div class="input-icon-wrap">
+        <span class="input-icon">✉️</span>
+        <input type="email" placeholder="Insira o e-mail destinatário">
+      </div>
+    </div>
+
+    <div class="field-group">
+      <label class="field-label">Celular<span class="req">*</span></label>
+      <div class="input-icon-wrap">
+        <span class="input-icon">📱</span>
+        <input type="tel" placeholder="(00) 00000-0000">
+      </div>
+    </div>
+
+    <div class="field-group">
+      <label class="checkbox-item-lg">
+        <input type="checkbox">
+        <span>Li e concordo com os <strong style="color:var(--red);">Termos e Condições</strong> do Grupo Sabin</span>
+      </label>
+    </div>
+  </div>
+
+  <div class="bottom-bar">
+    <button class="btn-secondary" onclick="goto('screen-precadastro-hub')">Voltar</button>
+    <button class="btn-primary" onclick="goto('screen-form-step1')">Iniciar Preenchimento</button>
+  </div>
+</div><!-- /screen-form-intro -->
+
+
+<!-- ════════════════════ SCREEN 6: FORM STEP 1 – Local e Pedido ════════════════════ -->
+<div id="screen-form-step1" class="screen">
+  <div class="top-bar">
+    <div class="logo"><span class="logo-name">Sabin</span></div>
+    <div class="top-bar-icons">
+      <button class="icon-btn">🔍</button>
+      <button class="icon-btn" onclick="goto('screen-menu')">☰</button>
+    </div>
+  </div>
+
+  <div class="form-hero">
+    <h2>Pré-Cadastro de Exames</h2>
+  </div>
+
+  <div class="form-body">
+    <div class="step-indicator">
+      <div class="step-dot active"></div>
+      <div class="step-dot"></div>
+      <div class="step-dot"></div>
+      <div class="step-dot"></div>
+    </div>
+    <div class="step-label">Etapa 1 de 4 — Local e Pedido</div>
+
+    <div class="section-header"><span>①</span> Local e Pedido</div>
+    <p style="font-size:13px; color:var(--gray-600); margin-bottom:18px;">Escolha a melhor unidade Sabin para você</p>
+
+    <div class="field-group">
+      <label class="field-label">Realizar o exame na Região<span class="req">*</span></label>
+      <select>
+        <option value="" disabled selected>Selecione a região</option>
+        <option>Brasília – DF</option>
+        <option>São Paulo – SP</option>
+        <option>Rio de Janeiro – RJ</option>
+        <option>Belo Horizonte – MG</option>
+      </select>
+    </div>
+
+    <div class="field-group">
+      <label class="field-label">A unidade Sabin que desejo realizar a coleta de exames é a<span class="req">*</span></label>
+      <select>
+        <option value="" disabled selected>Selecione a unidade</option>
+        <option>Sabin – Asa Sul</option>
+        <option>Sabin – Asa Norte</option>
+        <option>Sabin – Taguatinga</option>
+        <option>Sabin – Lago Sul</option>
+      </select>
+    </div>
+
+    <div class="field-group">
+      <label class="field-label">A solicitação é<span class="req">*</span></label>
+      <div class="radio-group radio-row">
+        <label class="radio-item"><input type="radio" name="tipo"> Particular</label>
+        <label class="radio-item"><input type="radio" name="tipo"> Convênio</label>
+      </div>
+    </div>
+
+    <div class="warning-box">
+      🔒 Caso o convênio não esteja listado abaixo, selecione "Não localizado" e digite o nome dele.
+    </div>
+
+    <div class="field-group">
+      <label class="field-label">O Convênio médico é o<span class="req">*</span></label>
+      <select>
+        <option value="" disabled selected>Selecione o convênio</option>
+        <option>Unimed</option>
+        <option>Bradesco Saúde</option>
+        <option>Amil</option>
+        <option>SulAmérica</option>
+        <option>Não localizado</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="bottom-bar">
+    <button class="btn-secondary" onclick="goto('screen-form-intro')">Voltar</button>
+    <button class="btn-primary" onclick="goto('screen-form-step2')">Próximo</button>
+  </div>
+</div><!-- /screen-form-step1 -->
+
+
+<!-- ════════════════════ SCREEN 7: FORM STEP 2 – Documentos ════════════════════ -->
+<div id="screen-form-step2" class="screen">
+  <div class="top-bar">
+    <div class="logo"><span class="logo-name">Sabin</span></div>
+    <div class="top-bar-icons">
+      <button class="icon-btn">🔍</button>
+      <button class="icon-btn" onclick="goto('screen-menu')">☰</button>
+    </div>
+  </div>
+
+  <div class="form-hero">
+    <h2>Pré-Cadastro de Exames</h2>
+  </div>
+
+  <div class="form-body">
+    <div class="step-indicator">
+      <div class="step-dot done"></div>
+      <div class="step-dot active"></div>
+      <div class="step-dot"></div>
+      <div class="step-dot"></div>
+    </div>
+    <div class="step-label">Etapa 2 de 4 — Documentos</div>
+
+    <div class="section-header"><span>②</span> Documentos</div>
+
+    <div class="info-box" style="background:#FFF3CD; border-color:#F9A825; color:#5D4037;">
+      <strong>⚠ Atenção!</strong> Todos os documentos cadastrados devem pertencer à pessoa que será atendida.
+    </div>
+
+    <div class="field-group">
+      <label class="field-label">Frente do documento de identidade<span class="req">*</span></label>
+      <div class="upload-btn"><span>📎</span> Selecionar Arquivo</div>
+    </div>
+
+    <div class="field-group">
+      <label class="field-label">Verso do documento de identidade<span class="req">*</span></label>
+      <div class="upload-btn"><span>📎</span> Selecionar Arquivo</div>
+    </div>
+
+    <div class="field-group">
+      <label class="field-label">Pedido médico</label>
+      <div class="upload-btn"><span>📎</span> Selecionar Arquivo</div>
+    </div>
+
+    <div class="field-group">
+      <label class="field-label">Possui pedidos médicos adicionais?</label>
+      <select>
+        <option value="" disabled selected>Selecione uma opção</option>
+        <option>Sim</option>
+        <option>Não</option>
+      </select>
+    </div>
+
+    <div class="field-group">
+      <label class="field-label">Relatório médico (caso exista)</label>
+      <div class="upload-btn"><span>📎</span> Selecionar Arquivo</div>
+    </div>
+
+    <div class="field-group">
+      <label class="field-label">Carteirinha do convênio<span class="req">*</span></label>
+      <div class="upload-btn"><span>📎</span> Selecionar Arquivo</div>
+    </div>
+
+    <div class="field-group">
+      <label class="field-label">Guia de autorização do convênio (caso exista)</label>
+      <div class="upload-btn"><span>📎</span> Selecionar Arquivo</div>
+    </div>
+  </div>
+
+  <div class="bottom-bar">
+    <button class="btn-secondary" onclick="goto('screen-form-step1')">Voltar</button>
+    <button class="btn-primary" onclick="goto('screen-form-step3')">Próximo</button>
+  </div>
+</div><!-- /screen-form-step2 -->
+
+
+<!-- ════════════════════ SCREEN 8: FORM STEP 3 – Dados Pessoais ════════════════════ -->
+<div id="screen-form-step3" class="screen">
+  <div class="top-bar">
+    <div class="logo"><span class="logo-name">Sabin</span></div>
+    <div class="top-bar-icons">
+      <button class="icon-btn">🔍</button>
+      <button class="icon-btn" onclick="goto('screen-menu')">☰</button>
+    </div>
+  </div>
+
+  <div class="form-hero">
+    <h2>Pré-Cadastro de Exames</h2>
+  </div>
+
+  <div class="form-body">
+    <div class="step-indicator">
+      <div class="step-dot done"></div>
+      <div class="step-dot done"></div>
+      <div class="step-dot active"></div>
+      <div class="step-dot"></div>
+    </div>
+    <div class="step-label">Etapa 3 de 4 — Dados Pessoais</div>
+
+    <div class="section-header"><span>③</span> Dados Pessoais</div>
+    <p style="font-size:13px; color:var(--gray-600); margin-bottom:18px;">Preencha com os dados da pessoa que irá realizar o exame.</p>
+
+    <div class="field-group">
+      <label class="field-label">Paciente<span class="req">*</span></label>
+      <input type="text" placeholder="Nome completo">
+    </div>
+
+    <div class="field-group">
+      <label class="field-label">Data de nascimento<span class="req">*</span></label>
+      <input type="date">
+    </div>
+
+    <div class="field-group">
+      <label class="field-label">CPF da pessoa que realizará o exame<span class="req">*</span></label>
+      <input type="text" placeholder="000.000.000-00">
+    </div>
+
+    <div class="field-group">
+      <label class="field-label">Sexo biológico<span class="req">*</span></label>
+      <div class="radio-group radio-row">
+        <label class="radio-item"><input type="radio" name="sexo"> Feminino</label>
+        <label class="radio-item"><input type="radio" name="sexo"> Masculino</label>
+      </div>
+    </div>
+
+    <div class="field-group">
+      <label class="field-label">Os exames são para admissão em concurso público?<span class="req">*</span></label>
+      <div class="radio-group radio-row">
+        <label class="radio-item"><input type="radio" name="concurso"> Sim</label>
+        <label class="radio-item"><input type="radio" name="concurso"> Não</label>
+      </div>
+    </div>
+
+    <div class="field-group">
+      <label class="field-label">Caso possua alguma deficiência (física, auditiva, visual ou intelectual), descreva abaixo:</label>
+      <textarea rows="3" placeholder="Descreva aqui (opcional)"></textarea>
+    </div>
+
+    <div class="field-group">
+      <label class="field-label">Celular para contato<span class="req">*</span></label>
+      <input type="tel" placeholder="(00) 00000-0000">
+    </div>
+
+    <div class="field-group">
+      <label class="field-label">Outro telefone (opcional)</label>
+      <input type="tel" placeholder="(00) 0000-0000">
+    </div>
+
+    <div class="field-group">
+      <label class="field-label">E-mail para contato<span class="req">*</span></label>
+      <input type="email" placeholder="seu@email.com.br">
+    </div>
+  </div>
+
+  <div class="bottom-bar">
+    <button class="btn-secondary" onclick="goto('screen-form-step2')">Voltar</button>
+    <button class="btn-primary" onclick="goto('screen-form-step4')">Próximo</button>
+  </div>
+</div><!-- /screen-form-step3 -->
+
+
+<!-- ════════════════════ SCREEN 9: FORM STEP 4 – Outros Pacientes ════════════════════ -->
+<div id="screen-form-step4" class="screen">
+  <div class="top-bar">
+    <div class="logo"><span class="logo-name">Sabin</span></div>
+    <div class="top-bar-icons">
+      <button class="icon-btn">🔍</button>
+      <button class="icon-btn" onclick="goto('screen-menu')">☰</button>
+    </div>
+  </div>
+
+  <div class="form-hero">
+    <h2>Pré-Cadastro de Exames</h2>
+  </div>
+
+  <div class="form-body">
+    <div class="step-indicator">
+      <div class="step-dot done"></div>
+      <div class="step-dot done"></div>
+      <div class="step-dot done"></div>
+      <div class="step-dot active"></div>
+    </div>
+    <div class="step-label">Etapa 4 de 4 — Inclusão de Outros Pacientes</div>
+
+    <div class="section-header"><span>④</span> Inclusão de Outros Pacientes</div>
+
+    <div class="field-group">
+      <label class="field-label">Deseja que mais pessoas realizem exames nesta mesma unidade Sabin?<span class="req">*</span></label>
+      <div class="radio-group radio-row" style="margin-top:10px;">
+        <label class="radio-item"><input type="radio" name="outros"> Sim</label>
+        <label class="radio-item"><input type="radio" name="outros" checked> Não</label>
+      </div>
+    </div>
+
+    <div class="info-box" style="margin-top:8px;">
+      <strong>📋 Resumo da solicitação:</strong><br><br>
+      Ao clicar em <strong>Enviar Solicitação</strong>, você confirma os dados preenchidos e concorda que a equipe Sabin entrará em contato para confirmar seu atendimento.
+    </div>
+  </div>
+
+  <div class="bottom-bar">
+    <button class="btn-secondary" onclick="goto('screen-form-step3')">Voltar</button>
+    <button class="btn-primary" onclick="goto('screen-success')">Enviar Solicitação</button>
+  </div>
+</div><!-- /screen-form-step4 -->
+
+
+<!-- ════════════════════ SCREEN 10: SUCCESS ════════════════════ -->
+<div id="screen-success" class="screen">
+  <div class="top-bar">
+    <div class="logo"><span class="logo-name">Sabin</span></div>
+    <div class="top-bar-icons">
+      <button class="icon-btn">🔍</button>
+      <button class="icon-btn" onclick="goto('screen-menu')">☰</button>
+    </div>
+  </div>
+
+  <div class="success-screen">
+    <div class="success-icon">✅</div>
+    <h2>Solicitação Enviada!</h2>
+    <div class="status-badge">Status da Solicitação</div>
+    <p><strong>Aprovada para Exames Laboratoriais</strong><br>na unidade <strong>Sabin – Asa Sul</strong><br>de <strong>Brasília – DF</strong>.</p>
+
+    <div class="info-card">
+      Baseado em seus pedidos, por favor compareça ao local do exame com <strong>jejum de 8 horas</strong>, sem incluir medicações, conforme as seguintes especificações:<br><br>
+      • <strong>Hemograma completo</strong> – jejum obrigatório<br>
+      • <strong>Glicemia</strong> – jejum de 8h, sem ingestão de água<br>
+      • <strong>Colesterol total</strong> – jejum de 12h recomendado<br>
+      • <strong>TSH / T4 livre</strong> – sem restrições alimentares
+    </div>
+
+    <p style="font-size:13px; color:var(--gray-600);">Uma confirmação foi enviada para o seu e-mail cadastrado.</p>
+
+    <button class="btn-primary" style="width:100%; margin-top:24px;" onclick="goto('screen-home')">
+      Voltar para o Início
+    </button>
+  </div>
+</div><!-- /screen-success -->
+
+
+<!-- ════════════════════ SCREEN 11: TRACKING ════════════════════ -->
+<div id="screen-tracking" class="screen">
+  <div class="top-bar">
+    <div class="logo"><span class="logo-name">Sabin</span></div>
+    <div class="top-bar-icons">
+      <button class="icon-btn">🔍</button>
+      <button class="icon-btn" onclick="goto('screen-menu')">☰</button>
+    </div>
+  </div>
+
+  <div class="breadcrumb">
+    <button class="bc-back" onclick="goto('screen-precadastro-hub')">‹</button>
+    <span onclick="goto('screen-precadastro-hub')" style="cursor:pointer;">Pré-Cadastro</span>
+    <span class="bc-sep">›</span>
+    <span class="bc-current">Acompanhar Solicitação</span>
+  </div>
+
+  <div class="form-hero">
+    <h2>Acompanhar Solicitação</h2>
+  </div>
+
+  <div class="tracking-body">
+    <p class="desc">🔥 Insira os dados para o acompanhamento da sua solicitação.</p>
+
+    <div class="field-group">
+      <label class="field-label">CPF do paciente<span class="req">*</span></label>
+      <input type="text" placeholder="000.000.000-00">
+    </div>
+
+    <div class="field-group">
+      <label class="field-label">E-mail do pré-agendamento<span class="req">*</span></label>
+      <input type="email" placeholder="seu@email.com.br">
+    </div>
+  </div>
+
+  <div class="bottom-bar">
+    <button class="btn-secondary" onclick="goto('screen-precadastro-hub')">Voltar</button>
+    <button class="btn-primary" onclick="goto('screen-success')">Enviar Confirmação</button>
+  </div>
+</div><!-- /screen-tracking -->
+
+</div><!-- /device-frame -->
+
+<script>
+  function goto(screenId) {
+    document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+    const target = document.getElementById(screenId);
+    if (target) {
+      target.classList.add('active');
+      window.scrollTo(0, 0);
+    }
+  }
+</script>
+</body>
+</html>

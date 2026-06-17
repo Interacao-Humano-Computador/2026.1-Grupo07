@@ -1,60 +1,64 @@
-# Planejamento do Relato dos Resultados — Protótipo de Alta Fidelidade
+# Relato dos Resultados — Protótipo de Alta Fidelidade
 
 ## Tabela de Contribuição
 
 | Artefato(s) | Autor(es) |
 | --- | --- |
-| Relato dos resultados da avaliação do protótipo de alta fidelidade da tarefa de [SUA TAREFA AQUI] | [SEU NOME + GITHUB AQUI] |
+| Relato dos resultados da avaliação do protótipo de alta fidelidade da tarefa de **Pré-Cadastro de Exames** | Maria Laura — [@MariaLauraRegis](https://github.com/MariaLauraRegis) |
+
 ---
 
 ## 1. Introdução
 
-Este documento tem como objetivo definir o planejamento e a estrutura padronizada para o relato dos resultados da avaliação do Protótipo de Alta Fidelidade do Portal Sabin. O intuito é garantir que, após a coleta empírica de dados por meio do Teste de Usabilidade com Protótipo Interativo, todos os avaliadores da equipe sigam a mesma metodologia de consolidação e interpretação dos dados obtidos nas sessões <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../assets/topicos-relato-p279.png"> </span>.
+Este documento tem como objetivo definir o planejamento e a estrutura padronizada para o relato dos resultados da avaliação do Protótipo de Alta Fidelidade do Portal Sabin. O intuito é garantir que, após a coleta empírica de dados por meio do Teste de Usabilidade com Protótipo Interativo, todos os avaliadores da equipe sigam a mesma metodologia de consolidação e interpretação dos dados obtidos nas sessões (BARBOSA; SILVA, 2021, p. 279).
 
-Este artefato corresponde à etapa **"E": Avaliar (Evaluate), interpretar e apresentar os dados** do framework DECIDE <span class="hover-image">(BARBOSA; SILVA, 2021, p. 280)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../assets/DECIDE-E2.png"> </span>, definindo como os dados serão avaliados, interpretados e apresentados.
+Este artefato corresponde à etapa **"E": Avaliar (Evaluate), interpretar e apresentar os dados** do framework DECIDE (BARBOSA; SILVA, 2021, p. 280), definindo como os dados serão avaliados, interpretados e apresentados.
 
 ---
 
 ## 2. Metodologia de Consolidação dos Dados
 
-Após a conclusão da sessão de teste, os resultados serão consolidados por meio de uma **análise intrasujeito** <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../assets/analise-intrasujeito.png"> </span>. Como o teste é focado em um único participante por avaliador, a equipe deverá:
+Após a conclusão da sessão de teste, os resultados foram consolidados por meio de uma **análise intrasujeito** (BARBOSA; SILVA, 2021, p. 279). Como o teste foi focado em um único participante, a equipe:
 
-* Buscar **recorrências** no comportamento do usuário: observar como o participante age, evolui e reage ao longo da execução das diferentes tarefas propostas na interface digital.
-* Identificar padrões individuais: mapear erros consistentes de clique, pontos de hesitação repetidos e a curva de aprendizado do próprio participante durante a interação com o protótipo.
-* Relacionar os resultados e as atitudes observadas com os objetivos definidos no [Planejamento da Avaliação](PlanejamentoAvaliacao.md).
-* Evitar generalizações indevidas: reconhecer que os dados refletem as particularidades e o modelo mental de um único indivíduo, servindo como indícios fortes de problemas reais de usabilidade e interface, mas não como métricas estatísticas de uma população.
-* **Atenção:** o resultado do Teste Piloto não será incluído no relato oficial da avaliação.
+* Buscou **recorrências** no comportamento da usuária: observando como a participante agiu, evoluiu e reagiu ao longo da execução das diferentes tarefas propostas na interface digital.
+* Identificou padrões individuais: mapeando erros de clique, pontos de hesitação e a curva de aprendizado da própria participante durante a interação com o protótipo.
+* Relacionou os resultados e as atitudes observadas com os objetivos definidos no Planejamento da Avaliação.
+* Evitou generalizações indevidas: reconhecendo que os dados refletem as particularidades e o modelo mental de um único indivíduo, servindo como indícios de problemas reais de usabilidade, mas não como métricas estatísticas de uma população.
+* **Atenção:** o resultado do Teste Piloto não foi incluído neste relato oficial.
 
 ---
 
 ## 3. Tópicos do Relato de Resultados
 
-Para garantir a padronização, todos os documentos de Relato de Resultados produzidos pela equipe deverão conter obrigatoriamente a seguinte estrutura:
+Esta seção apresenta os resultados da avaliação do Protótipo de Alta Fidelidade da tarefa de Pré-Cadastro de Exames do Portal Sabin, organizados nos tópicos definidos no planejamento. Os dados foram coletados a partir de uma sessão de Teste de Usabilidade com um participante representativo do perfil de usuário-alvo, seguindo os métodos descritos nas seções anteriores.
 
 ## 3.1. Objetivos e Escopo da Avaliação
 
-O relato deverá apresentar os objetivos da avaliação e descrever quais tarefas e telas iterativas do protótipo de alta fidelidade foram avaliadas. Deverá também justificar se os objetivos foram atingidos ou indicar por que alguma questão não pôde ser respondida.
+O objetivo central da avaliação foi verificar se o protótipo de alta fidelidade da tarefa de **Pré-Cadastro de Exames** do Portal Sabin permite que usuários reais consigam concluir o fluxo completo de forma autônoma, intuitiva e satisfatória, validando as decisões de design tomadas a partir do protótipo de papel.
 
-**Escopo mínimo a descrever:**
+**Escopo avaliado:**
 
-- As tarefas avaliadas e as interfaces/telas digitais utilizadas;
-- Os fluxos de navegação interativos analisados;
-- Os problemas previamente identificados na avaliação do Protótipo de Papel que motivaram as melhorias de design aplicadas nesta versão de alta fidelidade.
+- **Tarefas avaliadas:** acesso à página de Serviços Digitais a partir da home; localização e início do Pré-Cadastro; preenchimento do formulário em quatro etapas (Local e Pedido, Documentos, Dados Pessoais e Inclusão de Outros Pacientes); envio da solicitação e visualização da tela de confirmação; e acompanhamento de solicitação já enviada.
+- **Interfaces/telas digitais utilizadas:** Home, Menu, Serviços Digitais, Hub de Pré-Cadastro, Tela de Introdução/Termos, Etapas 1 a 4 do formulário, Tela de Sucesso e Tela de Acompanhamento.
+- **Fluxos de navegação analisados:** fluxo principal (Home → Serviços Digitais → Pré-Cadastro → Formulário → Confirmação) e fluxo secundário de rastreamento (Hub → Acompanhar Solicitação).
+- **Melhorias aplicadas em relação ao protótipo de papel:** destaque visual ampliado do botão de Pré-Cadastro na tela de Serviços Digitais (maior e com cor primária em destaque); adição de barra de progresso por etapas (step indicator); reorganização das seções do formulário com títulos e separadores visuais claros; inclusão de caixas de aviso e instrução em vermelho/amarelo para orientar o preenchimento; e padronização da navegação com botões "Voltar" e "Próximo" fixos na barra inferior.
+
+Os objetivos foram integralmente atingidos ao longo da sessão de avaliação.
 
 ---
 
 ## 3.2. Método de Avaliação Empregado
 
-O documento deverá registrar como o Teste de Usabilidade com Protótipo de Alta Fidelidade foi conduzido, especificando:
+O Teste de Usabilidade com Protótipo de Alta Fidelidade foi conduzido da seguinte forma:
 
-- O dispositivo e ambiente utilizados para a simulação (ex: computador desktop presencial acessando o link do Figma);
-- Como o participante interagiu com o protótipo digital;
-- As estratégias de coleta de dados utilizadas:
-  - Observação direta das ações do participante e interações com a UI (Interface de Usuário);
-  - Captura de tela e gravação da interação digital (screen recording);
-  - Protocolo *Think Aloud* (verbalização dos pensamentos, se aplicado);
-  - Registro audiovisual do rosto/comportamento da sessão (mediante consentimento);
-  - Anotações do avaliador/anotador sobre cliques errados ou hesitações em componentes.
+- **Dispositivo e ambiente:** computador desktop, em ambiente presencial controlado, com acesso ao protótipo HTML interativo disponibilizado via link.
+- **Interação com o protótipo:** a participante navegou livremente pelo protótipo, clicando nos elementos interativos e preenchendo campos dos formulários, simulando o uso real do sistema.
+- **Estratégias de coleta de dados:**
+  - Observação direta das ações da participante e interações com a UI;
+  - Gravação da tela durante toda a sessão (*screen recording*);
+  - Protocolo *Think Aloud*: a participante foi encorajada a verbalizar seus pensamentos em voz alta durante a navegação;
+  - Registro audiovisual do rosto e comportamento da participante (mediante consentimento prévio assinado em TCLE);
+  - Anotações da avaliadora sobre cliques, hesitações e comentários espontâneos.
 
 ---
 
@@ -64,97 +68,121 @@ O documento deverá registrar como o Teste de Usabilidade com Protótipo de Alta
 
 | Participante | Perfil |
 |------------|---------|
-| [Nome] | [Perfil de usuário correspondente](../../requisitos/perfilDeUsuario.md) |
+| Helena Calegaro | Perfil 2 — Usuária com familiaridade moderada com plataformas digitais de saúde, que utiliza o portal para agendar e acompanhar exames laboratoriais, geralmente acessando pelo celular ou computador em casa |
 
 ### Avaliadores
 
 | Avaliador | Papel |
 |------------|---------|
-| [Nome]  | Facilitador |
-| [Nome]  | Anotador / Observador |
-| [Nome]  | Cinegrafista / Gestor de Gravação |
+| Maria Laura | Facilitadora e Cinegrafista / Gestora de Gravação |
 
 ### Relação com o Perfil de Usuário
 
-O participante selecionado apresenta características compatíveis com o [perfil de usuário](../../requisitos/perfilDeUsuario.md) do Portal Sabin, garantindo a validade externa dos resultados obtidos.
+A participante Helena Calegaro apresenta características compatíveis com o Perfil 2 do Portal Sabin: usuária adulta, com familiaridade moderada com tecnologia, que realiza exames laboratoriais com frequência e tem interesse em serviços digitais que agilizem seu atendimento presencial. Essa correspondência garante a validade dos resultados obtidos para o público-alvo da plataforma.
 
 ---
 
 ## 3.4. Tarefas Executadas e Sumário dos Dados
 
-A **Tabela** detalha a decomposição do objetivo principal da avaliação em tarefas menores. Esses passos representam as ações sequenciais modeladas pela equipe para serem validadas com o usuário no sistema digital:
+### Tabela — Decomposição do objetivo em tarefas
 
-### Tabela - Decomposição do objetivo em tarefas
-
-| ID | Tarefa Mapeada (Artefato) |
-|----|---------|
-| T1 | - |
-| T2 | - |
-| T3 | - |
+| ID | Tarefa Mapeada |
+|----|----------------|
+| T1 | Localizar a opção de Pré-Cadastro de Exames a partir da Home |
+| T2 | Iniciar o preenchimento do formulário e aceitar os termos |
+| T3 | Preencher a Etapa 1 (Local e Pedido) e avançar |
+| T4 | Anexar documentos na Etapa 2 (Documentos) e avançar |
+| T5 | Preencher dados pessoais na Etapa 3 e avançar |
+| T6 | Concluir a Etapa 4 e enviar a solicitação |
+| T7 | Acompanhar uma solicitação já enviada |
 
 ### Sumário Quantitativo dos Dados
 
 | Métrica | Resultado |
-|----------|-----------| 
+|----------|-----------|
 | Número de participantes | 1 |
-| Tarefas concluídas sem auxílio | XX |
-| Tarefas concluídas com auxílio | XX |
-| Tarefas não concluídas | XX |
-| Total de erros (cliques falhos/caminhos errados) | XX |
-| Pontos de hesitação identificados | XX |
-| Comentários relevantes registrados | XX |
+| Tarefas concluídas sem auxílio | 7 |
+| Tarefas concluídas com auxílio | 0 |
+| Tarefas não concluídas | 0 |
+| Total de erros (cliques falhos/caminhos errados) | 0 |
+| Pontos de hesitação identificados | 1 |
+| Comentários relevantes registrados | 4 |
 
 ### Dificuldades Observadas por Tarefa
 
 | Tarefa | Dificuldade Observada |
 |--------|-----------------------|
-| T1 | |
-| T2 | |
-| T3 | |
-| T4 | |
-| T5 | |
+| T1 | Nenhuma dificuldade. A participante localizou o Pré-Cadastro com facilidade tanto pelo menu quanto pela seção de Serviços Digitais na Home. |
+| T2 | Nenhuma dificuldade. A tela introdutória com as instruções foi lida com atenção antes de prosseguir. |
+| T3 | Breve hesitação ao escolher entre "Particular" e "Convênio", resolvida rapidamente após ler o aviso sobre convênios não listados. |
+| T4 | Nenhuma dificuldade. Os botões de upload foram encontrados e acionados sem dúvidas. |
+| T5 | Nenhuma dificuldade. O formulário foi preenchido de forma linear e autônoma. |
+| T6 | Nenhuma dificuldade. A participante identificou e clicou em "Enviar Solicitação" ao final da etapa 4. |
+| T7 | Nenhuma dificuldade. A opção "Acompanhar Solicitação" foi encontrada diretamente no Hub de Pré-Cadastro. |
 
 ### Comentários Relevantes dos Participantes
-A **Tabela** reúne as citações diretas e os comentários mais expressivos feitos pelo participante durante a validação. Esses relatos complementam as métricas, evidenciando como o usuário realmente pensa sobre a estética, cores, rótulos e feedback do sistema:
-
-Tabela - Comentários do entrevistado
 
 | Participante | Comentário |
 |-------------|------------|
-| [Nome] | "..." |
-| [Nome] | "..." |
+| Helena Calegaro | "Gostei que pra mim é bem intuitivo" |
+| Helena Calegaro | "O botão de Pré-Cadastro tá bem visível, não tive dúvida de onde clicar." |
+| Helena Calegaro | "O fluxo é bem completo" |
 
 ---
 
 ## 3.5. Relato da Interpretação e Análise dos Dados
 
-Nesta seção devem ser apresentados os resultados obtidos e sua relação com os objetivos definidos no planejamento.
+### Gravação da Sessão de Avaliação
+
+**Gravação de tela (screen recording) da interação com o protótipo:**
+
+
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yl3eMS7qDRc" frameborder="0" allowfullscreen></iframe>
+
+---
+
+**Gravação audiovisual da sessão (câmera — rosto e voz da participante):**
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wINWnKFYYm4" frameborder="0" allowfullscreen></iframe>
+
+---
+
+### Visualização do Protótipo de Alta Fidelidade
+
+<iframe src="https://interacao-humano-computador.github.io/2026.1-Grupo07/assets/sabin-pre-cadastro.html" width="100%" height="800px" style="border:1px solid #ccc; border-radius:8px;"></iframe>
+---
 
 ### Análise das Perguntas Exploratórias
 
 | Pergunta Exploratória | Evidências Observadas | Conclusão |
-|----------------------|----------------------|------------|
-| O usuário concluiu a tarefa interagindo com o protótipo digital sem auxílio? | [Observações] | [Respondida / Parcialmente / Não respondida] |
-| A identidade visual, os ícones e as cores ajudaram na identificação das ações? | [Observações] | [Respondida / Parcialmente / Não respondida] |
-| O feedback visual do sistema foi claro? | [Observações] | [Respondida / Parcialmente / Não respondida] |
-| Houve hesitação ou cliques errados? | [Observações] | [Respondida / Parcialmente / Não respondida] |
+|----------------------|----------------------|-----------|
+| O usuário concluiu a tarefa interagindo com o protótipo digital sem auxílio? | Helena concluiu todas as 7 tarefas sem nenhum tipo de auxílio, seguindo o fluxo de forma linear e autônoma do início ao fim. | Respondida |
+| A identidade visual, os ícones e as cores ajudaram na identificação das ações? | A participante identificou rapidamente o botão de Pré-Cadastro (destacado em vermelho) e reconheceu os ícones das etapas e dos tipos de serviço sem dúvidas. | Respondida |
+| O feedback visual do sistema foi claro? | A barra de progresso por etapas foi elogiada espontaneamente. As caixas de aviso em vermelho e amarelo foram lidas com atenção. A tela de sucesso comunicou claramente a conclusão do processo. | Respondida |
+| Houve hesitação ou cliques errados? | Um único ponto de hesitação foi identificado na Etapa 1, ao escolher entre "Particular" e "Convênio". A dúvida foi resolvida de forma autônoma após a leitura do aviso contextual presente na tela. Nenhum clique errado foi registrado. | Respondida |
 
 ### Principais Achados
 
 **Aspectos Positivos:**
 
-- [Aspecto positivo identificado, ex: clareza visual, facilidade no fluxo]
-- [Aspecto positivo identificado]
+- O destaque visual do botão de Pré-Cadastro na tela de Serviços Digitais (maior, em vermelho, com sombra) facilitou a localização imediata da funcionalidade.
+- A barra de progresso por etapas (step indicator) foi percebida e valorizada pela participante, reduzindo a ansiedade em relação ao tamanho do formulário.
+- As caixas de aviso contextual (em vermelho e amarelo) presentes nas etapas de documentos e convênio guiaram a participante proativamente, evitando erros antes que ocorressem.
+- A navegação linear com botões fixos "Voltar" e "Próximo" na barra inferior garantiu previsibilidade e controle ao longo de todas as etapas.
+- A tela de confirmação com status, instruções de preparo e resumo do agendamento foi considerada informativa e adequada.
 
 **Dificuldades Encontradas:**
 
-- [Dificuldade observada, ex: botão pouco visível, contraste ruim]
-- [Dificuldade observada]
+- Leve hesitação no campo de seleção entre "Particular" e "Convênio", possivelmente por ser uma decisão com implicações no restante do formulário. O aviso contextual presente na tela resolveu a dúvida sem intervenção da avaliadora.
 
 **Quebras de Expectativa:**
 
-- [Quebra de expectativa observada, ex: link que não leva a onde o usuário esperava]
-- [Quebra de expectativa observada]
+- Nenhuma quebra de expectativa foi identificada. A participante demonstrou que o fluxo correspondeu ao seu modelo mental de como um sistema de pré-cadastro digital deveria funcionar.
 
 ---
 
@@ -162,13 +190,13 @@ Nesta seção devem ser apresentados os resultados obtidos e sua relação com o
 
 | ID | Descrição do Problema | Tarefa | Frequência | Severidade | Impacto | Possível Causa | Prioridade |
 |----|----------------------|--------|------------|------------|---------|----------------|------------|
-| P01 | [Descrição] | T1 | [Nº de Ocorrências] | Alta | [Impacto] | [Causa ligada a UI/UX] | Alta |
-| P02 | [Descrição] | T2 | [Nº de Ocorrências] | Média | [Impacto] | [Causa ligada a UI/UX] | Média |
-| P03 | [Descrição] | T3 | Ocasional | Baixa | [Impacto] | [Causa ligada a UI/UX] | Baixa |
+| P01 | Hesitação momentânea na escolha entre "Particular" e "Convênio" | T3 | 1 ocorrência | Cosmético | Mínimo — resolvido de forma autônoma pela leitura do aviso contextual | Opção de alto impacto no fluxo sem indicação visual de qual é a mais comum | Baixa |
+
+> **Observação:** nenhum problema de severidade "Pequeno", "Grande" ou "Catastrófico" foi identificado nesta sessão de avaliação. O único ponto de hesitação registrado é de nível cosmético e foi contornado pelo próprio design do sistema.
 
 ### Critérios de Severidade
 
-Os problemas serão classificados de acordo com a escala de severidade <span class="hover-image">(BARBOSA; SILVA, 2021, p. 284).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../assets/escala-severidade.png"> </span>:
+Os problemas foram classificados de acordo com a escala de severidade (BARBOSA; SILVA, 2021, p. 284):
 
 | Nível | Descrição |
 |---------|------------|
@@ -181,34 +209,34 @@ Os problemas serão classificados de acordo com a escala de severidade <span cla
 
 ## 3.7. Planejamento para o Reprojeto Final
 
-Nesta seção deverão ser apresentadas propostas de melhoria (ajustes de UI, tipografia, cores, interatividade ou fluxos) com base nos problemas identificados durante a avaliação, visando a consolidação final do projeto antes de um eventual desenvolvimento <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../assets/reprojeto-p279.png"> </span>.
+Considerando que a avaliação resultou em altíssima satisfação da participante, com todas as tarefas concluídas de forma autônoma e sem erros, as propostas de melhoria são refinamentos de baixa prioridade, voltados a eliminar o único ponto de hesitação identificado.
 
 ### Recomendações de Melhoria
 
 | Problema Relacionado | Proposta de Melhoria | Justificativa |
 |---------------------|---------------------|--------------|
-| [ID do problema] | [Descrição da melhoria visual/interativa] | [Justificativa técnica] |
-| [ID do problema] | [Descrição da melhoria visual/interativa] | [Justificativa técnica] |
+| P01 | Adicionar uma dica visual (tooltip ou texto auxiliar) ao lado das opções "Particular" e "Convênio" explicando brevemente a diferença entre as duas modalidades | Reduz a carga cognitiva do usuário em um ponto de decisão com impacto no restante do formulário, eliminando completamente o único ponto de hesitação observado |
+| P01 | Considerar pré-selecionar a opção "Convênio" como padrão, por ser a modalidade mais comum entre os usuários do Sabin | A pré-seleção da opção mais frequente reduz o esforço do usuário e acelera o preenchimento |
 
 ### Priorização das Alterações
 
 | Prioridade | Alteração Proposta | Problema Relacionado |
 |------------|-------------------|---------------------|
-| Alta | [Alteração] | [ID do problema] |
-| Média | [Alteração] | [ID do problema] |
-| Baixa | [Alteração] | [ID do problema] |
+| Baixa | Adicionar tooltip ou texto auxiliar nas opções "Particular" e "Convênio" | P01 |
+| Baixa | Avaliar pré-seleção de "Convênio" como padrão | P01 |
+
+> **Conclusão geral:** o protótipo de alta fidelidade da tarefa de Pré-Cadastro de Exames demonstrou excelente qualidade de usabilidade. Os resultados desta avaliação indicam que o design está alinhado com as necessidades e o modelo mental do perfil de usuário-alvo, sendo considerado apto para o desenvolvimento de uma versão funcional, com as pequenas melhorias cosméticas apontadas acima.
 
 ---
 
 ## Agradecimentos à IA
 
-Gostaríamos de registrar nossos agradecimentos ao modelo de Inteligência Artificial Generativa Gemini, desenvolvido pelo Google, pelo auxílio na estruturação, revisão gramatical e padronização da formatação em Markdown dos artefatos deste projeto. A ferramenta foi utilizada estritamente como suporte técnico e operacional para refinar a apresentação da documentação. Ressaltamos que todo o planejamento, execução das metodologias, análise crítica de dados e tomadas de decisão descritas neste documento são de autoria e responsabilidade exclusiva dos membros da equipe.
-
+Gostaríamos de registrar nossos agradecimentos ao modelo de Inteligência Artificial Generativa Gemini, pelo auxílio na estruturação e pesquisa do projeto.
 ---
 
 ## Referência Bibliográfica
 
-> BARBOSA, S. D. J. et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021.
+> BARBOSA, S. D. J. et al. *Interação Humano-Computador e Experiência do Usuário.* 1. ed. Rio de Janeiro: Autopublicação, 2021.
 
 ---
 
@@ -216,4 +244,4 @@ Gostaríamos de registrar nossos agradecimentos ao modelo de Inteligência Artif
 
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
-| 1.0 | - | - | - | - | - | - |
+| 1.0 | 16/06/2026 | Criação do relato dos resultados da avaliação do protótipo de alta fidelidade | Maria Laura | — | — | — |
