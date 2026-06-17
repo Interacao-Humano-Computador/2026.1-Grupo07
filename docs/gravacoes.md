@@ -15,6 +15,7 @@ Este documento centraliza os links para as gravações das apresentações de ca
 | **Entrega 4** | Planejamento da Avaliação  do Storyboard, o Planejamento do relato dos resultados da avaliação do Storyboard, Planejamento da Avaliação  do Análise de tarefas e o planejamento do relato dos resultados da avaliação do Análise de tarefas. | 19/05/2026 | [Vídeo](https://www.youtube.com/watch?v=D_tcsPvoBX0) |
 | **Entrega 5** | Relato dos Resultados da Análise de Tarefas e Storyboard, Planejamento da Avaliação do Protótipo de Papel e Planejamento do Relato dos Resultados. | 31/05/2026 | [Vídeo](https://youtu.be/ypBOI3RQ0YU?si=Td77gffUbceSbuj-) |
 | **Entrega 6** | Relato dos Resultados da Avaliação do Protótipo de Papel e Planejamento da Avaliação e do Relato dos Resultados do Protótipo de Alta Fidelidade | 07/06/2026 | [Vídeo](https://youtu.be/2YHk_HBnI6s) |
+|**Entrega 07** | 16/6/2026 | [Vídeo](https://youtu.be/kCXM9uShYUM) |
 
 
 ---
@@ -27,3 +28,4 @@ Este documento centraliza os links para as gravações das apresentações de ca
 | 1.1 | 19/05/2026 | Adição da gravação da entrega 4 | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 17/05/2026 | Checagem dos dados entrega 4 | [Philipe Amancio](https://github.com/Phill-Chill) |
 | 1.2 | 31/05/2026 | Adição da gravação da entrega 5 | [Ingrid Alves](https://github.com/alvesingrid) | 31/05/2026 | Verificação dos dados da entrega 5 | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 | 1.3 | 07/06/2026 | Adição da gravação da entrega 6 | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 07/06/2026 | Verificação dos dados da entrega 6 | [Philipe Amâncio](https://github.com/Phill-Chill) |
+| 1.3 | 07/06/2026 | Adição da gravação da entrega 7 | [Philipe Amâncio](https://github.com/Phill-Chill) | 07/06/2026 | Verificação dos dados da entrega 7 | [Hugo Freitas Silva](https://github.com/HugoFreitass)  |
