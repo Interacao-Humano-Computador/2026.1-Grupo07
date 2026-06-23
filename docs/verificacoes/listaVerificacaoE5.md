@@ -31,6 +31,7 @@ Este documento contém itens de verificação sobre a entrega 05.
 | 9 | Vídeo de apresentação na categoria "não listado" no youtube? | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
 | 10 | Tabela de contribuição no início do artefato com o nome de todos os integrantes com a contribuição de cada integrante com hiperligação atividade e da gravação, se houver. | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
 | 11 |  A seção de agradecimentos apresentando o uso de Inteligência Artificial (IA) Generativa no artefato. | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
+
 > Fonte: autoria própria
 
 ### Itens do relato dos resultados da avaliação do cenário
@@ -46,6 +47,7 @@ Este documento contém itens de verificação sobre a entrega 05.
 | 5 | Foi feita a avaliação de todos os artefatos desenvolvidos (cenários, análise de tarefa e storyboard)? | Maria Laura | <span class="hover-image">Barbosa *et al.* (2021)<sup class="Print">[LINK]</sup><img class="img" src="../../../../assets/print-barbosa.png"></span> | Aplicável |
 | 6 | Todos os relatos seguem o modelo criado pelo grupo na entrega 5? | Maria Laura | <span class="hover-image">Barbosa *et al.* (2021)<sup class="Print">[LINK]</sup><img class="img" src="../../../../assets/print-barbosa.png"></span> | Aplicável |
 | 7 | A gravação da avaliação consta no Git Pages? | Maria Laura | <span class="hover-image">Barbosa *et al.* (2021)<sup class="Print">[LINK]</sup><img class="img" src="../../../../assets/print-barbosa.png"></span> | Aplicável |
+
 > Fonte: autoria própria
 
 ### Itens do protótipo de papel
@@ -72,6 +74,7 @@ Este documento contém itens de verificação sobre a entrega 05.
 | 4 | O planejamento da avaliação do protótipo de papel segue o framework DECIDE? | Nathan | <span class="hover-image">Barbosa *et al.* (2021)<sup class="Print">[LINK]</sup><img class="img" src="../../../../assets/print-barbosa.png"></span> | Aplicável |
 | 5 | O planejamento possui definição e data de realização do teste piloto? | Nathan | <span class="hover-image">Barbosa *et al.* (2021)<sup class="Print">[LINK]</sup><img class="img" src="../../../../assets/print-barbosa.png"></span> | Aplicável |
 
+> Fonte: autoria própria
 
 ### Itens do planejamento do relato dos resultados protótipo de papel
 
@@ -81,6 +84,7 @@ Este documento contém itens de verificação sobre a entrega 05.
 |----|----------|---------------|---------------|---------------------------------------|
 | 1 | Todos os papéis necessários para a realização da análise estão definidos e designados? | Philipe Amâncio | <span class="hover-image">Barbosa *et al.* (2021)<sup class="Print">[LINK]</sup><img class="img" src="../../../../assets/print-barbosa.png"></span> | Aplicável |
 | 2 | O planejamento do relato dos resultados do protótipo de papel possui um roteiro bem definido e padronizado para a entrevista? | Nathan | <span class="hover-image">Barbosa *et al.* (2021)<sup class="Print">[LINK]</sup><img class="img" src="../../../../assets/print-barbosa.png"></span> | Aplicável |
+
 > Fonte: autoria própria
 
 ## Totalização

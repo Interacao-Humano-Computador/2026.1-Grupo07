@@ -29,6 +29,7 @@ Este documento contém todas as listas de verificação em conjunto
 | 9 | Vídeo de apresentação na categoria "não listado" no youtube? | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
 | 10 | Tabela de contribuição no início do artefato com o nome de todos os integrantes com a contribuição de cada integrante com hiperligação atividade e da gravação, se houver. | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
 | 11 |  A seção de agradecimentos apresentando o uso de Inteligência Artificial (IA) Generativa no artefato. | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
+
 > Fonte: autoria própria
 
 ### Itens do planejamento da avaliação da analise de tarefas
@@ -50,6 +51,7 @@ Este documento contém todas as listas de verificação em conjunto
 | 11 | Nos planejamentos, foram definidas as perguntas exploratórias com base no framework DECIDE? | Philipe Amâncio | <span class="hover-image"> (BARBOSA et al., 2021, p. 280) <sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/DECIDE-completo.png" alt="Print"> </span>  | Aplicável |
 | 12 |  Os planejamentos da avaliação de análise de tarefas possuem um roteiro bem definido e padronizado de entrevista? | Nathan Pontes Romão | <span class="hover-image"> (BARBOSA et al., 2021, p. 273) <sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/verificacao-8.PNG" alt="Print"> </span>  | Aplicável |
 | 13 | O planejamento da avaliação apresenta um modelo de Termo de Consentimento Livre e Esclarecido (TCLE) que garanta formalmente ao participante o anonimato, o sigilo dos dados, o direito de desistência a qualquer momento e a permissão para gravação de voz/imagem? | Ingrid Alves | <span class="hover-image"> (BARBOSA et al., 2021, p. 141) <sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/Aspectos éticos-4.PNG" alt="Print"> </span>  | Aplicável |
+
 > Fonte: autoria própria
 
 ### Itens do planejamento do relato dos resultados da análise de tarefa
@@ -60,6 +62,7 @@ Este documento contém todas as listas de verificação em conjunto
 |----|----------|---------------|---------------|---------------------------------------|
 | 1 |  A estrutura do relatório do resultado da avaliação (os objetivos da avaliação; uma breve descrição do método de prototipação em papel; o número e o perfil de avaliadores e dos participantes; as tarefas executadas pelos participantes; lista de problemas encontrados etc.)|  André Barros de Sales (Professor) | Plano de ensino| Aplicável |
 | 2 |  No planejamento do relato dos resultados, a identificação de problema planeja identificar para cada problema: local onde ocorreu; descrição e justificativa; discussão, indicando os fatores de usabilidade prejudicados; sugestões de solução. | Maria Laura Regis  | <span class="hover-image">Barbosa *et al.* (2021)<sup class="Print">[LINK]</sup><img class="img" src="../../../../assets/print-barbosa.png"></span> | Aplicável |
+
 > Fonte: autoria própria
 
 ### Itens do storyboard
@@ -70,6 +73,7 @@ Este documento contém todas as listas de verificação em conjunto
 | 1 |  Cada desenho do StoryBoard está relacionado a uma especificação do artefato da Análise de Tarefas? | André Barros de Sales (Professor) | Plano de ensino| Aplicável |
 | 2 | Quantidade de storyboards é igual à quantidade de integrantes do grupo? |  André Barros de Sales (Professor) | Plano de ensino| Aplicável |
 | 3 | O Storyboard apresenta de forma clara o Cenário, ilustrando visualmente as pessoas envolvidas, o ambiente físico onde a ação ocorre e a tarefa que está sendo realizada? |  Philipe Amâncio | <span class="hover-image">Barbosa *et al.* (2021)<sup class="Print">[LINK]</sup><img class="img" src="../../../../assets/print-barbosa.png"></span> | Aplicável |
+
 > Fonte: autoria própria
 
 ### Itens do relato dos resultados da avaliação do cenário
@@ -85,6 +89,7 @@ Este documento contém todas as listas de verificação em conjunto
 | 5 | Foi feita a avaliação de todos os artefatos desenvolvidos (cenários, análise de tarefa e storyboard)? | Maria Laura | <span class="hover-image">Barbosa *et al.* (2021)<sup class="Print">[LINK]</sup><img class="img" src="../../../../assets/print-barbosa.png"></span> | Aplicável |
 | 6 | Todos os relatos seguem o modelo criado pelo grupo na entrega 5? | Maria Laura | <span class="hover-image">Barbosa *et al.* (2021)<sup class="Print">[LINK]</sup><img class="img" src="../../../../assets/print-barbosa.png"></span> | Aplicável |
 | 7 | A gravação da avaliação consta no Git Pages? | Maria Laura | <span class="hover-image">Barbosa *et al.* (2021)<sup class="Print">[LINK]</sup><img class="img" src="../../../../assets/print-barbosa.png"></span> | Aplicável |
+
 > Fonte: autoria própria
 
 ### Itens do protótipo de papel
@@ -111,6 +116,8 @@ Este documento contém todas as listas de verificação em conjunto
 | 4 | O planejamento da avaliação do protótipo de papel segue o framework DECIDE? | Nathan | <span class="hover-image">Barbosa *et al.* (2021)<sup class="Print">[LINK]</sup><img class="img" src="../../../../assets/print-barbosa.png"></span> | Aplicável |
 | 5 | O planejamento possui definição e data de realização do teste piloto? | Nathan | <span class="hover-image">Barbosa *et al.* (2021)<sup class="Print">[LINK]</sup><img class="img" src="../../../../assets/print-barbosa.png"></span> | Aplicável |
 
+> Fonte: autoria própria
+
 ### Itens do planejamento do relato dos resultados protótipo de papel
 
 <center>Tabela 8 - Itens do planejamento do relato dos resultados do protótipo de papel</center>
@@ -119,6 +126,7 @@ Este documento contém todas as listas de verificação em conjunto
 |----|----------|---------------|---------------|---------------------------------------|
 | 1 | Todos os papéis necessários para a realização da análise estão definidos e designados? | Philipe Amâncio | <span class="hover-image">Barbosa *et al.* (2021)<sup class="Print">[LINK]</sup><img class="img" src="../../../../assets/print-barbosa.png"></span> | Aplicável |
 | 2 | O planejamento do relato dos resultados do protótipo de papel possui um roteiro bem definido e padronizado para a entrevista? | Nathan | <span class="hover-image">Barbosa *et al.* (2021)<sup class="Print">[LINK]</sup><img class="img" src="../../../../assets/print-barbosa.png"></span> | Aplicável |
+
 > Fonte: autoria própria
 
 ## Totalização
