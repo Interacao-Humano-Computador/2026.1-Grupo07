@@ -19,7 +19,19 @@ O **Protótipo de Papel** é uma técnica de prototipação de baixa fidelidade 
 
 Para o Portal Sabin, os protótipos de papel foram elaborados com base nas tarefas definidas na [Análise de Tarefas](../../../requisitos/analisedetarefa.md) e nos cenários construídos para as [Personas](../../../requisitos/persona.md) do projeto. O objetivo é representar as principais funcionalidades do sistema e apoiar a avaliação com usuários reais antes da elaboração do protótipo de alta fidelidade.
 
----
+### Posicionamento no Ciclo de Vida de Mayhew
+
+No **Ciclo de Vida de Mayhew** <span class="hover-image">(BARBOSA; SILVA, 2021, p. 110)<sup class="Print">[PRINT]</sup></span>, o desenvolvimento de sistemas interativos é organizado em três grandes fases: **Análise de Requisitos**, **Design, Avaliação e Desenvolvimento**, e **Instalação**. O Protótipo de Papel integra o **Nível 2** da fase de **Design, Avaliação e Desenvolvimento**, conforme apresentado abaixo:
+
+| Fase Mayhew | Nível | Artefato desta seção |
+|------------|-------|----------------------|
+| Design, Avaliação e Desenvolvimento | Nível 1 | Storyboards, Análise de Tarefas, Cenários |
+| Design, Avaliação e Desenvolvimento | **Nível 2** — Padrões de tela e prototipação de baixa fidelidade | Protótipo de Papel |
+| Design, Avaliação e Desenvolvimento | Nível 3 | Protótipo de Alta Fidelidade |
+
+Neste nível, o protótipo de papel serve como ponte entre as conclusões da avaliação do modelo conceitual (Nível 1) e a construção do protótipo interativo de alta fidelidade (Nível 3). Os problemas de usabilidade identificados durante as sessões de avaliação com usuários reais orientam diretamente as melhorias de design aplicadas nos protótipos de alta fidelidade.
+
+
 
 ## 2. Por que usar o Protótipo de Papel?
 
@@ -290,4 +302,5 @@ Gostaríamos de registrar nossos agradecimentos ao modelo de Inteligência Artif
 | 2.0 | 02/06/2026 | Adição do hiperlink dos protótipos de papel de todas as tarefas | [Ingrid Alves](https://github.com/alvesingrid) | 02/06/2026 | Verificação dos links | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 | 2.1 | 16/06/2026 | Enumeração das imagens do artefato| [Nathan Pontes Romão](https://github.com/nathanpromao) | 16/06/2026 | Conferindo numeração  | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 | 2.1 | 16/06/2026 | Ajuste na descrição da tarefa de agendamento de exame | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 16/06/2026 | Verificação do novo fluxo | [Philipe Amancio](https://github.com/Phill-Chill)|
+| 2.2 | 23/06/2026 | Adição do posicionamento no Ciclo de Vida de Mayhew na seção de Introdução | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - |
 

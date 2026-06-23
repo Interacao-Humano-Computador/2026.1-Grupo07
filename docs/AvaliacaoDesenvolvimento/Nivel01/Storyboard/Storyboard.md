@@ -18,7 +18,19 @@ Um **storyboard** é uma representação visual que ilustra uma narrativa, um pr
 
 Para a avaliação e o reprojeto do Portal Sabin, os storyboards foram fundamentais para modelar como os usuários interagem com as funcionalidades existentes, permitindo validar percepções e fluxos antes da transição para protótipos de alta fidelidade.
 
----
+### Posicionamento no Ciclo de Vida de Mayhew
+
+No **Ciclo de Vida de Mayhew** <span class="hover-image">(BARBOSA; SILVA, 2021, p. 110)<sup class="Print">[PRINT]</sup></span>, o desenvolvimento de sistemas interativos é organizado em três grandes fases: **Análise de Requisitos**, **Design, Avaliação e Desenvolvimento**, e **Instalação**. Os Storyboards e a Avaliação de Análise de Tarefas integram o **Nível 1** da fase de **Design, Avaliação e Desenvolvimento**, conforme ilustrado abaixo:
+
+| Fase Mayhew | Nível | Artefato desta seção |
+|------------|-------|----------------------|
+| Design, Avaliação e Desenvolvimento | **Nível 1** — Modelo conceitual e avaliação de alternativas de design | Storyboards, Análise de Tarefas, Cenários |
+| Design, Avaliação e Desenvolvimento | Nível 2 | Protótipo de Papel |
+| Design, Avaliação e Desenvolvimento | Nível 3 | Protótipo de Alta Fidelidade |
+
+Neste nível, o objetivo é **validar o modelo conceitual** do sistema junto aos usuários — verificando se as narrativas, fluxos e estrutura de tarefas mapeados pela equipe correspondem ao modelo mental e às necessidades reais dos participantes. Os problemas identificados nesta etapa orientam o redesign dos fluxos antes que qualquer tela seja prototipada, reduzindo retrabalho nas etapas seguintes.
+
+
 
 ## 2. Para que serve um Storyboard?
 
@@ -106,3 +118,4 @@ Este storyboard ilustra o **Cenário 04 — Acompanhamento de resultados e downl
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
 | 1.0 | 18/05/2026 | Criação do documento | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | 18/05/2026 | Revisão da estrutura inicial e do conteúdo + adição das imagens | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 | 1.1 | 23/05/2026 | Correções conceituais, padronização ABNT das figuras e vinculação dos storyboards aos cenários e personas do projeto | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | 23/04 | | |
+| 1.2 | 23/06/2026 | Adição do posicionamento no Ciclo de Vida de Mayhew na seção de Introdução | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - |

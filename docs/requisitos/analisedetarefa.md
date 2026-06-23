@@ -4,11 +4,11 @@
 ## Tabela de contribuição
 |Artefato(s) | Autor(es)|
 | --- | --- |
-| Página de análise de tarefas | Maria LAura |
-| [Tarefa: Pré-agendamento de exames via envio de guias médicas](#pre-agendamento) | Maria Laura |
-| [Tarefa: Visualizador de imagem DICOM](#dicom) | Philipe |
-| [Tarefa: Visualização e Download de Laudo de Exame](#laudo)| -|
-| [Tarefa: Agendamento de Exame](#agendamento)| Hugo |
+| Página de análise de tarefas | [Maria Laura Regis](https://github.com/Maria-Laura-Regis)|
+| [Tarefa: Pré-agendamento de exames via envio de guias médicas](#pre-agendamento) | [Maria Laura Regis](https://github.com/Maria-Laura-Regis)|
+| [Tarefa: Visualizador de imagem DICOM](#dicom) | [Philipe Amancio](https://github.com/Phill-Chill)|
+| [Tarefa: Visualização e Download de Laudo de Exame](#laudo)| [Ingrid Alves](https://github.com/alvesingrid)|
+| [Tarefa: Agendamento de Exame](#agendamento)| [Hugo Freitas Silva](https://github.com/HugoFreitass)|
 
 
 ## Introdução
