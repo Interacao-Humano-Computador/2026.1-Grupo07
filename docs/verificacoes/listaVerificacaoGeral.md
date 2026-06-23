@@ -32,6 +32,8 @@ Este documento contém todas as listas de verificação em conjunto
 
 > Fonte: autoria própria
 
+# Lista de verificação - Entrega 04
+
 ### Itens do planejamento da avaliação da analise de tarefas
 
 <center>Tabela 2 - Itens do planejamento da avaliação da analise de tarefas</center>
@@ -75,6 +77,8 @@ Este documento contém todas as listas de verificação em conjunto
 | 3 | O Storyboard apresenta de forma clara o Cenário, ilustrando visualmente as pessoas envolvidas, o ambiente físico onde a ação ocorre e a tarefa que está sendo realizada? |  Philipe Amâncio | <span class="hover-image">Barbosa *et al.* (2021)<sup class="Print">[LINK]</sup><img class="img" src="../../../../assets/print-barbosa.png"></span> | Aplicável |
 
 > Fonte: autoria própria
+
+# Lista de verificação - Entrega 05
 
 ### Itens do relato dos resultados da avaliação do cenário
 
@@ -127,7 +131,7 @@ Este documento contém todas as listas de verificação em conjunto
 | 1 | Todos os papéis necessários para a realização da análise estão definidos e designados? | Philipe Amâncio | <span class="hover-image">Barbosa *et al.* (2021)<sup class="Print">[LINK]</sup><img class="img" src="../../../../assets/print-barbosa.png"></span> | Aplicável |
 | 2 | O planejamento do relato dos resultados do protótipo de papel possui um roteiro bem definido e padronizado para a entrevista? | Nathan | <span class="hover-image">Barbosa *et al.* (2021)<sup class="Print">[LINK]</sup><img class="img" src="../../../../assets/print-barbosa.png"></span> | Aplicável |
 
-# Lista entrega 5
+
 
 
 # Listas de Verificação - Entrega 06
