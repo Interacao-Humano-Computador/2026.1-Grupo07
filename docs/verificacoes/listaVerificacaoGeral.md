@@ -1,4 +1,4 @@
-# Lista de Verificação da Entrega 4
+# Lista de Verificação Geral
 
 ## Introdução
 
@@ -8,7 +8,7 @@ Este documento contém todas as listas de verificação em conjunto
 
 |Artefato(s) | Autor(es)|
 | --- | --- |
-| Lista de verificação sobre a entrega 05 | [Hugo Freitas Silva](https://github.com/HugoFreitass), [Ingrid Alves](https://github.com/alvesingrid), [Maria Laura Regis](https://github.com/Maria-Laura-Regis), [Nathan Pontes](https://github.com/nathanpromao) e [Philipe Amancio](https://github.com/Phill-Chill) |
+| Lista de verificação sobre todas as entregas | [Hugo Freitas Silva](https://github.com/HugoFreitass), [Ingrid Alves](https://github.com/alvesingrid), [Maria Laura Regis](https://github.com/Maria-Laura-Regis), [Nathan Pontes](https://github.com/nathanpromao) e [Philipe Amancio](https://github.com/Phill-Chill) |
 
 ## Lista de Verificação
 
