@@ -127,6 +127,147 @@ Este documento contém todas as listas de verificação em conjunto
 | 1 | Todos os papéis necessários para a realização da análise estão definidos e designados? | Philipe Amâncio | <span class="hover-image">Barbosa *et al.* (2021)<sup class="Print">[LINK]</sup><img class="img" src="../../../../assets/print-barbosa.png"></span> | Aplicável |
 | 2 | O planejamento do relato dos resultados do protótipo de papel possui um roteiro bem definido e padronizado para a entrevista? | Nathan | <span class="hover-image">Barbosa *et al.* (2021)<sup class="Print">[LINK]</sup><img class="img" src="../../../../assets/print-barbosa.png"></span> | Aplicável |
 
+# Lista entrega 5
+
+
+# Listas de Verificação - Entrega 06
+
+---
+
+## 1. Relato dos Resultados do Protótipo de Papel
+
+| Nº | Pergunta | Autor do item | Fonte do Item | Imagem | Aplicável ao grupo a ser inspecionado |
+| -- | -------- | ------------- | -------------- | ------ | -------------------------------------- |
+| 12 | O relato apresenta claramente os objetivos da avaliação do protótipo de papel? | Nathan | Barbosa *et al.* (2021, p.316) | [LINK](../../assets/InspeçãoE6-Nathan-1.PNG) | Aplicável |
+| 13 | O relato descreve o perfil dos participantes e o contexto de realização da avaliação? | Nathan | Barbosa *et al.* (2021, p.317) | [LINK](../../assets/InspeçãoE6-Nathan-2.PNG) | Aplicável |
+| 14 | O relato documenta claramente os problemas de usabilidade encontrados durante a avaliação do protótipo de papel? | Nathan | Barbosa *et al.* (2021, p.317) | [LINK](../../assets/InspeçãoE6-Nathan-3.PNG) | Aplicável |
+| 15 | O relato apresenta sugestões de melhorias ou recomendações de reprojeto com base nos resultados obtidos? | Nathan | Barbosa *et al.* (2021, p.317) | [LINK](../../assets/InspeçãoE6-Nathan-4.PNG) | Aplicável |
+| 16 | O relato apresenta evidências da avaliação, como imagens, registros, transcrições ou trechos relevantes das observações realizadas? | Ingrid Alves | Barbosa *et al.* (2021) | [LINK](../../assets/print-barbosa.png) | Aplicável |
+| 17 | O relato apresenta uma análise consolidada do feedback qualitativo dos participantes? | Ingrid Alves | Barbosa *et al.* (2021) | [LINK](../../assets/print-barbosa.png) | Aplicável |
+| 18 | O relato evidencia como os resultados obtidos influenciarão a construção do protótipo de alta fidelidade? | Ingrid Alves | Barbosa *et al.* (2021) | [LINK](../../assets/print-barbosa.png) | Aplicável |
+
+---
+
+## 2. Planejamento da Avaliação do Protótipo de Alta Fidelidade
+
+| Nº | Pergunta | Autor do item | Fonte do Item | Imagem | Aplicável ao grupo a ser inspecionado |
+| -- | -------- | ------------- | -------------- | ------ | -------------------------------------- |
+| 19 | O planejamento da avaliação do protótipo de alta fidelidade segue o framework DECIDE? | Hugo Freitas | Barbosa *et al.* (2021) | [LINK](../../assets/print-barbosa.png) | Aplicável |
+| 20 | O planejamento define objetivos claros e mensuráveis para a avaliação? | Hugo Freitas | Barbosa *et al.* (2021) | [LINK](../../assets/print-barbosa.png) | Aplicável |
+| 21 | O planejamento apresenta as tarefas que serão executadas pelos participantes durante a avaliação? | Hugo Freitas | Barbosa *et al.* (2021) | [LINK](../../assets/print-barbosa.png) | Aplicável |
+| 22 | O planejamento define os papéis dos avaliadores e participantes envolvidos na avaliação? | Hugo Freitas | Barbosa *et al.* (2021) | [LINK](../../assets/print-barbosa.png) | Aplicável |
+| 23 | O planejamento apresenta cronograma e estimativa de tempo das atividades de avaliação? | Maria Laura | Barbosa *et al.* (2021) | [LINK](../../assets/print-barbosa.png) | Aplicável |
+| 24 | O planejamento define os métodos e instrumentos de coleta de dados que serão utilizados? | Maria Laura | Barbosa *et al.* (2021) | [LINK](../../assets/print-barbosa.png) | Aplicável |
+
+---
+
+## 3. Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade
+
+| Nº | Pergunta | Autor do item | Fonte do Item | Imagem | Aplicável ao grupo a ser inspecionado |
+| -- | -------- | ------------- | -------------- | ------ | -------------------------------------- |
+| 25 | O planejamento define como os resultados da avaliação serão organizados e apresentados? | Philipe Amâncio | Barbosa *et al.* (2021) | [LINK](../../assets/OrgDoRelatoObs.png) | Aplicável |
+| 26 | O planejamento estabelece critérios para análise e interpretação dos dados coletados? | Philipe Amâncio | Barbosa *et al.* (2021) | [LINK](../../assets/DECIDE-E2.png) | Aplicável |
+| 27 | O planejamento define quais métricas ou indicadores serão utilizados para avaliar a experiência do usuário? | Philipe Amâncio | Barbosa *et al.* (2021) | [LINK](../../assets/criteriosMensuraveisTS.png) | Aplicável |
+
+---
+
+## 4. Sobre o Desenvolvimento do Projeto
+
+| Nº | Pergunta | Autor do item | Fonte do Item | Imagem | Aplicável ao grupo a ser inspecionado |
+| -- | -------- | ------------- | -------------- | ------ | -------------------------------------- |
+| 28 | As gravações das avaliações e dos testes piloto estão disponíveis no Git Pages? | Maria Laura | Barbosa *et al.* (2021) | [LINK](../../assets/print-barbosa.png) | Aplicável |
+
+---
+# Listas de Verificação - Entrega 07
+
+---
+
+
+## 1. Protótipo de Alta Fidelidade
+
+| Nº | Pergunta | Autor do item | Fonte do Item | Aplicável ao grupo a ser inspecionado |
+| -- | -------- | ------------- | ------------- | -------------------------------------- |
+| 12 | O protótipo contempla as funcionalidades definidas nos requisitos priorizados? | Nathan | Barbosa *et al.* (2021) | Aplicável |
+| 13 | O protótipo apresenta consistência visual entre telas, componentes e padrões de navegação? | Nathan | Barbosa *et al.* (2021) | Aplicável |
+| 14 | O protótipo incorpora as melhorias identificadas durante a avaliação do protótipo de papel? | Nathan | Barbosa *et al.* (2021) | Aplicável |
+| 15 | O protótipo permite a execução dos principais fluxos de interação previstos para os usuários? | Nathan | Barbosa *et al.* (2021) | Aplicável |
+| 16 | Os elementos de interface seguem princípios de usabilidade e acessibilidade? | Ingrid Alves | Barbosa *et al.* (2021) | Aplicável |
+| 17 | O protótipo apresenta feedback visual adequado para as ações dos usuários? | Ingrid Alves | Barbosa *et al.* (2021) | Aplicável |
+| 18 | O protótipo possui fidelidade suficiente para representar o produto final esperado? | Ingrid Alves | Barbosa *et al.* (2021) | Aplicável |
+
+---
+
+## 2. Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade
+
+| Nº | Pergunta | Autor do item | Fonte do Item | Aplicável ao grupo a ser inspecionado |
+| -- | -------- | ------------- | ------------- | -------------------------------------- |
+| 19 | O relato apresenta claramente os objetivos da avaliação realizada? | Hugo Freitas | Barbosa *et al.* (2021) | Aplicável |
+| 20 | O relato descreve os participantes, o contexto e o método utilizado na avaliação? | Hugo Freitas | Barbosa *et al.* (2021) | Aplicável |
+| 21 | O relato apresenta os resultados obtidos de forma organizada e compreensível? | Hugo Freitas | Barbosa *et al.* (2021) | Aplicável |
+| 22 | O relato documenta os problemas de usabilidade identificados durante a avaliação? | Hugo Freitas | Barbosa *et al.* (2021) | Aplicável |
+| 23 | O relato apresenta evidências da avaliação, como imagens, gravações, anotações ou transcrições? | Maria Laura | Barbosa *et al.* (2021) | Aplicável |
+| 24 | O relato apresenta uma análise consolidada dos dados qualitativos e quantitativos coletados? | Maria Laura | Barbosa *et al.* (2021) | Aplicável |
+| 25 | O relato apresenta conclusões fundamentadas a partir dos resultados obtidos? | Philipe Amancio | Barbosa *et al.* (2021) | Aplicável |
+| 26 | O relato identifica recomendações de melhorias para futuras versões do sistema? | Philipe Amancio | Barbosa *et al.* (2021) | Aplicável |
+| 27 | O relato demonstra se os objetivos definidos no planejamento da avaliação foram alcançados? | Philipe Amancio | Barbosa *et al.* (2021) | Aplicável |
+
+---
+
+## 3. Sobre o Desenvolvimento do Projeto
+
+| Nº | Pergunta | Autor do item | Fonte do Item | Aplicável ao grupo a ser inspecionado |
+| -- | -------- | ------------- | ------------- | -------------------------------------- |
+| 28 | As gravações das avaliações e dos testes realizados estão disponíveis no Git Pages? | Maria Laura | Barbosa *et al.* (2021) | Aplicável |
+
+---
+# Listas de Verificação - Entrega 08
+
+---
+
+## 1. Referência e Autor do Item
+
+| Nº | Pergunta | Autor do item | Aplicável ao grupo a ser inspecionado |
+| -- | -------- | ------------- | -------------------------------------- |
+| 1 | Todos os itens das listas de verificação anteriores possuem o autor do item identificado? | Maria Laura Regis | Aplicável |
+| 2 | Todos os itens das listas de verificação anteriores possuem a fonte/referência bibliográfica identificada? | Maria Laura Regis | Aplicável |
+| 3 | As referências citadas nos itens (ex.: Barbosa *et al.*, 2021) seguem um padrão de citação consistente entre todas as listas? | Maria Laura Regis | Aplicável |
+| 4 | Existe correspondência entre o autor do item e o integrante responsável pela respectiva categoria da lista? | Maria Laura Regis | Aplicável |
+| 5 | As referências bibliográficas completas constam na seção de referências do artefato, e não apenas citadas nos itens? | Maria Laura Regis | Aplicável |
+
+---
+
+## 2. Foto / Evidência Visual
+
+| Nº | Pergunta | Autor do item | Aplicável ao grupo a ser inspecionado |
+| -- | -------- | ------------- | -------------------------------------- |
+| 6 | Os itens que indicam possuir foto/print de evidência apresentam o link ou imagem corretamente acessível? | Maria Laura Regis | Aplicável |
+| 7 | As imagens/prints referenciados correspondem de fato ao conteúdo descrito na pergunta do item? | Maria Laura Regis | Aplicável |
+| 8 | Itens de categorias semelhantes (ex.: avaliação, relato, planejamento) mantêm o mesmo padrão quanto à presença ou ausência de foto? | Maria Laura Regis | Aplicável |
+| 9 | Quando não há foto disponível para um item, isso está claramente indicado em vez de omitido? | Maria Laura Regis | Aplicável |
+
+---
+
+## 3. Quantidade de Itens
+
+| Nº | Pergunta | Autor do item | Aplicável ao grupo a ser inspecionado |
+| -- | -------- | ------------- | -------------------------------------- |
+| 10 | A quantidade total de itens de cada lista de verificação anterior está corretamente contabilizada e numerada sem lacunas? | Maria Laura Regis | Aplicável |
+| 11 | A quantidade de itens é proporcional à abrangência da categoria avaliada (nem insuficiente, nem redundante)? | Maria Laura Regis | Aplicável |
+| 12 | A numeração dos itens é sequencial e única dentro de cada lista de verificação? | Maria Laura Regis | Aplicável |
+| 13 | Cada categoria/sub-lista possui pelo menos um item de verificação associado a ela? | Maria Laura Regis | Aplicável |
+
+---
+
+## 4. Inspeção
+
+| Nº | Pergunta | Autor do item | Aplicável ao grupo a ser inspecionado |
+| -- | -------- | ------------- | -------------------------------------- |
+| 14 | Cada item das listas anteriores foi efetivamente inspecionado, com o resultado da inspeção registrado (ex.: "Aplicável", "Não aplicável", "Não atendido")? | Maria Laura Regis | Aplicável |
+| 15 | O grupo responsável pela inspeção está identificado para cada lista de verificação avaliada? | Maria Laura Regis | Aplicável |
+| 16 | Existem evidências (gravação, ata ou registro) do processo de inspeção realizado sobre as listas anteriores? | Maria Laura Regis | Aplicável |
+| 17 | Os resultados da inspeção apontam não conformidades de forma clara, permitindo ação corretiva pelo grupo inspecionado? | Maria Laura Regis | Aplicável |
+| 18 | Houve verificação cruzada entre os autores dos itens e os avaliadores responsáveis pela inspeção, evitando autoavaliação? | Maria Laura Regis | Aplicável |
+
 > Fonte: autoria própria
 
 ## Totalização
@@ -140,4 +281,5 @@ Este documento contém todas as listas de verificação em conjunto
 ## Histórico de Versão
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
-| 1.0 | 23/06/2026 | Criação do documento | [Nathan Pontes Romão](https://github.com/nathanpromao) | - |  |  |
+| 1.0 | 23/06/2026 | Criação do documento | [Nathan Pontes Romão](https://github.com/nathanpromao) | 23/06/2026 | Revisão da estrutura inicial e lista 5 faltante | Maria Laura |
+| 1.1 | 23/06/2026 | Adição de novas listas e Revisão | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | - |  |  |
