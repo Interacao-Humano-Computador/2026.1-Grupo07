@@ -5,6 +5,7 @@
 | Artefato(s) | Autor(es) |
 | --- | --- |
 | Relato dos Resultados — Acompanhamento de Resultados e Download de Laudos | [Ingrid Alves](https://github.com/alvesingrid) |
+| [Protótipo de Alta Fidelidade — Acompanhamento de Resultados e Download de Laudos](../../../Nivel03/PrototiposAltaFidelidade.md#44-tarefa-4-acompanhamento-de-resultados-e-download-de-laudos) | [Ingrid Alves](https://github.com/alvesingrid) |
 
 ---
 
@@ -188,4 +189,5 @@ Com base nos problemas identificados, as seguintes melhorias são recomendadas p
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
 | 1.0 | 03/06/2026 | Criação do documento | [Ingrid Alves](https://github.com/alvesingrid) | 03/06/2026 | Revisão da estrutura | [Hugo Freitas Silva](https://github.com/HugoFreitass)|
 | 1.1 | 03/06/2026 | Estruturação completa do relato e adição da gravação da avaliação | [Ingrid Alves](https://github.com/alvesingrid) | 07/06/2026 | Revisão dos dados relatados | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
-| 1.2 | 16/06/2026 | Ajustes de caminhos quebrados| [Nathan Pontes Romão](https://github.com/nathanpromao) | - |  |  |
+| 1.2 | 16/06/2026 | Ajustes de caminhos quebrados | [Nathan Pontes Romão](https://github.com/nathanpromao) | - | - | - |
+| 1.3 | 22/06/2026 | Adição do link para o Protótipo de Alta Fidelidade na tabela de contribuição | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - |

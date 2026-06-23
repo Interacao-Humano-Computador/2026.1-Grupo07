@@ -46,3 +46,4 @@ A tabela abaixo apresenta os relatos individuais de cada avaliador, organizados 
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
 | 1.0 | 03/06/2026 | Criação do documento | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - |
 | 1.1 | 03/06/2026 | Adição dos links e estrutura dos relatos individuais | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - |
+| 1.2 | 22/06/2026 | Atualização dos nomes dos artefatos na tabela de contribuição e nos links da seção de relatos | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - |

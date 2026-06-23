@@ -29,7 +29,8 @@ A tabela abaixo apresenta os relatos individuais de cada avaliador, organizados 
 | --- | --- | --- |
 | Tarefa: Agendamento de Exame Laboratorial | [Hugo Freitas Silva](https://github.com/HugoFreitass) | [Acessar relato](./RelatoHugoProtAlt.md) |
 | Tarefa: Acesso ao Resultado de Imagem com Visualizador DICOM | [Philipe Amancio](https://github.com/Phill-Chill) | [Acessar relato](./RelatoPhilipeProtAlt.md) |
-| Tarefa: Pré-Cadastro de Exames | [Maria Laura](https://github.com/Maria-Laura-Regis) |
+| Tarefa: Pré-Cadastro de Exames | [Maria Laura](https://github.com/Maria-Laura-Regis) | [Acessar relato](./RelatoMariaProtAlt.md) |
+| Tarefa: Acompanhamento de Resultados e Download de Laudos | [Ingrid Alves](https://github.com/alvesingrid) | [Acessar relato](./RelatoIngridProtAlt.md) |
 
 
 ---
@@ -39,3 +40,4 @@ A tabela abaixo apresenta os relatos individuais de cada avaliador, organizados 
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
 | 1.0 | 16/06/2026 | Criação do documento | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 16/06/2026 | Revisão do conteúdo | [Philipe Amancio](https://github.com/Phill-Chill) |
+| 1.1 | 22/06/2026 | Adição do relato da tarefa de Acompanhamento de Resultados e Download de Laudos à tabela de relatos | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - |

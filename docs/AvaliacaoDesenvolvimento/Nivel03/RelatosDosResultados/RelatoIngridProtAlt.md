@@ -1,175 +1,171 @@
-# Planejamento do Relato dos Resultados — Protótipo de Alta Fidelidade
+# Relato dos Resultados — Protótipo de Alta Fidelidade: Acompanhamento de Resultados e Download de Laudos
 
 ## Tabela de Contribuição
 
 | Artefato(s) | Autor(es) |
 | --- | --- |
-| Relato dos resultados da avaliação do protótipo de alta fidelidade da tarefa de [SUA TAREFA AQUI] | [SEU NOME + GITHUB AQUI] |
+| Relato dos resultados da avaliação do protótipo de alta fidelidade — Acompanhamento de Resultados e Download de Laudos | [Ingrid Alves](https://github.com/alvesingrid) |
 
 ---
 
-## 1. Introdução
+## 1. Objetivos e Escopo da Avaliação
 
-Este documento tem como objetivo definir o planejamento e a estrutura padronizada para o relato dos resultados da avaliação do Protótipo de Alta Fidelidade do Portal Sabin. O intuito é garantir que, após a coleta empírica de dados por meio do Teste de Usabilidade com Protótipo Interativo, todos os avaliadores da equipe sigam a mesma metodologia de consolidação e interpretação dos dados obtidos nas sessões <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../assets/topicos-relato-p279.png"> </span>.
+Este documento apresenta os resultados da avaliação do **Protótipo de Alta Fidelidade** referente à tarefa de **Acompanhamento de Resultados e Download de Laudos** no Portal Sabin. A avaliação foi conduzida pela avaliadora **Ingrid Alves** com o objetivo de validar as melhorias de design propostas a partir da avaliação do [Protótipo de Papel](../../Nivel02/PrototipoDePapel/RelatosDosResultados/RelatoIngrid.md) e identificar novos problemas de usabilidade na versão interativa da interface.
 
-Este artefato corresponde à etapa **"E": Avaliar (Evaluate), interpretar e apresentar os dados** do framework DECIDE <span class="hover-image">(BARBOSA; SILVA, 2021, p. 280)<sup class="Print">[PRINT]</sup><img class= "img" src="../../../assets/DECIDE-E2.png"> </span>, definindo como os dados serão avaliados, interpretados e apresentados.
+**Tarefas avaliadas e telas do protótipo utilizadas:**
 
----
+- Login com token SMS;
+- Visualização da notificação de exame liberado na página inicial;
+- Navegação até a seção "Meus Resultados";
+- Localização e filtragem de exames na listagem;
+- Visualização detalhada do laudo da Curva Glicêmica com o rastreador de status;
+- Download em PDF consolidado (melhoria central do redesign).
 
-## 2. Metodologia de Consolidação dos Dados
+**Fluxos de navegação analisados:** Login → Home (notificação) → Meus Resultados → Detalhe do Exame → Download PDF Consolidado → Confirmação.
 
-Após a conclusão da sessão de teste, os resultados serão consolidados por meio de uma **análise intrasujeito** <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../assets/analise-intrasujeito.png"> </span>. Como o teste é focado em um único participante por avaliador, a equipe deverá:
+**Melhorias incorporadas a partir do Protótipo de Papel:**
 
-* Buscar **recorrências** no comportamento do usuário: observar como o participante age, evolui e reage ao longo da execução das diferentes tarefas propostas na interface digital.
-* Identificar padrões individuais: mapear erros consistentes de clique, pontos de hesitação repetidos e a curva de aprendizado do próprio participante durante a interação com o protótipo.
-* Relacionar os resultados e as atitudes observadas com os objetivos definidos no [Planejamento da Avaliação](PlanejamentoAvaliacao.md).
-* Evitar generalizações indevidas: reconhecer que os dados refletem as particularidades e o modelo mental de um único indivíduo, servindo como indícios fortes de problemas reais de usabilidade e interface, mas não como métricas estatísticas de uma população.
-* **Atenção:** o resultado do Teste Piloto não será incluído no relato oficial da avaliação.
-
----
-
-## 3. Tópicos do Relato de Resultados
-
-Para garantir a padronização, todos os documentos de Relato de Resultados produzidos pela equipe deverão conter obrigatoriamente a seguinte estrutura:
-
-## 3.1. Objetivos e Escopo da Avaliação
-
-O relato deverá apresentar os objetivos da avaliação e descrever quais tarefas e telas iterativas do protótipo de alta fidelidade foram avaliadas. Deverá também justificar se os objetivos foram atingidos ou indicar por que alguma questão não pôde ser respondida.
-
-**Escopo mínimo a descrever:**
-
-- As tarefas avaliadas e as interfaces/telas digitais utilizadas;
-- Os fluxos de navegação interativos analisados;
-- Os problemas previamente identificados na avaliação do Protótipo de Papel que motivaram as melhorias de design aplicadas nesta versão de alta fidelidade.
+- Adição de **notificação proativa** de exame liberado na tela inicial, eliminando a necessidade de rolagem para encontrar o resultado;
+- Substituição dos múltiplos PDFs individuais por um único **PDF consolidado** com todas as coletas da Curva Glicêmica;
+- Adição de opção de **compartilhamento direto** por WhatsApp e e-mail sem dependência do sistema operacional;
+- Implementação de **rastreador visual de status** (Coletado → Em análise → Liberado).
 
 ---
 
-## 3.2. Método de Avaliação Empregado
+## 2. Método de Avaliação Empregado
 
-O documento deverá registrar como o Teste de Usabilidade com Protótipo de Alta Fidelidade foi conduzido, especificando:
+A avaliação foi conduzida por meio de **Teste de Usabilidade com Protótipo de Alta Fidelidade**, seguindo o método definido no [Planejamento da Avaliação](../PlanejamentoAvaliacao.md). Durante a sessão:
 
-- O dispositivo e ambiente utilizados para a simulação (ex: computador desktop presencial acessando o link do Figma);
-- Como o participante interagiu com o protótipo digital;
-- As estratégias de coleta de dados utilizadas:
-  - Observação direta das ações do participante e interações com a UI (Interface de Usuário);
-  - Captura de tela e gravação da interação digital (screen recording);
-  - Protocolo *Think Aloud* (verbalização dos pensamentos, se aplicado);
-  - Registro audiovisual do rosto/comportamento da sessão (mediante consentimento);
-  - Anotações do avaliador/anotador sobre cliques errados ou hesitações em componentes.
+- O participante interagiu diretamente com o protótipo HTML interativo hospedado no portal da disciplina;
+- O teste foi conduzido com o protocolo *Think Aloud* (verbalização dos pensamentos);
+- **Estratégias de coleta de dados:**
+  - Observação direta das ações e interações do participante com a interface;
+  - Gravação audiovisual da sessão (mediante consentimento);
+  - Anotações da avaliadora sobre cliques, hesitações e comentários espontâneos.
+
+### Protótipo Avaliado
+
+<iframe src="../../../assets/prototipo-ingrid/index.html" width="100%" height="700px" style="border:1px solid #ccc; border-radius:8px;"></iframe>
+
+> Fonte: Autoria própria. Acesse também: [Protótipo de Alta Fidelidade — Nível 3](../PrototiposAltaFidelidade.md#44-tarefa-4-acompanhamento-de-resultados-e-download-de-laudos)
+
+### Gravação da Sessão de Avaliação
+
+> A ser adicionada após a realização das entrevistas.
 
 ---
 
-## 3.3. Perfil de Usuários e Avaliadores
+## 3. Perfil de Usuários e Avaliadores
 
 ### Participantes
 
 | Participante | Perfil |
 |------------|---------|
-| [Nome] | [Perfil de usuário correspondente](../../requisitos/perfilDeUsuario.md) |
+| A definir | [Perfil de usuário correspondente](../../../requisitos/perfilDeUsuario.md) |
 
 ### Avaliadores
 
 | Avaliador | Papel |
 |------------|---------|
-| [Nome]  | Facilitador |
-| [Nome]  | Anotador / Observador |
-| [Nome]  | Cinegrafista / Gestor de Gravação |
+| [Ingrid Alves](https://github.com/alvesingrid) | Facilitador |
+| A definir | Anotador / Observador |
+| A definir | Cinegrafista / Gestor de Gravação |
 
 ### Relação com o Perfil de Usuário
 
-O participante selecionado apresenta características compatíveis com o [perfil de usuário](../../requisitos/perfilDeUsuario.md) do Portal Sabin, garantindo a validade externa dos resultados obtidos.
+O participante selecionado apresenta características compatíveis com o [perfil de usuário](../../../requisitos/perfilDeUsuario.md) do Portal Sabin, garantindo a validade externa dos resultados obtidos.
 
 ---
 
-## 3.4. Tarefas Executadas e Sumário dos Dados
+## 4. Tarefas Executadas e Sumário dos Dados
 
-A **Tabela** detalha a decomposição do objetivo principal da avaliação em tarefas menores. Esses passos representam as ações sequenciais modeladas pela equipe para serem validadas com o usuário no sistema digital:
+### 4.1. Tarefas Avaliadas
 
-### Tabela - Decomposição do objetivo em tarefas
+Tabela 1 — Decomposição das tarefas avaliadas no protótipo
 
-| ID | Tarefa Mapeada (Artefato) |
-|----|---------|
-| T1 | - |
-| T2 | - |
-| T3 | - |
+| ID | Tarefa Mapeada |
+|----|--------|
+| T1 | Autenticação via token SMS |
+| T2 | Localização da notificação de exame liberado na Home |
+| T3 | Navegação e filtragem na lista de resultados |
+| T4 | Visualização dos detalhes do laudo (rastreador de status + tabela de resultados) |
+| T5 | Seleção do PDF consolidado e download |
 
-### Sumário Quantitativo dos Dados
+### 4.2. Sumário Quantitativo dos Dados
+
+Tabela 2 — Sumário quantitativo da avaliação
 
 | Métrica | Resultado |
-|----------|-----------| 
-| Número de participantes | 1 |
-| Tarefas concluídas sem auxílio | XX |
-| Tarefas concluídas com auxílio | XX |
-| Tarefas não concluídas | XX |
-| Total de erros (cliques falhos/caminhos errados) | XX |
-| Pontos de hesitação identificados | XX |
-| Comentários relevantes registrados | XX |
+|----------|-----------|
+| Número de participantes | A preencher |
+| Tarefas concluídas sem auxílio | A preencher |
+| Tarefas concluídas com auxílio | A preencher |
+| Tarefas não concluídas | A preencher |
+| Total de erros (cliques falhos/caminhos errados) | A preencher |
+| Pontos de hesitação identificados | A preencher |
+| Comentários relevantes registrados | A preencher |
 
-### Dificuldades Observadas por Tarefa
+### 4.3. Dificuldades Observadas por Tarefa
+
+Tabela 3 — Dificuldades por tarefa
 
 | Tarefa | Dificuldade Observada |
 |--------|-----------------------|
-| T1 | |
-| T2 | |
-| T3 | |
-| T4 | |
-| T5 | |
+| T1 | A preencher |
+| T2 | A preencher |
+| T3 | A preencher |
+| T4 | A preencher |
+| T5 | A preencher |
 
-### Comentários Relevantes dos Participantes
-A **Tabela** reúne as citações diretas e os comentários mais expressivos feitos pelo participante durante a validação. Esses relatos complementam as métricas, evidenciando como o usuário realmente pensa sobre a estética, cores, rótulos e feedback do sistema:
+### 4.4. Comentários Relevantes dos Participantes
 
-Tabela - Comentários do entrevistado
+Tabela 4 — Comentários do entrevistado
 
 | Participante | Comentário |
 |-------------|------------|
-| [Nome] | "..." |
-| [Nome] | "..." |
+| A preencher | "..." |
 
 ---
 
-## 3.5. Relato da Interpretação e Análise dos Dados
+## 5. Relato da Interpretação e Análise dos Dados
 
-Nesta seção devem ser apresentados os resultados obtidos e sua relação com os objetivos definidos no planejamento.
-
-### Análise das Perguntas Exploratórias
+### 5.1. Análise das Perguntas Exploratórias
 
 | Pergunta Exploratória | Evidências Observadas | Conclusão |
 |----------------------|----------------------|------------|
-| O usuário concluiu a tarefa interagindo com o protótipo digital sem auxílio? | [Observações] | [Respondida / Parcialmente / Não respondida] |
-| A identidade visual, os ícones e as cores ajudaram na identificação das ações? | [Observações] | [Respondida / Parcialmente / Não respondida] |
-| O feedback visual do sistema foi claro? | [Observações] | [Respondida / Parcialmente / Não respondida] |
-| Houve hesitação ou cliques errados? | [Observações] | [Respondida / Parcialmente / Não respondida] |
+| O usuário concluiu a tarefa sem auxílio? | A preencher | A preencher |
+| A notificação de exame liberado foi percebida na Home? | A preencher | A preencher |
+| A opção de PDF consolidado foi compreendida e preferida? | A preencher | A preencher |
+| O rastreador de status foi útil para orientação do usuário? | A preencher | A preencher |
+| O compartilhamento integrado por WhatsApp atendeu a expectativa? | A preencher | A preencher |
 
-### Principais Achados
+### 5.2. Principais Achados
 
 **Aspectos Positivos:**
 
-- [Aspecto positivo identificado, ex: clareza visual, facilidade no fluxo]
-- [Aspecto positivo identificado]
+- A preencher
 
 **Dificuldades Encontradas:**
 
-- [Dificuldade observada, ex: botão pouco visível, contraste ruim]
-- [Dificuldade observada]
+- A preencher
 
 **Quebras de Expectativa:**
 
-- [Quebra de expectativa observada, ex: link que não leva a onde o usuário esperava]
-- [Quebra de expectativa observada]
+- A preencher
 
 ---
 
-## 3.6. Lista dos Problemas Encontrados
+## 6. Lista dos Problemas Encontrados
+
+Tabela 5 — Problemas de usabilidade identificados
 
 | ID | Descrição do Problema | Tarefa | Frequência | Severidade | Impacto | Possível Causa | Prioridade |
 |----|----------------------|--------|------------|------------|---------|----------------|------------|
-| P01 | [Descrição] | T1 | [Nº de Ocorrências] | Alta | [Impacto] | [Causa ligada a UI/UX] | Alta |
-| P02 | [Descrição] | T2 | [Nº de Ocorrências] | Média | [Impacto] | [Causa ligada a UI/UX] | Média |
-| P03 | [Descrição] | T3 | Ocasional | Baixa | [Impacto] | [Causa ligada a UI/UX] | Baixa |
+| P01 | A preencher | A preencher | A preencher | A preencher | A preencher | A preencher | A preencher |
 
-### Critérios de Severidade
+### 6.1. Critérios de Severidade
 
-Os problemas serão classificados de acordo com a escala de severidade <span class="hover-image">(BARBOSA; SILVA, 2021, p. 284).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../assets/escala-severidade.png"> </span>:
+Os problemas foram classificados de acordo com a escala de severidade <span class="hover-image">(BARBOSA; SILVA, 2021, p. 284).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../assets/escala-severidade.png"> </span>:
 
 | Nível | Descrição |
 |---------|------------|
@@ -180,24 +176,21 @@ Os problemas serão classificados de acordo com a escala de severidade <span cla
 
 ---
 
-## 3.7. Planejamento para o Reprojeto Final
+## 7. Planejamento para o Reprojeto Final
 
-Nesta seção deverão ser apresentadas propostas de melhoria (ajustes de UI, tipografia, cores, interatividade ou fluxos) com base nos problemas identificados durante a avaliação, visando a consolidação final do projeto antes de um eventual desenvolvimento <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../assets/reprojeto-p279.png"> </span>.
+Com base nos problemas identificados, as seguintes melhorias são recomendadas para o refinamento final do protótipo <span class="hover-image">(BARBOSA; SILVA, 2021, p. 279).<sup class="Print">[PRINT]</sup><img class= "img" src="../../../assets/reprojeto-p279.png"> </span>:
 
-### Recomendações de Melhoria
+### 7.1. Recomendações de Melhoria
 
 | Problema Relacionado | Proposta de Melhoria | Justificativa |
 |---------------------|---------------------|--------------|
-| [ID do problema] | [Descrição da melhoria visual/interativa] | [Justificativa técnica] |
-| [ID do problema] | [Descrição da melhoria visual/interativa] | [Justificativa técnica] |
+| A preencher | A preencher | A preencher |
 
-### Priorização das Alterações
+### 7.2. Priorização das Alterações
 
 | Prioridade | Alteração Proposta | Problema Relacionado |
 |------------|-------------------|---------------------|
-| Alta | [Alteração] | [ID do problema] |
-| Média | [Alteração] | [ID do problema] |
-| Baixa | [Alteração] | [ID do problema] |
+| A preencher | A preencher | A preencher |
 
 ---
 
@@ -217,4 +210,4 @@ Gostaríamos de registrar nossos agradecimentos ao modelo de Inteligência Artif
 
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
-| 1.0 | - | - | - | - | - | - |
+| 1.0 | 22/06/2026 | Criação e estruturação do documento com dados da tarefa de Download de Laudos | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - |

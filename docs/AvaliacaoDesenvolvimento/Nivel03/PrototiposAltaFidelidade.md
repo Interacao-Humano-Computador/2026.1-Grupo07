@@ -5,9 +5,10 @@
 | Artefato(s) | Autor(es) |
 | --- | --- |
 | Página de Protótipo de Alta Fidelidade | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
-| [Protótipo de Alta Fidelidade — Cadastro de Exame Laboratorial](#41-tarefa-2-cadastro-de-exame-laboratorial) | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
-| [Protótipo de Alta Fidelidade — Agendamento de Exames com Dúvidas Críticas de Preparo](#42-tarefa-4-agendamento-de-exames-com-duvidas-criticas-de-preparo) | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) |
+| [Protótipo de Alta Fidelidade — Cadastro de Exame Laboratorial](#41-tarefa-1-cadastro-de-exame-laboratorial) | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
+| [Protótipo de Alta Fidelidade — Agendamento de Exames com Dúvidas Críticas de Preparo](#42-tarefa-2-pre-agendamento-de-exames-com-duvidas-criticas-de-preparo) | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) |
 | [Protótipo de Alta Fidelidade — Acesso ao Resultado de Imagem com Visualizador DICOM](#43-tarefa-3-acesso-ao-resultado-de-imagem-com-visualizador-dicom) | [Philipe Amancio](https://github.com/Phill-Chill) |
+| [Protótipo de Alta Fidelidade — Acompanhamento de Resultados e Download de Laudos](#44-tarefa-4-acompanhamento-de-resultados-e-download-de-laudos) | [Ingrid Alves](https://github.com/alvesingrid) |
 
 ---
 
@@ -42,6 +43,7 @@ Os protótipos de alta fidelidade desenvolvidos pela equipe representam os segui
 | T1 | Cadastro de exame laboratorial com informação incompleta no sistema | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 | T2 | Agendamento de exames com dúvidas críticas de preparo | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) |
 | T3 | Acesso ao resultado de imagem com visualizador DICOM | [Philipe Amancio](https://github.com/Phill-Chill) |
+| T4 | Acompanhamento de resultados e download de laudos | [Ingrid Alves](https://github.com/alvesingrid) |
 
 
 ---
@@ -85,6 +87,18 @@ Este protótipo foca na experiência direta dentro do visualizador de imagens DI
 
 ---
 
+### 4.4. Tarefa 4 — Acompanhamento de Resultados e Download de Laudos
+
+> Elaborado por: [Ingrid Alves](https://github.com/alvesingrid)
+
+Este protótipo representa o fluxo completo de acompanhamento e download de laudos no Portal Sabin, contemplando as telas de login com token SMS, página inicial com notificação de exame liberado, listagem de resultados com filtros, visualização detalhada do laudo da Curva Glicêmica e download em PDF consolidado. O protótipo incorpora a melhoria central identificada na avaliação do protótipo de papel: a geração de um **PDF unificado** com todas as coletas da Curva Glicêmica, eliminando a necessidade de baixar arquivos separados.
+
+<iframe src="../../../assets/prototipo-ingrid/index.html" width="100%" height="800px" style="border:1px solid #ccc; border-radius:8px;"></iframe>
+
+> Fonte: Autoria própria.
+
+---
+
 
 
 ## Agradecimentos à IA
@@ -103,5 +117,6 @@ Gostaríamos de registrar nossos agradecimentos ao modelo de Inteligência Artif
 
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
-| 1.0 | 16/06/2026 | Criação do documento e adição do protótipo da tarefa de agendamento de exame | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 16/06/2026  | Revisão da estrutura | [Philipe Amancio](https://github.com/Phill-Chill) |
+| 1.0 | 16/06/2026 | Criação do documento e adição do protótipo da tarefa de agendamento de exame | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 16/06/2026 | Revisão da estrutura | [Philipe Amancio](https://github.com/Phill-Chill) |
+| 1.1 | 22/06/2026 | Adição do protótipo de alta fidelidade da tarefa de Acompanhamento de Resultados e Download de Laudos | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - |
 
