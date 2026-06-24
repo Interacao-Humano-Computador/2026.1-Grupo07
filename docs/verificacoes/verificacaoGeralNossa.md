@@ -4,6 +4,12 @@
 
 Este documento registra a realização da autoinspeção geral do projeto, reunindo os itens de todas as entregas.
 
+## Gravação da Inspeção
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D7asoYXsyAA" title="Apresentação Entrega 8 - Grupo 07" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Acesse também pelo link: [https://youtu.be/D7asoYXsyAA](https://youtu.be/D7asoYXsyAA)
+
 ## Tabela de contribuição
 
 | Artefato(s) | Autor(es) |
@@ -182,3 +188,4 @@ A tabela 1 apresenta o resultado da autoinspeção realizada pelo grupo com base
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
 | :----: | :--: | :-------- | :------ | :----------: | :---------------- | :-------- |
 | 1.0 | 23/06/2026 | Criação do documento de autoinspeção geral | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 23/06/2026 | Revisao dos itens e respostas | [Ingrid Alves](https://github.com/alvesingrid), [Maria Laura Regis](https://github.com/Maria-Laura-Regis), [Nathan Pontes](https://github.com/nathanpromao) e [Philipe Amancio](https://github.com/Phill-Chill) |
+| 1.1 | 23/06/2026 | Adição do link e iframe do vídeo da apresentação da Entrega 8 | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - |
