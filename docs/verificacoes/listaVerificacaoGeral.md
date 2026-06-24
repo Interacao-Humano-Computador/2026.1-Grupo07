@@ -464,3 +464,4 @@ Este documento contém todas as listas de verificação em conjunto
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
 | 1.0 | 23/06/2026 | Criação do documento | [Nathan Pontes Romão](https://github.com/nathanpromao) | 23/06/2026 | Revisão da estrutura inicial e lista 5 faltante | Maria Laura |
 | 1.1 | 23/06/2026 | Adição de novas listas e Revisão | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | - |  |  |
+| 1.2 | 23/06/2026 | Adição das listas de verificação das Entregas 01, 02 e 03 (separadas por artefato) à lista geral | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - |

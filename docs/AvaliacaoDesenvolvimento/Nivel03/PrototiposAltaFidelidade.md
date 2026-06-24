@@ -149,4 +149,5 @@ Gostaríamos de registrar nossos agradecimentos ao modelo de Inteligência Artif
 | 1.0 | 16/06/2026 | Criação do documento e adição do protótipo da tarefa de agendamento de exame | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 16/06/2026 | Revisão da estrutura | [Philipe Amancio](https://github.com/Phill-Chill) |
 | 1.1 | 22/06/2026 | Adição do protótipo de alta fidelidade da tarefa de Acompanhamento de Resultados e Download de Laudos | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - |
 | 1.2 | 23/06/2026 | Descrevendo as correções implementadas com base na avaliação do protótipo de papel | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - |
+| 1.3 | 23/06/2026 | Adição de link para a página de Processo de Design na seção de posicionamento no Ciclo de Vida de Mayhew | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - |
 

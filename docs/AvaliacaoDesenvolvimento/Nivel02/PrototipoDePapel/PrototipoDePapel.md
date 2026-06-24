@@ -303,4 +303,5 @@ Gostaríamos de registrar nossos agradecimentos ao modelo de Inteligência Artif
 | 2.1 | 16/06/2026 | Enumeração das imagens do artefato| [Nathan Pontes Romão](https://github.com/nathanpromao) | 16/06/2026 | Conferindo numeração  | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 | 2.1 | 16/06/2026 | Ajuste na descrição da tarefa de agendamento de exame | [Hugo Freitas Silva](https://github.com/HugoFreitass) | 16/06/2026 | Verificação do novo fluxo | [Philipe Amancio](https://github.com/Phill-Chill)|
 | 2.2 | 23/06/2026 | Adição do posicionamento no Ciclo de Vida de Mayhew na seção de Introdução | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - |
+| 2.3 | 23/06/2026 | Adição de link para a página de Processo de Design na seção de posicionamento no Ciclo de Vida de Mayhew | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - |
 

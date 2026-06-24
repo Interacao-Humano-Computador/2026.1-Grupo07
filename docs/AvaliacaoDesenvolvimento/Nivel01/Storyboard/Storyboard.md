@@ -119,3 +119,4 @@ Este storyboard ilustra o **Cenário 04 — Acompanhamento de resultados e downl
 | 1.0 | 18/05/2026 | Criação do documento | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | 18/05/2026 | Revisão da estrutura inicial e do conteúdo + adição das imagens | [Hugo Freitas Silva](https://github.com/HugoFreitass) |
 | 1.1 | 23/05/2026 | Correções conceituais, padronização ABNT das figuras e vinculação dos storyboards aos cenários e personas do projeto | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | 23/04 | | |
 | 1.2 | 23/06/2026 | Adição do posicionamento no Ciclo de Vida de Mayhew na seção de Introdução | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - |
+| 1.3 | 23/06/2026 | Adição de link para a página de Processo de Design na seção de posicionamento no Ciclo de Vida de Mayhew | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - |
