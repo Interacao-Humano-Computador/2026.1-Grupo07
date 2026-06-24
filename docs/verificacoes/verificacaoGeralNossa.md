@@ -49,7 +49,7 @@ A tabela 1 apresenta o resultado da autoinspeção realizada pelo grupo com base
 | 24 | **Processo de Design** | Cada integrante da equipe elaborou ao menos 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência? | Sim | - |
 | 25 | **Processo de Design** | Os conceitos teóricos estão corretamente aplicados nos artefatos desenvolvidos? | Sim | - |
 | 26 | **Portal (GitHub Pages)** | O portal apresenta os artefatos: Planejamento do Projeto, equipe, lista de sites avaliados, site selecionado, Ferramentas do projeto, Processo de Design e cronograma das atividades? | Sim | - |
-| 27 | **Portal (GitHub Pages)** | Uma página com as atas de reunião com o acesso à gravação (vídeo), quando houver? | Não informado | Resposta não fornecida. |
+| 27 | **Portal (GitHub Pages)** | Uma página com as atas de reunião com o acesso à gravação (vídeo), quando houver? | Sim | - |
 | 28 | **Portal (GitHub Pages)** | O site apresenta opção de contraste de cores? | Sim | - |
 | 29 | **Portal (GitHub Pages)** | O site apresenta uma explicação clara do contexto da avaliação de IHC realizada (objetivo, escopo e método utilizado)? | Sim | - |
 | 30 | **Perfil do Usuário** | O perfil do usuário é definido por mais de uma forma (técnica de elicitação e/ou ferramenta)? | Sim | - |
@@ -144,7 +144,7 @@ A tabela 1 apresenta o resultado da autoinspeção realizada pelo grupo com base
 | 119 | **Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade** | O relato apresenta uma análise consolidada dos dados qualitativos e quantitativos coletados? | Sim | - |
 | 120 | **Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade** | O relato apresenta conclusões fundamentadas a partir dos resultados obtidos? | Sim | - |
 | 121 | **Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade** | O relato identifica recomendações de melhorias para futuras versões do sistema? | Sim | - |
-| 122 | **Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade** | O relato demonstra se os objetivos definidos no planejamento da avaliação foram alcançados? | Incompleto | Poderia ser mais explícito e detalhado. Os dados são apresentados, mas poderia existir uma conclusão mais bem descrita. |
+| 122 | **Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade** | O relato demonstra se os objetivos definidos no planejamento da avaliação foram alcançados? | Incompleto | Poderia ser mais explícito e detalhado. Os dados são apresentados, mas poderia existir uma conclusão melhor descrita. |
 | 123 | **Sobre o Desenvolvimento do Projeto** | As gravações das avaliações e dos testes realizados estão disponíveis no Git Pages? | Sim | Todos os testes realizados possuem gravação. |
 | 124 | **Referência e Autor do Item** | Todos os itens das listas de verificação anteriores possuem o autor do item identificado? | Sim | - |
 | 125 | **Referência e Autor do Item** | Todos os itens das listas de verificação anteriores possuem a fonte/referência bibliográfica identificada? | Incompleto | - |
