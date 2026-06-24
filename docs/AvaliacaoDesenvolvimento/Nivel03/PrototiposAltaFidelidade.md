@@ -22,7 +22,7 @@ O objetivo deste protótipo é representar de forma mais realista a experiência
 
 ### Posicionamento no Ciclo de Vida de Mayhew
 
-No **Ciclo de Vida de Mayhew** <span class="hover-image">(BARBOSA; SILVA, 2021, p. 110)<sup class="Print">[PRINT]</sup></span>, o desenvolvimento de sistemas interativos é organizado em três grandes fases: **Análise de Requisitos**, **Design, Avaliação e Desenvolvimento**, e **Instalação**. O Protótipo de Alta Fidelidade integra o **Nível 3** — o estágio mais avançado — da fase de **Design, Avaliação e Desenvolvimento**, conforme apresentado abaixo:
+No **Ciclo de Vida de Mayhew** <span class="hover-image">(BARBOSA; SILVA, 2021, p. 110)<sup class="Print">[PRINT]</sup></span>, o desenvolvimento de sistemas interativos é organizado em três grandes fases: **Análise de Requisitos**, **Design, Avaliação e Desenvolvimento**, e **Instalação**. O Protótipo de Alta Fidelidade integra o **Nível 3** — o estágio mais avançado — da fase de **Design, Avaliação e Desenvolvimento**, conforme apresentado abaixo. Para mais detalhes sobre como o grupo adotou esse ciclo de vida, consulte a [página de Processo de Design](../../../planejamento/processoDesign.md).
 
 | Fase Mayhew | Nível | Artefato desta seção |
 |------------|-------|----------------------|

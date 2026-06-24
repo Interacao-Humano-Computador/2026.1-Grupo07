@@ -116,12 +116,18 @@ nav:
           - Reunião 11: atasDeReuniao/reuniao11.md
   - Verificações: 
           - Lista de verificação geral: verificacoes/listaVerificacaoGeral.md
-          - Entrega 01 - Grupo 08: verificacoes/verificacaoE1G8.md
-          - Entrega 02 - Grupo 01: verificacoes/verificacaoE2G1.md
-          - Entrega 03 - Grupo 01: verificacoes/verificacaoE3G1.md
+          - Entrega 01:
+              - Lista de Verificação: verificacoes/listaVerificacaoE1.md
+              - Inspeção - Grupo 08: verificacoes/verificacaoE1G8.md
+          - Entrega 02:
+              - Lista de Verificação: verificacoes/listaVerificacaoE2.md
+              - Inspeção - Grupo 01: verificacoes/verificacaoE2G1.md
+          - Entrega 03:
+              - Lista de Verificação: verificacoes/listaVerificacaoE3.md
+              - Inspeção - Grupo 01: verificacoes/verificacaoE3G1.md
           - Entrega 04:
-             - Lista de verificação: verificacoes/listaVerificacaoE4.md
-             - Inspeção - grupo 6: verificacoes/verificacaoE4G6.md
+              - Lista de verificação: verificacoes/listaVerificacaoE4.md
+              - Inspeção - grupo 6: verificacoes/verificacaoE4G6.md
           - Entrega 05:
               - Lista de Verificação: verificacoes/listaVerificacaoE5.md
               - Inspeção - Grupo 01: verificacoes/verificacaoE5.md

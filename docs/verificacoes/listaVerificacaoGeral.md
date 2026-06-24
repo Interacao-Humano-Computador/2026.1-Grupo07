@@ -32,6 +32,183 @@ Este documento contém todas as listas de verificação em conjunto
 
 > Fonte: autoria própria
 
+---
+
+# Listas de Verificação - Entrega 01
+
+## Apresentação da Equipe
+
+| Nº | Pergunta | Autor do item | Fonte do Item | Aplicável ao grupo a ser inspecionado |
+|----|----------|---------------|---------------|---------------------------------------|
+| 1 | Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula? | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
+
+> Fonte: autoria própria
+
+---
+
+## Cronograma
+
+| Nº | Pergunta | Autor do item | Fonte do Item | Aplicável ao grupo a ser inspecionado |
+|----|----------|---------------|---------------|---------------------------------------|
+| 1 | O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
+| 2 | O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa? | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
+| 3 | O cronograma prevê um período de revisão/ajustes nos artefatos devidos às considerações dos monitores/professor? | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
+| 4 | O planejamento inicial foi seguido conforme definido ao longo do projeto? | [Hugo Freitas Silva](https://github.com/HugoFreitass) | Plano de Ensino | Aplicável |
+
+> Fonte: autoria própria
+
+---
+
+## Site Selecionado
+
+| Nº | Pergunta | Autor do item | Fonte do Item | Aplicável ao grupo a ser inspecionado |
+|----|----------|---------------|---------------|---------------------------------------|
+| 1 | A motivação e os critérios para a escolha do site estão documentados? | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
+| 2 | O planejamento e avaliação dos sites selecionados está documentado? | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
+| 3 | O site escolhido já foi analisado nos semestres anteriores? | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
+| 4 | O site apresenta padronização visual (cores, fontes, espaçamento)? | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
+| 5 | O site apresenta boa legibilidade (contraste, tamanho de fonte, espaçamento entre linhas)? | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
+| 6 | A navegação entre páginas é clara e consistente? | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
+
+> Fonte: autoria própria
+
+---
+
+## Processo de Design
+
+| Nº | Pergunta | Autor do item | Fonte do Item | Aplicável ao grupo a ser inspecionado |
+|----|----------|---------------|---------------|---------------------------------------|
+| 1 | A justificativa da escolha do Processo de Design está documentada? Inclui referência bibliográfica da fonte e foto do texto da referência? | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
+| 2 | Cada integrante da equipe elaborou ao menos 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência? | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
+| 3 | Os conceitos teóricos estão corretamente aplicados nos artefatos desenvolvidos? | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | Barbosa *et al.* (2021) | Aplicável |
+
+> Fonte: autoria própria
+
+---
+
+## Portal (GitHub Pages)
+
+| Nº | Pergunta | Autor do item | Fonte do Item | Aplicável ao grupo a ser inspecionado |
+|----|----------|---------------|---------------|---------------------------------------|
+| 1 | O portal apresenta os artefatos: Planejamento do Projeto, equipe, lista de sites avaliados, site selecionado, Ferramentas do projeto, Processo de Design e cronograma das atividades? | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
+| 2 | Uma página com as atas de reunião com o acesso à gravação (vídeo), quando houver? | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
+| 3 | O site apresenta opção de contraste de cores? | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
+| 4 | O site apresenta uma explicação clara do contexto da avaliação de IHC realizada (objetivo, escopo e método utilizado)? | [Ingrid Alves](https://github.com/alvesingrid) | Plano de Ensino | Aplicável |
+
+> Fonte: autoria própria
+
+---
+
+# Listas de Verificação - Entrega 02
+
+## Perfil do Usuário
+
+| Nº | Pergunta | Autor do item | Fonte do Item | Aplicável ao grupo a ser inspecionado |
+|----|----------|---------------|---------------|---------------------------------------|
+| 1 | O perfil do usuário é definido por mais de uma forma (técnica de elicitação e/ou ferramenta)? | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
+| 2 | O perfil do usuário possui os atributos de um perfil? (Ex: dados demográficos, experiência no cargo, informações sobre a empresa, educação, etc). | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
+| 3 | Foram utilizadas no mínimo duas técnicas para coletar dados e levantar os requisitos dos usuários? Inclui referência bibliográfica da fonte e foto do texto? | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
+
+> Fonte: autoria própria
+
+---
+
+## Aspectos Éticos
+
+| Nº | Pergunta | Autor do item | Fonte do Item | Aplicável ao grupo a ser inspecionado |
+|----|----------|---------------|---------------|---------------------------------------|
+| 1 | Os 4 princípios (da autonomia, da beneficência, da não maleficência e da justiça e equidade) estão descritos? Inclui referência bibliográfica da fonte e foto do texto da referência? | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
+| 2 | O Termo de Consentimento Livre e Esclarecido (TCLE) foi devidamente apresentado e anexado nas pesquisas envolvendo pessoas? Inclui referência bibliográfica e foto do texto da referência explicando o TCLE? | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
+| 3 | Considera aspectos éticos de pesquisas envolvendo pessoas? Inclui referência bibliográfica da fonte e foto do texto da referência. <span class="hover-image"> (BARBOSA et al., 2021, p. 117) <sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/Aspectos éticos-2.PNG" alt="Print"> </span> | [Ingrid Alves](https://github.com/alvesingrid) | Barbosa *et al.* (2021, p. 117) | Aplicável |
+
+> Fonte: autoria própria
+
+---
+
+## Personas
+
+| Nº | Pergunta | Autor do item | Fonte do Item | Aplicável ao grupo a ser inspecionado |
+|----|----------|---------------|---------------|---------------------------------------|
+| 1 | Os dados levantados para o Perfil do Usuário foram sintetizados de forma clara em Personas, com objetivos e motivações definidas? | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
+
+> Fonte: autoria própria
+
+---
+
+## Cenários
+
+| Nº | Pergunta | Autor do item | Fonte do Item | Aplicável ao grupo a ser inspecionado |
+|----|----------|---------------|---------------|---------------------------------------|
+| 1 | Os Cenários estão documentados? Inclui referência bibliográfica da fonte e foto do texto da referência explicando os cenários? | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
+
+> Fonte: autoria própria
+
+---
+
+## Análise de Tarefas
+
+| Nº | Pergunta | Autor do item | Fonte do Item | Aplicável ao grupo a ser inspecionado |
+|----|----------|---------------|---------------|---------------------------------------|
+| 1 | Possui a Análise de Tarefas? Inclui referência bibliográfica da fonte, foto do texto da referência e o nome do Autor? | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
+| 2 | Há uma atividade para cada integrante do grupo modelizada em ao menos duas técnicas para especificar as tarefas? (Ex: HTA com diagrama/legenda/tabela; e GOMS/KLM/CTT). | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
+| 3 | Os diagramas da Análise Hierárquica de Tarefas (HTA) possuem os "planos" descritos de forma lógica, garantindo a sequência correta da operação? <span class="hover-image"> (BARBOSA et al., 2021, p. 179) <sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/verificacao-1.PNG" alt="Print"> </span> | [Hugo Freitas Silva](https://github.com/HugoFreitass) | Barbosa *et al.* (2021, p. 179) | Aplicável |
+| 4 | Nas modelagens preditivas, os operadores (K, P, M, etc.) e os cálculos de tempo em segundos foram detalhados passo a passo para o cenário avaliado? <span class="hover-image"> (BARBOSA et al., 2021, p. 181) <sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/verificacao-2.PNG" alt="Print"> </span> | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | Barbosa *et al.* (2021, p. 181) | Aplicável |
+
+> Fonte: autoria própria
+
+---
+
+# Listas de Verificação - Entrega 03
+
+## Características da Plataforma
+
+| Nº | Pergunta | Autor do item | Fonte do Item | Aplicável ao grupo a ser inspecionado |
+|----|----------|---------------|---------------|---------------------------------------|
+| 1 | As características da plataforma para o projeto foram claramente definidas e documentadas? | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
+
+> Fonte: autoria própria
+
+---
+
+## Princípios Gerais de Projeto
+
+| Nº | Pergunta | Autor do item | Fonte do Item | Aplicável ao grupo a ser inspecionado |
+|----|----------|---------------|---------------|---------------------------------------|
+| 1 | Os Princípios Gerais de Projeto que serão utilizados foram definidos? O artefato inclui referência bibliográfica da fonte e foto do texto original explicando esses princípios? | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
+| 2 | Os Princípios Gerais contemplam todos os 8 tópicos exigidos (expectativas, simplicidade, controle/liberdade, consistência, antecipação, visibilidade, conteúdo e prevenção de erros)? | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
+| 3 | O grupo identificou e justificou claramente quais princípios gerais foram seguidos ou violados na interface avaliada? <span class="hover-image"> (BARBOSA et al., 2021, p. 238) <sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/verificacao-4.PNG" alt="Print"> </span> | [Maria Laura Regis](https://github.com/Maria-Laura-Regis) | Barbosa *et al.* (2021, p. 238) | Aplicável |
+| 4 | Existe uma justificativa fundamentada na literatura para a escolha ou relevância de cada princípio no contexto do sistema analisado? <span class="hover-image"> (BARBOSA et al., 2021, p. 280) <sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/DECIDE-completo.png" alt="Print"> </span> | [Ingrid Alves](https://github.com/alvesingrid) | Barbosa *et al.* (2021, p. 280) | Aplicável |
+
+> Fonte: autoria própria
+
+---
+
+## Metas de Usabilidade
+
+| Nº | Pergunta | Autor do item | Fonte do Item | Aplicável ao grupo a ser inspecionado |
+|----|----------|---------------|---------------|---------------------------------------|
+| 1 | As metas de usabilidade que devem ser alcançadas estão bem definidas? Inclui referência bibliográfica e foto do texto base? | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
+| 2 | A equipe justificou adequadamente a razão para a seleção dessas metas de usabilidade específicas? | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
+| 3 | O documento de Metas de Usabilidade define quantitativamente as faixas de valores (inaceitáveis, aceitáveis e ideais) para cada indicador de qualidade priorizado? <span class="hover-image"> (BARBOSA et al., 2021, p. 117) <sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/verificacao-5.PNG" alt="Print"> </span> | [Philipe Amancio](https://github.com/Phill-Chill) | Barbosa *et al.* (2021, p. 117) | Aplicável |
+| 4 | As metas de usabilidade tratam dos fatores de usabilidade de Nielsen: facilidade de aprendizado, facilidade de recordação, eficiência, segurança de uso e satisfação do usuário? <span class="hover-image"> (BARBOSA et al., 2021, p. 35-36) <sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/verificacao-7.PNG" alt="Print"> </span> | [Nathan Pontes Romão](https://github.com/nathanpromao) | Barbosa *et al.* (2021, p. 35-36) | Aplicável |
+
+> Fonte: autoria própria
+
+---
+
+## Guia de Estilo
+
+| Nº | Pergunta | Autor do item | Fonte do Item | Aplicável ao grupo a ser inspecionado |
+|----|----------|---------------|---------------|---------------------------------------|
+| 1 | O Guia de Estilo do projeto foi construído? O artefato contém referência bibliográfica da fonte e foto do texto acadêmico explicando o que é um Guia de Estilo? | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
+| 2 | O Guia de Estilo segue rigorosamente a estrutura de 6 partes (1. Introdução, 2. Resultados de análise, 3. Elementos de interface, 4. Elementos de interação, 5. Elementos de ação, 6. Vocabulário e padrões)? Inclui referência e foto do texto original? | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
+| 3 | As definições estabelecidas no Guia de Estilo correspondem de fato à realidade visual e interativa do site que está sendo avaliado? | André Barros de Sales (Professor) | Plano de Ensino | Aplicável |
+| 4 | O guia de estilo trata sobre todos os tópicos: layout, tipografia, simbolismo, cores, visualização de informação, design de telas e elementos de interface? <span class="hover-image"> (BARBOSA et al., 2021, p. 257) <sup class="Print">[PRINT]</sup><img class= "img" src="../../assets/verificacao-6.PNG" alt="Print"> </span> | [Hugo Freitas Silva](https://github.com/HugoFreitass) | Barbosa *et al.* (2021, p. 257) | Aplicável |
+
+> Fonte: autoria própria
+
+---
+
 # Lista de verificação - Entrega 04
 
 ### Itens do planejamento da avaliação da analise de tarefas

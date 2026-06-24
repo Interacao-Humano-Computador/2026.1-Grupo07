@@ -20,7 +20,7 @@ Para a avaliação e o reprojeto do Portal Sabin, os storyboards foram fundament
 
 ### Posicionamento no Ciclo de Vida de Mayhew
 
-No **Ciclo de Vida de Mayhew** <span class="hover-image">(BARBOSA; SILVA, 2021, p. 110)<sup class="Print">[PRINT]</sup></span>, o desenvolvimento de sistemas interativos é organizado em três grandes fases: **Análise de Requisitos**, **Design, Avaliação e Desenvolvimento**, e **Instalação**. Os Storyboards e a Avaliação de Análise de Tarefas integram o **Nível 1** da fase de **Design, Avaliação e Desenvolvimento**, conforme ilustrado abaixo:
+No **Ciclo de Vida de Mayhew** <span class="hover-image">(BARBOSA; SILVA, 2021, p. 110)<sup class="Print">[PRINT]</sup></span>, o desenvolvimento de sistemas interativos é organizado em três grandes fases: **Análise de Requisitos**, **Design, Avaliação e Desenvolvimento**, e **Instalação**. Os Storyboards e a Avaliação de Análise de Tarefas integram o **Nível 1** da fase de **Design, Avaliação e Desenvolvimento**, conforme ilustrado abaixo. Para mais detalhes sobre como o grupo adotou esse ciclo de vida, consulte a [página de Processo de Design](../../../planejamento/processoDesign.md).
 
 | Fase Mayhew | Nível | Artefato desta seção |
 |------------|-------|----------------------|
