@@ -49,9 +49,43 @@ A avaliação foi conduzida por meio de **Teste de Usabilidade com Protótipo de
 
 > Fonte: Autoria própria. Acesse também: [Protótipo de Alta Fidelidade — Nível 3](../PrototiposAltaFidelidade.md#44-tarefa-4-acompanhamento-de-resultados-e-download-de-laudos)
 
-### Gravação da Sessão de Avaliação
+### Gravações das Sessões de Avaliação
 
-> A ser adicionada após a realização das entrevistas.
+As gravações foram realizadas com o consentimento dos participantes, cujos nomes foram substituídos por nomes fictícios para preservar o anonimato.
+
+#### Participante 1 — Ana Ferreira
+
+**Entrevista completa:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fSXe2i6dF3c" title="Entrevista — Participante 1 (Ana Ferreira)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Termo de consentimento (gravação curta):**
+
+<iframe width="315" height="560" src="https://www.youtube.com/embed/nJevB4riO54" title="Termo de consentimento — Participante 1 (Ana Ferreira)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+#### Participante 2 — Bruno Costa
+
+**Entrevista completa:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXUzj1126MY" title="Entrevista — Participante 2 (Bruno Costa)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Termo de consentimento (gravação curta):**
+
+<iframe width="315" height="560" src="https://www.youtube.com/embed/bLLKNCr1Lg0" title="Termo de consentimento — Participante 2 (Bruno Costa)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+#### Participante 3 — Carla Rodrigues
+
+**Entrevista completa:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KTMVGLg1YLE" title="Entrevista — Participante 3 (Carla Rodrigues)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Termo de consentimento (gravação curta):**
+
+<iframe width="315" height="560" src="https://www.youtube.com/embed/QHGG2_vpg-E" title="Termo de consentimento — Participante 3 (Carla Rodrigues)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -59,9 +93,13 @@ A avaliação foi conduzida por meio de **Teste de Usabilidade com Protótipo de
 
 ### Participantes
 
-| Participante | Perfil |
-|------------|---------|
-| A definir | [Perfil de usuário correspondente](../../../requisitos/perfilDeUsuario.md) |
+Os nomes abaixo são fictícios para preservar o anonimato dos participantes, conforme o Termo de Consentimento Livre e Esclarecido assinado por cada um.
+
+| Participante (nome fictício) | Perfil |
+|------------------------------|--------|
+| Ana Ferreira | [Perfil de usuário correspondente](../../../requisitos/perfilDeUsuario.md) |
+| Bruno Costa | [Perfil de usuário correspondente](../../../requisitos/perfilDeUsuario.md) |
+| Carla Rodrigues | [Perfil de usuário correspondente](../../../requisitos/perfilDeUsuario.md) |
 
 ### Avaliadores
 
@@ -97,7 +135,7 @@ Tabela 2 — Sumário quantitativo da avaliação
 
 | Métrica | Resultado |
 |----------|-----------|
-| Número de participantes | A preencher |
+| Número de participantes | 3 |
 | Tarefas concluídas sem auxílio | A preencher |
 | Tarefas concluídas com auxílio | A preencher |
 | Tarefas não concluídas | A preencher |
@@ -211,3 +249,4 @@ Gostaríamos de registrar nossos agradecimentos ao modelo de Inteligência Artif
 | Versão | Data | Descrição | Autores | Data Revisão | Descrição Revisão | Revisores |
 | :---: | :---: | :--- | :--- | :---: | :--- | :--- |
 | 1.0 | 22/06/2026 | Criação e estruturação do documento com dados da tarefa de Download de Laudos | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - |
+| 1.1 | 30/06/2026 | Adição das gravações das sessões de avaliação (3 participantes com nomes fictícios) | [Ingrid Alves](https://github.com/alvesingrid) | - | - | - |
