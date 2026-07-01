@@ -143,6 +143,10 @@ nav:
           - Entrega 08:
               - Lista de Verificação: verificacoes/listaVerificacoesE8.md
               - Inspeção - Grupo 06: verificacoes/inspeçãoE8G06.md
+  - Entrega Final:
+          - Site Selecionado: entregaFinal/siteSelecionado.md
+          - Ciclo de Vida Utilizado: entregaFinal/cicloDeVida.md
+          - Planejamento dos Recursos e das Entregas: entregaFinal/planejamentoRecursosEntregas.md
   - Gravações: gravacoes.md
 
 plugins:
